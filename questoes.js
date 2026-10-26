@@ -5652,7 +5652,8 @@ const banco_adm = [
     },
     {
         topic: "Poder Disciplinar",
-        supportText: "Com relação aos poderes da Administração, assinale a alternativa correta.",
+        supportText: "",
+        q: "Com relação aos poderes da Administração, assinale a alternativa correta.",
         options: [
             "O poder de polícia é prerrogativa exclusiva de direito público, não podendo ser exercido, em sua plenitude sancionatória e normativa, por entidades da administração pública indireta de direito privado.",
             "O dever de aplicar penalidade a servidor público por eventual infração funcional decorre diretamente do poder de polícia.",
@@ -10581,10 +10582,10 @@ const banco_noc_adm = [
         supportText: "O objetivo fundamental do setor de Planejamento da Administração de Materiais não é realizar a compra em si, mas gerar os gatilhos no sistema informando à equipe de compras os parâmetros ideais de abastecimento para que o caixa da empresa não sangre.",
         q: "A estratégia logística de dimensionamento de estoques tem como finalidade primordial determinar matematicamente ____________ e ____________ adquirir, para repor o estoque de forma equilibrada. Assinale a alternativa que preenche corretamente as lacunas.",
         options: [
-            "como – quanto."
-            "volume – o que."
-            "quando – o que."
-            "quando – quanto."
+            "como – quanto.",
+            "volume – o que.",
+            "quando – o que.",
+            "quando – quanto.",
             "preço – como."
         ],
         answer: 3,
