@@ -1676,7 +1676,7 @@ const banco_pt = [
         options: [
             "O segmento inicial “Agora que expliquei o título” se refere a algo já dito anteriormente.",
             "O pronome “isso”, na expressão “Antes disso” se refere à ação de explicar o título do livro.",
-            "O pronome relativo “que” no segmento “que me põem a pena na mão” se refere ao substantivo “motivos”.
+            "O pronome relativo “que” no segmento “que me põem a pena na mão” se refere ao substantivo “motivos”.",
             "A frase “Vivo só, com um criado” mudaria de sentido se retirássemos a vírgula.",
             "O pronome indefinido “outra” e o pronome relativo “que” no segmento “daquela outra, que desapareceu” mostram o mesmo antecedente."
         ],
