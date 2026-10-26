@@ -5844,6 +5844,286 @@ const banco_adm = [
         ],
         answer: 2,
         disclaimer: "A divisão doutrinária baseada na 'liberdade (ou ausência dela) conferida à Administração para agir' estrutura a dicotomia fundamental entre Poder Vinculado (lei não deixa margem) e Poder Discricionário (lei deixa margem de conveniência)."
+    },
+    {
+        topic: "Improbidade Administrativa (Enriquecimento Ilícito)",
+        supportText: "Pitágoras, Oficial de Promotoria do Ministério Público do Estado de São Paulo, dolosamente recebeu vantagem econômica, correspondente à propina de vinte mil reais, para omitir ato que deveria praticar de ofício, no exercício de suas atribuições.",
+        q: "Considerando o disposto na Lei de Improbidade Administrativa, é correto afirmar que Pitágoras:",
+        options: [
+            "não praticou ato de improbidade, pois a conduta está sujeita à sanção penal.",
+            "praticou ato de improbidade que importa em enriquecimento ilícito.",
+            "praticou ato de improbidade que causa prejuízo ao erário.",
+            "praticou ato de improbidade que atenta contra os princípios da Administração Pública.",
+            "não praticou ato de improbidade, pois a conduta deve ser responsabilizada na esfera disciplinar."
+        ],
+        answer: 1,
+        disclaimer: "Receber vantagem patrimonial indevida em razão do exercício de cargo para fazer, omitir ou retardar ato de ofício constitui ato de improbidade que importa Enriquecimento Ilícito (Art. 9º, I da Lei 8.429/92)."
+    },
+    {
+        topic: "Ação de Improbidade (Natureza)",
+        supportText: "",
+        q: "Nos termos da Lei nº 8.429/92 (alterada pela Lei nº 14.230/2021), a ação por improbidade administrativa:",
+        options: [
+            "é repressiva, de caráter sancionatório, destinada à aplicação de sanções de caráter pessoal.",
+            "prescreve em 5 (cinco) anos, contados a partir da ocorrência do fato ou, no caso de infrações permanentes, do dia em que cessou a permanência.",
+            "cujo pedido for julgado improcedente não enseja a cobrança de custas e despesas processuais nem condenação em honorários sucumbenciais.",
+            "enseja sanções de suspensão de direitos políticos e de proibição de contratar ou de receber incentivos fiscais ou creditícios do poder público pelo prazo máximo de 8 (oito) anos.",
+            "cuja sentença for desfavorável a ente público ensejará a remessa necessária à segunda instância."
+        ],
+        answer: 0,
+        disclaimer: "Art. 17-D: A ação por improbidade administrativa é repressiva, de caráter sancionatório, destinada à aplicação de sanções de caráter pessoal prevista nesta Lei, e não constitui ação civil."
+    },
+    {
+        topic: "Improbidade Administrativa (Indisponibilidade de Bens)",
+        supportText: "“A indisponibilidade de bens poderá ser decretada sem a oitiva prévia do réu, sempre que o contraditório prévio puder comprovadamente frustrar a efetividade da medida ou houver outras circunstâncias que recomendem a proteção liminar, não podendo a urgência ser presumida.”",
+        q: "Considerando a Lei de Improbidade Administrativa (com redação atual), a afirmativa anterior:",
+        options: [
+            "é falsa, pois a lei veda a indisponibilidade de bens.",
+            "está incorreta, pois a urgência pode ser presumida pelo juiz.",
+            "está correta e corresponde a um dispositivo da Lei nº 8.429/1992.",
+            "é falsa, pois a indisponibilidade depende obrigatoriamente da oitiva prévia do réu.",
+            "está correta, mas não tem previsão na lei e sim na Constituição."
+        ],
+        answer: 2,
+        disclaimer: "A afirmativa reproduz com exatidão a regra do Art. 16, § 4º da LIA. A indisponibilidade pode ocorrer inaudita altera parte (sem ouvir o réu) apenas se houver demonstração concreta (sem presunção) de urgência (periculum in mora)."
+    },
+    {
+        topic: "Responsabilidade de Sucessores",
+        supportText: "Quanto à Lei de Improbidade Administrativa, considere que determinado agente público tenha praticado um ato de enriquecimento ilícito, vindo a falecer antes de cumprir a condenação.",
+        q: "Considerando o caso hipotético, o filho de agente ímprobo, que também é agente público no mesmo órgão:",
+        options: [
+            "não terá direito à herança.",
+            "não sofrerá consequências, pois a pena não passa da pessoa do infrator.",
+            "perderá o cargo que ocupa por extensão da pena.",
+            "deve ser transferido para outro órgão.",
+            "responde civilmente até o limite da herança."
+        ],
+        answer: 4,
+        disclaimer: "Pelo princípio da intranscendência, a sanção pessoal não passa da pessoa do infrator, mas a OBRIGAÇÃO de reparar o dano e devolver o enriquecimento ilícito passa aos herdeiros até o limite do valor da herança (Art. 8º da LIA)."
+    },
+    {
+        topic: "Sujeitos da Improbidade Administrativa",
+        supportText: "",
+        q: "De acordo com a Lei de Improbidade Administrativa, é correto afirmar que:",
+        options: [
+            "O ressarcimento integral do dano, quando feito antes do recebimento da ação judicial, isentará de pena o agente que houver praticado o ato de improbidade administrativa.",
+            "O ato de improbidade administrativa somente restará configurado quando o servidor público causar dano ao erário, enriquecer indevidamente e violar os princípios da administração pública simultaneamente.",
+            "Em caso de morte do agente público, as penas decorrentes de atos de improbidade administrativa não poderão recair sobre seus herdeiros.",
+            "O mero exercício da função pública, mesmo sem a comprovação do ato doloso, é causa que atrai a responsabilidade por ato de improbidade administrativa.",
+            "Mesmo não sendo agente público, pratica atos de improbidade administrativa aquele que induza ou concorra dolosamente para a prática do ato de improbidade."
+        ],
+        answer: 4,
+        disclaimer: "Particulares (terceiros que não são agentes públicos) também podem ser processados e punidos pela LIA se induzirem ou concorrerem dolosamente para a prática do ato ímprobo (Art. 3º)."
+    },
+    {
+        topic: "Improbidade Administrativa (Exigência de Dolo)",
+        supportText: "Suponha que determinado servidor público esteja sendo acusado da prática de ato de improbidade por conduta que causou prejuízo à Administração, perpetrada já sob o regime da Lei nº 14.230/2021, que alterou a Lei nº 8.429/1992.",
+        q: "A conduta em questão:",
+        options: [
+            "será considerada ato de improbidade, desde que presentes os elementos de tipificação como crime contra a Administração Pública, dada a comunicabilidade de instâncias.",
+            "caracterizará ato de improbidade, se for de natureza comissiva, dolosa ou culposa, não mais sendo admitida a capitulação de condutas omissivas.",
+            "não será suficiente para configurar ato de improbidade, ainda que dolosa, sendo necessária a comprovação de enriquecimento ilícito do agente.",
+            "depende da prévia condenação do agente público em processo administrativo disciplinar para, a partir da delimitação de sua culpabilidade, ser enquadrada como ato de improbidade.",
+            "somente poderá ser capitulada como ato de improbidade se presente o elemento subjetivo dolo, não sendo assim capituladas condutas meramente culposas."
+        ],
+        answer: 4,
+        disclaimer: "A maior mudança trazida pela reforma de 2021 foi a extinção da improbidade culposa (antes prevista no art. 10). Atualmente, todo e qualquer ato de improbidade exige a comprovação do dolo específico."
+    },
+    {
+        topic: "Sanções por Atos de Improbidade",
+        supportText: "",
+        q: "Acerca das sanções legais cominadas à prática de improbidade administrativa, assinale a alternativa correta:",
+        options: [
+            "A aplicação das sanções está condicionada ao ressarcimento integral do dano patrimonial, que deve ser efetivo.",
+            "Na responsabilização da pessoa jurídica, não deverão ser considerados os efeitos econômicos e sociais das sanções.",
+            "A aplicação das sanções está condicionada ao ressarcimento do dano patrimonial, que pode ser parcial ou integral.",
+            "As sanções podem ser aplicadas isolada ou cumulativamente, de acordo com a gravidade do fato.",
+            "A multa pode ser aumentada até o quíntuplo, se o juiz considerar que, em virtude da situação econômica do réu, ela é ineficaz para reprovação."
+        ],
+        answer: 3,
+        disclaimer: "Art. 12 da LIA. O responsável pelo ato de improbidade está sujeito às cominações legais (multa, suspensão de direitos políticos, proibição de contratar, etc.), que podem ser aplicadas isolada ou cumulativamente, de acordo com a gravidade do fato."
+    },
+    {
+        topic: "Atos contra os Princípios da Administração Pública",
+        supportText: "",
+        q: "De acordo com a Lei Federal n.º 8.429/92, assinale a alternativa que trate corretamente de atos de Improbidade Administrativa que atentam contra os princípios da Administração Pública:",
+        options: [
+            "Configura-se necessariamente em improbidade a nomeação ou indicação política de servidores públicos comissionados por parte dos detentores de mandatos eletivos.",
+            "Deixar de dar publicidade aos atos oficiais, por negligência no exercício das funções, exceto se em razão de sua imprescindibilidade para a segurança da sociedade e do Estado.",
+            "Atribuir à lei ou a ato normativo interpretação dissonante da predominante nos Tribunais Superiores do Poder Judiciário.",
+            "Propiciar a terceiro conhecimento sobre fato ou circunstância de que tem ciência em razão das atribuições e que deva permanecer em segredo, por negligência ou imprudência no exercício de suas funções.",
+            "Constitui ato de improbidade administrativa a nomeação de cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, da autoridade nomeante ou de servidor da mesma pessoa jurídica investido em cargo de direção (Nepotismo)."
+        ],
+        answer: 4,
+        disclaimer: "A alternativa E tipifica o Nepotismo (Súmula Vinculante 13), que foi inserido como inciso no art. 11 pela reforma de 2021. As alternativas B e D são atípicas porque citam 'negligência' e 'imprudência' (modalidade culposa não é mais improbidade). A opção C (divergência interpretativa) foi expressamente isenta de punição pelo art. 1º, §8º."
+    },
+    {
+        topic: "Obrigações dos Agentes Públicos",
+        supportText: "",
+        q: "Assinale a alternativa incorreta. Nos termos da Lei nº 8.429/1992 (Improbidade Administrativa):",
+        options: [
+            "a posse e o exercício de agente público não ficam condicionados à apresentação de declaração de imposto de renda e proventos de qualquer natureza, que tenha sido apresentada à Receita Federal.",
+            "o sistema de responsabilização por atos de improbidade administrativa tutelará a probidade na organização do Estado e no exercício de suas funções, como forma de assegurar a integridade do patrimônio público.",
+            "na apuração dos ilícitos previstos na Lei, será garantido ao investigado a oportunidade de manifestação por escrito e de juntada de documentos que comprovem suas alegações.",
+            "na responsabilização da pessoa jurídica, deverão ser considerados os efeitos econômicos e sociais das sanções, de modo a viabilizar a manutenção de suas atividades.",
+            "é dever do poder público oferecer contínua capacitação aos agentes públicos e políticos que atuem com prevenção ou repressão de atos de improbidade administrativa."
+        ],
+        answer: 0,
+        disclaimer: "A afirmativa A está Incorreta. O art. 13 da LIA determina taxativamente que a posse e o exercício de agente público FICAM CONDICIONADOS à apresentação de declaração de bens e valores."
+    },
+    {
+        topic: "Improbidade Administrativa (Disposições Gerais)",
+        supportText: "",
+        q: "Assinale a alternativa incorreta, nos termos da Lei nº 8.429/1992 (Improbidade Administrativa).",
+        options: [
+            "A lei dispõe apenas sobre os atos de improbidade administrativa de que trata a Constituição Federal, sem especificar as sanções aplicáveis.",
+            "Consideram-se atos de improbidade administrativa as condutas dolosas que importam enriquecimento ilícito, causam prejuízo ao erário e atentam contra os princípios da administração pública.",
+            "Os atos de improbidade violam a probidade na organização do Estado e no exercício de suas funções e a integridade do patrimônio público e social dos Poderes Executivo, Legislativo e Judiciário.",
+            "Para os efeitos da Lei, considera-se agente público o agente político, o servidor público e todo aquele que exerce, ainda que transitoriamente ou sem remuneração, por eleição, nomeação, designação, mandato ou função nas entidades.",
+            "As disposições da Lei são aplicáveis, no que couber, àquele que, mesmo não sendo agente público, induza ou concorra dolosamente para a prática do ato de improbidade."
+        ],
+        answer: 0,
+        disclaimer: "A Lei 8.429/92 (LIA) NÃO se limita a dispor sobre os atos, ela elenca minuciosamente um rol de SANÇÕES civis e políticas aplicáveis no seu art. 12 (multa, suspensão dos direitos políticos, perda da função, etc.)."
+    },
+    {
+        topic: "Prejuízo ao Erário",
+        supportText: "",
+        q: "Constitui ato de improbidade administrativa, à luz da legislação pertinente (Lei nº 8.429/1992 e suas alterações):",
+        options: [
+            "agir de modo negligente na arrecadação de tributo ou de renda.",
+            "causar lesão ao erário por meio de conduta comissiva ou omissiva, dolosa ou culposa.",
+            "permitir ou facilitar, dolosamente, a aquisição, permuta ou locação de bem ou serviço por preço superior ao de mercado.",
+            "permitir, facilitar ou concorrer, ainda que sem intenção, para que terceiro se enriqueça ilicitamente.",
+            "ordenar ou permitir, ainda que sem intenção, a realização de despesas não autorizadas em lei ou regulamento."
+        ],
+        answer: 2,
+        disclaimer: "A alternativa C reproduz o ato ímprobo de Prejuízo ao Erário (art. 10, II) na modalidade DOLOSA, conforme exige a nova lei. Todas as demais opções trazem as expressões 'negligente', 'culposa' ou 'sem intenção', o que não caracteriza mais improbidade administrativa."
+    },
+    {
+        topic: "Sujeitos Ativos da Improbidade",
+        supportText: "",
+        q: "Relativamente à tipificação de improbidade administrativa, verifica-se que incide:",
+        options: [
+            "em face daquele que induza ou concorra dolosamente para a prática do ato de improbidade, mesmo não sendo agente público.",
+            "em face daquele que induza ou concorra culposa e dolosamente para a prática do ato de improbidade, mesmo não sendo agente público.",
+            "quando o agente público der causa culposamente ao ato de improbidade.",
+            "quando o agente público causar, culposa e dolosamente, prejuízo à Administração.",
+            "apenas se agente público cometer ato de improbidade que enseje enriquecimento ilícito."
+        ],
+        answer: 0,
+        disclaimer: "Repetição do conceito chave da reforma: Terceiros podem responder por improbidade administrativa se (e somente se) induzirem ou concorrerem DOLOSAMENTE."
+    },
+    {
+        topic: "Improbidade Administrativa (Julgamento das Afirmativas)",
+        supportText: "Assinale V (verdadeiro) ou F (falso) em cada afirmativa a seguir:\n( ) Configura-se ato de improbidade administrativa revelar fato ou circunstância de que tem ciência em razão das atribuições e que deva permanecer em segredo.\n( ) Qualquer pessoa poderá representar à autoridade competente para que seja instaurada investigação destinada a apurar a prática de ato de improbidade administrativa.\n( ) Constitui crime a representação por ato de improbidade contra agente público ou terceiro beneficiário, quando o autor da denúncia o sabe inocente.\n( ) A perda da função pública e a suspensão dos direitos políticos só se efetivam com o trânsito em julgado da sentença condenatória.",
+        q: "A sequência correta é:",
+        options: [
+            "F - V - V - V.",
+            "V - F - F - F.",
+            "F - V - V - F.",
+            "V - V - V - V.",
+            "V - F - F - V."
+        ],
+        answer: 3,
+        disclaimer: "Todas as afirmativas são verdadeiras e representam a literalidade dos artigos 11, 14, 19 e 20 da LIA."
+    },
+    {
+        topic: "Fraude em Licitação",
+        supportText: "",
+        q: "A contratação feita com fraude ao processo de licitação e consequente favorecimento de uma empresa contratada NÃO poderá ensejar:",
+        options: [
+            "a impetração de um mandado de segurança pelo titular do direito de participação do processo licitatório válido.",
+            "a apuração de improbidade administrativa, através de ação civil pública.",
+            "o ajuizamento de ação popular em razão do prejuízo causado ao patrimônio público.",
+            "a edição de ato, contrato ou instrumento administrativo válido e capaz de produzir efeitos legais e lícitos.",
+            "a apuração da responsabilidade civil, penal, administrativa e política do agente público e do particular beneficiado."
+        ],
+        answer: 3,
+        disclaimer: "Um contrato originado de fraude a licitação padece de nulidade absoluta e configura ato ilícito. Logo, não pode produzir efeitos contratuais válidos em prol de quem cometeu a fraude."
+    },
+    {
+        topic: "O Elemento Subjetivo (Dolo)",
+        supportText: "",
+        q: "Com base na Lei de Improbidade Administrativa (redação de 2021), é considerada dolo a vontade de alcançar o resultado ilícito tipificado na lei de forma:\nI. Inconsciente. II. Livre. III. Consciente.",
+        options: [
+            "Apenas II.",
+            "Apenas I e II.",
+            "Apenas I e III.",
+            "Apenas II e III.",
+            "I, II e III."
+        ],
+        answer: 3,
+        disclaimer: "Art. 1º, § 2º: Considera-se dolo a vontade LIVRE e CONSCIENTE de alcançar o resultado ilícito tipificado nos arts. 9º, 10 e 11 desta Lei, não bastando a voluntariedade do agente."
+    },
+    {
+        topic: "Representação Fraudulenta (Crime na LIA)",
+        supportText: "",
+        q: "De acordo com o artigo 19 da Lei n° 8.429/1992, a representação por ato de improbidade contra agente público ou terceiro beneficiário, quando o autor da denúncia o sabe inocente, constitui:",
+        options: [
+            "crime.",
+            "dever.",
+            "opção.",
+            "obrigação.",
+            "responsabilidade."
+        ],
+        answer: 0,
+        disclaimer: "A denunciação caluniosa de improbidade é tipificada criminalmente na própria LIA. Art. 19: Constitui crime a representação por ato de improbidade contra agente público ou terceiro beneficiário, quando o autor da denúncia o sabe inocente. Pena: detenção de seis a dez meses e multa."
+    },
+    {
+        topic: "Improbidade Administrativa (Regras de Aplicação)",
+        supportText: "Identifique abaixo as afirmativas verdadeiras ( V ) e as falsas ( F ) que tratam do teor da Lei n° 8.429/1992.\n( ) A ação para a aplicação das sanções previstas na Lei poderá prescrever.\n( ) A perda da função pública e a suspensão dos direitos políticos se efetivam em rito sumário decidido pela chefia imediata do servidor.\n( ) Não é dever do poder público oferecer contínua capacitação aos agentes públicos e políticos que atuem com prevenção ou repressão de atos de improbidade.\n( ) Para fins de apuração do valor do ressarcimento por prejuízo ao erário, não deverão ser descontados os serviços efetivamente prestados à Administração.",
+        q: "Assinale a alternativa que indica a sequência correta, de cima para baixo.",
+        options: [
+            "V, V, V, F",
+            "V, F, V, V",
+            "V, F, F, F",
+            "F, V, V, V",
+            "F, F, V, V"
+        ],
+        answer: 2,
+        disclaimer: "1ª Verdadeira (prescreve em 8 anos). 2ª Falsa (exige trânsito em julgado). 3ª Falsa (o art. 23-A diz que É DEVER do poder público oferecer capacitação). 4ª Falsa (o art. 21, §4º determina que DEVERÃO ser descontados os serviços efetivamente prestados para não gerar enriquecimento ilícito do Estado)."
+    },
+    {
+        topic: "Participação de Terceiros",
+        supportText: "",
+        q: "De acordo com os termos da Lei de improbidade administrativa, as disposições da lei são aplicáveis, no que couber, àquele que, mesmo não sendo agente público, induza ou concorra:",
+        options: [
+            "Culposamente na prática de fato atípico.",
+            "Dolosamente para a prática do ato de improbidade.",
+            "Culposamente para a prática do ato de improbidade.",
+            "Dolosamente na prática de fato não previsto na lei.",
+            "Culposamente por ação voluntária do agente."
+        ],
+        answer: 1,
+        disclaimer: "Art. 3º: As disposições desta lei são aplicáveis, no que couber, àquele que, mesmo não sendo agente público, induza ou concorra dolosamente para a prática do ato de improbidade."
+    },
+    {
+        topic: "Atos que Atentam contra Princípios",
+        supportText: "",
+        q: "Assinale a alternativa que apresenta um dos tipos ímprobos descritos na Lei de Improbidade Administrativa, no rol de atos que atentam contra os Princípios da Administração Pública, com as alterações introduzidas pela Lei nº 14.230/2021.",
+        options: [
+            "tortura",
+            "assédio moral",
+            "revelar fato ou circunstância de que tem ciência em razão das atribuições que coloque em risco a segurança do Estado",
+            "assédio sexual",
+            "negativa, em qualquer caso, de publicidade a atos oficiais"
+        ],
+        answer: 2,
+        disclaimer: "Art. 11, III: revelar fato ou circunstância de que tem ciência em razão das atribuições e que deva permanecer em segredo, propiciando beneficiamento por informação privilegiada ou colocando em risco a segurança da sociedade e do Estado."
+    },
+    {
+        topic: "Efeitos da Morte do Agente Ímprobo",
+        supportText: "",
+        q: "Acerca dos atos de improbidade administrativa, assinale a alternativa correta.",
+        options: [
+            "A condenação pela prática de ato de improbidade administrativa gera a perda irreversível e perpétua dos direitos políticos.",
+            "O herdeiro ou sucessor daquele que causar dano ao erário está sujeito à obrigação de repará-lo até o limite do valor da herança.",
+            "Somente os servidores públicos de carreira podem ser responsabilizados por atos de improbidade administrativa.",
+            "A responsabilização do servidor público na esfera administrativa afasta a possibilidade de sua responsabilização na esfera judicial.",
+            "A absolvição penal por insuficiência de provas vincula o juízo cível, impedindo a punição na esfera da improbidade administrativa."
+        ],
+        answer: 1,
+        disclaimer: "Art. 8º: A obrigação de reparação de dano/devolução de valores ilícitos transfere-se aos sucessores até o limite do valor da herança (patrimônio recebido)."
     }
 ];
 
