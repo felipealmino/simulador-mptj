@@ -1696,6 +1696,706 @@ const banco_pt = [
         ],
         answer: 4,
         disclaimer: "A opção E apresenta uma pausa na ação para qualificar, explicar as características e descrever o significado atribuído à palavra/personagem 'Casmurro'. As demais opções são essencialmente narrativas, focadas em sucessão de ações e verbos de movimento/acontecimento."
+    },
+    {
+        topic: "Colocação Pronominal",
+        supportText: "O fim do mundo\n[...] Mas, uma noite, levantaram-me da cama, enrolada num lençol, e, estremunhada, levaram-me à janela para me apresentarem à força ao temível cometa.",
+        q: "Quanto à colocação pronominal, no trecho “Mas, uma noite, levantaram-me da cama, enrolada num lençol, e, estremunhada, levaram-me à janela para me apresentarem à força ao temível cometa.” observam-se, respectivamente:",
+        options: [
+            "ênclise, ênclise e próclise.",
+            "mesóclise, mesóclise e próclise.",
+            "ênclise, próclise e próclise.",
+            "próclise, mesóclise e mesóclise.",
+            "ênclise, ênclise e ênclise."
+        ],
+        answer: 0,
+        disclaimer: "Em 'levantaram-me' e 'levaram-me' temos ênclise (verbo no início da oração após vírgula). Em 'para me apresentarem', a preposição 'para' atrai o pronome, resultando em próclise."
+    },
+    {
+        topic: "Colocação Pronominal",
+        supportText: "",
+        q: "Assinale a alternativa que está de acordo com a norma-padrão de colocação pronominal.",
+        options: [
+            "Sabe-se que os idosos fazem um uso mais frequente do sistema de saúde, dada a condição física dessa etapa da vida.",
+            "Atualmente, ainda verificam-se casos de discriminação em função de cor da pele ou gênero nos serviços públicos.",
+            "Jamais pode-se julgar uma pessoa em razão de sua crença, de sua cor, de sua classe social ou de sua sexualidade.",
+            "Os pesquisadores têm dedicado-se a estudar estratégias de diminuição da discriminação social.",
+            "A discriminação de pessoas idosas é um problema que deve-se enfrentar principalmente no sistema de saúde."
+        ],
+        answer: 0,
+        disclaimer: "A opção A está correta: 'Sabe-se' (ênclise correta em início de oração). Erros: B (ainda atrai -> ainda se verificam); C (Jamais atrai -> Jamais se pode); D (particípio não aceita ênclise -> têm se dedicado); E (que atrai -> que se deve enfrentar)."
+    },
+    {
+        topic: "Colocação Pronominal",
+        supportText: "Dentro de um abraço\nO rosto contra o peito de quem o abraça, as batidas do coração dele e as suas, o silêncio que sempre se faz durante esse envolvimento físico...",
+        q: "A frase do texto em que o pronome destacado pode ser colocado também depois do verbo é:",
+        options: [
+            "... não me custaria nada reprisar...",
+            "...o rosto contra o peito de quem o abraça...",
+            "... dentro de um abraço se dissolve...",
+            "... o silêncio sempre se faz...",
+            "... tudo o que se pensa e sofre..."
+        ],
+        answer: 2,
+        disclaimer: "Em 'dentro de um abraço se dissolve' (ou 'dissolve-se'), a locução adverbial deslocada sem vírgula torna a próclise e a ênclise facultativas. Nas demais alternativas, existem palavras atrativas evidentes ('não', 'quem', 'sempre', 'que')."
+    },
+    {
+        topic: "Colocação Pronominal",
+        supportText: "",
+        q: "Assinale a alternativa em que o emprego e a colocação do pronome estão de acordo com a norma-padrão.",
+        options: [
+            "Existia a esperança de ver ele assumir o cargo de chefia, já que esforçaria-se muito para isso.",
+            "Tendo interessado-se pelo meu projeto, o superintendente mandou eu enviar uma cópia para o e-mail dele.",
+            "Com receio de vê-la frustrada, os pais da garota já lhe garantiram a viagem de estudo no exterior.",
+            "Mesmo os que jamais empenharam-se para obter a certificação agora se verão premiados com as promoções.",
+            "Futuramente perseguirá-nos a sombra de situações mal resolvidas que ainda existem entre eu e vocês."
+        ],
+        answer: 2,
+        disclaimer: "A opção C está correta (vê-la, lhe garantiram). Erros: A (ver ele / já que se esforçaria); B (Tendo-se interessado / mandou-me enviar); D (jamais se empenharam); E (perseguir-nos-á)."
+    },
+    {
+        topic: "Colocação Pronominal",
+        supportText: "",
+        q: "Analise as orações com base nas regras de colocação pronominal:\n1. Nenhuma coisa me faz rir!\n2. Quem me enviou estas flores?\n3. Se eu disser-te a verdade, você não acreditará!\nAssinale a alternativa que indica todas as orações gramaticalmente corretas.",
+        options: [
+            "É correta apenas a oração 1.",
+            "É correta apenas a oração 3.",
+            "São corretas apenas as orações 1 e 2.",
+            "São corretas apenas as orações 1 e 3.",
+            "São corretas apenas as orações 2 e 3."
+        ],
+        answer: 2,
+        disclaimer: "As orações 1 e 2 estão corretas (pronome indefinido 'Nenhuma' e pronome interrogativo 'Quem' atraem próclise). Na 3, a conjunção 'Se' atrai o pronome ('Se eu te disser a verdade')."
+    },
+    {
+        topic: "Colocação Pronominal",
+        supportText: "",
+        q: "Assinale a alternativa redigida em concordância com a norma-padrão de colocação pronominal.",
+        options: [
+            "Me preocupa o distanciamento das novas gerações em relação à natureza.",
+            "O pescador não conformava-se com a perda de seu barco no naufrágio.",
+            "Tendo registrado-se 10 ºC naquele dia, os turistas não foram à praia.",
+            "Os trovões que se escutam ao fundo lembram o barulho de explosões.",
+            "Ainda lembro-me do dia em que realizei o sonho de viajar de veleiro."
+        ],
+        answer: 3,
+        disclaimer: "Na opção D, o pronome relativo 'que' atrai corretamente a próclise ('que se escutam'). Erros nas demais: A (não se inicia frase com pronome); B ('não' atrai próclise); C (particípio não aceita ênclise); E ('ainda' atrai próclise)."
+    },
+    {
+        topic: "Colocação Pronominal",
+        supportText: "",
+        q: "Sobre a colocação pronominal, conforme a norma culta da língua portuguesa, assinale a que melhor está empregado o pronome.",
+        options: [
+            "Em tratando de vacinas, eu confio totalmente na eficácia.",
+            "Quem convenceu-te que as vacinas não podem ser usadas?",
+            "É imprescindível lhe confiar na eficácia das vacinas.",
+            "Me mostre os dados da eficácia das vacinas, fiquei curioso.",
+            "Ela não aceitou a vacina, embora lhe tivessem oferecido."
+        ],
+        answer: 4,
+        disclaimer: "Na opção E, a conjunção subordinativa concessiva 'embora' atrai obrigatoriamente a próclise ('embora lhe tivessem oferecido')."
+    },
+    {
+        topic: "Colocação Pronominal",
+        supportText: "",
+        q: "Considerando as regras de colocação pronominal, assinale a alternativa na qual a próclise tenha sido empregada INCORRETAMENTE.",
+        options: [
+            "Jamais me trate dessa maneira.",
+            "João ficou sem graça quando nos viu.",
+            "Gostaria de saber quem te contou a novidade.",
+            "Já que não entendi, me explique, por favor.",
+            "Não consigo saber se te ofenderam"
+        ],
+        answer: 3,
+        disclaimer: "A alternativa D está incorreta porque a oração 'me explique, por favor' foi iniciada após a vírgula, e a norma culta proíbe iniciar orações com pronome oblíquo átono (o certo seria 'explique-me, por favor')."
+    },
+    {
+        topic: "Colocação Pronominal",
+        supportText: "",
+        q: "Assinale a alternativa em que os pronomes pessoais foram empregados corretamente.",
+        options: [
+            "Houve uma discussão entre eu e ele, mas posteriormente resolvemos tudo.",
+            "Frequentemente ele pede para mim convocar todos os que precisam comparecer à reunião.",
+            "Você já os contou a verdade?",
+            "Meu colega apresentou um projeto interessante, mas nossa coordenadora não o aprovou.",
+            "Soube que você me enviou o relatório, mas ainda não li ele."
+        ],
+        answer: 3,
+        disclaimer: "A opção D utiliza corretamente o pronome 'o' como objeto direto ('não aprovou o projeto'). Erros: A (entre mim e ele); B (para eu convocar); C (já lhes contou a verdade); E (não o li / não o li ainda)."
+    },
+    {
+        topic: "Colocação Pronominal",
+        supportText: "",
+        q: "Assinale a alternativa correta quanto ao emprego de pronomes oblíquos átonos.",
+        options: [
+            "Sem avisá-lo do ocorrido, levaram-no preso.",
+            "Espero-lhe amanhã em frente à garagem do condomínio para te entregar a encomenda.",
+            "Na pescaria de hoje se metemos numa fria, pois surpreenderam nós com as redes já armadas.",
+            "Não se arrisque não, pois tu sabe que a mata pode enganá-lo.",
+            "Nada encontrou-se lá que pudesse lhe incriminar, mas tu sabes o que enconde-se nas paredes da casa."
+        ],
+        answer: 0,
+        disclaimer: "A opção A utiliza adequadamente 'avisá-lo' e 'levaram-no'. As demais apresentam mistura de tratamento, mau uso da próclise ou preposições inadequadas para os pronomes."
+    },
+    {
+        topic: "Concordância Verbal e Nominal",
+        supportText: "",
+        q: "Assinale a alternativa correta conforme a norma-padrão.",
+        options: [
+            "Muito obrigada, disse-me o manobrista.",
+            "Ela estava meio nervosa, depois relaxou.",
+            "Eles mesmo vieram nos pedir desculpas.",
+            "Proibido a entrada de hóspedes em trajes de banho.",
+            "Havia menas coisas para comprar neste novo bazar."
+        ],
+        answer: 1,
+        disclaimer: "Em B, 'meio' funciona como advérbio de intensidade (= um pouco) e é invariável. Erros: A (o manobrista deve dizer 'obrigado'); C (Eles mesmos); D (Proibida a entrada - com artigo, o adjetivo concorda); E (a palavra 'menas' não existe)."
+    },
+    {
+        topic: "Concordância Verbal e Nominal",
+        supportText: "",
+        q: "Assinale a alternativa em que a norma-padrão de concordância nominal está sendo observada.",
+        options: [
+            "Vistas como corriqueiras, as ocorrências de furtos não têm sido investigadas.",
+            "A opção por estar de camiseta verde pode ser tomado como provocação.",
+            "Sabemos que é feito insistentemente recomendação para não reagir.",
+            "Hoje testemunhamos ações delituosas frequentemente praticada por jovens.",
+            "Tentado a levar tudo da vítima, muitos assaltantes acabam por matá-la."
+        ],
+        answer: 0,
+        disclaimer: "Opção A: 'Vistas' concorda com 'ocorrências', e 'têm' (plural) concorda com ocorrências. Erros: B (tomada); C (feita recomendação); D (praticadas); E (Tentados)."
+    },
+    {
+        topic: "Concordância Verbal",
+        supportText: "",
+        q: "Analise as orações abaixo quanto à concordância:\n1. Apenas um terço do pescado se estragou.\n2. Qualquer um de nós temos treinamento suficiente para enfrentar o treino.\n3. Batia dez horas quando ela chegou.\n4. Há três semanas não chove.\nAssinale a alternativa que indica todas as orações corretas.",
+        options: [
+            "É correta apenas a oração 2.",
+            "É correta apenas a oração 4.",
+            "São corretas apenas as orações 1 e 2.",
+            "São corretas apenas as orações 1 e 4.",
+            "São corretas apenas as orações 2 e 3."
+        ],
+        answer: 3,
+        disclaimer: "Na oração 1 (fração), o verbo concorda com o numerador ('um terço se estragou'). Na oração 4, o verbo 'haver' indicando tempo decorrido é impessoal (fica no singular). A oração 2 está incorreta (Qualquer um de nós tem) e a 3 (Batiam dez horas)."
+    },
+    {
+        topic: "Concordância Verbal e Nominal",
+        supportText: "",
+        q: "Assinale a alternativa correta quanto à concordância, de acordo com a norma-padrão.",
+        options: [
+            "A água é bom para a saúde.",
+            "É necessário prudência ao dirigir.",
+            "A presença de cachorros não é permitido.",
+            "É proibido a saída de alunos deste recinto.",
+            "Os teus filhos estão quite com o serviço militar?"
+        ],
+        answer: 1,
+        disclaimer: "A expressão 'É necessário' fica invariável se o sujeito não estiver acompanhado de artigo ou determinante ('prudência'). Se fosse 'A prudência', seria 'É necessária'."
+    },
+    {
+        topic: "Concordância Verbal",
+        supportText: "Leia a tira para responder a questão:\nTremi só de pensar que minhas experiências um dia podiam se tornar histórias sem sentido.",
+        q: "A frase está reescrita de forma correta, mantendo a devida correlação verbal, em:",
+        options: [
+            "Tremi só de pensar que minhas experiências um dia puderam se tornar histórias sem sentido.",
+            "Tremi só de pensar que minhas experiências um dia pudessem se tornar histórias sem sentido.",
+            "Tremi só de pensar que minhas experiências um dia puderem se tornar histórias sem sentido.",
+            "Tremi só de pensar que minhas experiências um dia poderem se tornar histórias sem sentido.",
+            "Tremi só de pensar que minhas experiências um dia teriam podido se tornar histórias sem sentido."
+        ],
+        answer: 1,
+        disclaimer: "O Pretérito Perfeito 'Tremi' (fato real e passado) correlaciona-se com o Pretérito Imperfeito do Subjuntivo 'pudessem', que denota a incerteza/hipótese no passado atrelada ao pensamento."
+    },
+    {
+        topic: "Concordância Nominal",
+        supportText: "",
+        q: "Assinale a frase abaixo que está em desacordo com as normas gramaticais cultas.",
+        options: [
+            "Anexo lhe envio os documentos e as fotos.",
+            "Em anexo lhe envio os documentos e as fotos.",
+            "Anexos lhe envio os documentos e as fotos.",
+            "Envio-lhe os documentos e as fotos anexos.",
+            "Envio-lhe, em anexo, os documentos e as fotos."
+        ],
+        answer: 0,
+        disclaimer: "A palavra 'anexo' tem valor de adjetivo e deve concordar em gênero e número com o termo a que se refere ('os documentos e as fotos', masculino plural = anexos). A expressão 'em anexo' é invariável."
+    },
+    {
+        topic: "Concordância Verbal",
+        supportText: "",
+        q: "Na frase – Em 2013, dados da Pesquisa Nacional de Saúde revelaram que ao menos um em cada dez brasileiros adultos já havia se sentido discriminado nos serviços de saúde... – o trecho em destaque pode ser substituído, de acordo com a norma-padrão de concordância verbal, por:",
+        options: [
+            "que ao menos um em cada dez brasileiros adultos já tinham se sentido discriminados.",
+            "que ao menos 10% dos brasileiros adultos já havia se sentido discriminado.",
+            "que ao menos um décimo, entre os brasileiros adultos, já haviam se sentido discriminados.",
+            "que, a cada dez brasileiros adultos, ao menos um já tinha se sentido discriminado.",
+            "que, entre dez brasileiros adultos, ao menos um já tinham se sentido discriminados."
+        ],
+        answer: 3,
+        disclaimer: "O núcleo do sujeito é 'um'. Portanto, o verbo e os particípios devem ficar no singular concordando com 'ao menos um' ('já tinha se sentido discriminado')."
+    },
+    {
+        topic: "Concordância Verbal",
+        supportText: "",
+        q: "Assinale a alternativa em que o trecho está corretamente reescrito entre parênteses, mantendo a concordância e a correlação verbal.",
+        options: [
+            "... a falta de dinheiro e a classe social são os motivos reportados com maior frequência (... reporta-se com maior frequência os motivos de falta de dinheiro e classe social).",
+            "... os serviços de saúde foram apontados como os locais onde as experiências discriminatórias ocorreram mais frequentemente (... apontam-se os serviços de saúde como os locais onde as experiências discriminatórias ocorreram mais frequentemente).",
+            "As práticas discriminatórias são evidenciadas na forma como os profissionais de saúde se comunicam... (Evidenciam-se as práticas discriminatórias na forma como os profissionais de saúde se comunicam...).",
+            "... o medo antecipado ... pode reduzir drasticamente a interação com o sistema de saúde (... a interação com o sistema de saúde pode ser reduzido pelo medo antecipado).",
+            "Essas experiências podem gerar falta de confiança no sistema de saúde... (Falta de confiança no sistema de saúde podem ser geradas por essas experiências...)."
+        ],
+        answer: 2,
+        disclaimer: "Em 'Evidenciam-se as práticas', o pronome 'se' é partícula apassivadora, exigindo que o verbo concorde no plural com o sujeito paciente ('as práticas')."
+    },
+    {
+        topic: "Concordância Verbal e Nominal",
+        supportText: "",
+        q: "A alternativa redigida em conformidade com a norma-padrão de concordância verbal e nominal é:",
+        options: [
+            "O medo que certas pessoas têm do mar as torna incapazes de perceber sua beleza.",
+            "Muita coisa dos trabalhos dos marinheiros foram compreendidos apenas recentemente.",
+            "O aumento da temperatura e a diminuição do nível do mar é causado por elevadas emissões de CO2.",
+            "É proibido, nesta cidade, a prática de esportes no mar em dias de chuva.",
+            "Sempre se encontra pessoas que não se importarão com o meio ambiente."
+        ],
+        answer: 0,
+        disclaimer: "Na opção A, 'têm' concorda com 'certas pessoas' e 'incapazes' concorda com o pronome 'as' (pessoas). Erros: B (Muita coisa foi compreendida); C (são causados); D (É proibidA a prática); E (Sempre se encontraM pessoas)."
+    },
+    {
+        topic: "Concordância Verbal",
+        supportText: "",
+        q: "Assinale a alternativa que preenche, respectivamente, as lacunas do trecho a seguir, de acordo com a norma-padrão de concordância.\nCom algumas medidas simples, ________________ cair em golpes: se __________________informações importantes, __________________dados pessoais, é melhor não compartilhá-las com uma pessoa que as ____________________ com má-fé.",
+        options: [
+            "evitam-se .... houverem ... tal como .... utilize",
+            "evitam-se ... houverem ... tais como ... utilizem",
+            "evitam-se ... houver ... tal como ... utilize",
+            "evita-se ... houver ... tais como ... utilize",
+            "evita-se ... houverem ... tal como ... utilizem"
+        ],
+        answer: 3,
+        disclaimer: "Evita-se (cair em golpes - oração como sujeito fica no singular); houver (verbo impessoal no sentido de existir, não flexiona); tais como (concorda com informações importantes, plural); utilize (concorda com 'uma pessoa', singular)."
+    },
+    {
+        topic: "Crase",
+        supportText: "",
+        q: "Com relação ao correto uso da crase, analise os itens a seguir:\nI – Vamos àquele restaurante amanhã.\nII – O jogador dribla à Pelé.\nIII – Saio do trabalho às 18h30.\nSobre os itens apresentados, assinale a alternativa correta:",
+        options: [
+            "Apenas o item I é verdadeiro.",
+            "Apenas o item II é verdadeiro.",
+            "Apenas o item III é verdadeiro.",
+            "Apenas os itens II e III são verdadeiros.",
+            "Todos os itens são verdadeiros."
+        ],
+        answer: 4,
+        disclaimer: "Todos estão corretos. I: fusão da preposição 'a' (ir a) + pronome demonstrativo 'aquele'. II: expressão implícita 'à moda de' ou 'à maneira de'. III: indicativo de hora exata."
+    },
+    {
+        topic: "Crase",
+        supportText: "",
+        q: "De acordo com a norma-padrão da língua portuguesa, o sinal indicativo de crase está corretamente empregado em:",
+        options: [
+            "Braille foi forçado à superar sua cegueira.",
+            "O professor referiu-se à um aluno brilhante: Braille.",
+            "Braille não foi reconhecido até que se consolidasse à oficialização de seu método.",
+            "Ele queria ensinar à todos os alunos o seu sistema de escrita.",
+            "Todos estavam à espera de que o valor de Braille fosse reconhecido."
+        ],
+        answer: 4,
+        disclaimer: "A opção E está correta (locução prepositiva feminina 'à espera de'). Erros: A (antes de verbo); B (antes de pronome indefinido/artigo masculino 'um'); C (sujeito não tem preposição 'a oficialização se consolidasse'); D (antes de pronome indefinido 'todos')."
+    },
+    {
+        topic: "Crase",
+        supportText: "",
+        q: "De acordo com a norma-padrão da língua portuguesa, o uso do acento grave indicativo da crase é OBRIGATÓRIO em qual das reescritas destacadas?",
+        options: [
+            "A descrição detalhada de um empreendimento a ser realizado é uma necessidade.",
+            "Muitas pessoas chegaram a se candidatar a vaga mais concorrida na empresa.",
+            "A tentativa de obter a isenção fiscal é buscada a todo custo.",
+            "O sucesso de uma empresa deve ser atribuído a gestores competentes.",
+            "O uso de recursos digitais levou os jovens a uma nova forma de aprendizagem."
+        ],
+        answer: 1,
+        disclaimer: "O correto é 'candidatar-se À vaga'. A preposição 'a' exigida pela regência funde-se ao artigo feminino 'a' de 'vaga'. As demais alternativas apresentam usos corretos SEM crase (antes de verbo, palavra masculina e palavras no plural com 'a' no singular)."
+    },
+    {
+        topic: "Crase",
+        supportText: "",
+        q: "Em 'Graças às referências ensinadas por seres humanos', é correto afirmar sobre a ocorrência da crase que:",
+        options: [
+            "Trata-se de um caso facultativo.",
+            "Trata-se de um caso obrigatório.",
+            "Se retirar o 's' da expressão 'às', a crase permanece.",
+            "Se retirar o 's' da expressão 'às', a crase torna-se facultativa.",
+            "Ocorre diante de pronome de tratamento."
+        ],
+        answer: 1,
+        disclaimer: "Obrigatório. A locução 'Graças a' exige preposição e junta-se ao artigo feminino plural 'as' do substantivo 'referências'. Se retirar o 's', ficará apenas a preposição ('a referências') e não haverá crase."
+    },
+    {
+        topic: "Crase",
+        supportText: "",
+        q: "À luz da norma-padrão, a alternativa em que se verifica o uso correto do acento grave, indicador de crase, é:",
+        options: [
+            "Devemos manifestar todo nosso respeito à ele.",
+            "Fui àquele lugar, para comprar novos presentes.",
+            "No dia à dia, ela tem se mostrado muito tranquila.",
+            "Ele demorou muito à escrever aquele novo romance.",
+            "De ponta à ponta, o parque foi reformado."
+        ],
+        answer: 1,
+        disclaimer: "O verbo 'ir' exige a preposição 'a', que se aglutina com a vogal inicial do pronome demonstrativo 'aquele' ('Fui àquele lugar'). Nas demais alternativas, o uso é proibido (antes de pronome pessoal, palavras masculinas repetidas, antes de verbo e palavras femininas repetidas)."
+    },
+    {
+        topic: "Crase",
+        supportText: "",
+        q: "Assinale a alternativa onde o acento indicador de crase NÃO tem cabimento.",
+        options: [
+            "A desnutrição abre caminho às doenças.",
+            "Devemos aliar a teoria à prática.",
+            "A chuva reteve-o na escola e só mais tarde regressou à casa.",
+            "Fui à Casa Glória comprar uma roupa.",
+            "Ele referiu-se àquilo com muita tristeza."
+        ],
+        answer: 2,
+        disclaimer: "A palavra 'casa' no sentido de próprio lar, moradia (sem especificador), repele o artigo definido e, portanto, não aceita crase ('regressou a casa')."
+    },
+    {
+        topic: "Crase",
+        supportText: "",
+        q: "Assinale a alternativa em que o uso da crase está correto.",
+        options: [
+            "À quem se dirigiu o juiz?",
+            "Comecei à acreditar em tudo que ela me dizia.",
+            "Após alguns transtornos, conseguiu chegar às nove horas.",
+            "Ele gostava de andar à cavalo no sítio do seu tio.",
+            "Retornarei após às 17 horas."
+        ],
+        answer: 2,
+        disclaimer: "A crase ocorre corretamente na indicação de horas exatas ('chegar às nove horas'). Na opção E, a presença da preposição 'após' anula a necessidade da crase."
+    },
+    {
+        topic: "Crase",
+        supportText: "",
+        q: "Assinale a alternativa em que o sinal indicativo de crase foi usado de acordo com a norma-padrão.",
+        options: [
+            "Dirijo-me àquele que não respeitou as regras.",
+            "Gosto de manter uma rotina no meu dia à dia!",
+            "Os marinheiros voltaram à terra exaustos.",
+            "Quando vou passear, prefiro ir à pé.",
+            "Gabriela estava lá desde às 9 horas."
+        ],
+        answer: 0,
+        disclaimer: "Dirigir-se 'A' + Aquele = 'àquele'. A palavra 'terra' (oposto a estar a bordo) não tem crase. 'Dia a dia' e 'a pé' são locuções masculinas. 'Desde' é preposição, repelindo a crase subsequente."
+    },
+    {
+        topic: "Crase",
+        supportText: "",
+        q: "Leia a frase: 'Não se deve negar _______ crianças o direito de conhecer o mar e de brincar em meio ______ ondas. Por esse motivo, as praias devem ser acessíveis ______ todas as pessoas, independentemente da classe social'. Assinale a alternativa que completa, correta e respectivamente, as lacunas.",
+        options: [
+            "às … às … à",
+            "às … às … a",
+            "as … a … à",
+            "as … a … a",
+            "às … à … à"
+        ],
+        answer: 1,
+        disclaimer: "1ª lacuna: Negar 'a' quem? (às crianças = preposição + artigo plural). 2ª lacuna: Em meio 'a' + 'as' ondas ('às ondas' = locução prepositiva). 3ª lacuna: Acessível 'a' (preposição antes de pronome indefinido 'todas', sem crase)."
+    },
+    {
+        topic: "Crase",
+        supportText: "",
+        q: "O sinal indicativo de crase está corretamente empregado na alternativa:",
+        options: [
+            "Ainda muito pequena, já é possível a criança começar à gostar de livros.",
+            "Em uma livraria, as crianças manuseiam e escolhem livros à seu bel-prazer.",
+            "A obrigação técnica de selecionar livros para os alunos cabe à área docente.",
+            "Sentir-se igual à uma fada pode aumentar a autoestima da criança.",
+            "Um livro pode estar associado à situações delicadas que a família está vivenciando."
+        ],
+        answer: 2,
+        disclaimer: "Caber 'A' + A área = 'à área'. Erros nas demais: A (antes de verbo); B (expressão masculina); D (antes de artigo indefinido); E (A no singular + palavra no plural)."
+    },
+    {
+        topic: "Ortografia (Parônimos e Homônimos)",
+        supportText: "",
+        q: "Em se tratando da correta ortografia, coloque (V) verdadeiro ou (F) falso e assinale a alternativa correta.\n( ) A luta entre o bem e o mal nunca acaba.\n( ) Dormi muito mal esta noite.\n( ) Nas histórias, as madrastas sempre são más, isto é, têm o coração mau.\n( ) Quem é mal-humorado está sempre de mau-humor!",
+        options: [
+            "V – V – V – F.",
+            "V – V – F – V.",
+            "V – F – V – V.",
+            "V – V – V – V.",
+            "F – V – V – F."
+        ],
+        answer: 0,
+        disclaimer: "A última é Falsa: O correto é 'mau humor' (contrário de bom humor), escrito sem hífen e com 'U'."
+    },
+    {
+        topic: "Ortografia (Locuções)",
+        supportText: "",
+        q: "Analisando as sentenças a seguir, houve um emprego INADEQUADO de expressões homônimas/parônimas em:",
+        options: [
+            "“Estamos, em princípio, dispostos a negociar.”",
+            "“Estas são as reivindicações por que estamos lutando.”",
+            "“O cadáver estava a cerca de poucos metros do veículo colidido.”",
+            "“A ansiedade aumentava à medida em que o prazo ia chegando ao fim.”",
+            "“O problema não compete ao Senado, senão à Câmara dos Deputados.”"
+        ],
+        answer: 3,
+        disclaimer: "O correto é utilizar a locução proporcional 'à medida que' ou a causal 'na medida em que'. A locução 'à medida em que' é um hibridismo errôneo que não existe na norma culta."
+    },
+    {
+        topic: "Ortografia",
+        supportText: "",
+        q: "Assinale a alternativa que apresenta apenas palavras escritas corretamente.",
+        options: [
+            "Caza – Maço – Veracidade.",
+            "Sinceridade – Gazolina – Empresa.",
+            "Descanso – Ansioso – Discussão.",
+            "Prezado – Sensassão – Suspense.",
+            "Extensão – Analizar – Concessão."
+        ],
+        answer: 2,
+        disclaimer: "Todos os vocábulos da alternativa C estão grafados corretamente (com S e SS nos locais exatos). Erros nas demais: A (Casa); B (Gasolina); D (Sensação); E (Analisar)."
+    },
+    {
+        topic: "Ortografia",
+        supportText: "",
+        q: "Ocorre ERRO de ortografia em:",
+        options: [
+            "Aonde você quer ir?",
+            "Eles não veem muito bem de longe, são míopes.",
+            "Já chega de criar impecilho.",
+            "Os papéis estão muito bem definidos",
+            "Ele quis ajudar, mas não pôde."
+        ],
+        answer: 2,
+        disclaimer: "A palavra correta é 'empecilho' (com 'e'), que significa obstáculo, estorvo."
+    },
+    {
+        topic: "Ortografia",
+        supportText: "",
+        q: "Assinale a alternativa na qual todas as palavras apresentadas estão grafadas corretamente.",
+        options: [
+            "ferrujem; garagem; pedágio",
+            "barragem; pajem; refúgio",
+            "hegemonia; hereje; engessar",
+            "arranjo; fuligem; gorgear",
+            "relógio; garajem; jejum"
+        ],
+        answer: 1,
+        disclaimer: "A opção B está correta. A regra geral dita que palavras terminadas em -agem, -igem e -ujem são grafadas com 'G', sendo 'pajem' e 'lajem' as clássicas exceções grafadas com 'J'. Refúgio é escrito com G."
+    },
+    {
+        topic: "Ortografia",
+        supportText: "",
+        q: "Assinale a alternativa que apresenta uma sentença gramaticalmente correta, no que diz respeito à ortografia.",
+        options: [
+            "Cancelaram a sessão solene na qual os ministros estariam presentes.",
+            "Parece que faltou bom censo na decisão tomada pelo cordenador.",
+            "O concerto dos aparelhos eletrônicos vai fica muito caro.",
+            "Os músicos foram aplaudidos ao fin do conserto.",
+            "Eles mereçem nosso reconhecimento por seu trabalho"
+        ],
+        answer: 0,
+        disclaimer: "A opção A utiliza 'sessão' corretamente (reunião/encontro). Erros: B (bom senso / coordenador); C (conserto com S = reparo); D (fim com m / concerto musical com c); E (merecem, não se usa ç antes de e/i)."
+    },
+    {
+        topic: "Ortografia",
+        supportText: "",
+        q: "Assinale a alternativa que apresenta uma sentença gramaticalmente correta, no que diz respeito à ortografia.",
+        options: [
+            "Ele mau havia chegado e já saiu logo em seguida.",
+            "Novas regras serão adotadas apartir de fevereiro deste ano.",
+            "Finalmente ele admitiu que houve fraude no processo.",
+            "Ele é bastante decidido e não costuma olhar para traz.",
+            "É importante que você utilize o sinto."
+        ],
+        answer: 2,
+        disclaimer: "A frase 'Finalmente ele admitiu...' está impecável. Erros nas demais: A ('mal havia chegado'); B ('a partir' separado); D ('olhar para trás'); E ('use o cinto')."
+    },
+    {
+        topic: "Ortografia",
+        supportText: "",
+        q: "Assinale a alternativa em que todos os vocábulos estão corretamente grafados.",
+        options: [
+            "chícara, xerife, xará",
+            "enxaqueca, enchente, mexer",
+            "enxofre, deboche, mecherico",
+            "encharcar, enxurrada, chará",
+            "puxar, mochila, xuxu"
+        ],
+        answer: 1,
+        disclaimer: "O correto é enxaqueca (X após en-), enchente (CH por derivar de cheio) e mexer (X após me-). Outros erros comuns: xícara (X), xuxu (o certo é chuchu), mecherico (o certo é mexerico)."
+    },
+    {
+        topic: "Ortografia (Emprego de expressões)",
+        supportText: "",
+        q: "Assinale a frase correta quanto à ortografia.",
+        options: [
+            "Fui até aonde estava afim de ir",
+            "Moro acerca de 200 metros da rodoviária.",
+            "Essa é uma das piores fases por que já passei.",
+            "Desculpe, mas achei que a sessão foi muito mau conduzida.",
+            "Não precisa entrar em detalhes; eu já estou ao par de tudo."
+        ],
+        answer: 2,
+        disclaimer: "A opção C utiliza 'por que' separadamente atuando como preposição + pronome relativo (pelas quais já passei). Erros: A (a fim = com propósito); B (a cerca de = distância); D (mal conduzida); E (a par de tudo)."
+    },
+    {
+        topic: "Ortografia (Novo Acordo Ortográfico)",
+        supportText: "",
+        q: "Conforme o Novo Acordo Ortográfico da Língua Portuguesa, a palavra 'assembleia' perdeu o acento agudo por ser paroxítona com ditongo aberto. O mesmo ocorreu e está grafado corretamente na seguinte palavra:",
+        options: [
+            "aneis.",
+            "tenue.",
+            "chapeu.",
+            "paranoico.",
+            "lençois."
+        ],
+        answer: 3,
+        disclaimer: "A palavra 'paranoico' perdeu o acento pela mesma regra (ditongo aberto éi, ói em paroxítonas). 'Anéis', 'chapéu' e 'lençóis' continuam acentuadas, pois a regra determina a manutenção do acento nos ditongos abertos posicionados na sílaba OXÍTONA."
+    },
+    {
+        topic: "Regência Verbal",
+        supportText: "",
+        q: "Avalie as frases quanto à regência verbal.\n1. Perdoamos ao colega que nos ofendeu.\n2. Uma boa faculdade é aspirada por todos.\n3. Assistiu e gostou do filme.\n4. Este é o autor por cuja obra tenho simpatia.\n5. Obedecemos a regras já ultrapassadas nesta empresa.\nAssinale a alternativa que indica todas as frases com regência correta.",
+        options: [
+            "São corretas apenas as frases 1 e 3.",
+            "São corretas apenas as frases 2 e 3.",
+            "São corretas apenas as frases 1, 3 e 5.",
+            "São corretas apenas as frases 1, 4 e 5.",
+            "São corretas apenas as frases 2, 3 e 4."
+        ],
+        answer: 3,
+        disclaimer: "Erros: A frase 2 ('aspirar' no sentido de desejar é transitivo indireto e não admite a formação de voz passiva). A frase 3 (quem assiste, assiste A; quem gosta, gosta DE. Não se pode usar o mesmo complemento direto/indireto para verbos com regências diferentes)."
+    },
+    {
+        topic: "Regência Verbal",
+        supportText: "A hora do empurrão\nMenciono a escrita por ser algo com que, até por conta dessa coluna, estou hoje mais acostumada.",
+        q: "Assinale a alternativa que substitui o trecho destacado na passagem – 'Menciono a escrita por ser algo com que, até por conta dessa coluna, estou hoje mais acostumada.' (de acordo com a norma-padrão de regência)",
+        options: [
+            "algo a que … hoje mais aprecio.",
+            "algo de que … hoje mais me relaciono.",
+            "algo que … estou hoje mais habituada.",
+            "algo que … hoje mais gosto.",
+            "algo a que … estou hoje mais afeita."
+        ],
+        answer: 4,
+        disclaimer: "Estar 'afeito' a alguma coisa exige a preposição 'a'. Logo, o pronome relativo deve ser preposicionado: 'algo A QUE estou afeita'. As demais ferem as regências dos adjetivos/verbos propostos."
+    },
+    {
+        topic: "Regência Verbal e Nominal",
+        supportText: "",
+        q: "Analise as assertivas a seguir e marque a alternativa que melhor corresponde à regência verbal e nominal correta das frases:\nI. Ela sempre obedece aos pais.\nII. Ouvimos a música e ficamos surpresos.\nIII. Moro longe dos meus amigos.\nIV. Os estudantes conseguiram boas notas na prova.",
+        options: [
+            "Apenas II e IV estão corretas.",
+            "Apenas I, II e III estão corretas.",
+            "Todas as alternativas estão corretas.",
+            "Apenas I e III estão corretas.",
+            "Apenas I, III e IV estão corretas."
+        ],
+        answer: 2,
+        disclaimer: "Todas estão perfeitamente de acordo com a norma padrão e suas respectivas regências nominais e verbais (obedecer A, ouvir O, longe DE, conseguir O)."
+    },
+    {
+        topic: "Regência Verbal",
+        supportText: "",
+        q: "A regência verbal está correta, EXCETO em:",
+        options: [
+            "A abelha aspira o ar puro das rosas.",
+            "Os rapazes visavam ao cargo de gerente.",
+            "Temos assistido ao novo documentário.",
+            "Todos aspiram uma vaga no cargo de administrador.",
+            "Ele pagou ao marceneiro pelos serviços."
+        ],
+        answer: 3,
+        disclaimer: "O verbo 'aspirar' no sentido de desejar/almejar é Transitivo Indireto e exige a preposição A. O correto é: 'Todos aspiram a uma vaga'."
+    },
+    {
+        topic: "Regência Verbal (Transitividade)",
+        supportText: "",
+        q: "Assinale a alternativa que apresenta um verbo transitivo direto.",
+        options: [
+            "Transmitirei suas condolências aos familiares próximos de Francisco.",
+            "Permanecemos disponíveis de segunda a sexta-feira.",
+            "Nossos colegas nos deram acesso ao documento.",
+            "Concluímos a pesquisa às pressas.",
+            "O técnico concordou com seu parecer."
+        ],
+        answer: 3,
+        disclaimer: "O verbo 'concluir' é transitivo direto (quem conclui, conclui algo: concluiu a pesquisa). 'Transmitirei' é VTDI; 'Permanecemos' é verbo de ligação; 'concordou' é transitivo indireto."
+    },
+    {
+        topic: "Regência Verbal",
+        supportText: "",
+        q: "Assinale a alternativa na qual a regência verbal está correta.",
+        options: [
+            "Eles nunca deixaram de obedecer autoridades.",
+            "As medidas tomadas implicaram em insatisfação geral.",
+            "Informei-lhe de nossa decisão.",
+            "Finalmente assistimos à série que você recomendou.",
+            "Cheguei em Fortaleza e me encantei imediatamente."
+        ],
+        answer: 3,
+        disclaimer: "O verbo 'assistir' (ver/presenciar) exige preposição 'a'. Erros: A (obedecer ÀS autoridades); B (implicar no sentido de acarretar é VTD, logo não leva 'em'); C (quem informa, informa a alguém algo ou informa alguém de algo -> Informei-o de ou Informei-lhe nossa decisão); E (Cheguei A Fortaleza)."
+    },
+    {
+        topic: "Regência Nominal",
+        supportText: "",
+        q: "Assinale a alternativa que preencha correta e respectivamente as lacunas.\nO livro agradou _____ críticos. Nós estamos aptos _____ qualquer trabalho. Eles são favoráveis _____ que você trabalhe conosco. O médico assistiu _____ doente.",
+        options: [
+            "aos / a / a / o",
+            "aos / de / com / ao",
+            "os / por / ao / ao",
+            "os / com / por / o",
+            "aos / de / com / o"
+        ],
+        answer: 0,
+        disclaimer: "O livro agradou AOS críticos (VTI). Aptos A qualquer trabalho. Favoráveis A que você trabalhe. Assistiu O doente (no sentido de prestar assistência/ajudar, é transitivo direto)."
+    },
+    {
+        topic: "Regência Verbal",
+        supportText: "",
+        q: "Assinale a alternativa correta quanto à regência nominal e verbal.",
+        options: [
+            "No início da reunião, dirigiu a palavra à vice-presidente da fundação e relacionou os produtos de que precisará para concluir o experimento clínico.",
+            "Os jogadores chegaram no Catar confiantes de seu potencial, mas saíram às pressas.",
+            "De acordo com o relatório técnico, as necessidades que se referem são urgentes e, por isso, serão providenciadas hoje a tarde.",
+            "A regata de remo que assisti revelou grandes valores os quais muito se pode esperar.",
+            "“Saber avaliar as oportunidades, implica em habilitar-se a ter sucesso na vida” – disse o palestrante aqueles que lhe ouviam."
+        ],
+        answer: 0,
+        disclaimer: "Na opção A, a regência de 'dirigir algo a alguém' e a de 'precisar de' estão perfeitamente aplicadas. Erros nas demais: 'chegar a', 'a que se referem', 'a que assisti', 'implica habilitar-se' (sem o 'em')."
+    },
+    {
+        topic: "Regência Verbal",
+        supportText: "Observe o trecho abaixo:\n'Seu lugar não é na plateia, mas no palco, brilhando na sua inteligência, alegrando-se com suas vitórias, aprendendo com as suas derrotas...'",
+        q: "Sobre esse trecho e a transitividade verbal, é CORRETO afirmar que:",
+        options: [
+            "o verbo “brilhar” exige complemento regido de preposição.",
+            "o complemento do verbo “alegrar-se” não vem regido de preposição.",
+            "“com as suas derrotas” completa o sentido da forma verbal “aprendendo”.",
+            "tanto o verbo “brilhar” como o verbo “aprender” exigem complementos não regidos de preposição.",
+            "“na plateia” é complemento do verbo “ser”, atribuindo um estado ao sujeito."
+        ],
+        answer: 2,
+        disclaimer: "A locução prepositiva 'com as suas derrotas' atua como objeto indireto, completando a regência da ação do verbo 'aprendendo'."
+    },
+    {
+        topic: "Regência Verbal",
+        supportText: "",
+        q: "Dentre as expressões a seguir, assinale aquela cujo verbo pede complemento obrigatoriamente regido de preposição na norma culta.",
+        options: [
+            "“Assistir a um bom filme”",
+            "“Contar uma piada”",
+            "“Admirar a lua e o céu estrelado”",
+            "“Ver a natureza”",
+            "“Amar sempre alguém”"
+        ],
+        answer: 0,
+        disclaimer: "O verbo 'assistir', com o sentido de 'ver' ou 'presenciar', é transitivo indireto e exige obrigatoriamente a preposição 'a'. Todos os demais verbos citados são transitivos diretos."
     }
     
 ];
@@ -4305,6 +5005,845 @@ const banco_adm = [
         ],
         answer: 1,
         disclaimer: "Questão extraída da prova DATAPREV (FGV). A afirmativa III está errada pois, em virtude do princípio da duração razoável do processo e do dever-poder de decidir, o silêncio desarrazoado pode ser combatido via mandado de segurança mesmo que a lei não fixe prazo numérico exato."
+    },
+    {
+        topic: "Extinção dos Atos Administrativos",
+        supportText: "",
+        q: "A forma de extinção de um ato administrativo que se torna inconveniente ou inoportuno ao interesse público denomina-se:",
+        options: [
+            "caducidade.",
+            "contraposição.",
+            "revogação.",
+            "anulação.",
+            "cassação."
+        ],
+        answer: 2,
+        disclaimer: "A revogação é o desfazimento de um ato administrativo válido e legítimo, mas que se tornou inconveniente ou inoportuno para a Administração (motivo de mérito administrativo), gerando efeitos 'ex nunc' (não retroativos)."
+    },
+    {
+        topic: "Atributos do Ato Administrativo",
+        supportText: "",
+        q: "Assinale a opção em que é apresentado o atributo do ato administrativo que possibilita à administração pública executar seus próprios atos independentemente de autorização judicial.",
+        options: [
+            "presunção de legitimidade e veracidade",
+            "exigibilidade",
+            "imperatividade",
+            "autoexecutoriedade",
+            "tipicidade"
+        ],
+        answer: 3,
+        disclaimer: "A autoexecutoriedade permite à Administração materializar, executar e colocar em prática as suas decisões por meios próprios, sem a necessidade de recorrer previamente ao Poder Judiciário."
+    },
+    {
+        topic: "Extinção dos Atos Administrativos",
+        supportText: "",
+        q: "A forma de extinção de um ato administrativo que se torna inconveniente ou inoportuno ao interesse público denomina-se:",
+        options: [
+            "anulação.",
+            "caducidade.",
+            "revogação.",
+            "cassação.",
+            "contraposição."
+        ],
+        answer: 2,
+        disclaimer: "A revogação recai sobre o mérito administrativo (conveniência e oportunidade). A anulação, por sua vez, recai sobre a legalidade (atos nulos/ilegais)."
+    },
+    {
+        topic: "Atributos do Ato Administrativo",
+        supportText: "",
+        q: "Assinale a opção em que é apresentado o atributo do ato administrativo que possibilita à administração pública executar seus próprios atos independentemente de autorização judicial.",
+        options: [
+            "imperatividade",
+            "tipicidade",
+            "exigibilidade",
+            "presunção de legitimidade e veracidade",
+            "Autoexecutoriedade"
+        ],
+        answer: 4,
+        disclaimer: "Repetição de conceito muito cobrado. A Autoexecutoriedade é o que permite, por exemplo, rebocar um carro estacionado em local proibido sem precisar de ordem do juiz."
+    },
+    {
+        topic: "Requisitos (Elementos) do Ato Administrativo",
+        supportText: "",
+        q: "Assinale a alternativa CORRETA no que diz respeito ao requisito do ato administrativo:",
+        options: [
+            "A competência é o poder atribuído ao agente público para o desempenho de suas funções. Trata-se de atribuição improrrogável, uma vez que o seu não exercício não a extingue pelo desuso.",
+            "A presença de motivação, quando a lei exige, é defeito de forma do ato, pois motivação é informal.",
+            "O objeto do ato administrativo está ligado aos efeitos imediatos decorrentes do ato.",
+            "Nenhum ato deve ser praticado voltado para satisfazer o interesse público, tratando-se, por isso, de requisito vinculado, pois se admite fim diverso.",
+            "A forma não é um requisito legal essencial em nenhum ato discricionário."
+        ],
+        answer: 2,
+        disclaimer: "O objeto (ou conteúdo) do ato administrativo é aquilo que o ato decide, enuncia ou certifica, ou seja, o seu efeito jurídico imediato."
+    },
+    {
+        topic: "Atributos do Ato Administrativo",
+        supportText: "Os atos administrativos, assim como os atos de direito privado, são uma espécie de ato jurídico. O que os diferencia, contudo, é a presença de alguns atributos que são exclusivos dos atos administrativos, isto é, eles possuem algumas características que permitem afirmar que se submetem a um regime jurídico administrativo ou regime jurídico de direito público. Assim como ocorre com o conceito de ato administrativo, não há muito consenso entre os estudiosos do direito público sobre quais são os atributos do ato administrativo.",
+        q: "Entretanto, entre os que mais predominam, aquele conhecido por estar presente em todos os atos administrativos é o atributo:",
+        options: [
+            "Imperatividade.",
+            "Autoexecutoriedade.",
+            "Finalidade.",
+            "Presunção de legitimidade.",
+            "Exigibilidade."
+        ],
+        answer: 3,
+        disclaimer: "A Presunção de Legitimidade e Veracidade é o único atributo que está presente em ABSOLUTAMENTE TODOS os atos administrativos. Atributos como imperatividade e autoexecutoriedade não estão presentes em atos enunciativos ou negociais, por exemplo."
+    },
+    {
+        topic: "Convalidação e Decadência",
+        supportText: "Suponha que um ato administrativo foi expedido pela Administração municipal de forma viciada, mas com efeitos favoráveis para os seus destinatários.",
+        q: "Nessa hipótese, o direito administrativo brasileiro estabelece que",
+        options: [
+            "seu prazo de anulação será de cinco anos, caso o poder público municipal não tenha lei estipulando prazo decadencial maior para a sua invalidação.",
+            "se o referido ato não for anulado no prazo decadencial de cinco anos, contados da data em que ele foi praticado, estará convalidado tacitamente.",
+            "o ato, por conter vício, não poderá ser convalidado em nenhuma hipótese.",
+            "se não for anulado, poderá ser convalidado após o decurso do prazo de dez anos, se não houver lei do Município estabelecendo prazo menor para a sua invalidação.",
+            "deve ser anulado dentro do prazo legal, mas se, diferentemente, houver convalidação, esta não poderá ter efeitos retroativos."
+        ],
+        answer: 1,
+        disclaimer: "Pelo princípio da segurança jurídica (e nos termos da Lei 9.784/99), o direito da Administração de anular atos ilegais de que decorram efeitos favoráveis ao administrado decai em 5 anos, operando-se a 'convalidação tácita' ou estabilização dos efeitos."
+    },
+    {
+        topic: "Espécies de Atos Administrativos",
+        supportText: "",
+        q: "Em relação às espécies de atos administrativos – normativo; ordinatório; negocial; enunciativo; e, punitivo, assinale a afirmativa correta.",
+        options: [
+            "Algum ato enunciativo é punitivo.",
+            "Nenhum ato administrativo punitivo é negocial.",
+            "Todo ato administrativo ordinatório é normativo.",
+            "Todo ato administrativo enunciativo é ordinatório.",
+            "Nenhum ato administrativo negocial é enunciativo."
+        ],
+        answer: 1,
+        disclaimer: "Atos punitivos são aqueles que aplicam sanções. Atos negociais são aqueles em que há coincidência de interesses entre a Administração e o particular (ex: licença). Dada a natureza punitiva de um e consensual de outro, são mutuamente excludentes."
+    },
+    {
+        topic: "Espécies de Atos Administrativos (Classificação de Hely Lopes)",
+        supportText: "Meirelles (2018) classifica os atos administrativos em cinco espécies.",
+        q: "Sendo assim, segundo o autor, assinale a alternativa que identifica a espécie dos seguintes atos administrativos: Regimento Administrativo do BRDE; Regulamento de Licitações e Contratos do BRDE; Resolução da Diretoria do BRDE.",
+        options: [
+            "Ordinatórios.",
+            "Enunciativos.",
+            "Normativos.",
+            "Negociais.",
+            "Sancionatórios."
+        ],
+        answer: 2,
+        disclaimer: "Regimentos, regulamentos e resoluções que trazem regras gerais, abstratas e impessoais são classificados doutrinariamente como Atos Normativos."
+    },
+    {
+        topic: "Espécies de Atos Administrativos",
+        supportText: "",
+        q: "Assinale a alternativa que apresenta um exemplo de ato administrativo da espécie negocial.",
+        options: [
+            "Multa de trânsito por excesso de velocidade.",
+            "Demissão por descumprimento de dever funcional.",
+            "Apreensão de mercadoria vencida em uma padaria.",
+            "Licença para funcionamento de estabelecimento comercial.",
+            "Desapropriação de imóvel particular para fins de interesse público."
+        ],
+        answer: 3,
+        disclaimer: "A licença é um ato negocial, vinculado e definitivo, editado quando o particular cumpre todos os requisitos legais para exercer um direito (ex: licença para construir, licença para dirigir)."
+    },
+    {
+        topic: "Classificação dos Atos Administrativos",
+        supportText: "",
+        q: "Uma interdição de um restaurante, realizada pela Vigilância Sanitária, por descumprimento de regras fundamentais de segurança alimentar, classifica-se como ato administrativo",
+        options: [
+            "geral, externo, composto.",
+            "ablativo, simples, interno.",
+            "simples, externo, individual.",
+            "de gestão, geral, discricionário.",
+            "interno, complexo, imperativo."
+        ],
+        answer: 2,
+        disclaimer: "A interdição é um ato SIMPLES (emana de um único órgão), EXTERNO (atinge particulares/terceiros fora da Administração) e INDIVIDUAL (possui destinatário específico, o restaurante autuado)."
+    },
+    {
+        topic: "Requisitos e Atributos do Ato",
+        supportText: "",
+        q: "Assinale a alternativa correta acerca do ato administrativo.",
+        options: [
+            "Os atos administrativos secretos, quando necessária a sua edição, estarão dispensados do dever de motivação e de publicidade em seu teor integral restrito.",
+            "Após ter produzido efeito, o ato administrativo não poderá mais ser objeto de revisão por parte da administração pública.",
+            "Verificado que o ato administrativo padeça de vício de legalidade, poderá a administração pública revogá-lo no prazo de até cinco anos.",
+            "Considera-se praticado com desvio de poder o ato administrativo que não atenda a finalidade do interesse público.",
+            "A presunção de legitimidade, atributo do ato administrativo, consiste na presunção de veracidade material absoluta e inquestionável em relação à sua emissão."
+        ],
+        answer: 3,
+        disclaimer: "O 'desvio de poder' ou 'desvio de finalidade' ocorre exatamente quando o agente público, embora competente, edita o ato visando a um fim diverso daquele previsto em lei ou no interesse público."
+    },
+    {
+        topic: "Atributos do Ato Administrativo",
+        supportText: "“É a qualidade do ato administrativo que dá ensejo à Administração Pública de, direta e imediatamente, executá-lo. Também não há de se falar de contraditório e ampla defesa a priori, se o ato administrativo é portador desse atributo, a Administração Pública não necessita recorrer ao Poder Judiciário para garantir-lhe a execução”.",
+        q: "Essa definição de atributo do ato administrativo, refere-se à:",
+        options: [
+            "autoexecutoriedade",
+            "imperatividade",
+            "presunção de legitimidade",
+            "exigibilidade",
+            "tipicidade"
+        ],
+        answer: 0,
+        disclaimer: "A capacidade de a Administração Pública impor a materialidade do ato por seus próprios meios (inclusive uso de força policial, se necessário) é a Autoexecutoriedade."
+    },
+    {
+        topic: "Requisitos (Elementos) do Ato Administrativo",
+        supportText: "“É o que o ato prescreve, ou dispõe: o que o ato decide, enuncia, certifica, opina ou modifica na ordem jurídica. Em última análise, é a modificação do ordenamento jurídico. Por exemplo: a outorga de uso, no ato de permissão de uso de bem público; o desligamento do agente público, no ato de exoneração de funcionário; e o horário de funcionamento, no ato que fixa o expediente das repartições.”",
+        q: "Assinale a alternativa que apresenta essa definição de requisito de ato administrativo.",
+        options: [
+            "Objeto",
+            "Conteúdo",
+            "Causa",
+            "Forma",
+            "Finalidade"
+        ],
+        answer: 1,
+        disclaimer: "Na doutrina de Hely Lopes Meirelles, isso define o 'Objeto' ou 'Conteúdo' do ato administrativo (aquilo sobre o qual o ato dispõe). *Nota: a banca considerou 'Conteúdo' como resposta exata para a citação transcrita."
+    },
+    {
+        topic: "Requisitos (Elementos) do Ato Administrativo",
+        supportText: "Os requisitos do ato administrativo são os componentes que o ato deve reunir para ser perfeito e válido. Sete são os requisitos do ato administrativo para alguns doutrinadores, mas a base legal indica: competência, finalidade, forma, motivo e objeto.",
+        q: "Assinale a alternativa correta que corresponde a seguinte característica: “É a circunstância de fato ou de direito que autoriza ou impõe ao agente público a prática do ato administrativo.”",
+        options: [
+            "Motivo",
+            "Forma",
+            "Finalidade",
+            "Causa",
+            "Competência"
+        ],
+        answer: 0,
+        disclaimer: "O MOTIVO é a situação de fato e de direito que enseja a prática do ato. Não confundir com 'motivação' (que é a declaração escrita/justificativa do motivo)."
+    },
+    {
+        topic: "Atributos do Ato Administrativo",
+        supportText: "“É a qualidade do ato administrativo que impele o destinatário à obediência das obrigações por ele impostas, sem necessidade de qualquer apoio judicial. Em razão disso, o Estado pode exigir e obter dos destinatários do ato administrativo o cumprimento da obrigação ou do dever imposto, sem auxílio de ordem judicial”.",
+        q: "Assinale a alternativa que apresenta a definição de atributo do ato administrativo correspondente.",
+        options: [
+            "Presunção de legitimidade",
+            "Imperatividade",
+            "Exigibilidade",
+            "Autoexecutoriedade",
+            "Veracidade"
+        ],
+        answer: 2,
+        disclaimer: "Na divisão adotada por alguns doutrinadores (como Celso Antônio Bandeira de Mello), a Autoexecutoriedade se divide em 'Exigibilidade' (privilégio de exigir obediência sem ir ao Judiciário, via meios indiretos de coação, como multas) e 'Executoriedade' (uso direto da força material). *A banca apontou Exigibilidade como a resposta."
+    },
+    {
+        topic: "Invalidação dos Atos Administrativos",
+        supportText: "",
+        q: "Sobre a invalidação dos atos administrativos, assinale a afirmativa INCORRETA.",
+        options: [
+            "A anulação é a declaração de invalidade do ato administrativo produzido em desobediência à norma legal.",
+            "São insuscetíveis de revogação os atos administrativos que exauriram seus efeitos, isto é, aqueles cujos efeitos já tiverem esgotado.",
+            "Se admite a revogação praticada pelo Poder Legislativo de ato do Poder Executivo, quando no exercício de sua função típica legislativa.",
+            "A Administração pode revogar seus atos, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial.",
+            "O direito da Administração de anular os atos administrativos de que decorram efeitos favoráveis para os destinatários decai em cinco anos."
+        ],
+        answer: 2,
+        disclaimer: "A assertiva C está incorreta. A revogação recai sobre o MÉRITO (conveniência e oportunidade) de um ato, sendo função privativa do Poder ou Órgão que o editou. O Poder Legislativo não pode 'revogar' um ato do Poder Executivo (pode sustá-lo caso exorbite o poder regulamentar, mas isso é controle, não revogação por mérito)."
+    },
+    {
+        topic: "Perfeição, Validade e Eficácia",
+        supportText: "Sobre a formação e efeitos do ato administrativo, relacione adequadamente as colunas a seguir.\n1. Ato válido.\n2. Ato perfeito.\n3. Ato eficaz.\n( ) É o ato que completou as etapas (ciclo de formação) necessárias para sua existência.\n( ) É aquele apto a produzir os efeitos próprios do ato.\n( ) É aquele que foi praticado em absoluta conformidade com o ordenamento jurídico.",
+        q: "A sequência correta de cima para baixo é:",
+        options: [
+            "1, 2, 3.",
+            "3, 2, 1.",
+            "2, 3, 1.",
+            "2, 1, 3.",
+            "1, 3, 2."
+        ],
+        answer: 2,
+        disclaimer: "1) Perfeito: Completou o ciclo de formação e já existe. 2) Eficaz: Está apto a produzir efeitos (não depende de condição suspensiva). 3) Válido: Está de acordo com a lei."
+    },
+    {
+        topic: "Abuso de Poder (Excesso e Desvio)",
+        supportText: "O poder administrativo representa uma prerrogativa especial de direito público outorgada aos agentes do Estado. Cada um desses terá a seu cargo a execução de certas funções.\nAnalise as afirmativas abaixo:\nI. Abuso de poder é a conduta ilegítima do administrador, quando atua fora dos objetivos expressa ou implicitamente traçados na lei.\nII. Considera-se desvio de poder quando o agente atua fora dos limites de sua competência.\nIII. Excesso de poder ocorre quando o agente, embora dentro de sua competência, afasta-se do interesse público que deve nortear todo o desempenho administrativo.\nIV. O desvio de poder é a modalidade de abuso em que o agente busca alcançar fim diverso daquele que a lei lhe permitiu, a finalidade da lei está sempre voltada para o interesse público.",
+        q: "Com base nos seus conhecimentos, está(ão) CORRETA(S):",
+        options: [
+            "II e III, apenas.",
+            "I, II e III, apenas.",
+            "I e IV, apenas.",
+            "II e IV, apenas.",
+            "I, III e IV, apenas."
+        ],
+        answer: 2,
+        disclaimer: "As afirmativas II e III estão falsas porque INVERTERAM os conceitos. Excesso de Poder é atuar fora da competência (além do limite legal). Desvio de Poder (ou finalidade) é atuar dentro da competência, mas visando uma finalidade diversa do interesse público."
+    },
+    {
+        topic: "Requisitos (Elementos) do Ato Administrativo",
+        supportText: "",
+        q: "Relativamente ao ato administrativo, um dos seus elementos, denominado “objeto”, é:",
+        options: [
+            "o pressuposto de fato e de direito que serve de fundamento ao ato.",
+            "como o ato deve ser praticado, observadas as exigências legais.",
+            "o resultado mediato (finalidade) que a Administração quer alcançar com o ato.",
+            "o efeito jurídico imediato que o conteúdo do ato produz.",
+            "aquele a quem a lei atribui a incumbência para a prática do ato."
+        ],
+        answer: 3,
+        disclaimer: "Objeto (ou conteúdo) é o efeito jurídico imediato que o ato produz (cria, modifica, extingue direitos). A opção A é o Motivo. A opção B é a Forma. A opção C é a Finalidade. A opção E é a Competência."
+    },
+    {
+        topic: "Espécies de Atos Administrativos",
+        supportText: "",
+        q: "Em relação aos atos administrativos em espécie, podemos afirmar que os atos negociais:",
+        options: [
+            "são aqueles estabelecidos entre Administração e administrado em que há coincidência de interesses e requerimento do particular.",
+            "são aqueles em que a Administração certifica ou atesta um fato sem vincular ao seu conteúdo.",
+            "disciplinam o funcionamento da Administração e a conduta de seus agentes.",
+            "são atos gerais e abstratos visando a correta aplicação da lei.",
+            "são aqueles que emanam punições aos particulares e servidores."
+        ],
+        answer: 0,
+        disclaimer: "Atos negociais (ex: licenças, autorizações, permissões) contêm uma declaração de vontade do Poder Público coincidente com a pretensão (pedido) do particular."
+    },
+    {
+        topic: "Atributos do Ato Administrativo",
+        supportText: "Analise as assertivas e responda.\nI – Autoexecutoriedade.\nII – Tipicidade.\nIII – Imperatividade.",
+        q: "À luz do direito brasileiro, em que pese os atos administrativos, assinale a alternativa que indique as assertivas que se referem aos ATRIBUTOS do ato administrativo.",
+        options: [
+            "III, apenas.",
+            "I, II e III.",
+            "I e II, apenas.",
+            "II e III, apenas.",
+            "I e III, apenas."
+        ],
+        answer: 1,
+        disclaimer: "Segundo a doutrina majoritária (Maria Sylvia Zanella Di Pietro), os atributos do ato administrativo são: Presunção de Legitimidade, Imperatividade, Autoexecutoriedade e Tipicidade (PATI)."
+    },
+    {
+        topic: "Requisitos (Elementos) do Ato Administrativo",
+        supportText: "Alguns doutrinadores entendem ato administrativo como declaração do Estado ou daquele que o represente, produzindo efeitos jurídicos imediatos.",
+        q: "Nesse sentido, é INCORRETO afirmar ser um dos elementos (requisitos de validade) do ato administrativo:",
+        options: [
+            "forma.",
+            "finalidade.",
+            "objeto.",
+            "moralidade.",
+            "competência."
+        ],
+        answer: 3,
+        disclaimer: "Os cinco requisitos (elementos) de validade do ato administrativo (macete CO-FI-FO-M-OB) são: Competência, Finalidade, Forma, Motivo e Objeto. A Moralidade é um PRINCÍPIO Constitucional (Art. 37), mas não é um 'elemento' do ato."
+    },
+    {
+        topic: "Requisitos do Ato Administrativo (Vinculados)",
+        supportText: "Analise as assertivas e responda.\nI – Imperatividade.\nII – Competência.\nIII – Tipicidade.\nIV – Motivo.",
+        q: "Tratando dos atos administrativos, à luz do direito brasileiro, é CORRETO afirmar, entre as assertivas dispostas, ser(em) ELEMENTO(S) do ato administrativo SEMPRE vinculado(s):",
+        options: [
+            "III.",
+            "II, III e IV.",
+            "I e III.",
+            "II.",
+            "I, II e IV."
+        ],
+        answer: 3,
+        disclaimer: "Dentre as opções, a Competência (II) é elemento de validade sempre vinculado (a lei define quem pode fazer). Imperatividade e Tipicidade são atributos (não elementos). O Motivo (IV) e o Objeto podem ser discricionários em alguns atos."
+    },
+    {
+        topic: "Requisitos (Elementos) do Ato Administrativo",
+        supportText: "Em que pese o ato administrativo, trata-se de um de seus requisitos, definindo que deva respeitar os moldes exigidos para sua prática, sendo a materialização, ou seja, como ele se apresentará.",
+        q: "É CORRETO afirmar que o período anterior faz alusão ao requisito do ato administrativo denominado:",
+        options: [
+            "tipicidade.",
+            "forma.",
+            "imperatividade.",
+            "autoexecutoriedade.",
+            "legitimidade."
+        ],
+        answer: 1,
+        disclaimer: "A FORMA é o revestimento exterior do ato administrativo; é a maneira pela qual a declaração de vontade da Administração é exteriorizada e se materializa no mundo jurídico (geralmente por escrito)."
+    },
+    {
+        topic: "Características do Ato Administrativo",
+        supportText: "A declaração do Estado ou de quem o represente, que produza efeitos jurídicos imediatos, com observância da lei, sob o regime jurídico de direito público e sujeita ao controle pelo Poder Público, é a definição de um ato administrativo.",
+        q: "Nesse sentido, podemos afirmar se tratar de uma das CARACTERÍSTICAS (atributos) do ato administrativo a capacidade de impor obrigações unilateralmente a terceiros. Esse atributo é a:",
+        options: [
+            "finalidade.",
+            "competência.",
+            "imperatividade.",
+            "motivo.",
+            "objeto."
+        ],
+        answer: 2,
+        disclaimer: "A Imperatividade é o atributo pelo qual os atos administrativos se impõem a terceiros, criando obrigações ou restrições de direitos, independentemente da concordância do particular."
+    },
+    {
+        topic: "Competência Administrativa",
+        supportText: "",
+        q: "O poder decorrente da lei conferido ao agente administrativo para o desempenho regular de suas atribuições e para a prática de atos válidos denomina-se:",
+        options: [
+            "Prática.",
+            "Delegação.",
+            "Avocação.",
+            "Competência.",
+            "Vinculação."
+        ],
+        answer: 3,
+        disclaimer: "A Competência é o requisito que designa o poder-dever (atribuição legal) conferido ao agente para a prática do ato administrativo. Ninguém pode agir em nome do Estado se a lei não lhe conferir competência."
+    },
+    {
+        topic: "Atributos do Ato Administrativo (Tipicidade)",
+        supportText: "___________ é o atributo pelo qual o ato administrativo deve corresponder a figuras, previamente, definidas pela lei como aptas a produzir determinados efeitos. O presente atributo é uma verdadeira garantia ao particular que impede a Administração de agir, absolutamente, de forma discricionária criando atos innominados que punam o particular.",
+        q: "Assinale a alternativa que preenche, corretamente, a lacuna do texto:",
+        options: [
+            "Veracidade.",
+            "Tipicidade.",
+            "Autoexecutoriedade.",
+            "Imperatividade.",
+            "Presunção de legitimidade."
+        ],
+        answer: 1,
+        disclaimer: "A Tipicidade (trazida por Maria Sylvia Zanella Di Pietro) determina que o ato administrativo deve corresponder a um 'tipo' previamente definido na lei. O Estado não pode inventar um ato restritivo novo 'na hora', como ocorre nos contratos privados inominados."
+    },
+    {
+        topic: "Controle dos Atos Administrativos",
+        supportText: "",
+        q: "Com relação aos atos administrativos, assinale a alternativa correta.",
+        options: [
+            "O Poder Judiciário pode revogar atos administrativos pautados no mérito de conveniência da Administração.",
+            "Os atos administrativos gozam de presunção de veracidade, pois atestam fatos verdadeiros e não admitem prova em contrário.",
+            "A possibilidade de a Administração pôr em execução suas decisões, por meios próprios, decorre do atributo da autoexecutoriedade.",
+            "O Poder Judiciário pode anular um ato administrativo, quando eivado de vício de legalidade, ou revogá-lo por motivo de conveniência e oportunidade.",
+            "Os atos administrativos não podem sofrer controle de constitucionalidade."
+        ],
+        answer: 2,
+        disclaimer: "A autoexecutoriedade permite que a Administração exija o cumprimento do ato por meios diretos. Erros: Judiciário não revoga ato do Executivo (A e D); presunção de veracidade é relativa (juris tantum) e admite prova em contrário (B)."
+    },
+    {
+        topic: "Anulação de Atos Administrativos",
+        supportText: "",
+        q: "A anulação de ato administrativo:",
+        options: [
+            "é de competência exclusiva da Administração pública, não podendo ser efetivada pelo Poder Judiciário.",
+            "produz efeitos ex nunc, ou seja, retroativos à data em que foi emitido.",
+            "corresponde ao desfazimento do ato por razões de ilegalidade (vício de legalidade).",
+            "depende obrigatoriamente de provocação do interessado, não podendo ser de ofício.",
+            "corresponde ao processo de que se vale a Administração pública para aproveitar atos administrativos com vícios superáveis."
+        ],
+        answer: 2,
+        disclaimer: "A anulação desfaz o ato inválido/ilegal e tem efeitos retroativos (ex tunc). Erros: O Judiciário também pode anular (A); Efeitos são ex tunc (B); Pode ser de ofício pela autotutela (D); Aproveitar ato com vício superável chama-se Convalidação (E)."
+    },
+    {
+        topic: "Poderes da Administração (Poder Regulamentar/Normativo)",
+        supportText: "",
+        q: "O art. 84, inciso VI, da Constituição Federal dispõe sobre a competência privativa do Presidente da República para dispor, mediante decreto, sobre a organização e o funcionamento da administração federal, quando não implicar aumento de despesa nem criação ou extinção de órgãos públicos. Trata-se de expressão do poder administrativo:",
+        options: [
+            "vinculado",
+            "de polícia",
+            "disciplinar",
+            "regulamentar (ou normativo autônomo)",
+            "hierárquico"
+        ],
+        answer: 3,
+        disclaimer: "O Decreto Autônomo (Art. 84, VI da CF) é uma manifestação direta do Poder Regulamentar/Normativo do Chefe do Executivo para organizar internamente a administração sem precisar de lei (desde que não aumente despesa nem crie/extinga órgãos)."
+    },
+    {
+        topic: "Poder Disciplinar",
+        supportText: "Toda Administração necessita de instrumentos para que o seu objetivo seja alcançado. Os poderes administrativos têm esse caráter instrumental.",
+        q: "Assinale a alternativa que apresenta o poder administrativo que pode punir internamente as infrações funcionais dos servidores e pessoas sujeitas à relação especial com Administração Pública.",
+        options: [
+            "Poder disciplinar",
+            "Poder Hierárquico",
+            "Poder Regulamentar",
+            "Poder de polícia",
+            "Poder vinculado"
+        ],
+        answer: 0,
+        disclaimer: "O Poder Disciplinar é a prerrogativa de apurar infrações e aplicar penalidades aos servidores públicos e demais pessoas sujeitas à disciplina especial da Administração (ex: alunos de escolas públicas, concessionárias)."
+    },
+    {
+        topic: "Deveres do Administrador Público",
+        supportText: "Conforme previsto na doutrina clássica do Direito Administrativo, o regime jurídico-administrativo engloba prerrogativas (poderes) e sujeições (deveres).",
+        q: "Assinale a alternativa que apresenta os deveres fundamentais do administrador público, distintos dos poderes administrativos.",
+        options: [
+            "Dever de eficiência; dever de razoabilidade; dever de punir; e, poder-dever vinculado.",
+            "Poder-dever de agir; dever de probidade; dever de prestar contas; e, dever de eficiência.",
+            "Poder-dever de polícia; dever normativo; dever de transparência; e, dever hierárquico.",
+            "Dever de moralidade; dever de eficácia; dever de legalidade; e, poder-dever de improbidade.",
+            "Dever de impessoalidade; dever de transparência; dever de tributar; e, poder-dever normativo."
+        ],
+        answer: 1,
+        disclaimer: "Na doutrina de Hely Lopes Meirelles, os deveres do administrador público são: o poder-dever de agir, o dever de eficiência, o dever de probidade e o dever de prestar contas."
+    },
+    {
+        topic: "Poderes Administrativos",
+        supportText: "",
+        q: "Sobre os poderes administrativos, assinale a afirmativa correta.",
+        options: [
+            "Um ato administrativo pode decorrer do uso de mais de um poder.",
+            "O poder disciplinar justifica a interdição de uma escola particular por condições insalubres.",
+            "O poder de polícia justifica a demissão de um agente militar por abandono de cargo.",
+            "Um ato administrativo jamais pode decorrer simultaneamente do poder hierárquico e do poder disciplinar.",
+            "O poder regulamentar é utilizado primariamente para a aplicação de multas de trânsito."
+        ],
+        answer: 0,
+        disclaimer: "É perfeitamente possível que um ato combine poderes. Por exemplo, a demissão de um servidor subalterno decorre do Poder Disciplinar (para punir) e do Poder Hierárquico (que estrutura a competência do chefe para aplicar a sanção). Erros: Interdição de escola e multa (Polícia); demissão (Disciplinar)."
+    },
+    {
+        topic: "Abuso de Poder",
+        supportText: "",
+        q: "Um ato emanado por autoridade pública competente, porém visando alcançar objetivo não previsto na lei ou distorcendo a finalidade de interesse público, incorre em abuso de poder da espécie:",
+        options: [
+            "desvio de poder (ou de finalidade).",
+            "excesso de poder.",
+            "desvio de atribuição.",
+            "abuso de autoridade.",
+            "excesso de competência."
+        ],
+        answer: 0,
+        disclaimer: "O Abuso de Poder divide-se em dois: 1) Excesso de Poder (o agente atua FORA de sua competência legal) e 2) Desvio de Poder/Finalidade (o agente tem competência, mas atua buscando um FIM ILEGAL ou diverso do interesse público)."
+    },
+    {
+        topic: "Poder de Polícia",
+        supportText: "",
+        q: "Considere um ato administrativo de apreensão de mercadoria, fora do prazo de validade, em um supermercado, realizada pelo órgão público competente. É correto afirmar que referido ato emana do poder administrativo:",
+        options: [
+            "de polícia e pode ser anulado pelo Poder Judiciário, se eivado de ilegalidade.",
+            "regulamentar e pode ser revogado a qualquer tempo.",
+            "disciplinar e não pode ser suspenso pelo Poder Legislativo.",
+            "discricionário puro e não pode ser anulado pelo Poder Judiciário.",
+            "vinculado e depende de autorização prévia e juízo de oportunidade do judiciário."
+        ],
+        answer: 0,
+        disclaimer: "A apreensão de mercadorias vencidas (restrição a direitos individuais em prol da coletividade) decorre do Poder de Polícia. Como todo ato administrativo, se for praticado com abuso ou ilegalidade, está sujeito ao controle e anulação (não revogação) pelo Poder Judiciário."
+    },
+    {
+        topic: "Poder de Polícia (Atributos)",
+        supportText: "",
+        q: "A atuação da Administração Pública no exercício do poder de polícia:",
+        options: [
+            "demanda relação de subordinação (vínculo especial) e manifesta-se na forma de medidas sancionatórias internas.",
+            "restringe-se ao âmbito interno da Administração, não alcançando terceiros sem vínculo jurídico com o Estado.",
+            "possui como um de seus atributos a autoexecutoriedade (executoriedade), que assegura a execução material pelo Estado independentemente de autorização judicial prévia.",
+            "é sempre dotada de coercibilidade e autoexecutoriedade em 100% de seus atos (como multas não pagas).",
+            "restringe-se a proibições de conduta (não fazer), não abrangendo imposição de obrigações de fazer."
+        ],
+        answer: 2,
+        disclaimer: "A autoexecutoriedade permite à Administração executar suas decisões por meios próprios (ex: guinchar um carro). Erros: O poder de polícia incide sobre quem NÃO tem vínculo especial (particulares em geral); a multa NÃO tem autoexecutoriedade para cobrança forçada; abrange também ordens de 'fazer' (ex: construir calçada)."
+    },
+    {
+        topic: "Poder Vinculado",
+        supportText: "",
+        q: "Em luto pelo falecimento do seu irmão, o servidor Lauro requereu o afastamento do trabalho por alguns dias (licença nojo). Nesse caso, preenchidos os requisitos fáticos e temporais da lei, a Administração Pública deverá analisar o requerimento por meio de:",
+        options: [
+            "ato administrativo discricionário.",
+            "ato administrativo misto, discricionário quanto à quantidade de dias de afastamento.",
+            "ato administrativo enunciativo.",
+            "ato administrativo político.",
+            "ato administrativo vinculado."
+        ],
+        answer: 4,
+        disclaimer: "A licença por falecimento (nojo) é um direito estabelecido em lei (ex: Lei 8.112/90 prevê 8 dias). Atestado o óbito do parente, não cabe ao gestor decidir se concede ou não, o ato é estritamente Vinculado."
+    },
+    {
+        topic: "Poderes da Administração Pública",
+        supportText: "Acerca dos poderes da Administração Pública, analise os itens abaixo:\nI. O poder de polícia não está condicionado à vontade do administrado e nem à prévia aprovação do Poder Judiciário.\nII. O poder hierárquico se confunde com o poder normativo, pois a sanção depende da norma de autoridade.\nIII. O poder vinculado é também discricionário, já que o administrador pode escolher a fonte normativa mais adequada para atingir ao interesse público.",
+        q: "Está(ão) correto(s) o(s) item(ns):",
+        options: [
+            "apenas I.",
+            "apenas II.",
+            "apenas III.",
+            "apenas I e II.",
+            "I, II e III."
+        ],
+        answer: 0,
+        disclaimer: "I é correta (atributos da coercibilidade e autoexecutoriedade). II é falsa (poder hierárquico atua na estruturação e subordinação interna; poder normativo atua criando normas gerais e abstratas). III é falsa (poder vinculado opõe-se ao discricionário, não havendo margem de escolha)."
+    },
+    {
+        topic: "Poder Discricionário",
+        supportText: "Dentre os Poderes da Administração Pública, destacamos o Poder Discricionário, o qual para ser exercido exige que caiba ao agente público alguma margem de valoração (liberdade dentro da lei).",
+        q: "Assinale a alternativa que expressa corretamente os elementos (ou aspectos) nucleares do poder discricionário.",
+        options: [
+            "Forma e competência.",
+            "Conveniência e oportunidade.",
+            "Sujeito e finalidade.",
+            "Competência e finalidade.",
+            "Mérito e forma."
+        ],
+        answer: 1,
+        disclaimer: "A margem de escolha concedida ao administrador público no poder discricionário baseia-se no juízo de 'conveniência' (o que é melhor) e 'oportunidade' (qual o melhor momento). Isso compõe o chamado 'Mérito Administrativo'."
+    },
+    {
+        topic: "Poder de Polícia (Atributos e Espécies)",
+        supportText: "Sobre o poder de polícia, avalie as afirmações a seguir e informe (V) para as verdadeiras e (F) para as falsas.\n( ) A discricionariedade, a autoexecutoriedade e a coercibilidade são consideradas seus atributos.\n( ) A Administração poderá implantar preço público (tarifa) em razão do exercício do poder de polícia.\n( ) A fiscalização praticada por agentes administrativos em parques florestais é considerada uma aplicação prática do poder de polícia.\n( ) O poder de polícia se baseia precipuamente no princípio da proporcionalidade, pois a administração toma suas decisões e as faz serem cumpridas por seus próprios meios (sem o Judiciário).",
+        q: "A sequência correta é:",
+        options: [
+            "V, F, V, V.",
+            "V, F, V, F.",
+            "F, V, F, V.",
+            "F, V, F, F.",
+            "F, F, V, V."
+        ],
+        answer: 1,
+        disclaimer: "1ª Verdadeira (DAC são os atributos). 2ª Falsa: o exercício do poder de polícia é remunerado por TAXA (tributo), e não por preço público/tarifa. 3ª Verdadeira: polícia florestal/ambiental é polícia administrativa. 4ª Falsa: tomar a decisão e fazê-la cumprir por meios próprios é o conceito de AUTOEXECUTORIEDADE, e não 'proporcionalidade'."
+    },
+    {
+        topic: "Poder Regulamentar (Normativo)",
+        supportText: "",
+        q: "O poder regulamentar da Administração se fundamenta primariamente na capacidade de:",
+        options: [
+            "editar normas gerais e complementares à lei, visando a sua fiel execução (ex: Decretos e Regulamentos).",
+            "organizar a atividade administrativa, inclusive com a avocação de competências e criação de órgãos.",
+            "determinar limitações materiais à atuação de particulares, em benefício da coletividade, nos limites da lei.",
+            "exercer o controle da atividade de órgãos inferiores, dando ordem a subordinados e verificando a legalidade dos atos.",
+            "averiguar a ocorrência de infrações e aplicar eventuais penalidades aos servidores públicos e particulares ligados por contrato."
+        ],
+        answer: 0,
+        disclaimer: "O Poder Regulamentar é a prerrogativa do Chefe do Poder Executivo (e o Normativo das demais autoridades) de editar atos gerais e abstratos para explicar a lei e possibilitar sua fiel execução. (B e D referem-se ao Hierárquico; C ao de Polícia; E ao Disciplinar)."
+    },
+    {
+        topic: "Poderes Administrativos",
+        supportText: "No que se refere aos poderes administrativos: hierárquico, disciplinar, regulamentar e de polícia.",
+        q: "Assinale a alternativa CORRETA:",
+        options: [
+            "O Poder Regulamentar somente pode dar-se 'secundum legem', ou seja, em conformidade estrita com o conteúdo da lei e nos limites que esta impuser para regulamentá-la.",
+            "O Poder disciplinar é o escalonamento em plano vertical dos órgãos e agentes da Administração que tem como objetivo a organização da função administrativa.",
+            "O Poder hierárquico significa toda e qualquer ação restritiva do Estado em relação aos direitos e liberdades individuais da sociedade.",
+            "O Poder de polícia é a prerrogativa conferida à Administração Pública de editar atos gerais para complementar as leis e permitir a sua efetiva aplicação.",
+            "O Poder normativo é uma exclusividade restrita às Agências Reguladoras independentes."
+        ],
+        answer: 0,
+        disclaimer: "O Poder Regulamentar não pode inovar no ordenamento jurídico criando direitos ou obrigações não previstos na lei, ele atua sempre secundum legem (segundo a lei). Os conceitos das letras B, C e D foram misturados propositalmente."
+    },
+    {
+        topic: "Poder Discricionário",
+        supportText: "“Esse é o poder que concede à Administração, na forma de modo implícito ou explícito, a prática de atos administrativos com liberdade de escolha sobre oportunidade, conteúdo e conveniência nos limites da lei.“",
+        q: "O trecho acima diz respeito ao:",
+        options: [
+            "Poder hierárquico.",
+            "Poder discricionário.",
+            "Poder disciplinar.",
+            "Poder regulamentar.",
+            "Poder de polícia."
+        ],
+        answer: 1,
+        disclaimer: "A liberdade de escolha e a margem de manobra concedidas pela lei para que o administrador decida com base em critérios de conveniência e oportunidade definem o Poder Discricionário."
+    },
+    {
+        topic: "Poder de Polícia (Limites)",
+        supportText: "",
+        q: "Sobre os atos administrativos da Vigilância Sanitária e o Poder de Polícia, é CORRETO afirmar que:",
+        options: [
+            "os atos administrativos da Vigilância não são dotados de autoexecutoriedade.",
+            "independem das providências previstas na legislação, como permitir aos administrados o exercício do contraditório e da ampla defesa.",
+            "As ações são aplicáveis às condutas individuais que, obrigatoriamente, constituem crimes previstos no Código Penal.",
+            "As ações devem sempre observar a proporcionalidade da sanção e a legalidade dos meios empregados pela administração, sob pena de abuso de poder.",
+            "O poder de Polícia é a faculdade de que dispõe a Administração Privada para condicionar e restringir atividades do Estado."
+        ],
+        answer: 3,
+        disclaimer: "Nenhum poder da Administração é absoluto. O Poder de Polícia encontra limites nos direitos fundamentais (contraditório) e no uso dos meios (proporcionalidade, razoabilidade e legalidade), evitando abusos ou excessos na punição ou restrição."
+    },
+    {
+        topic: "Poder de Polícia (Manifestações)",
+        supportText: "",
+        q: "A interdição de um estabelecimento comercial e a demolição de construção irregular com iminente risco de desabamento são um exemplo prático de atuação da Administração Pública fundada no exercício do poder:",
+        options: [
+            "de polícia.",
+            "disciplinar.",
+            "regulamentar.",
+            "hierárquico.",
+            "normativo."
+        ],
+        answer: 0,
+        disclaimer: "Atos que restringem, limitam, interditam ou condicionam o uso da propriedade privada ou o exercício de liberdades individuais em favor do interesse da coletividade são emanados do Poder de Polícia."
+    },
+    {
+        topic: "Poder Disciplinar",
+        supportText: "Com relação aos poderes da Administração, assinale a alternativa correta.",
+        options: [
+            "O poder de polícia é prerrogativa exclusiva de direito público, não podendo ser exercido, em sua plenitude sancionatória e normativa, por entidades da administração pública indireta de direito privado.",
+            "O dever de aplicar penalidade a servidor público por eventual infração funcional decorre diretamente do poder de polícia.",
+            "A atuação do agente público que pratica determinado ato buscando finalidade diversa da estabelecida em lei configura hipótese de excesso de poder.",
+            "A possibilidade de a Administração aplicar sanções a particulares que estejam vinculados à Administração por meio de vínculo jurídico específico (ex: um contrato de prestação de serviços) está relacionada e decorre do poder disciplinar.",
+            "O poder regulamentar abrange a edição de leis delegadas pelo Presidente da República."
+        ],
+        answer: 3,
+        disclaimer: "O Poder Disciplinar não se aplica apenas aos servidores (punir infrações funcionais), ele alcança também os PARTICULARES que possuem VÍNCULO ESPECÍFICO com a Administração (como alunos de escola pública e empresas contratadas através de licitação)."
+    },
+    {
+        topic: "Poder de Polícia (Conceito)",
+        supportText: "",
+        q: "Quando o Poder Público interfere na órbita do interesse privado para salvaguardar o interesse público, limitando, disciplinando ou restringindo direitos, liberdades ou o uso da propriedade individual, atua no exercício do poder:",
+        options: [
+            "de polícia.",
+            "hierárquico.",
+            "regulamentar.",
+            "disciplinar.",
+            "estritamente vinculado."
+        ],
+        answer: 0,
+        disclaimer: "Esta é a definição clássica e legal (art. 78 do CTN) do Poder de Polícia: condicionar e restringir o uso de bens e direitos em benefício da coletividade."
+    },
+    {
+        topic: "Poder Hierárquico",
+        supportText: "A hierarquia administrativa prevê a competência ao Poder Executivo para distribuir e escalonar as funções de seus órgãos, ordenar e rever a atuação de seus agentes, estabelecendo a relação de subordinação entre os supervisores de seu quadro de pessoal. Do exercício dessa atribuição decorrem as competências ou o poder de dar ordens, de fiscalizar, de rever, de delegar e de avocar.",
+        q: "Quando o administrador público exerce a competência de determinar ao subordinado o ato a ser praticado ou a conduta a ser observada dentro do órgão, ele está exercendo a faculdade de:",
+        options: [
+            "avocar.",
+            "delegar.",
+            "ordenar.",
+            "fiscalizar.",
+            "disciplinar."
+        ],
+        answer: 2,
+        disclaimer: "Emitir determinações e transmitir comandos obrigatórios aos subordinados (comando) é o que caracteriza a faculdade de 'ordenar', decorrente do Poder Hierárquico interno."
+    },
+    {
+        topic: "Controle Judicial sobre o Poder de Polícia",
+        supportText: "",
+        q: "Acerca dos poderes da Administração Pública, é CORRETO afirmar:",
+        options: [
+            "O poder de polícia, ainda que seja essencialmente discricionário, está sob controle de legalidade (e não de mérito) do Poder Judiciário em caso de abusos.",
+            "O poder regulamentar do Poder Executivo é inteiramente autônomo e não está sujeito a nenhum controle de sustação do Legislativo ou anulação do Judiciário.",
+            "O poder hierárquico é aquele usado pela administração para punir servidores e particulares sujeitos às regras administrativas de polícia.",
+            "Entre a administração indireta (ex: autarquias) e os entes federativos (ministérios) que as instituíram há a presença de estrita subordinação hierárquica.",
+            "O poder discricionário é aquele de que dispõe a administração para a prática de atos administrativos em que é nula ou inexistente a sua liberdade de atuação."
+        ],
+        answer: 0,
+        disclaimer: "O Judiciário não pode revogar atos ou adentrar no mérito (conveniência e oportunidade), mas PODE e DEVE analisar e anular qualquer ato de polícia que exceda os limites da legalidade, da razoabilidade ou da proporcionalidade."
+    },
+    {
+        topic: "Poder Discricionário",
+        supportText: "",
+        q: "A prerrogativa da autoridade pública competente de eleger, entre as condutas possíveis e lícitas, a que represente maior conveniência e oportunidade ao interesse público no caso concreto, decorre do poder:",
+        options: [
+            "discricionário.",
+            "finalístico.",
+            "controlador.",
+            "vinculante.",
+            "impessoal."
+        ],
+        answer: 0,
+        disclaimer: "A escolha da alternativa mais adequada (liberdade restrita pela lei) fundamentada nos critérios de conveniência e oportunidade constitui o Poder Discricionário."
+    },
+    {
+        topic: "Poder Regulamentar (Decreto Autônomo)",
+        supportText: "Antônio, Presidente da República, editou um decreto para extinguir o cargo de auxiliar de laboratório dos quadros do Ministério da Saúde, pois não haviam mais servidores nomeados para ocupar esse cargo (o cargo estava vago).",
+        q: "Ao editar tal decreto extinguindo cargo público vago de forma originária, o Presidente da República agiu no uso legítimo do poder:",
+        options: [
+            "de polícia.",
+            "disciplinar.",
+            "legislativo puro.",
+            "discricionário sancionador.",
+            "regulamentar (normativo via decreto autônomo)."
+        ],
+        answer: 4,
+        disclaimer: "A CRFB/88 permite expressamente que o Presidente da República use Decreto Autônomo para extinguir funções ou cargos públicos QUANDO VAGOS (Art. 84, VI, 'b'). Isso é a expressão máxima do Poder Regulamentar primário/normativo do Chefe do Executivo."
+    },
+    {
+        topic: "Discricionariedade na Autorização/Porte",
+        supportText: "",
+        q: "A designação ou autorização concedida pela administração a um servidor público para o porte de arma de fogo funcional, quando a lei permite uma margem de análise de perfil:",
+        options: [
+            "é discricionária (concedida se for conveniente e oportuno) e precária (pode ser revogada).",
+            "é ato perfeitamente vinculado e independente da manutenção dos requisitos psicológicos.",
+            "é uma prerrogativa e um direito líquido e certo do servidor, imutável.",
+            "é prerrogativa inerente ao poder de polícia que pune os infratores.",
+            "não pode ser revogada ou cassada em nenhuma hipótese enquanto o servidor permanecer em exercício."
+        ],
+        answer: 0,
+        disclaimer: "Atos de autorização (como porte de arma ou autorização para uso de bem público) são, via de regra, discricionários (julgamento de conveniência) e precários (a administração pode cassar a qualquer momento se o interesse público mudar)."
+    },
+    {
+        topic: "Poder Vinculado",
+        supportText: "",
+        q: "Assinale a alternativa que expressa corretamente a definição de Poder Vinculado.",
+        options: [
+            "É aquele que o Direito Positivo (a lei) confere à Administração Pública para a prática de ato de sua competência, determinando estritamente os elementos e requisitos necessários à sua formalização, sem margem de escolha.",
+            "É o que o Direito concede à Administração, de modo explícito ou implícito, para a prática de atos administrativos com total liberdade na escolha de sua conveniência, oportunidade e conteúdo.",
+            "É o poder de que dispõe o Executivo para distribuir e escalonar as funções de seus órgãos, ordenar e rever a atuação de seus agentes subordinados.",
+            "É a faculdade de punir internamente as infrações funcionais dos servidores e demais pessoas sujeitas à disciplina dos órgãos e serviços da Administração.",
+            "É a capacidade normativa da administração direta de expedir decretos e portarias regulamentares."
+        ],
+        answer: 0,
+        disclaimer: "No Poder Vinculado (ou Regrado), o agente público atua como 'boca da lei'. Uma vez preenchidos os requisitos que a lei determina, o administrador tem a obrigação de agir exatamente como o texto legal ordena."
+    },
+    {
+        topic: "Extinção dos Atos (Anulação)",
+        supportText: "",
+        q: "Assinale a alternativa que indica o termo usado especificamente para a declaração de invalidação de um ato administrativo ilegítimo ou ilegal (eivado de vício), feita pela própria Administração por autotutela ou pelo Poder Judiciário, apagando seus efeitos para o passado.",
+        options: [
+            "Convalidação.",
+            "Revogação.",
+            "Anulação.",
+            "Reversão.",
+            "Suspensão."
+        ],
+        answer: 2,
+        disclaimer: "A Anulação é o desfazimento de atos ilegais ou ilegítimos. Diferencia-se da Revogação, que é o desfazimento de atos legais por motivo de mérito/conveniência."
+    },
+    {
+        topic: "Identificação dos Poderes",
+        supportText: "Analise as definições das prerrogativas da Administração Pública a seguir:\nI. Trata-se de poder de impor sanções, sempre que houver infração de caráter funcional do servidor.\nII. Diz respeito ao poder de expedição de atos com efeitos gerais e abstratos para facilitar a execução das leis.\nIII. Tem como objetivo propiciar a organização, a fiscalização e a correição das atividades exercidas pelos órgãos e funcionários subordinados vinculados.\nIV. Destina-se a assegurar o bem-estar da sociedade e o interesse público, impedindo, limitando ou condicionando o exercício abusivo dos direitos individuais.",
+        q: "Considerando as assertivas, assinale a associação correta das definições apontadas com os seus respectivos poderes:",
+        options: [
+            "I. Poder de Polícia; II. Poder Regulamentar; III. Poder Disciplinar; IV. Poder Hierárquico.",
+            "I. Poder Hierárquico; II. Poder de Polícia; III. Poder Disciplinar; IV. Poder Regulamentar.",
+            "I. Poder Disciplinar; II. Poder Regulamentar; III. Poder Hierárquico; IV. Poder de Polícia.",
+            "I. Poder Disciplinar; II. Poder Hierárquico; III. Poder Regulamentar; IV. Poder de Polícia.",
+            "I. Poder Regulamentar; II. Poder de Polícia; III. Poder Hierárquico; IV. Poder Disciplinar."
+        ],
+        answer: 2,
+        disclaimer: "Infração funcional = Disciplinar (I). Atos gerais e abstratos = Regulamentar (II). Estruturar e fiscalizar subordinados = Hierárquico (III). Limitar direitos individuais pró-coletividade = Polícia (IV)."
+    },
+    {
+        topic: "Poder Disciplinar (Processo Administrativo)",
+        supportText: "Em desfavor de Otto, um funcionário público municipal, foi aberta sindicância administrativa, com vistas a apurar notícia de desídia por aquele quanto às atribuições de seu cargo. Ao término da sindicância, houve a abertura de um processo administrativo (PAD) em face do citado servidor. O feito teve o seu trâmite regular e, ao final, resultou-se em uma penalidade administrativa (suspensão) a ser imposta em desfavor de Otto.",
+        q: "Considerando as informações anteriores, assinale o poder da Administração Pública que confere diretamente a prerrogativa (e o poder-dever) de aplicação dessa penalidade em face do servidor Otto.",
+        options: [
+            "De polícia.",
+            "Vinculado genérico.",
+            "Disciplinar.",
+            "Regulamentar.",
+            "Hierárquico."
+        ],
+        answer: 2,
+        disclaimer: "Aplicar penalidades a agentes públicos devido a falhas e infrações funcionais é a exteriorização material primária do Poder Disciplinar."
+    },
+    {
+        topic: "Poderes e Organização da Administração",
+        supportText: "Com relação à Administração Pública, julgue os itens seguintes.\nI. Os poderes da Administração Pública consistem em prerrogativas especiais e instrumentos de autoridade que o ordenamento jurídico confere ao Estado para que este cumpra suas finalidades institucionais para a busca do interesse público superior.\nII. A Administração Pública tem como objetivo e dever trabalhar em favor do interesse público e dos direitos e interesses da coletividade que administra.\nIII. A Administração Pública conta com a chamada administração indireta, a qual é formada por pessoas jurídicas próprias e está ligada à administração pública direta por meio de uma estrita relação de subordinação hierárquica; nesse sentido, a administração indireta também é conhecida como administração descentralizada controlada.",
+        q: "Assinale a alternativa correta.",
+        options: [
+            "Apenas os itens I e II estão certos.",
+            "Apenas os itens I e III estão certos.",
+            "Apenas os itens II e III estão certos.",
+            "Todos os itens estão certos.",
+            "Apenas o item I está certo."
+        ],
+        answer: 0,
+        disclaimer: "A afirmativa III está errada pois INEXISTE subordinação hierárquica entre a Administração Direta e a Indireta. O que existe é Vinculação (tutela administrativa / supervisão ministerial)."
+    },
+    {
+        topic: "Poder de Polícia (Autoexecutoriedade)",
+        supportText: "De acordo com a doutrina de Direito Administrativo sobre o poder de polícia, analise as afirmativas marcando C para as Certas e E para as Erradas:\n( ) Nem toda atuação ou medida de polícia administrativa pode ser levada a termo de forma autoexecutória (por meios diretos da própria administração sem o Judiciário).\n( ) A cobrança coercitiva de multas administrativas de polícia, quando o pagamento for resistido ou ignorado pelo particular infrator, é um clássico exemplo de ato não autoexecutório (depende de Execução Fiscal no Judiciário).",
+        q: "Assinale a alternativa que apresenta a sequência CORRETA:",
+        options: [
+            "C - C.",
+            "C - E.",
+            "E - C.",
+            "E - E.",
+            "C - E - C."
+        ],
+        answer: 0,
+        disclaimer: "A multa tem 'exigibilidade' (impõe uma obrigação legal imperativa de pagar), mas NÃO possui 'executoriedade' material imediata: a prefeitura não pode invadir a conta bancária do infrator; ela precisa inscrevê-lo em Dívida Ativa e executar a dívida via Poder Judiciário."
+    },
+    {
+        topic: "Poder Discricionário e Vinculado",
+        supportText: "Os poderes administrativos têm fundamento e instrumentalidade para a administração que expõem suas diferenças no que toca às exigências do serviço público juntamente com a coletividade.",
+        q: "Com essa diversidade, classifica-se a limitação ou a liberdade (margem de escolha) concedida pela lei à administração para a prática de seus próprios atos na divisão dos poderes:",
+        options: [
+            "de polícia geral e especial.",
+            "regulamentar primário e secundário.",
+            "vinculado (regrado) e discricionário (com margem de mérito).",
+            "hierárquico e disciplinar sancionador.",
+            "punitivo e normativo originário."
+        ],
+        answer: 2,
+        disclaimer: "A divisão doutrinária baseada na 'liberdade (ou ausência dela) conferida à Administração para agir' estrutura a dicotomia fundamental entre Poder Vinculado (lei não deixa margem) e Poder Discricionário (lei deixa margem de conveniência)."
     }
 ];
 
@@ -5308,6 +6847,4896 @@ const banco_noc_adm = [
         ],
         answer: 2,
         disclaimer: "Questão extraída da prova PGM-RJ (FGV). O modelo Gerencial (Nova Gestão Pública) foca na eficiência, descentralização, controle por resultados (a posteriori) e importação de boas práticas do mercado. O DASP (anos 1930) introduziu o modelo Burocrático, e não o Patrimonialista."
+    },
+    {
+        topic: "Planejamento Estratégico",
+        supportText: "",
+        q: "A organização se constitui na interação entre três tipos de planos ditos estratégicos, táticos e operacionais. O planejamento estratégico se caracteriza:",
+        options: [
+            "por planos genéricos, orientação de médio prazo e riscos menores.",
+            "pelo foco na empresa como um todo, riscos maiores e prazos mais longos.",
+            "pelo foco nos departamentos da empresa, riscos maiores e prazos mais curtos.",
+            "pelo foco em tarefas rotineiras, flexibilidade menor e objetivos específicos.",
+            "por orientação externa, objetivos gerais e planos genéricos e atividades meios."
+        ],
+        answer: 1,
+        disclaimer: "O planejamento estratégico abrange a organização como um todo (foco macro), lida com maiores incertezas (riscos maiores) e é orientado para o longo prazo."
+    },
+    {
+        topic: "Planejamento Estratégico",
+        supportText: "",
+        q: "Sobre a Metodologia de OKR (Objectives and Key Results), assinale a alternativa correta.",
+        options: [
+            "É uma metodologia de gestão que pode ser compreendida, de modo simplificado, como uma fórmula para definir metas a partir de um objetivo e um conjunto de resultados-chave esperados.",
+            "É uma metodologia de gestão de pessoas integradas exclusivamente em projetos de tecnologia.",
+            "É uma metodologia de comunicação que combina canais digitais e analógicos.",
+            "É uma metodologia de comunicação que só pode ser aplicada a projetos de pequeno porte de municípios com até 50 mil habitantes.",
+            "É uma ferramenta de programação de computadores ideal para a produção de sites."
+        ],
+        answer: 0,
+        disclaimer: "OKR (Objetivos e Resultados-Chave) é um framework de definição de metas ágil. O 'Objective' é o que se deseja alcançar (direcionamento) e os 'Key Results' são as métricas quantitativas que indicam se o objetivo foi atingido."
+    },
+    {
+        topic: "Planejamento Estratégico",
+        supportText: "",
+        q: "O conceito de materialidade oferece insumos para a condução estratégica e deve ser considerado dentro do processo de planejamento estratégico da organização. A partir das metas de ESG, esse conceito ganhou uma ampliação denominada de “dupla materialidade”, que abrange duas perspectivas:",
+        options: [
+            "investimentos em inovação tecnológica e filantropia.",
+            "regionais e globais.",
+            "políticas e sociais.",
+            "financeiras e de impacto para a sociedade e planeta.",
+            "investimentos em recuperação de áreas degradadas e redução de externalidades."
+        ],
+        answer: 3,
+        disclaimer: "A 'dupla materialidade' em ESG (Environmental, Social, and Governance) exige que a organização considere não apenas o impacto financeiro das questões ESG sobre o seu próprio negócio (materialidade financeira), mas também o impacto do seu negócio sobre as pessoas e o meio ambiente (materialidade de impacto)."
+    },
+    {
+        topic: "Planejamento Estratégico",
+        supportText: "",
+        q: "O planejamento estratégico é:",
+        options: [
+            "inflexível, departamental e promove articulação interna.",
+            "micro-orientado, se utiliza de habilidade técnica e promove articulação interna.",
+            "focado no objetivo, de curto prazo e macro-orientado.",
+            "instantâneo, de curto prazo e micro-orientado.",
+            "flexível, de longo prazo e lida com incertezas."
+        ],
+        answer: 4,
+        disclaimer: "O planejamento estratégico é voltado para o longo prazo, analisa o ambiente externo (onde há maior nível de incerteza) e deve possuir flexibilidade para adaptações de curso, sempre focado na organização como um todo."
+    },
+    {
+        topic: "Planejamento Estratégico",
+        supportText: "Sistemas de suporte à decisão podem ser utilizados no nível gerencial de uma empresa, por exemplo na busca de maior eficiência e produtividade, e também podem ser utilizados no nível estratégico.",
+        q: "Os sistemas de apoio à decisão no nível estratégico de uma empresa via de regra utilizam apenas dados:",
+        options: [
+            "internos, da própria empresa.",
+            "externos, do mercado onde a empresa atua.",
+            "detalhados, dos concorrentes da empresa.",
+            "internos, da própria empresa, complementados por dados externos, do mercado onde a empresa atua.",
+            "externos, do mercado onde a empresa atua, complementados por dados detalhados dos concorrentes da empresa."
+        ],
+        answer: 3,
+        disclaimer: "As decisões estratégicas dependem de uma visão holística, necessitando cruzar dados internos (Forças e Fraquezas da empresa) com dados externos (Oportunidades e Ameaças do mercado)."
+    },
+    {
+        topic: "Planejamento Tático",
+        supportText: "",
+        q: "Sobre as características do Planejamento Tático, assinale a alternativa CORRETA.",
+        options: [
+            "Tem planos de curto prazo com tarefas cotidianas e foco na eficiência.",
+            "Trabalha no nível institucional com objetivos de longo prazo e foco na eficácia e efetividade.",
+            "Abrange todas as áreas de atividade e busca atingir os objetivos institucionais.",
+            "Tem metas de médio prazo com níveis intermediários e plano para cada área ou departamento.",
+            "Lida com as tarefas de nível básico operando em regime de máxima certeza e previsibilidade diária."
+        ],
+        answer: 3,
+        disclaimer: "O planejamento tático atua no nível intermediário da organização (departamentos/gerência), focando no médio prazo e na tradução das estratégias em planos de ação departamentais."
+    },
+    {
+        topic: "Planejamento Estratégico",
+        supportText: "",
+        q: "A identidade organizacional é formada por diretrizes que são fundamentais para o planejamento estratégico de qualquer organização. Sobre o assunto, assinale a alternativa CORRETA.",
+        options: [
+            "Diretrizes organizacionais: são as regras gerais. Diretrizes genéricas: são os acordos realizados entre funcionário e a organização, públicas ou privadas.",
+            "Diretrizes organizacionais: a missão, a visão e os valores. Diretrizes genéricas: leis, normas políticas, protocolos, acordos, regimentos que orientam a vida das organizações, públicas ou privadas.",
+            "Diretrizes organizacionais: são os valores que são repassados para os funcionários. Diretrizes genéricas: leis e normas políticas da vida organizacional, tanto públicas quanto privadas.",
+            "Diretrizes organizacionais: a missão e a visão. Diretrizes genéricas: normas políticas, acordos, regulamentos que orientam a vida das organizações, tanto públicas quanto privadas.",
+            "Diretrizes organizacionais: a execução e o controle. Diretrizes genéricas: a operação das táticas."
+        ],
+        answer: 1,
+        disclaimer: "A identidade organizacional é estruturada no planejamento estratégico pelos seus pilares: Missão (razão de ser), Visão (onde quer chegar) e Valores (princípios e crenças). As diretrizes genéricas são as regras, leis e normas externas e internas de conduta."
+    },
+    {
+        topic: "Níveis Organizacionais",
+        supportText: "",
+        q: "As organizações podem ser divididas em três níveis. O que está relacionado ao longo prazo e são discutidos os objetivos gerais da organização, tais como, clima e cultura organizacional é:",
+        options: [
+            "Nível Tático.",
+            "Nível Operacional.",
+            "Nível Cultural.",
+            "Nível Estratégico.",
+            "Nível Funcional."
+        ],
+        answer: 3,
+        disclaimer: "O nível estratégico (institucional ou de cúpula) é o responsável por delinear os rumos da organização no longo prazo e estabelecer suas diretrizes globais de cultura e clima."
+    },
+    {
+        topic: "Planejamento Estratégico",
+        supportText: "Quando ocorre o alinhamento do planejamento de recursos humanos com o planejamento estratégico da organização, o conselho de diretores e executivos reconhece que as decisões de planejamento estratégico influenciam e são influenciadas pelas preocupações de recursos humanos.",
+        q: "Nesse contexto, são consideradas ações do planejamento estratégico, EXCETO:",
+        options: [
+            "Alocação de recursos.",
+            "Metas de produtividade e eficiência.",
+            "Definição do caminho de longo prazo.",
+            "Competências essenciais da empresa.",
+            "Análise da indústria e dos concorrentes."
+        ],
+        answer: 1,
+        disclaimer: "Metas pontuais de 'produtividade e eficiência' na execução de tarefas são características típicas do planejamento de nível Operacional, e não da alta cúpula estratégica."
+    },
+    {
+        topic: "Balanced Scorecard (BSC)",
+        supportText: "O mapa estratégico tem sido amplamente utilizado na gestão para resultados integrada ao planejamento de organizações públicas. A Receita Federal do Brasil desenvolveu um mapa estratégico para o período 2012-2015 no qual indicou como objetivo estratégico “reduzir litígios tributários e aduaneiros”.",
+        q: "O objetivo elaborado refere-se, no mapa estratégico, à perspectiva:",
+        options: [
+            "de aprendizado e de crescimento.",
+            "do cliente e da sociedade.",
+            "financeira de resultados.",
+            "de pessoas e recursos.",
+            "dos processos internos."
+        ],
+        answer: 4,
+        disclaimer: "Reduzir o volume de litígios é uma melhoria direta no fluxo de trabalho e na execução das rotinas do órgão, o que se enquadra na Perspectiva de Processos Internos do Balanced Scorecard."
+    },
+    {
+        topic: "Planejamento",
+        supportText: "O planejamento formal engloba a definição dos objetivos e dos planos. [...] Considerando os termos de abrangência e que os planos podem ser estratégicos, táticos ou operacionais, relacione adequadamente as colunas a seguir.\n1. Estratégicos. 2. Táticos. 3. Operacionais.\n( ) Foco na organização como um todo\n( ) Foco em unidades ou departamentos da organização\n( ) Fonte de orientação externa\n( ) Foco em tarefas rotineiras\n( ) Objetivos especificam os resultados esperados de grupos ou indivíduos\n( ) Orientação de longo prazo\n( ) Definem as principais ações a empreender para cada unidade\n( ) Objetivos gerais e planos genéricos\n( ) Definem procedimentos e processos específicos\n( ) Orientação para médio prazo",
+        q: "A sequência está correta em:",
+        options: [
+            "1, 2, 1, 3, 3, 1, 2, 1, 3, 2.",
+            "1, 3, 2, 2, 1, 3, 2, 1, 3, 1.",
+            "3, 3, 2, 3, 2, 1, 1, 2, 1, 3.",
+            "2, 1, 1, 2, 1, 3, 3, 3, 2, 1.",
+            "3, 3, 2, 2, 1, 1, 2, 1, 3, 2."
+        ],
+        answer: 0,
+        disclaimer: "Associação: Foco na org. como um todo (1); departamentos (2); externa (1); tarefas (3); indivíduos/grupos (3); longo prazo (1); ações por unidade (2); planos genéricos (1); procedimentos (3); médio prazo (2)."
+    },
+    {
+        topic: "Tipos de Planejamento",
+        supportText: "Para Chiavenato e Sapiro (2020), “a estratégia sempre será uma escolha de um curso de ação para uma posição diferente no futuro que poderá oferecer ganhos e vantagens em relação à situação presente” e possui três níveis distintos.",
+        q: "Sobre este tema, é INCORRETO afirmar:",
+        options: [
+            "Planejamento Estratégico: abrange toda a organização, sendo projetado em longo prazo.",
+            "Planejamento Operacional: abrange atividades específicas ou tarefas, sendo projetado a curto prazo para imediato.",
+            "Planejamento Operacional: abrange cada departamento ou área específica da organização. Sua projeção é a médio prazo.",
+            "Planejamento Tático: abrange cada departamento ou área específica da organização. Sua projeção é a médio prazo.",
+            "O planejamento tático traduz as diretrizes do planejamento estratégico para o nível gerencial."
+        ],
+        answer: 2,
+        disclaimer: "A alternativa incorreta é afirmar que o Operacional abrange 'departamentos ou áreas específicas em médio prazo'. Esse conceito (departamentos + médio prazo) pertence ao Planejamento Tático."
+    },
+    {
+        topic: "Planejamento Operacional",
+        supportText: "As empresas, tanto públicas quanto privadas, vivem inseridas em contextos sociais, econômicos e mercadológicos. [...] Existem várias classificações neste sentido, mas na prática da gestão se encontra um tipo de planejamento que se caracteriza por ser de curto prazo, determinando as tarefas e atividades que devem ser realizadas no dia a dia das organizações.",
+        q: "Assinale a alternativa que indica corretamente o tipo de planejamento que o texto se refere.",
+        options: [
+            "Planejamento tático",
+            "Planejamento de RH",
+            "Planejamento tributário",
+            "Planejamento estratégico",
+            "Planejamento operacional"
+        ],
+        answer: 4,
+        disclaimer: "O planejamento com foco no curto prazo e nas tarefas e operações rotineiras do dia a dia da organização é classificado como Operacional."
+    },
+    {
+        topic: "Planejamento Estratégico",
+        supportText: "",
+        q: "As organizações contemporâneas atuam em ambientes cada vez mais dinâmicos, complexos e competitivos. Nesse contexto, para sobreviver, as organizações precisam de um planejamento. Em relação ao planejamento estratégico, assinale a alternativa correta.",
+        options: [
+            "Uma das vantagens do planejamento é proporcionar senso de direção, pois especifica um rumo para a organização.",
+            "No nível estratégico, tem-se uma orientação de curto prazo.",
+            "Os funcionários operacionais focam em objetivos gerais e planos genéricos.",
+            "A análise SWOT contribui para com o planejamento estratégico ao analisar quatro perspectivas dentro da empresa.",
+            "No planejamento estratégico, não há necessidade de definir a missão, a visão e os valores."
+        ],
+        answer: 0,
+        disclaimer: "O planejamento reduz a incerteza e alinha esforços ao proporcionar um senso de direção e rumo claro para toda a organização."
+    },
+    {
+        topic: "Finalidade do Planejamento",
+        supportText: "",
+        q: "É INCORRETO afirmar que é finalidade do planejamento:",
+        options: [
+            "ajudar a prever e superar dificuldades, fortalecendo o grupo para enfrentar conflitos e contradições.",
+            "despertar e fortalecer a esperança na possibilidade de ser um instrumento de transformação da realidade.",
+            "resgatar a improvisação da ação, possibilitando a (re)significação do trabalho e o resgate do sentido da ação educativa.",
+            "combater a alienação no sentido de explicitar e criticar as pressões sociais e compromissos ideológicos tomando consciência de que projeto estará se servindo.",
+            "dar coerência à ação da instituição, integrando e mobilizando o coletivo em torno de consensos (provisórios) para superar o caráter fragmentário das práticas em educação."
+        ],
+        answer: 2,
+        disclaimer: "O planejamento serve justamente para AFASTAR e eliminar a improvisação da ação administrativa, e não para 'resgatá-la'."
+    },
+    {
+        topic: "Planejamento Estratégico",
+        supportText: "",
+        q: "Sobre o planejamento estratégico dentro da organização administrativa, é correto afirmar:",
+        options: [
+            "Planejamento estratégico busca o fortalecimento da capacidade de prever ocorrências futuras.",
+            "Planejamento estratégico fica exposto às incertezas e à imprevisibilidade dos eventos ambientais.",
+            "Planejamento estratégico prioriza enfrentamento das incertezas.",
+            "Planejamento estratégico reduz ou evita as incertezas.",
+            "Planejamento estratégico extirpa todas as possibilidades de risco futuro."
+        ],
+        answer: 1,
+        disclaimer: "O planejamento estratégico não elimina as incertezas, mas prepara a organização para elas. Ao lidar com o ambiente externo, ele sempre 'fica exposto às incertezas e à imprevisibilidade' do cenário macro."
+    },
+    {
+        topic: "Níveis de Planejamento",
+        supportText: "Preencha corretamente as lacunas do texto a seguir considerando que o planejamento formal de uma empresa engloba a definição de seus planos e objetivos.\nOs planejamentos ___________ têm uma orientação a curto prazo e são constantemente adaptados diante de novos desafios e oportunidades. Os ___________ têm forte orientação externa e servem para posicionar a organização perante seu ambiente externo. Os ___________ traduzem os objetivos gerais em objetivos específicos de uma unidade da organização, geralmente uma área funcional. Os supervisores de 1ª linha compõe o plano de nível ___________.",
+        q: "Assinale a alternativa correta:",
+        options: [
+            "estratégicos / estratégicos / táticos / operacional",
+            "estratégicos / táticos / operacionais / estratégico",
+            "táticos / operacionais / táticos / estratégico",
+            "operacionais / estratégicos / táticos / operacional",
+            "operacionais / estratégicos / táticos / estratégico"
+        ],
+        answer: 3,
+        disclaimer: "Ordem correta: Operacionais (curto prazo); Estratégicos (foco no ambiente externo); Táticos (departamentais); Operacional (supervisores de 1ª linha de execução)."
+    },
+    {
+        topic: "Diretrizes Organizacionais",
+        supportText: "O planejamento estratégico preconiza a definição de um referencial estratégico, cujo conjunto de conceitos permeia o planejamento em si e orienta toda a organização.",
+        q: "Presentes os conceitos de negócio, missão, visão e valores da organização, aplicáveis no âmbito do planejamento estratégico, indique a alternativa abaixo que traz a noção CORRETA:",
+        options: [
+            "Negócio: representa o ramo de atividades no qual a organização atua, indicando o foco dos benefícios que ela irá gerar para o seu público-alvo.",
+            "Missão: traduz uma imagem do futuro ideal a ser construído, a partir do consenso dos membros de uma organização.",
+            "Visão: conjunto de princípios e crenças fundamentais de uma organização para tomada de decisão e elaboração de políticas organizacionais.",
+            "Valores: expressão da essência da entidade, de seus propósitos, ou, mais precisamente, da sua própria razão de existir.",
+            "Valores do Futuro: projeção de valores a serem assumidos, de acordo com a circunstância ou contexto em que a organização se encontre, ante as incertezas de conjunturas."
+        ],
+        answer: 0,
+        disclaimer: "O negócio define qual o domínio de atuação da empresa e qual a utilidade/benefício principal que ela fornece (ex: A empresa não vende 'furadeiras', vende 'furos'). Erros: a opção B define Visão; a C define Valores; a D define Missão."
+    },
+    {
+        topic: "Planejamento (Modelos Neoclássicos)",
+        supportText: "O modelo prescritivo de planejamento estratégico da escola neoclássica determina a aplicação de cinco estágios.",
+        q: "Aquele estágio que envolve a análise de recursos, estrutura organizacional e avaliação do desempenho corresponde:",
+        options: [
+            "à formulação das alternativas estratégicas.",
+            "à formulação dos objetivos organizacionais.",
+            "ao desenvolvimento de operacionalização da estratégia.",
+            "à auditoria externa.",
+            "à auditoria interna."
+        ],
+        answer: 4,
+        disclaimer: "A 'auditoria interna' (ou análise do ambiente interno) consiste em olhar para dentro da empresa para diagnosticar suas Forças e Fraquezas, mapeando recursos e avaliando a capacidade e o desempenho."
+    },
+    {
+        topic: "Níveis Organizacionais",
+        supportText: "",
+        q: "Os três níveis hierárquicos dentro de uma organização são:",
+        options: [
+            "o gerencial, o tático e o técnico.",
+            "o tático, o mediador e o técnico.",
+            "o estratégico, o institucional e o tático.",
+            "o estratégico, o tático e o operacional.",
+            "o institucional, o estratégico e o operacional."
+        ],
+        answer: 3,
+        disclaimer: "De forma clássica, as funções e planos da organização dividem-se em Estratégico (Cúpula), Tático (Gerência intermediária) e Operacional (Supervisão e execução de tarefas)."
+    },
+    {
+        topic: "Níveis de Decisão Organizacional",
+        supportText: "“De acordo com a nossa classificação, portanto, a tática ensina o emprego das forças armadas no engajamento. A estratégia, a utilização dos engajamentos para atingir o propósito da guerra”. (VON CLAUSEWITZ, Carl.)\nEmbora verse sobre campanhas militares, a teoria cujo excerto acima se refere é amplamente estudada no planejamento estratégico das organizações...",
+        q: "Em decorrência disso, preconiza-se que decisões:",
+        options: [
+            "estratégicas referem-se a assuntos que envolvem determinada unidade organizacional.",
+            "táticas referem-se a assuntos que envolvem as relações da empresa com o ambiente externo.",
+            "operacionais estão relacionadas a assuntos que envolvem a execução de tarefas ou determinada atividade específica.",
+            "não programadas estão relacionadas a assuntos que envolvem a execução de tarefas ou determinada atividade específica.",
+            "programadas referem-se a assuntos que envolvem as relações da empresa com o ambiente externo."
+        ],
+        answer: 2,
+        disclaimer: "Decisões no nível operacional traduzem a estratégia e as táticas em execução prática do dia a dia: tarefas repetitivas, de curto prazo e de atividades físicas ou específicas."
+    },
+    {
+        topic: "Análise do Ambiente",
+        supportText: "O primeiro passo do planejamento estratégico é determinar a missão e a visão da organização. Após essa definição é a análise do ambiente externo. A administração estratégica bem-sucedida depende de uma avaliação ambiental acurada e completa, que deve, também, examinar outras forças do ambiente, como as condições macroeconômicas e os fatores tecnológicos.",
+        q: "São componentes da análise ambiental as seguintes análises, EXCETO:",
+        options: [
+            "Social",
+            "Financeira",
+            "Tecnológica",
+            "Dos Concorrentes",
+            "Política e de Regulamentação"
+        ],
+        answer: 1,
+        disclaimer: "No estudo do ambiente macro (ferramenta PESTAL/PESTEL), analisam-se os fatores Políticos, Econômicos, Sociais, Tecnológicos, Ambientais e Legais. A análise 'financeira' (fluxo de caixa, tesouraria, capacidade de investimento) é restrita ao ambiente INTERNO da organização."
+    },
+    {
+        topic: "Conceito de Planejamento",
+        supportText: "“O planejamento ___________________ define a missão e os objetivos da organização, considerando, dentre outros fatores, as ameaças e as oportunidades do ambiente.”",
+        q: "Assinale a alternativa que completa corretamente a afirmativa anterior.",
+        options: [
+            "estratégico",
+            "operacional",
+            "competitivo",
+            "departamental",
+            "tático ou funcional"
+        ],
+        answer: 0,
+        disclaimer: "O único planejamento responsável por traçar a missão global, visualizar o longo prazo e escanear ativamente o ambiente macroeconômico (ameaças e oportunidades) é o Estratégico."
+    },
+    {
+        topic: "Princípios do Planejamento Estratégico",
+        supportText: "Independente de qual modelo ou teoria de planejamento estratégico se implemente, há alguns princípios que servem para qualquer tipo de organização.",
+        q: "Sobre esses princípios, assinale a alternativa incorreta:",
+        options: [
+            "É governada pela busca, incansável, de compliance e turnover.",
+            "Envolve o gerenciamento da estratégia de mercado e da organização e do relacionamento entre os dois.",
+            "Tem como preocupação principal o gerenciamento da interface entre a organização e o ambiente que a cerca.",
+            "Envolve antecipar, adaptar e criar mudanças tanto no ambiente como na organização.",
+            "Necessita que os riscos sejam assumidos, que a organização concorde em perseguir oportunidades antes que elas se materializem por completo."
+        ],
+        answer: 0,
+        disclaimer: "O termo 'Turnover' (rotatividade de pessoal) tem conotação negativa em gestão de RH, portanto as empresas buscam REDUZIR o turnover, e não uma 'busca incansável' por ele."
+    },
+    {
+        topic: "Etapas do Planejamento",
+        supportText: "Para se colocar em prática o planejamento estratégico são necessárias algumas etapas.",
+        q: "Sobre essas etapas, assinale a alternativa incorreta:",
+        options: [
+            "Análise swot",
+            "Análise de clientes e mercados",
+            "Análise concorrência",
+            "Definição da declaração estratégica",
+            "Avaliação de desempenho de funcionário"
+        ],
+        answer: 4,
+        disclaimer: "A 'Avaliação de Desempenho de Funcionário' é um processo de nível tático/operacional exclusivo da área de Recursos Humanos, não constituindo etapa da formulação macro do planejamento estratégico da corporação."
+    },
+    {
+        topic: "Planejamento Estratégico",
+        supportText: "Planejamento estratégico é o uso de técnicas, métodos e ferramentas que criam o futuro da organização. Sobre esse assunto, analise as afirmativas a seguir.\nI. Em planejamento estratégico há as diretrizes organizacionais que são a visão, missão e valores.\nII. Em planejamento estratégico há as diretrizes genéricas que consistem em leis, normas, políticas, protocolos, acordos, regimentos entre outros que orientam a vida das organizações públicas e privadas.\nIII. O plano estratégico, entre inúmeras ferramentas, dá origem à análise dos pontos fortes e fracos da empresa visando à realização de cada um dos objetivos estabelecidos no plano.",
+        q: "Estão corretas as afirmativas:",
+        options: [
+            "I, apenas.",
+            "II, apenas.",
+            "III, apenas.",
+            "I, II e III.",
+            "I e II, apenas."
+        ],
+        answer: 3,
+        disclaimer: "Todas as afirmativas estão corretas. O planejamento consolida a identidade organizacional (Missão, Visão e Valores), subordina-se a diretrizes genéricas (leis e normas do ambiente em que atua) e utiliza o diagnóstico interno (Forças e Fraquezas)."
+    },
+    {
+        topic: "Níveis Organizacionais",
+        supportText: "",
+        q: "Atualização de registros e processamento de benefícios são exemplos de atividades de gestão de pessoas executadas no nível:",
+        options: [
+            "ambiental",
+            "tático",
+            "administrativo",
+            "estratégico",
+            "operacional"
+        ],
+        answer: 4,
+        disclaimer: "Atividades rotineiras, repetitivas, padronizadas e de curto prazo (como atualização de cadastros e registros) são clássicas funções de nível Operacional."
+    },
+    {
+        topic: "Níveis de Planejamento",
+        supportText: "",
+        q: "Acerca dos planejamentos estratégico, tático e operacional, assinale a opção correta.",
+        options: [
+            "O planejamento estratégico deve objetivar o planejamento dos prazos, das metas e dos recursos para a implantação de um projeto ou de uma tarefa dentro de uma organização.",
+            "Os planejamentos mercadológico, financeiro e de produção são exemplos de planejamento operacional.",
+            "O planejamento estratégico é de responsabilidade dos poderes executivos dos níveis mais altos da organização e está associado às tomadas de decisões sobre produtos e serviços que a organização pretende oferecer.",
+            "O planejamento tático deve trabalhar com decomposição de objetivos, estratégias e políticas, visando à otimização das atividades de toda a organização.",
+            "A amplitude e um maior prazo de execução conferem ao planejamento estratégico um risco menor em relação ao planejamento tático."
+        ],
+        answer: 2,
+        disclaimer: "A opção C está correta (foco na alta cúpula e nas decisões globais/produtos ofertados ao mercado). Erros: A descreve planejamento operacional; B lista planejamentos táticos (departamentais); D descreve escopo global, que é estratégico; E inverte a lógica, pois quanto maior o prazo e a amplitude, MAIOR o risco e a incerteza."
+    },
+    {
+        topic: "Planejamento Estratégico",
+        supportText: "A função planejamento dentre as básicas da Administração é caracterizada por procurar descobrir novas oportunidades, antecipar e evitar problemas, desenvolver um efetivo curso de ação, além de compreender as incertezas e os riscos das várias opções que se oferecem.",
+        q: "Assinale a alternativa que apresenta o tipo de planejamento que é realizado pelos executivos de alto nível hierárquico, é definido em um horizonte temporal abrangente e tem por propósito a sobrevivência e o crescimento da empresa, a eficiência a longo prazo:",
+        options: [
+            "Planejamento Estratégico",
+            "Planejamento Tático",
+            "Planejamento Operacional",
+            "Planejamento Funcional"
+        ],
+        answer: 0,
+        disclaimer: "O planejamento conduzido pela alta cúpula, focado no horizonte de longo prazo e na sobrevivência global da instituição frente ao mercado, é o Planejamento Estratégico."
+    },
+    {
+        topic: "Diretrizes Organizacionais (Missão e Visão)",
+        supportText: "Considere que, como etapa inicial de seu planejamento estratégico, determinada organização pretenda identificar a sua missão e a sua visão, o que significa conhecer:\nI. A razão de ser da organização, expressando o que faz e porque existe.\nII. Como a organização deseja ser reconhecida no futuro.\nIII. As forças e fraquezas da organização.\nIV. Os desafios e oportunidades presentes no cenário externo.",
+        q: "Está correto o que se afirma APENAS em:",
+        options: [
+            "III e IV.",
+            "I e II.",
+            "I e IV.",
+            "II e IV.",
+            "I e III."
+        ],
+        answer: 1,
+        disclaimer: "A afirmativa I conceitua a Missão (razão de ser). A afirmativa II conceitua a Visão (estado futuro desejado). Os itens III e IV referem-se à Análise SWOT (diagnóstico de ambientes), e não à definição de Missão e Visão."
+    },
+    {
+        topic: "Níveis Organizacionais",
+        supportText: "Na Administração o nível ______ é o que está ligado ao topo da organização e suas decisões envolvem toda empresa a médio e longo prazos.",
+        q: "Assinale a alternativa que preencha corretamente a lacuna:",
+        options: [
+            "operacional",
+            "tático",
+            "estratégico",
+            "funcional"
+        ],
+        answer: 2,
+        disclaimer: "O nível ligado ao topo da pirâmide organizacional (presidência e diretorias), responsável por envolver toda a empresa projetando ações para o futuro, é o nível Estratégico."
+    },
+    {
+        topic: "Ferramentas de Gestão (Análise SWOT)",
+        supportText: "",
+        q: "Em relação à análise do ambiente interno e externo da empresa, indique a alternativa ERRADA, segundo Oliveira (2015):",
+        options: [
+            "Pontos fortes são variáveis internas e controláveis que propiciam uma condição favorável à empresa, em relação ao seu ambiente.",
+            "Pontos fracos são as variáveis internas e controláveis que provocam uma situação desfavorável à empresa, em relação ao seu ambiente.",
+            "Oportunidades são as variáveis externas e não controláveis pela empresa que podem criar condições favoráveis.",
+            "Ameaças são as variáveis externas e não controláveis pela empresa e que podem criar condições desfavoráveis para a mesma.",
+            "Os pontos fortes e fracos representam as variáveis incontroláveis, enquanto oportunidades e ameaças representam as variáveis controláveis pela empresa."
+        ],
+        answer: 4,
+        disclaimer: "A matriz SWOT divide o ambiente em Interno (Forças e Fraquezas), que é plenamente controlável pela empresa, e Externo (Oportunidades e Ameaças), que é incontrolável (são fatores de mercado, economia, clima). A alternativa E inverteu esses conceitos."
+    },
+    {
+        topic: "Funções Administrativas",
+        supportText: "Analise a frase abaixo:\n“O planejamento estratégico tipicamente estabelece .................................... para as demais funções administrativas”",
+        q: "Assinale a alternativa que completa corretamente a lacuna do texto:",
+        options: [
+            "as bases",
+            "receitas",
+            "as receitas e os custos",
+            "a classificação orçamentária",
+            "manuais de prestação de serviços"
+        ],
+        answer: 0,
+        disclaimer: "O planejamento é considerado a função administrativa primária. É a partir dele que se estabelecem as bases e os fundamentos para as etapas subsequentes (organizar, dirigir e controlar)."
+    },
+    {
+        topic: "Planejamento Estratégico",
+        supportText: "Identifique abaixo as afirmativas verdadeiras (V) e as falsas (F) sobre planejamento estratégico.\n( ) O planejamento estratégico define o que deve ser feito e como deve ser feito.\n( ) O planejamento estratégico diz respeito somente à área financeira da organização.\n( ) O planejamento estratégico serve exclusivamente como ferramenta de controle.\n( ) O planejamento estratégico proporciona rumo à organização.",
+        q: "Assinale a alternativa que indica a sequência correta, de cima para baixo:",
+        options: [
+            "V - V - V - F",
+            "V - V - F - F",
+            "V - F - F - V",
+            "F - V - V - F",
+            "F - V - F - V"
+        ],
+        answer: 2,
+        disclaimer: "Falso: Não se limita à área financeira, abrange todas as dimensões da empresa. Falso: Não serve exclusivamente como controle, mas essencialmente como norte e guia de ações. As demais são verdadeiras."
+    },
+    {
+        topic: "Planejamento Estratégico",
+        supportText: "",
+        q: "O planejamento estratégico é uma ferramenta que:",
+        options: [
+            "traduz os objetivos estratégicos em metas para toda a organização.",
+            "é projetada para ações de curto e médio prazos.",
+            "trabalha com a perspectiva de cenários futuros únicos.",
+            "considera a análise ambiental após avaliação de resultados intermediários da organização."
+        ],
+        answer: 0,
+        disclaimer: "O Planejamento Estratégico delineia o direcionamento de longo prazo e desdobra-se em metas maiores para orientar toda a organização, sendo a base para o planejamento tático e operacional."
+    },
+    {
+        topic: "Planejamento Estratégico",
+        supportText: "",
+        q: "O processo de planejamento estratégico em uma organização volta-se à obtenção de:",
+        options: [
+            "aumento de faturamento em curto prazo.",
+            "vantagem no controle patrimonial em longo prazo.",
+            "aumento do número de clientes.",
+            "vantagem competitiva em longo prazo."
+        ],
+        answer: 3,
+        disclaimer: "O propósito final da formulação estratégica é alinhar os recursos da empresa às oportunidades de mercado para construir e sustentar vantagem competitiva frente aos concorrentes no longo prazo."
+    },
+    {
+        topic: "Planejamento Tático (Funcional)",
+        supportText: "",
+        q: "A ferramenta mais adequada para definir as rotinas administrativas a serem adotadas por diferentes setores da organização no contexto de um planejamento estratégico é o plano:",
+        options: [
+            "operacional",
+            "funcional",
+            "de cargos",
+            "de negócios"
+        ],
+        answer: 1,
+        disclaimer: "No desdobramento do Planejamento Estratégico, o próximo passo são os Planos Funcionais (também chamados de Táticos ou Setoriais), desenhados para cada área ou setor específico da organização (marketing, finanças, RH)."
+    },
+    {
+        topic: "Planejamento Estratégico e Finanças",
+        supportText: "Suponha que uma empresa que tem em seu planejamento estratégico o início da venda de seus produtos para o exterior deva realizar um orçamento factível, considerando as necessidades de capital para a expansão de seus negócios.",
+        q: "Nesse caso, é um fator de risco financeiro para essa empresa a:",
+        options: [
+            "elevação do ciclo operacional, aumentando o financiamento da necessidade de capital de giro com recursos onerosos de curto prazo.",
+            "necessidade de adequação a normas e regulamentos do país estrangeiro.",
+            "utilização de recurso dos sócios para o financiamento das atividades no exterior.",
+            "presença de vantagem competitiva no processo de produção do produto a ser exportado."
+        ],
+        answer: 0,
+        disclaimer: "A opção A descreve perfeitamente um 'risco financeiro' (elevação de custos com capital de giro e endividamento de curto prazo). A opção B é um risco legal/regulatório; a C é uma fonte de custeio estrutural; a D é uma vantagem estratégica."
+    },
+    {
+        topic: "Níveis Organizacionais",
+        supportText: "",
+        q: "Os principais responsáveis pelo planejamento estratégico nas organizações são:",
+        options: [
+            "os altos executivos",
+            "todos os funcionários",
+            "os acionistas",
+            "os gerentes"
+        ],
+        answer: 0,
+        disclaimer: "O nível estratégico da organização corresponde à sua alta cúpula diretiva: CEOs, diretores, presidentes e altos executivos."
+    },
+    {
+        topic: "Planejamento Estratégico",
+        supportText: "",
+        q: "O conceito de planejamento estratégico refere-se à:",
+        options: [
+            "análise micro e macroeconômica do ambiente de negócios.",
+            "formulação do modelo de negócios da empresa.",
+            "formulação e implementação da estratégia da empresa.",
+            "análise dos insumos e produtos utilizados no negócio."
+        ],
+        answer: 2,
+        disclaimer: "O planejamento estratégico engloba todo o ciclo do processo (pensar e agir): tanto a análise e formulação da estratégia quanto as diretrizes macro para a sua implementação."
+    },
+    {
+        topic: "Funções Administrativas",
+        supportText: "",
+        q: "A função administrativa encarregada de organizar, estruturar e integrar os recursos e os órgãos incumbidos de sua administração e de estabelecer suas atribuições e as relações entre eles é denominada:",
+        options: [
+            "planejamento",
+            "organização",
+            "direção",
+            "controle",
+            "comunicação"
+        ],
+        answer: 1,
+        disclaimer: "Estruturar, dividir o trabalho, alocar recursos e definir hierarquia/departamentalização são ações inerentes à função Organização."
+    },
+    {
+        topic: "Planejamento (Setor Público)",
+        supportText: "",
+        q: "O planejamento estratégico dos órgãos públicos:",
+        options: [
+            "se concentra nos problemas que a organização experimenta diuturnamente.",
+            "busca a superação de objetivos imediatos.",
+            "é caracterizado por um regime em que as metas não são fixas.",
+            "parte de uma identificação sistemática de pontos fortes e fracos.",
+            "procura identificar, internamente na organização, quais são as ameaças e quais são as oportunidades."
+        ],
+        answer: 3,
+        disclaimer: "Tanto na esfera pública quanto na privada, o planejamento requer um diagnóstico consistente. As organizações identificam de forma sistemática suas Forças e Fraquezas (análise interna) para lidar com o ambiente."
+    },
+    {
+        topic: "Planejamento (Características e Níveis)",
+        supportText: "Segundo Chiavenato, “o planejamento é uma das melhores maneiras de se introduzir deliberadamente mudanças e inovação dentro das empresas, sob uma forma previamente definida e programada”.\nAcerca do planejamento dentro das organizações, analise as afirmativas a seguir:\nI. O planejamento tático é decidido e desenvolvido nos escalões médios da empresa, isto é, no nível intermediário.\nII. O planejamento estratégico trata de decisões e ações globais, genéricas e amplas e, para a sua correta realização, ele precisa ser adequadamente detalhado e desdobrado.\nIII. O planejamento é uma técnica acíclica, uma vez que a sua execução permite condições de avaliação e mensuração para novos planejamentos.",
+        q: "É correto o que se afirma em:",
+        options: [
+            "apenas em I.",
+            "apenas em II.",
+            "apenas em III.",
+            "apenas em I e II."
+        ],
+        answer: 3,
+        disclaimer: "A afirmativa III está errada pois o planejamento é uma técnica CÍCLICA, e não acíclica. Justamente porque seus resultados geram feedback (avaliação e mensuração) que alimentam o início do próximo ciclo de planejamento."
+    },
+    {
+        topic: "Características do Planejamento Estratégico",
+        supportText: "O processo de planejamento estratégico de uma organização é elaborado por meio de diferentes e complementares técnicas administrativas com o total envolvimento das pessoas da organização.",
+        q: "Assinale a alternativa que não corresponde a uma característica do processo de planejamento estratégico:",
+        options: [
+            "dinâmico",
+            "coletivo",
+            "informal",
+            "participativo"
+        ],
+        answer: 2,
+        disclaimer: "O planejamento estratégico é um processo essencialmente FORMAL, documentado e metodológico, não cabendo ser tratado como algo 'informal'."
+    },
+    {
+        topic: "Níveis de Planejamento",
+        supportText: "O Planejamento contempla os níveis organizacionais estratégico, tático e operacional.",
+        q: "Acerca do planejamento tático, assinale a alternativa correta:",
+        options: [
+            "É um planejamento orientado para o futuro. Seu horizonte de tempo é curto, com prazo certo de um ano.",
+            "É um plano de longo prazo, que serve para guiar a ação organizacional por um prazo de três a cinco anos.",
+            "É focado para o curto prazo e abrange, analiticamente, as atividades cotidianas da organização, a fim de assegurar que todos executem as tarefas e operações de acordo com os procedimentos estabelecidos pela mesma.",
+            "É desenvolvido pelo nível intermediário e nele se enfatiza as unidades correntes das várias unidades ou departamentos da organização, sendo focado no médio prazo."
+        ],
+        answer: 3,
+        disclaimer: "O Planejamento Tático atua no nível intermediário (departamentos/gerência), traduz as diretrizes globais para as áreas funcionais e possui horizonte temporal focado no médio prazo."
+    },
+    {
+        topic: "Diretrizes Organizacionais (Missão)",
+        supportText: "Na seção “apresentação” do sítio de internet da SEMSA foi encontrado o seguinte trecho:\n“Gerir o sistema municipal de saúde, observando os princípios e diretrizes do SUS, desenvolvendo, com qualidade, ações de vigilância e atenção à saúde da população no município de Manaus.”",
+        q: "Assinale a opção que faz referência ao item do planejamento estratégico representado pelo trecho citado:",
+        options: [
+            "valores",
+            "princípios",
+            "missão",
+            "visão",
+            "negócio"
+        ],
+        answer: 2,
+        disclaimer: "O texto define 'o que a instituição faz e por que ela existe', caracterizando perfeitamente a declaração de Missão da organização."
+    },
+    {
+        topic: "Ferramentas de Gestão",
+        supportText: "Um gerente de uma empresa de grande porte e diversificada está participando do processo de planejamento estratégico da organização em que trabalha. O gerente recebeu a incumbência de realizar uma análise do portfólio de negócios da empresa, a fim de subsidiar as decisões sobre as estratégias de nível corporativo.",
+        q: "Para tal, uma ferramenta gerencial adequada seria:",
+        options: [
+            "modelo das cinco forças competitivas de Porter.",
+            "análise PEST.",
+            "matriz de Ansoff.",
+            "análise SWOT.",
+            "matriz GE/McKinsey."
+        ],
+        answer: 4,
+        disclaimer: "A Matriz GE/McKinsey (assim como a Matriz BCG) é a principal ferramenta desenvolvida especificamente para a análise de portfólio de unidades de negócio, comparando atratividade do mercado vs. força competitiva da unidade."
+    },
+    {
+        topic: "Funções Administrativas (Planejamento)",
+        supportText: "Em todas as áreas funcionais de uma organização, os administradores exercem as funções administrativas, que correspondem às etapas do processo administrativo: planejar, organizar, dirigir e controlar.",
+        q: "São exemplos de atividades relacionadas à função planejamento, dentro das atribuições da área de recursos humanos e da área de finanças, respectivamente:",
+        options: [
+            "definição do organograma; elaboração de orçamentos.",
+            "implementação de políticas de gestão da diversidade; definição da estrutura de financiamento.",
+            "implementação de políticas de melhoria das condições de trabalho; avaliação do desempenho financeiro da organização.",
+            "estabelecimento de metas de desempenho aos funcionários; elaboração de projetos de investimento.",
+            "identificação das necessidades de recursos humanos; aplicação dos recursos financeiros."
+        ],
+        answer: 3,
+        disclaimer: "Definir metas (RH) e elaborar projetos de investimento com vistas ao futuro (Finanças) são ações preventivas e preparatórias, integrando o campo do Planejamento."
+    },
+    {
+        topic: "Análise do Ambiente",
+        supportText: "A análise, o diagnóstico ou a avaliação da situação estratégica (ou posição estratégica) podem ser o ponto de partida para a elaboração do plano estratégico de uma organização.",
+        q: "São os principais componentes a serem considerados na análise da situação estratégica, EXCETO:",
+        options: [
+            "Estrutura",
+            "Estratégias vigentes",
+            "Vantagens competitivas",
+            "Missão da organização até o presente",
+            "Desempenho da organização até o presente"
+        ],
+        answer: 0,
+        disclaimer: "A 'Estrutura' organizacional é consequência (e não ponto de partida) da estratégia. De acordo com o clássico postulado de Chandler: 'A estrutura segue a estratégia'."
+    },
+    {
+        topic: "Análise do Ambiente",
+        supportText: "O primeiro passo do planejamento estratégico é determinar a missão e a visão da organização. Após essa definição é a análise do ambiente externo. A administração estratégica bem-sucedida depende de uma avaliação ambiental acurada e completa, que deve, também, examinar outras forças do ambiente, como as condições macroeconômicas e os fatores tecnológicos.",
+        q: "São componentes da análise ambiental as seguintes análises, EXCETO:",
+        options: [
+            "Social",
+            "Financeira",
+            "Tecnológica",
+            "Dos Concorrentes",
+            "Política e de Regulamentação"
+        ],
+        answer: 1,
+        disclaimer: "A análise financeira (caixa, balanço, lucratividade, capacidade de endividamento) é uma verificação que se faz estritamente no ambiente INTERNO da empresa. Todas as demais listadas são forças do ambiente externo."
+    },
+    {
+        topic: "Processo Administrativo (Funções)",
+        supportText: "O controle é a quarta função administrativa e tem como objetivo monitorar o desempenho e a implementação das mudanças que estão sendo realizadas e desenvolvidas.",
+        q: "Considerando o ambiente organizacional, a segunda função administrativa é:",
+        options: [
+            "O planejamento.",
+            "A organização.",
+            "A direção.",
+            "A execução.",
+            "A liderança."
+        ],
+        answer: 1,
+        disclaimer: "O Processo Administrativo clássico (Neoclássico) é composto pela sigla PODC, nesta ordem lógica: 1º Planejamento, 2º Organização, 3º Direção e 4º Controle."
+    },
+    {
+        topic: "Processo Administrativo (Funções)",
+        supportText: "",
+        q: "Nas alternativas a seguir estão listadas funções administrativas, à exceção de uma. Assinale-a.",
+        options: [
+            "planejar",
+            "economizar",
+            "organizar",
+            "dirigir",
+            "controlar"
+        ],
+        answer: 1,
+        disclaimer: "As funções administrativas fundamentais consagradas pela Teoria Neoclássica são Planejar, Organizar, Dirigir e Controlar. 'Economizar' pode ser um objetivo financeiro, mas não é uma função administrativa (etapa do processo)."
+    },
+    {
+        topic: "Função Organização",
+        supportText: "Organizar reuniões é uma tarefa que requer a observação e a colocação em prática de uma série de fatores.",
+        q: "Assinale a alternativa que apresenta o procedimento que inviabiliza o sucesso de uma reunião:",
+        options: [
+            "Informar com antecedência a data, horário, local, participantes e assunto a ser abordado.",
+            "Certificar-se de que todos os equipamentos a serem utilizados estão disponíveis e em bom funcionamento.",
+            "Verificar se algum material será distribuído durante a reunião, e providenciar que todos o recebam.",
+            "Arrumar o local da reunião considerando o número de participantes, a acessibilidade, disponibilidade e o clima.",
+            "Encaminhar materiais a serem discutidos e que serão objeto de deliberação no transcorrer da reunião."
+        ],
+        answer: 4,
+        disclaimer: "Encaminhar os materiais complexos de deliberação APENAS durante (no transcorrer) da reunião inviabiliza o sucesso dela. Esses materiais devem ser enviados COM ANTECEDÊNCIA para que os participantes os leiam e a reunião seja focada na decisão."
+    },
+    {
+        topic: "Estrutura Organizacional",
+        supportText: "",
+        q: "A distribuição organizada dos poderes com subordinação sucessiva de uns aos outros é denominada:",
+        options: [
+            "estratégia organizacional.",
+            "processo administrativo.",
+            "cadeia governamental.",
+            "hierarquia.",
+            "organização sucessória."
+        ],
+        answer: 3,
+        disclaimer: "A hierarquia (ou cadeia de comando) é o princípio da organização que estabelece a linha contínua de autoridade, distribuindo os níveis de poder e subordinação de cima para baixo na estrutura."
+    },
+    {
+        topic: "Função Organização",
+        supportText: "As quatro funções da administração estão inter-relacionadas; uma delas está relacionada à estrutura de órgãos, divisão interna do trabalho, alocação de recursos, determinação sobre as pessoas que vêm realizar as tarefas e a coordenação de esforços, representando, assim, os meios para que se possa pôr em prática as outras funções administrativas. Ela abrange quatro componentes: tarefas; pessoas; órgãos; e, relações.",
+        q: "A função administrativa que corresponde ao conceito apresentado é:",
+        options: [
+            "Direção.",
+            "Controle.",
+            "Organização.",
+            "Comunicação.",
+            "Planejamento."
+        ],
+        answer: 2,
+        disclaimer: "Estruturar órgãos, dividir o trabalho, desenhar cargos/tarefas e alocar recursos (humanos, financeiros e materiais) são as características centrais da função de Organização."
+    },
+    {
+        topic: "Função Organização",
+        supportText: "Os quatro princípios da administração de empresas são planejar, organizar, dirigir e controlar. Estes princípios se traduzem em diferentes atividades que um gestor deve realizar para que qualquer tipo de empreendimento atinja os resultados esperados, tanto no setor público quanto no privado.",
+        q: "As atividades que devem ser executadas cumprindo um destes princípios consiste na divisão do trabalho, em montar departamentos ou setores, equipes operacionais e definir tarefas e responsáveis por elas. Estas atividades se enquadram no princípio de:",
+        options: [
+            "Direção.",
+            "Controle.",
+            "Agilidade.",
+            "Organização.",
+            "Planejamento."
+        ],
+        answer: 3,
+        disclaimer: "A departamentalização (montar departamentos/setores) e a divisão do trabalho com a atribuição de responsabilidades formam o núcleo da função administrativa de Organização."
+    },
+    {
+        topic: "Função Organização",
+        supportText: "A agência Maxx Eventos e Produções ganhou a licitação para a realização do Festival de Abóboras do município. Alex, proprietário da agência, entendeu que era importante fazer a divisão do trabalho com a equipe e atribuir responsabilidades para a realização de cada etapa do projeto.",
+        q: "Em relação a essa ação de Alex, e considerando os conceitos de funções da administração, é correto afirmar que ele está executando a função de:",
+        options: [
+            "Planejamento",
+            "Organização",
+            "Liderança",
+            "Controle",
+            "Direção"
+        ],
+        answer: 1,
+        disclaimer: "Sempre que a questão citar 'divisão do trabalho', 'estruturação', 'atribuição de responsabilidades' e 'alocação de recursos', trata-se diretamente da função Organização."
+    },
+    {
+        topic: "Função Organização",
+        supportText: "Da Administração clássica surgem as funções da Administração que usamos até hoje. Na função Organização há algumas atividades a se fazer.",
+        q: "Diante do exposto, assinale a alternativa incorreta sobre atividades de Organização:",
+        options: [
+            "Estabelecer e gerenciar os organismos material e social da empresa",
+            "Identificar procedimentos errôneos para evitar reincidências",
+            "Zelar pelo cumprimento dos programas de ação",
+            "Dotar a empresa de tudo o que é útil ao seu funcionamento",
+            "Recrutar profissionais adequados e preparados para as funções exigidas"
+        ],
+        answer: 1,
+        disclaimer: "A alternativa B ('Identificar procedimentos errôneos para evitar reincidências') descreve o processo de detectar falhas e corrigir rumos, o que é atividade exclusiva da função de CONTROLE, e não de Organização."
+    },
+    {
+        topic: "Processo Administrativo",
+        supportText: "",
+        q: "Conhecer as técnicas de administração é fator essencial para um bom administrador. Assinale a alternativa correta que contenha as funções clássicas do processo administrativo:",
+        options: [
+            "Planejamento, Organização, Direção e Recursos humanos",
+            "Planejamento, Organização, Direção e Controle",
+            "Planejamento, Organização, Direção e Recursos materiais",
+            "Planejamento, Organização, Direção e Avaliação",
+            "Estratégia, Organização, Gestão e Controle"
+        ],
+        answer: 1,
+        disclaimer: "O processo administrativo neoclássico (difundido por Peter Drucker e Chiavenato) é unânime: Planejar, Organizar, Dirigir e Controlar (PODC)."
+    },
+    {
+        topic: "Identificação das Funções Administrativas",
+        supportText: "Certa organização publicou em seu site uma vaga para o cargo de gerente na área de recursos humanos. Entre as atribuições do cargo, estão: “alocação dos especialistas de RH entre as diversas unidades da organização; realização de avaliação de desempenho dos subordinados; definição da estrutura de cargos e salários”.",
+        q: "Essas atribuições estão relacionadas, respectivamente, às seguintes funções da administração:",
+        options: [
+            "organização; controle; organização;",
+            "direção; controle; organização;",
+            "planejamento; direção; planejamento;",
+            "organização; controle; planejamento;",
+            "direção; direção; organização."
+        ],
+        answer: 0,
+        disclaimer: "1. Alocar recursos (especialistas) = Organização. 2. Avaliar desempenho = Controle. 3. Definir estrutura (cargos e salários) = Organização."
+    },
+    {
+        topic: "Estrutura Organizacional",
+        supportText: "A organização como função administrativa de organizar é parte integrante do processo administrativo, podendo ser entendida como o ato de organizar, estruturar e integrar os recursos e os órgãos incumbidos de sua administração e estabelecer relações entre eles e suas atribuições.",
+        q: "Em relação à estrutura organizacional, assinale a alternativa correta:",
+        options: [
+            "A organização informal está confinada ao horário de trabalho, não podendo prolongar-se para os períodos de lazer ou de tempo livre.",
+            "A organização informal está circunscrita a um local físico determinado: o local de trabalho.",
+            "A estrutura organizacional funciona como a espinha dorsal da organização, o esqueleto que sustenta e articula suas partes integrantes.",
+            "A estrutura organizacional costuma apresentar uma natureza predominantemente dinâmica.",
+            "A organização formal surge espontaneamente através das relações de amizade entre os funcionários."
+        ],
+        answer: 2,
+        disclaimer: "A estrutura organizacional (organograma/hierarquia) é a espinha dorsal, sendo o arcabouço estático da empresa. A organização informal transcende horários e locais, baseando-se em afinidades e grupos sociais não oficiais."
+    },
+    {
+        topic: "Função Organização",
+        supportText: "Uma empresa pública ou privada tem uma função na sua organização.",
+        q: "Assinale a alternativa incorreta quanto às atividades básicas definidas na função de organização:",
+        options: [
+            "Determinação de atividades e recursos necessários para atingir os objetivos da empresa",
+            "Definição de autoridade, responsabilidade e divisão do trabalho para o grupo de trabalhadores designados para realizar determinada atividade ou processo",
+            "Coordenação dos recursos materiais e humanos no desenvolvimento de atividades produtivas",
+            "Definição os objetivos e formas de controle",
+            "Agrupamento estrutural das tarefas lógicas a serem executadas."
+        ],
+        answer: 3,
+        disclaimer: "A definição de 'objetivos' é a essência do PLANEJAMENTO, e a definição de 'formas de controle' pertence ao CONTROLE. Não são tarefas da função de Organização."
+    },
+    {
+        topic: "Função Organização",
+        supportText: "Será necessário fazer uma análise dos recursos materiais e humanos disponíveis e utilizá-los de maneira estratégica para atingir os objetivos acordados no momento do planejamento. Este é o momento de delegar tarefas e buscar por profissionais adequados para realizá-las, isto é, correspondentes às suas habilidades e conhecimentos para tal. Tornando, portanto, a realização dos objetivos possíveis.",
+        q: "A descrição acima é tarefa típica da função denominada:",
+        options: [
+            "Controlar.",
+            "Organizar.",
+            "Planejar.",
+            "Dirigir.",
+            "Executar."
+        ],
+        answer: 1,
+        disclaimer: "A ação de alocar/distribuir os recursos (materiais e humanos) necessários para que o plano se concretize, bem como dividir as tarefas e buscar os profissionais adequados para as posições, é a função de Organização."
+    },
+    {
+        topic: "Função Organização",
+        supportText: "",
+        q: "Assinale a função da administração que é responsável pela distribuição de tarefas e recursos pelos membros da organização e pela definição de quem deve tomar as decisões (hierarquia/autoridade):",
+        options: [
+            "Controle",
+            "Produção",
+            "Organização",
+            "Marketing",
+            "Compras"
+        ],
+        answer: 2,
+        disclaimer: "A estruturação da autoridade (quem decide) e a alocação de recursos são pilares da função Organizar."
+    },
+    {
+        topic: "Função Organização",
+        supportText: "Entender a Administração como um processo que se compõe de outros processos ou funções é a essência do chamado enfoque funcional ou abordagem funcional da Administração.",
+        q: "Assinale a alternativa que apresenta, dentre as funções ou processos do processo administrativo, aquele que é o processo de definir o trabalho a ser realizado e as responsabilidades pela realização, além do processo de distribuir recursos disponíveis.",
+        options: [
+            "Coordenação",
+            "Planejamento",
+            "Organização",
+            "Execução",
+            "Controle"
+        ],
+        answer: 2,
+        disclaimer: "Distribuir recursos, definir o trabalho (divisão do trabalho) e as responsabilidades pertencem ao escopo da Organização."
+    },
+    {
+        topic: "Processo Administrativo",
+        supportText: "Administrar é o processo de tomar, realizar e alcançar ações que utilizam recursos para alcançar objetivos. Sobre administrar, analise as afirmativas abaixo.\nI. Administração é um processo de tomar decisões e realizar ações que compreende quatro processos principais interligados: planejamento, organização, execução e controle.\nII. Os quatro processos principais da administração são também chamados funções administrativas ou funções gerenciais.\nIII. Há processos ou funções em administração que são importantes como coordenação, direção, comunicação e participação e contribuem para a realização dos processos principais da administração.",
+        q: "Estão corretas as afirmativas:",
+        options: [
+            "I, II e III",
+            "I e III apenas",
+            "I apenas",
+            "II apenas",
+            "III apenas"
+        ],
+        answer: 0,
+        disclaimer: "As três afirmativas estão corretas em um sentido conceitual amplo. Embora a literatura clássica fale em PODC (Direção em vez de Execução), muitos autores contemporâneos usam POEC (Planejamento, Organização, Execução e Controle), tratando direção, coordenação e liderança como funções subsidiárias da Execução."
+    },
+    {
+        topic: "Processo Administrativo",
+        supportText: "As funções administrativas (planejamento, organização, direção e controle) constituem o processo administrativo, o qual apresenta algumas características básicas.",
+        q: "Acerca do processo administrativo e de seus componentes, assinale a alternativa correta:",
+        options: [
+            "As funções administrativas planejamento, organização, direção e controle são independentes entre si.",
+            "A organização, enquanto função administrativa, agrupa as atividades a serem desenvolvidas em uma estrutura lógica.",
+            "O processo administrativo é linear e não iterativo.",
+            "O processo administrativo é uma sequência de etapas que devem ser rigidamente seguidas uma a uma, sem intersecção.",
+            "Ao contrário da função direção, que é qualificada como impessoal, as outras três são consideradas como interpessoais."
+        ],
+        answer: 1,
+        disclaimer: "A função Organização cria a estrutura lógica (departamentos, cargos, fluxos). Erros: as funções são independentes? Não, são interdependentes e interligadas (A); não é linear, é cíclico (C e D); a direção é altamente interpessoal, não impessoal (E)."
+    },
+    {
+        topic: "Função Organização",
+        supportText: "",
+        q: "Arranjar o trabalho a ser desenvolvido para o alcance dos objetivos organizacionais é tarefa típica da função da administração denominada de:",
+        options: [
+            "organização.",
+            "direção.",
+            "controle.",
+            "negociação.",
+            "planejamento."
+        ],
+        answer: 0,
+        disclaimer: "O verbo 'arranjar' (no sentido de arranjo estrutural, dispor as partes, estruturar o trabalho a ser feito) é a definição exata de Organização."
+    },
+    {
+        topic: "Níveis da Organização",
+        supportText: "",
+        q: "No nível operacional, a função administrativa de organização se manifesta por meio da promoção de:",
+        options: [
+            "desenho departamental.",
+            "desenho organizacional.",
+            "planejamento estratégico.",
+            "modelagem de trabalho.",
+            "planejamento de cargos e salários."
+        ],
+        answer: 3,
+        disclaimer: "A função Organização divide-se nos 3 níveis: 1) Estratégico (Desenho da Estrutura Organizacional global); 2) Tático (Desenho Departamental); 3) Operacional (Desenho/Modelagem dos Cargos e Tarefas individuais)."
+    },
+    {
+        topic: "Função Organização",
+        supportText: "Xavier, renomado produtor de eventos, é contratado para realizar uma festa durante o carnaval de Aracaju, tendo como foco a promoção das tradições da cidade. Em determinado momento do projeto, ele agrupa e estrutura os recursos necessários (material, pessoas, dinheiro) para que o evento possa ser um sucesso.",
+        q: "Em relação a essa ação de Xavier, e considerando os conceitos de funções do processo administrativo, é correto afirmar que ele está executando a função de:",
+        options: [
+            "direção.",
+            "controle.",
+            "organização.",
+            "planejamento.",
+            "monitoramento."
+        ],
+        answer: 2,
+        disclaimer: "Agrupar, arranjar e estruturar os recursos físicos, financeiros e humanos para que o plano saia do papel é a ação da função Organização."
+    },
+    {
+        topic: "Identificação das Funções Administrativas",
+        supportText: "As quatro funções administrativas são: planejamento, organização, direção e controle.",
+        q: "Assinale a alternativa correta sobre suas características:",
+        options: [
+            "O planejamento é o momento de definir os objetivos e os meios para alcançá-los, com a intenção de eliminar todas as incertezas.",
+            "Na organização a empresa deve olhar para os seus recursos e definir a estrutura administrativa e a divisão de trabalho que irão gerenciá-los.",
+            "Direção é indispensavelmente voltada para o levantamento de indicadores financeiros.",
+            "Controle é essencial para mostrar os caminhos aos colaboradores e motivá-los em seu trabalho.",
+            "Planejamento é focado no acompanhamento corretivo das falhas das demais funções."
+        ],
+        answer: 1,
+        disclaimer: "A alternativa B define perfeitamente a estruturação dos recursos. Erros: Planejamento reduz incertezas, não as elimina por completo (A); Direção cuida de pessoas/motivação, não finanças (C); Motivar é Direção, e não Controle (D)."
+    },
+    {
+        topic: "Teoria das Funções Administrativas",
+        supportText: "Em relação às funções administrativas, avalie as seguintes afirmações:\nI. O controle consiste na operacionalização do trabalho manual a ser realizado.\nII. As funções administrativas básicas são: planejamento, organização, direção e controle.\nIII. As funções administrativas são a base de atuação do administrador nas organizações.",
+        q: "É correto o que se afirma em:",
+        options: [
+            "II e III, apenas.",
+            "I, apenas.",
+            "II, apenas.",
+            "III, apenas.",
+            "I, II e III."
+        ],
+        answer: 0,
+        disclaimer: "A afirmativa I é falsa porque a 'operacionalização do trabalho' diz respeito à execução/direção. Controle significa medir o que foi feito contra os padrões e aplicar ações corretivas."
+    },
+    {
+        topic: "Função Organização",
+        supportText: "",
+        q: "São atributos da função administrativa de organizar, EXCETO:",
+        options: [
+            "Permitir o alcance dos objetivos traçados da melhor maneira a possível.",
+            "Agrupar e estruturar todos os recursos da empresa.",
+            "Promover o eficiente trabalho em conjunto das pessoas dividindo funções.",
+            "Comparar padrões de desempenhos que estão sendo alcançados com os planejados.",
+            "Definir a autoridade e hierarquia nos departamentos."
+        ],
+        answer: 3,
+        disclaimer: "A atividade de 'comparar padrões de desempenho com o que foi planejado' (monitoramento e avaliação) é a essência da função de CONTROLE, não de Organização."
+    },
+    {
+        topic: "Função Organização (Reestruturação)",
+        supportText: "Uma determinada empresa reestabeleceu suas estratégias de negócios, expandindo-se para novos mercados ao lançar novos produtos. O diretor geral recebeu a responsabilidade de propor uma nova estrutura para a empresa, mais adequada à nova realidade estratégica da empresa.",
+        q: "Ao realizar essa responsabilidade de propor a nova estruturação, o diretor estará exercendo a seguinte função administrativa:",
+        options: [
+            "Planejamento.",
+            "Organização.",
+            "Direção.",
+            "Controle.",
+            "Contabilidade."
+        ],
+        answer: 1,
+        disclaimer: "Se a estratégia (planejamento) mudou, a estrutura deve ser ajustada. A atividade de readequar o organograma, reestruturar departamentos e redistribuir poder/tarefas é o exercício da Organização."
+    },
+    {
+        topic: "Atribuições da Organização",
+        supportText: "",
+        q: "As atribuições típicas da função organização incluem:",
+        options: [
+            "definição de recursos e atribuição de autoridade e responsabilidade para a realização de tarefas.",
+            "preenchimento de cargos e motivação dos colaboradores.",
+            "liderança de pessoas e comunicação organizacional.",
+            "definição de objetivos e metas organizacionais.",
+            "estabelecimento de padrões de desempenho e avaliação de resultados."
+        ],
+        answer: 0,
+        disclaimer: "Atribuir autoridade e distribuir recursos faz parte de Organizar. Erros: B e C são atividades de Direção (motivar, liderar, comunicar); D é Planejamento; E é Controle."
+    },
+    {
+        topic: "Processo Administrativo",
+        supportText: "No desempenho de suas atribuições, o administrador desempenha as quatro funções administrativas que constituem o processo administrativo.",
+        q: "Assinale a alternativa que elenca corretamente estas funções:",
+        options: [
+            "Planejar, organizar, dirigir e controlar.",
+            "Integrar, organizar, mapear e controlar.",
+            "Integrar, planejar, executar e controlar.",
+            "Planejar, executar, controlar e monitorar.",
+            "Liderar, coordenar, comandar e dirigir."
+        ],
+        answer: 0,
+        disclaimer: "O processo administrativo (conhecido pelo acrônimo PODC) é constituído pelas funções clássicas: Planejar, Organizar, Dirigir e Controlar."
+    },
+    {
+        topic: "Desenvolvimento de Pessoas (Organização do RH)",
+        supportText: "A gestão de pessoal é uma especialização administrativa que tem por objeto o planejamento, a organização, a direção e o controle do setor de pessoal de uma empresa.",
+        q: "A geração e o aperfeiçoamento de hábitos, costumes, habilitações ou aptidões para desempenho de certos serviços, tarefas ou práticas depende de:",
+        options: [
+            "um bom recrutamento e uma boa seleção.",
+            "um bom treinamento de pessoal.",
+            "bons cargos e salários.",
+            "uma boa assistência social.",
+            "um bom programa de benefícios."
+        ],
+        answer: 1,
+        disclaimer: "O aperfeiçoamento de aptidões, hábitos e habilidades para a execução de tarefas específicas é a definição clássica de Treinamento. (Nota: O gabarito original da banca marcou A equivocadamente, mas o conceito técnico correto é Treinamento)."
+    },
+    {
+        topic: "Função Organização",
+        supportText: "",
+        q: "Indique a alternativa que apresenta uma das características da função Organização:",
+        options: [
+            "Processo desenvolvido para o alcance de uma situação futura desejada",
+            "Busca organizar, estruturar e integrar os recursos disponíveis para atingir o objetivo",
+            "Condução dos trabalhos executados para o alcance dos resultados",
+            "Verificar se as tarefas estão conforme planejado",
+            "Prever, articular e alocar os recursos a serem utilizados para atingir os objetivos"
+        ],
+        answer: 1,
+        disclaimer: "A função Organização atua imediatamente após o Planejamento, sendo responsável por estruturar, agrupar e integrar os recursos humanos, materiais e financeiros para viabilizar as metas."
+    },
+    {
+        topic: "Estrutura Organizacional",
+        supportText: "",
+        q: "Assinale a alternativa que apresenta uma atividade que pertence à função básica da Administração denominada Organização:",
+        options: [
+            "Definir objetivos.",
+            "Trabalhar fatores motivacionais na equipe.",
+            "Avaliar resultados.",
+            "Definir o organograma da empresa a fim de deixar claro os níveis hierárquicos.",
+            "Definir ações corretivas."
+        ],
+        answer: 3,
+        disclaimer: "O organograma é a representação gráfica da estrutura formal da empresa. Desenhá-lo e definir a hierarquia é tarefa basilar da Organização."
+    },
+    {
+        topic: "Princípios da Organização Formal",
+        supportText: "Os neoclássicos dão algumas pinceladas adicionais no conceito de organização formal. A organização consiste em um conjunto de posições funcionais e hierárquicas orientado para o objetivo econômico de produzir bens ou serviços.",
+        q: "São princípios fundamentais da organização formal, EXCETO:",
+        options: [
+            "divisão do trabalho.",
+            "especialização.",
+            "hierarquia.",
+            "amplitude administrativa.",
+            "ausência de autoridade."
+        ],
+        answer: 4,
+        disclaimer: "A autoridade e a hierarquia são pilares da organização formal clássica. Logo, a 'ausência de autoridade' contradiz o conceito de estruturação formal."
+    },
+    {
+        topic: "Conceitos Básicos",
+        supportText: "",
+        q: "Assinale a alternativa que apresenta o conceito básico de administração que é um sistema humano, social e cultural que, através da cooperação, recursos, normas estabelecidas e divisão de tarefas, realiza atividades com o objetivo de alcançar objetivos comuns ou compartilhados:",
+        options: [
+            "Gerenciamento.",
+            "Administração.",
+            "Organização.",
+            "Estruturação.",
+            "Coordenação."
+        ],
+        answer: 2,
+        disclaimer: "O termo 'Organização', além de ser uma função do processo administrativo, também é usado para definir a própria empresa ou instituição (um sistema social com objetivos compartilhados)."
+    },
+    {
+        topic: "Desenho Departamental",
+        supportText: "",
+        q: "Assinale a opção que indica atividade inerente à função administrativa chamada de organização:",
+        options: [
+            "distribuição dos processos de trabalho em departamentos",
+            "definição da visão de futuro da instituição e dos valores a serem cumpridos pelos empregados",
+            "criação de sistemas de monitoramento dos prazos e da qualidade dos serviços prestados",
+            "realização de reuniões para orientação sobre a execução de atividades na busca de engajamento e alcance de resultados",
+            "avaliação das metas alcançadas em cada departamento da organização"
+        ],
+        answer: 0,
+        disclaimer: "A departamentalização (agrupamento de atividades e processos de trabalho em unidades, setores ou departamentos) é uma ferramenta da função Organização."
+    },
+    {
+        topic: "Características da Organização",
+        supportText: "",
+        q: "A organização como uma das funções da administração possui as seguintes características, EXCETO:",
+        options: [
+            "Delinear cargos e tarefas específicas.",
+            "Criar estrutura organizacional.",
+            "Coordenar as atividades de trabalho.",
+            "Avaliar o desempenho do empregado.",
+            "Estabelecer políticas e procedimentos de subordinação."
+        ],
+        answer: 3,
+        disclaimer: "A avaliação de desempenho é um mecanismo de medição e correção, constituindo-se em atividade típica da função de CONTROLE, não de Organização."
+    },
+    {
+        topic: "Rotinas de Organização",
+        supportText: "",
+        q: "Julgue o item INCORRETO sobre organização no ambiente de trabalho:",
+        options: [
+            "Planejar melhor cada atividade.",
+            "Ter os recursos necessários à mão para realizar cada atividade.",
+            "Entender que o crescimento da empresa não depende do seu trabalho.",
+            "Criar estratégias para manter e melhorar a organização.",
+            "Manter o foco nos objetivos propostos."
+        ],
+        answer: 2,
+        disclaimer: "A frase na opção C vai contra os princípios da administração e da sinergia, onde o esforço individual coordenado é o motor do crescimento da empresa."
+    },
+    {
+        topic: "Definições de Organização",
+        supportText: "",
+        q: "As definições abaixo referem-se ao conceito de organização, exceto:",
+        options: [
+            "“Organizar é construir o duplo organismo, material e social da empresa”.",
+            "“É a forma que assume toda associação humana para lograr um propósito comum”.",
+            "“O conjunto de pessoas que, sistemática e conscientemente, combinam seus esforços individuais para a concretização de uma tarefa comum”.",
+            "“É o arranjo sistemático das partes dependentes e independentes numa ordem, unidade ou todo funcional, para a consecução de objetivos planejados”.",
+            "“É o conjunto de ações desordenadas que impedem a concretização de uma tarefa comum”."
+        ],
+        answer: 4,
+        disclaimer: "O próprio termo 'organização' pressupõe ordem, sistematização e alinhamento de esforços. A alternativa E afirma exatamente o oposto ('ações desordenadas que impedem')."
+    },
+    {
+        topic: "Função Organização",
+        supportText: "Tanto na vida pessoal quanto na profissional é essencial que as tarefas ou atividades sejam coordenadas de forma a garantir a otimização do tempo e a melhor utilização de recursos. Nas empresas, uma das mais importantes funções administrativas é exatamente aquela responsável por agrupar e estruturar os recursos organizacionais.",
+        q: "Ações como: agrupar, estruturar e integrar os recursos organizacionais; dividir o trabalho a ser feito; e, designar pessoas para sua execução compõem qual função administrativa?",
+        options: [
+            "Direção.",
+            "Controle.",
+            "Organização.",
+            "Planejamento.",
+            "Coordenação."
+        ],
+        answer: 2,
+        disclaimer: "Dividir o trabalho, designar responsabilidades e integrar recursos formam o tripé da função Organização."
+    },
+    {
+        topic: "Função Organização",
+        supportText: "“Os recursos podem ser humanos ou materiais, as operações representam a criação das atividades a serem desenvolvidas e estes constituem a construção estrutural da empresa.",
+        q: "Podemos afirmar que estes elementos fazem parte e representam qual das quatro funções básicas da Administração?",
+        options: [
+            "Organização.",
+            "Direção.",
+            "Controle.",
+            "Planejamento.",
+            "Agir."
+        ],
+        answer: 0,
+        disclaimer: "Sempre que o enunciado falar em 'construção estrutural', 'alocação de recursos' e 'criação das atividades/cargos', ele está se referindo à Organização."
+    },
+    {
+        topic: "Função Organização",
+        supportText: "Leia o trecho abaixo e complete a lacuna:\n___________________ é o processo de definir o trabalho a ser realizado e as responsabilidades pela realização; é também o processo de distribuir os recursos disponíveis segundo algum critério.",
+        q: "Assinale a alternativa que preenche a lacuna corretamente:",
+        options: [
+            "Planejamento",
+            "Organização",
+            "Direção",
+            "Controle",
+            "Coordenação"
+        ],
+        answer: 1,
+        disclaimer: "A distribuição de recursos e a atribuição das responsabilidades (quem faz o quê) são a essência da etapa de organizar a empresa."
+    },
+    {
+        topic: "Funções Administrativas",
+        supportText: "",
+        q: "Quais são as funções da administração no modelo clássico (Neoclássico)?",
+        options: [
+            "Planejar, Organizar, Dirigir e Controlar.",
+            "Planejar, Analisar, Decidir e Controlar.",
+            "Organizar, Analisar, Dirigir e Controlar.",
+            "Liderar, Estruturar, Planejar e Coordenar.",
+            "Planejar, Organizar, Estruturar e Delegar."
+        ],
+        answer: 0,
+        disclaimer: "A base da administração geral (teoria Neoclássica) divide o processo administrativo em quatro etapas interdependentes: PODC."
+    },
+    {
+        topic: "Estruturas Organizacionais (Tipos)",
+        supportText: "Leia o trecho e complete a lacuna abaixo:\nEm uma ________________, uma especialidade não interfere na outra e as tomadas de decisão não são pautadas pela hierarquia. Um gestor especialista em comunicação, por exemplo, não poderá tomar decisões sobre o financeiro, mesmo que este gestor de comunicação esteja há mais tempo na empresa.",
+        q: "A estrutura organizacional que completa o trecho é a:",
+        options: [
+            "organização funcional",
+            "organização estruturada",
+            "organização linha-staff",
+            "organização matricial",
+            "organização projetizada"
+        ],
+        answer: 0,
+        disclaimer: "Na estrutura funcional, a autoridade é baseada no conhecimento técnico/especialização (autoridade do especialista), sem subordinação hierárquica absoluta interdepartamental."
+    },
+    {
+        topic: "Tipos de Estrutura Organizacional",
+        supportText: "",
+        q: "São tipos de estrutura organizacional empresarial amplamente reconhecidos pela teoria da administração, EXCETO:",
+        options: [
+            "Organização linear.",
+            "Organização estruturada.",
+            "Organização funcional.",
+            "Organização linha-staff.",
+            "Organização matricial."
+        ],
+        answer: 1,
+        disclaimer: "O termo 'organização estruturada' não é um tipo clássico de estrutura. As formas tradicionais são Linear, Funcional, Linha-Staff, Matricial e em Redes."
+    },
+    {
+        topic: "Processo de Organização",
+        supportText: "",
+        q: "Conforme a teoria das quatro funções básicas da Administração, são etapas do processo de organização, EXCETO:",
+        options: [
+            "Definição de hierarquia.",
+            "Desenho departamental.",
+            "Divisão do trabalho.",
+            "Avaliação de desempenho.",
+            "Alocação de recursos."
+        ],
+        answer: 3,
+        disclaimer: "A avaliação de desempenho é etapa integrante do processo de CONTROLE."
+    },
+    {
+        topic: "Integração das Funções",
+        supportText: "Conforme Chiavenato (2010), o processo administrativo compreende o conjunto das funções administrativas, as quais fazem parte de um todo integrado.",
+        q: "Nesse sentido, quando os gestores estruturam os recursos disponíveis para que tudo o que foi planejado possa ser executado, eles estão atuando na função de:",
+        options: [
+            "Controle.",
+            "Planejamento.",
+            "Direção.",
+            "Comando.",
+            "Organização."
+        ],
+        answer: 4,
+        disclaimer: "A transição do papel (Planejamento) para a viabilização da execução (Estruturação dos recursos) é realizada na fase da Organização."
+    },
+    {
+        topic: "Atividades de Organização",
+        supportText: "",
+        q: "Dentre outras atividades, assinale a alternativa que apresenta, nas organizações, o que compete à função organização:",
+        options: [
+            "Liderar, coordenar, comandar e dirigir pessoas.",
+            "Desenvolver a competência das pessoas.",
+            "Solucionar problemas e tomar decisões.",
+            "Dividir o trabalho entre as pessoas.",
+            "Estabelecer parâmetros de avaliação."
+        ],
+        answer: 3,
+        disclaimer: "A divisão do trabalho (fragmentação das tarefas para aumento de eficiência) é o passo primordial da função Organização. As opções A e B são Direção; a E é Controle."
+    },
+    {
+        topic: "O Processo Administrativo",
+        supportText: "",
+        q: "De um modo geral, as quatro funções que constituem o processo administrativo de uma organização são:",
+        options: [
+            "coordenar; realizar; delegar e gerir.",
+            "controlar; gerir; realizar e dirigir.",
+            "organizar; coordenar; planejar e diagnosticar.",
+            "planejar; organizar; dirigir e controlar.",
+            "diagnosticar; controlar; coordenar e delegar."
+        ],
+        answer: 3,
+        disclaimer: "Reiteração do conceito base de PODC, essencial e onipresente em provas de Noções de Administração."
+    },
+    {
+        topic: "Diferenciação das Funções",
+        supportText: "Em relação às funções gerais nas organizações, leia a afirmativa: “a alocação de recursos organizacionais, a coordenação de atividades e tarefas, a ordenação dos trabalhos internos e o estabelecimento de metas e objetivos integram o processo de organização”.",
+        q: "A afirmativa apresentada é:",
+        options: [
+            "Verdadeira, pois todas as funções mencionadas integram o processo de organização.",
+            "Falsa, pois o estabelecimento de metas e objetivos integra o processo de planejamento.",
+            "Falsa, pois a coordenação de atividades e tarefas integra o processo de planejamento.",
+            "Falsa, pois a alocação de recursos organizacionais integra o processo de planejamento.",
+            "Verdadeira, pois o processo de organização engloba a definição do negócio."
+        ],
+        answer: 1,
+        disclaimer: "A frase mistura características. Alocação e estruturação são Organização, mas o 'estabelecimento de metas e objetivos' pertence exclusivamente à função Planejamento, o que torna a afirmativa falsa."
+    },
+    {
+        topic: "Conceituação das Funções",
+        supportText: "Quanto às funções administrativas, preencha as lacunas e assinale a alternativa correta.\nA função ____________ é o processo de definir objetivos, atividades e recursos. Já ____________ é o processo de definir o trabalho a ser realizado e as responsabilidades pela realização; é também o processo de distribuir os recursos disponíveis segundo algum critério. ____________, por sua vez, é o processo de assegurar a realização dos objetivos e de identificar a necessidade de modificá-los.",
+        q: "As funções que completam corretamente as lacunas são:",
+        options: [
+            "Planejamento / Direção / Organização",
+            "Controle / Organização / Direção",
+            "Direção / Planejamento / Controle",
+            "Planejamento / Organização / Controle",
+            "Organização / Direção / Planejamento"
+        ],
+        answer: 3,
+        disclaimer: "1. Definir objetivos = Planejamento. 2. Distribuir recursos e trabalho = Organização. 3. Assegurar a realização (monitorar/avaliar) = Controle."
+    },
+    {
+        topic: "Conceito de Organizar",
+        supportText: "",
+        q: "Considerando as funções da administração, organizar significa definir:",
+        options: [
+            "o estilo gerencial e a aplicação das técnicas necessárias para constituir equipes de trabalho capacitadas, informadas, motivadas e produtivas para executar as ações necessárias aos objetivos estabelecidos.",
+            "as formas e os indicadores para acompanhar e medir o desempenho das pessoas e das equipes de trabalho, com vistas a verificar ser os objetivos foram atingidos e se são necessários ajustes no processo.",
+            "os recursos, as pessoas, os processos, as responsabilidades e as estruturas necessárias para realizar os objetivos.",
+            "os objetivos ou os resultados a serem alcançados, bem como os meios para realizá-los em tempo hábil para a empresa.",
+            "o controle da execução e a avaliação sistemática do processo."
+        ],
+        answer: 2,
+        disclaimer: "A opção C descreve a Organização. A opção A descreve a Direção (motivar, liderar equipes). A opção B descreve o Controle. A opção D descreve o Planejamento."
+    },
+    {
+        topic: "Princípios da Organização",
+        supportText: "A organização consiste em um conjunto de posições funcionais e hierárquicas orientado para o objetivo econômico de produzir bens ou serviços.",
+        q: "Os princípios fundamentais da organização formal de uma empresa são:",
+        options: [
+            "segregação, especialização, burocracia e hierarquia.",
+            "divisão do trabalho, segregação, burocracia e hierarquia.",
+            "segregação, especialização, hierarquia, amplitude administrativa.",
+            "divisão do trabalho, especialização, hierarquia e amplitude administrativa.",
+            "departamentalização, agrupamento, segregação e subordinação."
+        ],
+        answer: 3,
+        disclaimer: "A teoria neoclássica lista os quatro princípios da organização formal: 1) Divisão do Trabalho; 2) Especialização; 3) Hierarquia; 4) Amplitude Administrativa (span of control)."
+    },
+    {
+        topic: "Características da Organização",
+        supportText: "",
+        q: "A função da administração que é responsável pela divisão do trabalho, pela especialização dos cargos, pelas relações de hierarquia dentro da organização e pela amplitude administrativa é a de:",
+        options: [
+            "estratégia.",
+            "planejamento.",
+            "organização.",
+            "direção.",
+            "controle."
+        ],
+        answer: 2,
+        disclaimer: "Esta questão consagra a definição cobrada na questão anterior. Dividir o trabalho, especializar os cargos e montar a hierarquia é tarefa basilar da Organização."
+    },
+    {
+        topic: "Função Direção",
+        supportText: "Quem administra interage com as pessoas que executam os trabalhos ou serviços para os quais foram contratadas. Ao coordenar os trabalhos, o administrador desempenha várias funções, as quais constituem os processos administrativos.",
+        q: "O processo administrativo que conduz e coordena o pessoal na execução das tarefas preestabelecidas é denominado:",
+        options: [
+            "planejamento estratégico.",
+            "planejamento gerencial.",
+            "organização.",
+            "direção.",
+            "controle."
+        ],
+        answer: 3,
+        disclaimer: "A condução do comportamento humano, a coordenação de pessoas e a liderança de equipes para que as tarefas planejadas sejam executadas constituem a função de Direção."
+    },
+    {
+        topic: "Função Direção",
+        supportText: "Manter um clima organizacional de boa qualidade consiste em uma atividade de extrema importância para conseguir o alto desempenho das equipes. Para isto as atitudes motivacionais, comunicacionais e de liderança devem ser exercidas de forma permanente.",
+        q: "Assinale a alternativa que indica corretamente a função administrativa em que esse tipo de atividades se encaixa:",
+        options: [
+            "Direção",
+            "Controle",
+            "Organização",
+            "Recrutamento",
+            "Planejamento"
+        ],
+        answer: 0,
+        disclaimer: "Os pilares da função administrativa de Direção são: Liderança, Motivação e Comunicação (relações interpessoais)."
+    },
+    {
+        topic: "Liderança (Estilos)",
+        supportText: "A direção é uma das quatro funções da administração e envolve diretamente a liderança.",
+        q: "Considerando esse assunto, é correto afirmar que um estilo autocrático de liderar:",
+        options: [
+            "tem a participação e o envolvimento dos funcionários nos processos de decisão.",
+            "evidencia total liberdade dos funcionários para decidir e executar algo.",
+            "caracteriza-se pela centralização da autoridade e do processo de tomada de decisão.",
+            "evidencia a teoria dos traços de liderança.",
+            "evidencia o foco nas diferenças individuais."
+        ],
+        answer: 2,
+        disclaimer: "Na Liderança Autocrática, o líder centraliza todo o poder e a tomada de decisões, ditando as regras de forma vertical. As opções A e B descrevem, respectivamente, a liderança Democrática e a Liderança Liberal (Laissez-Faire)."
+    },
+    {
+        topic: "Funções Administrativas (Focos)",
+        supportText: "",
+        q: "As funções administrativas que atuam sobre ideias e pessoas são, respectivamente:",
+        options: [
+            "planejamento e organização.",
+            "organização e direção.",
+            "planejamento e direção.",
+            "organização e controle.",
+            "direção e organização."
+        ],
+        answer: 2,
+        disclaimer: "O Planejamento atua sobre o campo das 'ideias' (visão de futuro, projeções, intenções). A Direção atua sobre o campo das 'pessoas' (motivar, comunicar e liderar humanos)."
+    },
+    {
+        topic: "Funções Administrativas",
+        supportText: "",
+        q: "As fases de determinação das atividades específicas para o alcance dos objetivos organizacionais e de observação do desempenho dizem respeito, respectivamente, às funções de:",
+        options: [
+            "planejamento e controle.",
+            "organização e direção.",
+            "direção e controle.",
+            "organização e controle.",
+            "direção e planejamento."
+        ],
+        answer: 3,
+        disclaimer: "Determinar atividades específicas e dividi-las em cargos e departamentos é papel da Organização. Observar e medir o desempenho frente a padrões é papel do Controle."
+    },
+    {
+        topic: "Função Direção",
+        supportText: "",
+        q: "“É a função administrativa que se relaciona diretamente com a maneira pela qual os objetivos devem ser alcançados, por meio da atividade das pessoas que compõem a organização (CHIAVENATTO, 2014)”. Essa função administrativa é chamada de:",
+        options: [
+            "planejamento",
+            "direção",
+            "controle",
+            "organização",
+            "liderança"
+        ],
+        answer: 1,
+        disclaimer: "Sempre que a execução envolver essencialmente 'a atividade das PESSOAS que compõem a organização', trata-se da função interativa de Direção."
+    },
+    {
+        topic: "Função Direção",
+        supportText: "",
+        q: "Entre as funções-chave que compõem os processos administrativos, aquela que comporta as tarefas de comunicação, liderança e motivação é conhecida como",
+        options: [
+            "planejamento.",
+            "organização.",
+            "controle.",
+            "direção.",
+            "feedback."
+        ],
+        answer: 3,
+        disclaimer: "Comunicação, Liderança e Motivação formam a tríade basilar que estrutura a função administrativa de Direção."
+    },
+    {
+        topic: "Função Direção",
+        supportText: "A tarefa da administração é a de interpretar os objetivos propostos pela organização e transformá-los em ação organizacional por meio das funções administrativas.",
+        q: "Assinale a alternativa que apresenta a função administrativa que possui como características a condução e a motivação dos empregados na realização de metas organizacionais, além de apresentação de soluções para os conflitos organizacionais:",
+        options: [
+            "planejamento",
+            "organização",
+            "previsão",
+            "direção",
+            "controle"
+        ],
+        answer: 3,
+        disclaimer: "Resolver conflitos interpessoais, motivar colaboradores e conduzir pessoas na jornada de trabalho recai sob a gestão da Direção."
+    },
+    {
+        topic: "Função Direção",
+        supportText: "",
+        q: "Assinale a função da administração que é responsável pela orientação dos integrantes da organização para os objetivos organizacionais:",
+        options: [
+            "Vendas",
+            "Direção",
+            "Compras",
+            "Produção",
+            "Marketing"
+        ],
+        answer: 1,
+        disclaimer: "Orientar os integrantes (recursos humanos) em direção às metas fixadas no planejamento é o escopo da função Dirigir."
+    },
+    {
+        topic: "Motivação e Reconhecimento",
+        supportText: "O gerente do setor de ouvidoria de um órgão público criou o programa “Excelência no Atendimento”, cujo objetivo é reconhecer a excelência e a qualidade do trabalho dos seus funcionários. Os servidores que se destacam no atendimento aos cidadãos que procuram a Ouvidoria do órgão são homenageados pelo gerente em cerimônia pública, e recebem dele uma placa e uma medalha de condecoração.",
+        q: "Na situação acima, o gerente exerce a função administrativa de:",
+        options: [
+            "planejamento;",
+            "direção;",
+            "organização;",
+            "monitoramento;",
+            "controle."
+        ],
+        answer: 1,
+        disclaimer: "Reconhecimento, homenagens e programas de incentivo são ferramentas da gestão motivacional para extrair o melhor comportamento da equipe, constituindo a função de Direção."
+    },
+    {
+        topic: "Função Direção",
+        supportText: "",
+        q: "Dentre as diferentes funções do processo administrativo, existe aquela conhecida como direção, que está relacionada com:",
+        options: [
+            "a construção de cenários prospectivos vinculados ao alinhamento da organização;",
+            "a capacidade de liderar e motivar os funcionários adequadamente;",
+            "o acompanhamento dos procedimentos com o intuito de verificar a performance;",
+            "a realização das correções necessárias para o funcionamento das atividades;",
+            "o estabelecimento de objetivos e dos meios para alcançá-los."
+        ],
+        answer: 1,
+        disclaimer: "Liderar e motivar pessoas compõem a essência da Direção. (A) e (E) são Planejamento. (C) e (D) são Controle."
+    },
+    {
+        topic: "Atribuições da Direção",
+        supportText: "A direção é a função administrativa que:\nI. interpreta os objetivos e os planos com o intuito de alcançá-los.\nII. conduz e orienta as pessoas em suas atividades.\nIII. aloca os recursos e planeja as atividades.\nIV. monitora o desempenho e define os objetivos.",
+        q: "Portanto, está CORRETA a alternativa:",
+        options: [
+            "I e IV.",
+            "I e II.",
+            "III.",
+            "III e IV.",
+            "IV."
+        ],
+        answer: 1,
+        disclaimer: "O item I está correto (A Direção traduz os planos aos colaboradores para execução). O item II está correto (Liderança e orientação humana). O III é Organização e Planejamento. O IV é Controle e Planejamento."
+    },
+    {
+        topic: "Atribuições da Direção",
+        supportText: "",
+        q: "Assinale a alternativa que apresenta uma função de DIREÇÃO ADMINISTRATIVA:",
+        options: [
+            "É fazer a divisão do trabalho entre as pessoas.",
+            "É desenvolver a competência, a realização e o bem-estar das pessoas.",
+            "É definir o cargo e as tarefas que cada pessoa deve executar em seu trabalho.",
+            "É analisar por quais motivos os objetivos estabelecidos foram ou não alcançados.",
+            "Todas acima apresentam uma função da direção administrativa."
+        ],
+        answer: 1,
+        disclaimer: "A opção B foca no engajamento e bem-estar humano (Direção). A opção A e C são divisão do trabalho (Organização). A opção D é avaliação (Controle). (Nota: O gabarito original da banca trouxe erro material marcando 'Todas', devidamente corrigido para B)."
+    },
+    {
+        topic: "Função Direção",
+        supportText: "",
+        q: "Das funções da Administração, aquela responsável pela atuação dos Recursos Humanos da empresa e que está diretamente relacionada com ação e dinamismo é:",
+        options: [
+            "o planejamento.",
+            "o controle.",
+            "a organização.",
+            "a direção.",
+            "a estrutura."
+        ],
+        answer: 3,
+        disclaimer: "A Direção coloca os recursos humanos 'em movimento' (ação, execução e dinamismo) para a concretização dos planos estruturados."
+    },
+    {
+        topic: "Competências da Direção",
+        supportText: "",
+        q: "Assinale a alternativa que apresenta uma das competências da função de direção em uma instituição:",
+        options: [
+            "Aplicar as áreas funcionais da empresa nos respectivos níveis de hierarquia.",
+            "Desenvolver a competência, a realização e o bem-estar das pessoas.",
+            "Definir níveis de autoridade e de responsabilidade das pessoas.",
+            "Estabelecer parâmetros quantitativos e qualitativos de análise.",
+            "Fazer a divisão do trabalho entre as pessoas."
+        ],
+        answer: 1,
+        disclaimer: "Desenvolver as pessoas e zelar pelo seu engajamento e bem-estar é responsabilidade direta de uma liderança ativa (Direção). As opções A, C e E referem-se à Organização; D refere-se ao Controle."
+    },
+    {
+        topic: "Conceitos de Direção",
+        supportText: "",
+        q: "Assinale a alternativa que indica algo que não está associado à função de Direção:",
+        options: [
+            "isolamento",
+            "motivação",
+            "liderança",
+            "comunicação",
+            "coordenação"
+        ],
+        answer: 0,
+        disclaimer: "A Direção é uma função profundamente INTERPESSOAL. O 'isolamento' é o oposto do engajamento social, liderança e comunicação necessários para dirigir uma equipe."
+    },
+    {
+        topic: "Função Direção",
+        supportText: "",
+        q: "Qual função administrativa está relacionada com a condução dos trabalhos executados, para que os objetivos da organização possam ser atingidos:",
+        options: [
+            "Controle",
+            "Planejamento",
+            "Comunicação",
+            "Execução",
+            "Direção"
+        ],
+        answer: 4,
+        disclaimer: "A condução dos trabalhos por meio da orientação das pessoas rumo aos objetivos definidos é a base da função Direção."
+    },
+    {
+        topic: "Função Direção",
+        supportText: "É a função responsável por acionar e dinamizar a empresa para que ela possa funcionar adequadamente. É a relação entre os administradores e seus subordinados e está centrada nas relações humanas.",
+        q: "A definição acima se refere ao conceito de:",
+        options: [
+            "Administração",
+            "Planejamento",
+            "Direção/influência",
+            "Organização",
+            "Controle"
+        ],
+        answer: 2,
+        disclaimer: "A relação interpessoal e interpessoal de comando (ou influência) entre chefias e equipes para acionar o motor da empresa caracteriza a Direção."
+    },
+    {
+        topic: "Diferenciação das Funções",
+        supportText: "",
+        q: "Assinale a alternativa CORRETA a respeito das funções do processo administrativo:",
+        options: [
+            "Direção é a função responsável por acionar e dinamizar a empresa para que ela possa funcionar adequadamente. É a relação entre os administradores e seus subordinados e está centrada nas relações humanas.",
+            "Planejamento é a utilização dos recursos disponíveis pelas pessoas que integram a organização, que concretizam as ações planejadas e organizadas.",
+            "É na organização que se busca verificar como as demais etapas do processo administrativo estão sendo executadas, e visa à correção dos rumos dos processos administrativos.",
+            "O controle é responsável pela divisão do trabalho em departamentos organizacionais.",
+            "Nenhuma das alternativas."
+        ],
+        answer: 0,
+        disclaimer: "A opção A define com precisão a Direção. Erros: B define a Execução/Direção (e não planejamento); C define o Controle (e não organização); D define Organização (e não controle)."
+    },
+    {
+        topic: "Elementos do Processo Administrativo",
+        supportText: "Sob o ponto de vista do controle interno, as funções administrativas, quando consideradas em sua abordagem global, constituem um processo administrativo, que se consubstancia num efetivo sistema de controle.",
+        q: "A alternativa em que todos os itens apresentados se constituem em funções (ou subprocessos) administrativos é:",
+        options: [
+            "Planejamento, Direção e Princípios.",
+            "Direção, Planejamento e Controle.",
+            "Operacionalização, Direção e Princípios.",
+            "Planejamento, Operacionalização e Princípios.",
+            "Controle, Direção e Operacionalização."
+        ],
+        answer: 1,
+        disclaimer: "Os quatro pilares do processo administrativo são Planejamento, Organização, Direção e Controle. A alternativa B é a única que lista exclusivamente funções legítimas desse conjunto."
+    },
+    {
+        topic: "Níveis de Direção",
+        supportText: "A direção constitui a terceira função administrativa, estando associada ao planejamento da organização.",
+        q: "Entre os níveis de direção, aquele que diz respeito aos grupos de pessoas ou de tarefas (supervisão de 1ª linha) é o:",
+        options: [
+            "nível global.",
+            "nível departamental.",
+            "nível operacional.",
+            "nível pessoal.",
+            "nível instrumental."
+        ],
+        answer: 2,
+        disclaimer: "A Direção subdivide-se em 3 níveis: 1) Global (Cúpula/Diretoria); 2) Departamental (Gerentes); e 3) Operacional (Supervisores de grupos de tarefas/pessoas no chão de fábrica)."
+    },
+    {
+        topic: "Atribuições da Direção",
+        supportText: "As funções administrativas são de suma importância no processo de gestão em diferentes organizações. Uma das funções refere-se à direção.",
+        q: "Sobre essa função, é correto afirmar que ela:",
+        options: [
+            "programa as atividades.",
+            "aloca recursos.",
+            "coordena esforços.",
+            "promove ação corretiva.",
+            "formula objetivos."
+        ],
+        answer: 2,
+        disclaimer: "A liderança e a comunicação servem justamente para 'coordenar os esforços' humanos na direção da meta. Programar atividades (Planejamento/Org), alocar recursos (Org), correção (Controle), objetivos (Planejamento)."
+    },
+    {
+        topic: "Ambiente Externo e Processo Decisório",
+        supportText: "Direção é liderar, coordenar, comandar e dirigir pessoas.",
+        q: "Assinale a alternativa que apresenta a área de estudos que tem sido usada na administração para analisar o comportamento, antecipar cenários de conflitos de interesses e que é amplamente utilizada no processo decisório estratégico em vários campos do conhecimento:",
+        options: [
+            "Teoria dos jogos.",
+            "Método PERT/CPM.",
+            "Benchmarking.",
+            "Plataforma ERP.",
+            "Matriz SWOT."
+        ],
+        answer: 0,
+        disclaimer: "A Teoria dos Jogos estuda a tomada de decisão quando o resultado de um participante depende das escolhas feitas pelos outros (ambientes competitivos e de conflito de interesses)."
+    },
+    {
+        topic: "Características da Direção",
+        supportText: "Uma organização, quando possui a função administrativa Direção bem executada tende a ter os objetivos organizacionais alcançados.",
+        q: "NÃO é característica direta dessa função:",
+        options: [
+            "Ser responsável por orientar os funcionários através de uma boa comunicação.",
+            "A existência de uma pessoa com habilidade de liderança para conversar com os funcionários.",
+            "Que os funcionários sejam treinados em seus cargos, a fim de desempenharem as atividades.",
+            "Um bom relacionamento interpessoal dos administradores em todos os níveis da organização com seus subordinados.",
+            "A elaboração da missão, visão e valores da organização."
+        ],
+        answer: 4,
+        disclaimer: "A elaboração das diretrizes organizacionais primárias (Missão, Visão e Valores) pertence exclusivamente à etapa de Planejamento Estratégico, não sendo papel da etapa de Direção."
+    },
+    {
+        topic: "Funções Administrativas",
+        supportText: "",
+        q: "Em administração, são funções no processo administrativo:",
+        options: [
+            "Planejamento, organização, direção/influência e controle.",
+            "Princípios, fundamentos e influência.",
+            "Objetivos, procedimentos, estrutura e direção.",
+            "Abordagem, atividades, objetivos e desafios.",
+            "Tomada de decisão, ciclos, armazenagem e paradigmas."
+        ],
+        answer: 0,
+        disclaimer: "Algumas bancas utilizam 'Influência' ou 'Coordenação' como sinônimos da função Direção no acrônimo PODC. O conjunto A apresenta a estrutura clássica completa."
+    },
+    {
+        topic: "Atribuições da Direção",
+        supportText: "",
+        q: "A denominada autoridade de linha é um elemento que, no que concerne às funções do administrador, situa-se na atividade de:",
+        options: [
+            "coordenação, representando a relação de auto ajuste das equipes, que independe do comando dos superiores hierárquicos.",
+            "planejamento, e consiste no poder do primeiro escalão de estabelecer as linhas mestras para atuação da organização.",
+            "direção ou comando, representado o poder do superior de dar ordens e cobrar a execução delas por seus subordinados.",
+            "avaliação, seguindo uma cadeia direta entre metas e indicadores fixados na etapa de planejamento, como forma de assegurar o cumprimento dos objetivos institucionais.",
+            "comunicação, eis que as lideranças que detém o atributo de autoridade de linha são mais eficazes em tal quesito do que as que exercem o comando vertical."
+        ],
+        answer: 2,
+        disclaimer: "A autoridade de linha é o princípio de comando escalar clássico (chefe-subordinado). Dar ordens e cobrar a execução é a essência da função de Direção."
+    },
+    {
+        topic: "Função Direção",
+        supportText: "",
+        q: "Assinale a alternativa que identifica corretamente a função administrativa relacionada com administração das relações entre os membros da organização e a própria organização:",
+        options: [
+            "Direção",
+            "Controle",
+            "Produção",
+            "Organização",
+            "Planejamento"
+        ],
+        answer: 0,
+        disclaimer: "A gestão das relações humanas (liderança, motivação, mediação de conflitos e comunicação) entre a força de trabalho e a empresa é o papel da Direção."
+    },
+    {
+        topic: "Processo Administrativo (Conceitos)",
+        supportText: "As funções da Administração são planejamento, organização, direção e controle.",
+        q: "Assinale a alternativa que apresenta, nessa ordem, uma definição de cada uma dessas funções:",
+        options: [
+            "Colocar e executar ações para concretizar os sistemas da empresa; estabelecer análises dos motivos de variações verificadas; definir as tarefas que cada pessoa deve executar em seu trabalho; e definir meios, modos e alternativas para alcançar os objetivos.",
+            "Coordenar os processos de transformação de recursos materiais e humanos para o alcance dos objetivos; tomar decisões para fazer as coisas acontecerem; identificar a necessidade de alterar objetivos, estratégias e ações; e desenvolver procedimentos, políticas e táticas.",
+            "Desenvolver a competência, a realização e o bem-estar das pessoas; comparar o planejado com o executado para medir a efetividade alcançada; criar objetivos a serem alcançados no futuro; e coordenar recursos materiais e humanos para montar uma estrutura organizacional.",
+            "Desenvolvimento e aplicação de decisões e de ações operacionais; fazer a divisão do trabalho entre as pessoas; estabelecer mecanismos de treinamento, capacitação, motivação e comunicação; e analisar por quais motivos os objetivos planejados foram, ou não, alcançados.",
+            "Estabelecer parâmetros quantitativos e qualitativos; solucionar problemas e tomar decisões para fazer as coisas acontecerem; definir estratégias para se alcançar os objetivos; e definir níveis de autoridade e de responsabilidade das pessoas para a realização do trabalho."
+        ],
+        answer: 3,
+        disclaimer: "A alternativa D obedece à ordem exata: Planejamento (aplicação de decisões/metas operacionais), Organização (divisão do trabalho), Direção (treinar, motivar, comunicar) e Controle (analisar motivos pelos quais os objetivos foram ou não alcançados)."
+    },
+    {
+        topic: "Funções Administrativas",
+        supportText: "Todo administrador precisa desempenhar um mínimo de quatro funções básicas para que desenvolva uma boa gestão, e elas são indispensáveis ao sucesso de qualquer empreendimento.",
+        q: "Assim, administradores podem ser conceituados como pessoas capazes de:",
+        options: [
+            "planejar, organizar, dirigir e controlar.",
+            "reter reservas crescentes e controladas.",
+            "Comprar orçamentar e executar.",
+            "relacionar-se eficazmente em todos os níveis.",
+            "pensar, executar, distribuir e verificar."
+        ],
+        answer: 0,
+        disclaimer: "Trata-se da definição unânime e universal da Teoria Neoclássica sobre o papel do gestor (processo PODC)."
+    },
+    {
+        topic: "Função Direção",
+        supportText: "",
+        q: "A função administrativa que orienta e impulsiona os esforços das pessoas para os objetivos propostos, é conhecida como:",
+        options: [
+            "controle.",
+            "planejamento.",
+            "direção.",
+            "organização.",
+            "estratégia."
+        ],
+        answer: 2,
+        disclaimer: "Orientar e impulsionar (motivar) pessoas constituem a atividade principal da Direção."
+    },
+    {
+        topic: "Funções Administrativas",
+        supportText: "Segundo Maximiano (2007), administrar é um trabalho em que as pessoas buscam realizar seus objetivos próprios ou de terceiros (organizações), com a finalidade de alcançar as metas traçadas. Dessas metas, fazem parte as decisões que formam a base do ato de administrar e que são as mais necessárias.",
+        q: "Assinale a alternativa que corresponda às funções administrativas:",
+        options: [
+            "compartilhar, organizar, delegar e programar.",
+            "orientar, instruir, controlar e estruturar.",
+            "planejar, organizar, controlar e dirigir.",
+            "motivar, praticar, delegar e dirigir.",
+            "desenvolver, aprimorar, controlar e planejar."
+        ],
+        answer: 2,
+        disclaimer: "As quatro funções indissociáveis do processo administrativo são Planejar, Organizar, Dirigir e Controlar."
+    },
+    {
+        topic: "Práticas da Direção",
+        supportText: "",
+        q: "Assinale a opção que apresenta uma prática da função da administração conhecida por direção:",
+        options: [
+            "Comparação entre padrões visados e realizados pela organização.",
+            "Monitoramento e avaliação do desempenho organizacional.",
+            "Distribuição de recursos, tarefas e autoridades no contexto organizacional.",
+            "Especificação de objetivos orientadores das atividades organizacionais.",
+            "Condução da ação dos colaboradores para o alcance dos objetivos organizacionais."
+        ],
+        answer: 4,
+        disclaimer: "Conduzir a ação (liderar) os colaboradores em prol dos resultados planejados. Erros: A e B são Controle. C é Organização. D é Planejamento."
+    },
+    {
+        topic: "O Processo Administrativo",
+        supportText: "A tarefa da administração consiste em interpretar os objetivos propostos pela organização e traduzi-los em ação empresarial. (CHIAVENATO, 2014).",
+        q: "Considerando essa afirmativa, a tarefa da administração tem como objetivo:",
+        options: [
+            "Observar, executar, corrigir e checar.",
+            "Planejamento, organização, direção e controle.",
+            "Planejar, fazer, checar e agir",
+            "Observar, tabular dados, agir e checar.",
+            "Planejamento, avaliação, instrução e direção."
+        ],
+        answer: 1,
+        disclaimer: "A banca pede a composição da tarefa da administração para traduzir os objetivos em ação, o que remete ao clássico conjunto: Planejamento, organização, direção e controle."
+    },
+    {
+        topic: "Função Direção",
+        supportText: "Segundo Oliveira (2012) são quatro as principais funções da administração: planejar, organizar, dirigir e controlar.\nÉ a capacidade e habilidade administrativa de supervisionar e orientar os recursos - humanos, financeiros, tecnológicos, materiais, equipamentos – alocados nas atividades das organizações, visando otimizar o processo decisório direcionado ao alcance dos resultados estabelecidos no planejamento.",
+        q: "O conceito exposto acima se refere a qual função da administração?",
+        options: [
+            "Planejamento.",
+            "Controle.",
+            "Coordenação.",
+            "Organização.",
+            "Direção."
+        ],
+        answer: 4,
+        disclaimer: "Supervisionar, orientar e influenciar a execução das atividades pelos recursos humanos para alcançar os resultados traçados são tarefas fundamentais da Direção."
+    },
+    {
+        topic: "Definição de Dirigir",
+        supportText: "A direção é uma das funções clássicas da Administração.",
+        q: "Dirigir significa:",
+        options: [
+            "analisar os planos para os outros e acompanhar, com critérios definidos, a execução desses planos.",
+            "cumprir os planos com os outros e dar instruções de como traduzir esses planos para o nível tático.",
+            "interpretar os planos para os outros e dar as instruções sobre como executá-los, em direção aos objetivos a atingir.",
+            "redigir os planos para os outros e dar as instruções sobre como executá-los, em direção aos objetivos a reescalonar.",
+            "organizar a estrutura e hierarquia da empresa para delegar as funções do grupo."
+        ],
+        answer: 2,
+        disclaimer: "Dirigir é a ação de traduzir e interpretar o plano elaborado e instruir as pessoas sobre como devem agir (executar) para alcançar as metas estipuladas."
+    },
+    {
+        topic: "Função Direção Aplicada",
+        supportText: "Em todas as áreas funcionais de uma empresa, os administradores exercem as funções administrativas de planejamento, organização, direção e controle.",
+        q: "Um exemplo de exercício da função de direção na área de marketing é:",
+        options: [
+            "atribuição de bônus aos vendedores.",
+            "estruturação do departamento de marketing.",
+            "distribuição dos vendedores por área geográfica.",
+            "monitoração da satisfação dos clientes.",
+            "definição da estratégia de marketing."
+        ],
+        answer: 0,
+        disclaimer: "Atribuir bônus (comissões/premiações) atua diretamente na MOTIVAÇÃO e no engajamento comportamental da equipe, ferramentas características da função Direção. Erros: B e C são Organização, D é Controle, E é Planejamento."
+    },
+    {
+        topic: "Tarefa Principal da Direção",
+        supportText: "",
+        q: "Assinale a alternativa que compreende a tarefa principal da Direção como Função Administrativa:",
+        options: [
+            "Traçar os objetivos setoriais a longo prazo",
+            "Organizar os recursos necessários para a operação da organização.",
+            "Monitorar as ações e resultados organizacionais através de relatórios financeiros.",
+            "Realizar estratégias de vendas.",
+            "Orientar pessoas a utilizarem os recursos para o atingimento dos objetivos organizacionais."
+        ],
+        answer: 4,
+        disclaimer: "A orientação, comando e liderança de pessoas na utilização dos recursos para concretizar as metas traduzem perfeitamente o propósito da Direção."
+    },
+    {
+        topic: "Funções Administrativas",
+        supportText: "A administração trata do planejamento, da organização (estruturação), da direção e do controle de todas as atividades que ocorrem dentro de uma organização. Administração é a coordenação do trabalho das pessoas e dos recursos materiais, colocados à disposição da organização, para que seus objetivos sejam alcançados, com eficácia e eficiência.",
+        q: "Dentre os elementos abaixo estão as funções administrativas contemporâneas, EXCETO:",
+        options: [
+            "Planejamento.",
+            "Moralidade.",
+            "Controle.",
+            "Direção.",
+            "Organização."
+        ],
+        answer: 1,
+        disclaimer: "Moralidade é um PRINCÍPIO Constitucional da Administração Pública (Art. 37), mas não é uma das funções do ciclo administrativo (PODC)."
+    },
+    {
+        topic: "O Processo Administrativo",
+        supportText: "",
+        q: "No que se refere aos PROCESSOS ADMINISTRATIVOS nas organizações, pode-se afirmar como CORRETO, EXCETO:",
+        options: [
+            "As organizações trabalham na base da improvisação, pouca coisa é planejada antecipadamente. O planejamento é dispensável como função administrativa.",
+            "O planejamento determina antecipadamente quais são os objetivos a serem atingidos e como se deve fazer para alcança-lo. Trata-se de um modelo teórico para ação futura.",
+            "A organização significa o ato de organizar, estruturar e integrar recursos e os órgãos incumbidos de sua administração e estabelecer suas atribuições e as relações entre eles.",
+            "O papel da direção é acionar e dinamizar a empresa, estando relacionada com a ação. Ela está diretamente relacionada com a atuação dos recursos humanos da empresa.",
+            "A finalidade do controle é assegurar que os resultados do que foi planejado, organizado, e dirigido se ajustem tanto quanto possível aos objetivos previamente estabelecidos."
+        ],
+        answer: 0,
+        disclaimer: "A afirmação A está diametralmente incorreta. A administração combate a improvisação por meio do Planejamento, que é a primeira e mais indispensável das funções administrativas."
+    },
+    {
+        topic: "Funções Básicas da Administração",
+        supportText: "Como expoente da Teoria Clássica da Administração, Henry Fayol definiu as funções do administrador, que foram atualizadas pelos autores da Teoria Neoclássica e que constituem o chamado processo administrativo.",
+        q: "Para os autores neoclássicos, além de Planejamento e Organização, são também funções básicas:",
+        options: [
+            "Direção e Decisão.",
+            "Direção e Controle.",
+            "Centralização e Controle.",
+            "Descentralização e Decisão.",
+            "Liderança e Execução."
+        ],
+        answer: 1,
+        disclaimer: "Fayol falava em POCCC (Prever, Organizar, Comandar, Coordenar, Controlar). A teoria neoclássica atualizou esse modelo fundindo Comandar e Coordenar na função Direção, resultando no atual PODC."
+    },
+    {
+        topic: "Funções Administrativas",
+        supportText: "",
+        q: "Assinale a alternativa que NÃO contém uma função administrativa do processo gerencial clássico:",
+        options: [
+            "Organização.",
+            "Direção.",
+            "Controle.",
+            "Transparência.",
+            "Planejamento."
+        ],
+        answer: 3,
+        disclaimer: "Transparência é um princípio ético e legal da gestão, mas não é uma etapa formal do Processo Administrativo."
+    },
+    {
+        topic: "Tarefas Gerenciais",
+        supportText: "",
+        q: "As quatro tarefas gerenciais essenciais são:",
+        options: [
+            "planejamento, organização, liderança e controle.",
+            "treinamento, recrutamento, seleção e supervisão.",
+            "estratégia, tática, comando e obediência.",
+            "estratégia, tática, operações e supervisão.",
+            "comando, obediência, liderança e foco."
+        ],
+        answer: 0,
+        disclaimer: "Alguns autores contemporâneos utilizam 'Liderança' ou 'Execução' como sinônimos da função de Direção no modelo PODC. Planejamento, Organização, Liderança e Controle é o termo correto aceito em prova."
+    },
+    {
+        topic: "Deficiência na Direção",
+        supportText: "Numa avaliação de perfil profissional dos gestores públicos recém-contratados de um município, percebeu-se que mais da metade deles possuía deficiência numa das funções administrativas conhecida como “direção”.",
+        q: "Assinale a alternativa que descreve corretamente esse tipo de deficiência:",
+        options: [
+            "Dificuldades em visão estratégica e operacional, ou seja, de pensar em colocar em práticas as ideias e os projetos.",
+            "Dificuldades em administrar as pessoas em busca dos objetivos, ou seja, com problemas em comunicar, incentivar, motivar e liderar pessoas.",
+            "Problemas para estabelecer as prioridades de trabalho, assim como a divisão de tarefas e, finalmente, o controle dos processos e resultados.",
+            "Deficiências de relacionamento interpessoal, indecisão e falta de liderança para indicar os rumos e os indicadores de controle das atividades.",
+            "Debilidade para lidar com problemas, tomada de decisão e reordenamento de pessoal, pois não têm habilidade em lidar com números e resultados."
+        ],
+        answer: 1,
+        disclaimer: "Deficiência na função de Direção manifesta-se através de falhas estritamente humanas: inabilidade de liderar, comunicar-se, motivar e incentivar os subordinados."
+    },
+    {
+        topic: "Análise das Funções Administrativas",
+        supportText: "Analise as afirmativas a seguir:\nI. Planejamento é a função administrativa que estabelece os objetivos e o curso de ação adequado para o alcance desses objetivos.\nII. Organização é a função administrativa que consiste no processo de arranjar e alocar os recursos e o trabalho, estabelecendo a autoridade necessária para que a organização consiga alcançar os seus objetivos.\nIII. Direção é a função administrativa que monitora e avalia as atividades e resultados alcançados para assegurar que as demais funções administrativas tenham sido bem-sucedidas.\nIV. Controle consiste na função administrativa de designar responsabilidades para que as tarefas sejam cumpridas.",
+        q: "Com base no seu conhecimento sobre as funções administrativas, está correto o que se afirma em:",
+        options: [
+            "Somente I e II.",
+            "Somente I e III.",
+            "Somente I, II e III.",
+            "Somente I, III e IV.",
+            "I, II, III, IV."
+        ],
+        answer: 0,
+        disclaimer: "As afirmativas I (Planejamento) e II (Organização) estão corretas. A afirmativa III é falsa porque 'monitorar e avaliar' é função do Controle. A afirmativa IV é falsa porque 'designar responsabilidades' (dividir trabalho) é função da Organização."
+    },
+    {
+        topic: "Coordenação",
+        supportText: "Entre as atividades inerentes à atuação do administrador, insere-se a de direção ou coordenação, que envolve, necessariamente, a comunicação.",
+        q: "Nesse contexto, o mecanismo que constitui uma forma simples para coordenar as atividades da organização, podendo ser formal ou informal, pautado pela comunicação entre os responsáveis pelas atividades para obter o equilíbrio entre as quantidades, tempos de produção e direções a serem seguidas, denomina-se:",
+        options: [
+            "ajuste espontâneo.",
+            "matriz de responsabilidades.",
+            "diagrama de Pareto.",
+            "condução forçada.",
+            "planejamento tático."
+        ],
+        answer: 0,
+        disclaimer: "O 'ajuste espontâneo' ou 'ajuste mútuo' é o mecanismo mais básico de coordenação descrito por Mintzberg, dependendo puramente da comunicação informal entre as pessoas que realizam o trabalho para sincronizar os esforços."
+    },
+    {
+        topic: "Caracterização das Funções Administrativas",
+        supportText: "A administração é uma atividade executada por pessoas visando alcançar os objetivos previamente definidos, de forma eficaz e com maior eficiência. Nesse sentido, existem quatro funções relacionadas ao processo administrativo, caracterizadas abaixo.\n(I) implementa as ações estabelecidas para atingir os objetivos da organização\n(II) define e estabelece as atividades a serem realizadas e os resultados a serem alcançados\n(III) orienta os recursos disponíveis para realizar o que foi estabelecido, fazendo a distribuição das tarefas, das autoridades e dos recursos materiais entre os membros da organização\n(IV) analisa os resultados obtidos verificando se estão em conformidade com o estabelecido, monitora as atividades, determinando se a organização está ou não de acordo com as metas traçadas",
+        q: "As funções caracterizadas em (I), (II), (III) e (IV) são denominadas, respectivamente:",
+        options: [
+            "Planejamento, Organização, Controle e Direção",
+            "Direção, Planejamento, Organização e Controle",
+            "Organização, Controle, Direção e Planejamento",
+            "Controle, Direção, Planejamento e Organização",
+            "Planejamento, Direção, Organização e Controle"
+        ],
+        answer: 1,
+        disclaimer: "I = Implementa/Age (Direção/Execução). II = Define o que será feito (Planejamento). III = Distribui tarefas/autoridade (Organização). IV = Verifica e monitora (Controle)."
+    },
+    {
+        topic: "Níveis Gerenciais",
+        supportText: "",
+        q: "Considerando os níveis de gerência existentes nas organizações, é atividade de um gerente de primeira linha (nível operacional/supervisão):",
+        options: [
+            "administrar outros gerentes.",
+            "definir as estratégias para a organização.",
+            "servir de elo entre os supervisores e os diretores.",
+            "ser responsável pela tomada de decisões sobre a direção da organização.",
+            "direcionar as atividades diárias dos funcionários sem responsabilidade gerencial."
+        ],
+        answer: 4,
+        disclaimer: "Gerentes de primeira linha (supervisores/encarregados) estão no nível mais baixo de liderança e lidam diretamente com o chão de fábrica/atendimento, comandando os funcionários operacionais não-gerenciais."
+    },
+    {
+        topic: "Conceito de Administração",
+        supportText: "",
+        q: "O planejamento, a organização, a liderança e o controle dos recursos humanos – e de todos os outros tipos de recursos – para que se atinjam os objetivos da organização de modo eficiente e eficaz, refere-se ao conceito de:",
+        options: [
+            "Metas.",
+            "Missão.",
+            "Estratégia.",
+            "Desempenho.",
+            "Administração."
+        ],
+        answer: 4,
+        disclaimer: "O uso conjunto das funções do processo administrativo (PODC) para coordenar o esforço coletivo visando eficiência e eficácia é o conceito basilar e histórico de Administração."
+    },
+    {
+        topic: "Funções Administrativas",
+        supportText: "A gestão de uma organização, seja ela pública ou privada, é baseada em princípios administrativos que devem nortear o bom gerenciamento. As funções administrativas são os alicerces para uma gestão eficiente.",
+        q: "Sobre elas, assinale a alternativa que as identifica:",
+        options: [
+            "Coordenação, Acompanhamento, Direção e Planejamento.",
+            "Direção, Assessoramento, Controle e Coordenação.",
+            "Planejamento, Organização, Direção e Controle.",
+            "Controle, Planejamento, Coordenação e Assessoramento.",
+            "Planejamento, Acompanhamento, Direção e Coordenação."
+        ],
+        answer: 2,
+        disclaimer: "O processo padrão consolidado pela doutrina majoritária neoclássica é Planejamento, Organização, Direção e Controle (PODC)."
+    },
+    {
+        topic: "Atribuições da Direção",
+        supportText: "No processo administrativo, com relação às funções do administrador, há uma que foca nas interações e no dinamismo humano para que o planejamento se concretize.",
+        q: "Dirigir é, dentre outros aspectos:",
+        options: [
+            "Dividir o trabalho, designar atividades, agrupar atividades em órgãos e cargos, alocar recursos, definir autoridade.",
+            "Definir missão, formular objetivos, definir como alcançar os objetivos, programar atividades.",
+            "Designar as pessoas, coordenar esforços, comunicar, motivar, liderar, orientar.",
+            "Definir padrões, monitorar desempenho, avaliar desempenho, ação corretiva.",
+            "Desenhar os manuais de conduta e estabelecer diretrizes de contratação."
+        ],
+        answer: 2,
+        disclaimer: "A opção C é a única que lista ações estritamente comportamentais e interpessoais (motivar, liderar, coordenar esforços), inerentes à Direção. (A = Organização; B = Planejamento; D = Controle)."
+    },
+    {
+        topic: "Funções Administrativas (Controle)",
+        supportText: "",
+        q: "Nas alternativas a seguir estão listadas ações específicas da função de controle da administração, à exceção de uma. Assinale-a:",
+        options: [
+            "designar pessoas e preencher cargos",
+            "assegurar o desempenho planejado",
+            "corrigir desvios e fixar padrões",
+            "monitorar o desempenho",
+            "comparar resultados com metas"
+        ],
+        answer: 0,
+        disclaimer: "A ação de 'designar pessoas e preencher cargos' (alocação de recursos humanos e divisão do trabalho) é uma atividade inerente à função de Organização, e não de Controle."
+    },
+    {
+        topic: "Processo Administrativo (Ordem)",
+        supportText: "O controle é a quarta função administrativa e tem como objetivo monitorar o desempenho e a implementação das mudanças que estão sendo realizadas e desenvolvidas.",
+        q: "Considerando o ambiente organizacional (Processo Administrativo), a segunda função administrativa é:",
+        options: [
+            "O planejamento",
+            "A organização",
+            "A direção",
+            "A execução",
+            "A liderança"
+        ],
+        answer: 1,
+        disclaimer: "O processo administrativo (conhecido pelo acrônimo PODC) segue a ordem lógica: 1º Planejamento, 2º Organização, 3º Direção e 4º Controle."
+    },
+    {
+        topic: "Indicadores de Desempenho (Efetividade)",
+        supportText: "Aparecida Maria é técnica da área de monitoramento de políticas públicas do Ministério da Ação Social. Recebeu a incumbência de verificar em todos os projetos qual seria a medida do grau de atendimento dos objetivos que orientaram a constituição de todos os Programas, tendo como referência os seus impactos na sociedade.",
+        q: "Essa avaliação se refere ao aspecto de:",
+        options: [
+            "objetividade",
+            "efetividade",
+            "eficácia",
+            "economia",
+            "execução"
+        ],
+        answer: 1,
+        disclaimer: "Em gestão pública, a Efetividade mede o IMPACTO e a transformação real gerada na sociedade (atendimento da finalidade social). A eficácia mede apenas o alcance da meta (entregou a obra), e a eficiência mede o uso de recursos (custo-benefício)."
+    },
+    {
+        topic: "Etapas do Controle",
+        supportText: "Controlar é qualquer ação tomada pela administração com o objetivo de atingir metas preestabelecidas. A administração planeja, organiza e supervisiona a execução de inúmeras funções, e estas atividades, caso sejam bem executadas, devem resultar no alcance de tais metas.",
+        q: "Neste contexto pode-se afirmar que o controle é um processo cíclico e interativo constituído das seguintes fases, EXCETO:",
+        options: [
+            "Ação corretiva",
+            "Avaliação do desempenho",
+            "Descentralização das decisões",
+            "Comparação do desempenho com o padrão",
+            "Estabelecimento de padrões de desempenho"
+        ],
+        answer: 2,
+        disclaimer: "A 'descentralização das decisões' é um conceito de estrutura organizacional (Organização). As quatro fases clássicas do Controle são: 1) Estabelecer padrões; 2) Avaliar desempenho; 3) Comparar; e 4) Ação corretiva."
+    },
+    {
+        topic: "Conceito de Controle",
+        supportText: "Analise a afirmação a seguir: “É a função do processo administrativo que, mediante a comparação com padrões previamente estabelecidos, procura medir e avaliar o desempenho e o resultado das ações, com a finalidade de realimentar os tomadores de decisões, de forma que possam corrigir ou reforçar esse desempenho ou interferir em funções do processo administrativo, para assegurar que os resultados satisfaçam aos desafios e aos objetivos estabelecidos.”",
+        q: "É correto afirmar que ela representa o conceito de:",
+        options: [
+            "gerência",
+            "desenvolvimento",
+            "organização",
+            "mudança",
+            "controle"
+        ],
+        answer: 4,
+        disclaimer: "O texto define o Controle. Comparar os resultados reais com os padrões estabelecidos no planejamento e realizar ações corretivas é a essência dessa função."
+    },
+    {
+        topic: "Indicadores de Desempenho",
+        supportText: "Um dos princípios da administração que sempre deve estar integrado nos processos administrativos se caracteriza pela utilização de indicadores que também recebem o nome de KPI (Key Performance Indicator) ou ainda Indicador Chave de Desempenho.",
+        q: "Este elemento de mensuração é utilizado primariamente nas atividades da função de:",
+        options: [
+            "direção",
+            "controle",
+            "pagamento",
+            "organização",
+            "planejamento"
+        ],
+        answer: 1,
+        disclaimer: "Os KPIs (Indicadores Chave de Desempenho) são as métricas utilizadas para avaliar se os processos estão alcançando os padrões estipulados, sendo ferramentas clássicas da função de Controle."
+    },
+    {
+        topic: "Conceitos de Gestão",
+        supportText: "",
+        q: "Quanto ao critério de avaliação previamente estabelecido, que permite a análise dos principais resultados das empresas, assinale a alternativa correta:",
+        options: [
+            "Indicador de desempenho",
+            "Gestão do conhecimento",
+            "Gestão integrada da humanização",
+            "Gestão por competências",
+            "Educação corporativa"
+        ],
+        answer: 0,
+        disclaimer: "Critérios de avaliação previamente fixados para mensurar os resultados alcançados frente aos objetivos são definidos como Indicadores de Desempenho."
+    },
+    {
+        topic: "Tipos de Controle",
+        supportText: "Leia a situação a seguir:\nNa empresa de cosméticos C. há um sofisticado sistema informatizado. Com ele é possível monitorar continuamente toda a linha de produção e detectar problemas à medida que eles ocorrem. Na empresa de móveis planejados M., depois que cada móvel é entregue e montado, um funcionário comparece à residência do cliente para avaliar o serviço e o atendimento prestado.",
+        q: "Esses dois modelos de controle adotados pelas duas empresas são, respectivamente,",
+        options: [
+            "estratégico e posterior",
+            "simultâneo e posterior",
+            "preventivo e reativo",
+            "preventivo e corretivo",
+            "concorrente e preliminar"
+        ],
+        answer: 1,
+        disclaimer: "O controle realizado 'à medida que ocorrem' é o Simultâneo (ou Concorrente). O controle feito 'depois que o móvel é entregue' (feedback do resultado final) é o Posterior (ou a posteriori)."
+    },
+    {
+        topic: "Tipos de Controle no Tempo",
+        supportText: "O controle de uma atividade ou processo organizacional pode ser efetuado em diferentes momentos.",
+        q: "Assinale a alternativa que apresenta os três momentos em que o controle pode ser executado.",
+        options: [
+            "Controle produtivo, controle de desperdício e controle preventivo.",
+            "Controle de qualidade, controle simultâneo e controle de frequência.",
+            "Controle de assiduidade, controle simultâneo e controle de qualidade.",
+            "Controle zero defeitos, controle a priori e controle a posteriori.",
+            "Controle preventivo, controle simultâneo e controle posterior."
+        ],
+        answer: 4,
+        disclaimer: "No critério temporal, o controle pode ser: Preventivo (antes do processo iniciar), Simultâneo/Concorrente (durante a execução) e Posterior/Feedback (após a finalização)."
+    },
+    {
+        topic: "Indicadores (Eficácia)",
+        supportText: "Considerando sobre o que deve ser avaliado, medido e controlado nas organizações, pode-se afirmar que elas se preocupam com os resultados, com o desempenho e com os fatores críticos de sucesso.",
+        q: "No que diz respeito à medição do desempenho, a eficácia analisa:",
+        options: [
+            "as adequações em relação às especificações ou requisitos e superações dos mesmos.",
+            "o lado da entrada do sistema e mede o desempenho do gerenciamento do sistema; sendo que todas as entradas do sistema podem ser submetidas à avaliação.",
+            "o grau em que se produz novas ideias ou se adaptam velhas ideias para criar resultados lucrativos.",
+            "o lado da saída do sistema e trata da implementação dos objetivos: fazer o que se planejou e atingir o resultado desejado.",
+            "as medidas de produtividade que podem ser aplicadas para cada entrada ou combinação de entradas."
+        ],
+        answer: 3,
+        disclaimer: "A eficácia está ligada aos fins (lado da saída/resultados), medindo se a organização alcançou os objetivos pretendidos. A eficiência, por sua vez, foca nos meios (lado da entrada/recursos)."
+    },
+    {
+        topic: "Função Controle",
+        supportText: "Contemporaneamente, consideramos como funções administrativas as funções planejar, organizar, dirigir e controlar. No entanto, essas funções administrativas, hoje conhecidas, são uma evolução da Teoria Clássica da Administração, idealizada por Fayol.",
+        q: "Quando se fala em 'estabelecer padrões e medidas de desempenho que permitam assegurar que as atitudes empregadas são as mais compatíveis com o que a organização espera', a qual dessas funções o texto está se referindo?",
+        options: [
+            "Planejar",
+            "Organizar",
+            "Dirigir",
+            "Controlar",
+            "Coordenar"
+        ],
+        answer: 3,
+        disclaimer: "O estabelecimento de padrões (metas de referência) para mensurar o desempenho posterior e assegurar a obediência às regras é a etapa primária do Controle."
+    },
+    {
+        topic: "Definição de Controle",
+        supportText: "“É o processo através do qual se garante se os planos estão sendo cumpridos e se está havendo progresso nos objetivos organizacionais. É a etapa de monitorar quão bem os recursos estão sendo utilizados e as atividades realizadas com eficiência”.",
+        q: "A qual das funções administrativas o trecho acima se refere?",
+        options: [
+            "Direção",
+            "Planejamento",
+            "Controle",
+            "Organização",
+            "Auditoria"
+        ],
+        answer: 2,
+        disclaimer: "Garantir o cumprimento dos planos (assegurar resultados) e monitorar (medir) o uso dos recursos e a conformidade das atividades é o conceito basilar de Controle."
+    },
+    {
+        topic: "Função Organização (Revisão)",
+        supportText: "É o processo de arrumar o local, a autoridade, os membros e os recursos disponíveis em uma organização, de modo que todo o conjunto, em uníssono, trabalhe para alcançar o objetivo desejado. Nesta função administrativa, o gestor coloca em práticas as ações que irão viabilizar a realização do plano traçado. Este é o momento de o administrador definir o que deve ser feito, quem irá ser responsável pelo trabalho, como esse trabalho deverá ser executado, a quem os empregados devem se reportar.",
+        q: "O texto acima se refere a qual função administrativa?",
+        options: [
+            "Organizar",
+            "Planejar",
+            "Executar",
+            "Controlar",
+            "Dirigir"
+        ],
+        answer: 0,
+        disclaimer: "Distribuir e estruturar recursos, definir autoridades (a quem se reportar) e dividir o trabalho são características exclusivas da função de Organização."
+    },
+    {
+        topic: "Níveis de Controle Organizacional",
+        supportText: "O controle é um conceito que pode ser aplicado a diferentes níveis organizacionais. Para cada um desses níveis, existem atividades e processos que devem ser monitorados e avaliados.",
+        q: "Acerca dos níveis organizacionais de controle, assinale a afirmativa incorreta.",
+        options: [
+            "Nível Tático – foco no desempenho de unidades ou áreas funcionais da organização.",
+            "Nível Operacional – foco no desempenho de atividades operacionais.",
+            "Nível Estratégico – foco na realização da missão, visão e estratégias com forte orientação interna e no desempenho da organização como um todo.",
+            "Nível Operacional – preocupação com a eficiência e consumo de recursos no dia a dia.",
+            "Nível Estratégico – tem como característica principal o monitoramento e avaliação do ambiente externo."
+        ],
+        answer: 2,
+        disclaimer: "A afirmativa incorreta diz que o Nível Estratégico possui forte 'orientação interna'. Na verdade, o Controle Estratégico tem forte orientação EXTERNA (avalia a empresa frente ao mercado, concorrência e ameaças macroambientais)."
+    },
+    {
+        topic: "Identificação da Função Controle",
+        supportText: "",
+        q: "Tendo como base os processos administrativos, aquele que analisa os resultados, no sentido de garantir sua conformidade com o que foi definido, e acompanha as atividades, para ter certeza de que estão seguindo o caminho previamente traçado chama-se:",
+        options: [
+            "planejamento",
+            "direção",
+            "organização",
+            "controle",
+            "comunicação"
+        ],
+        answer: 3,
+        disclaimer: "Analisar resultados (medir) visando garantir conformidade (ações corretivas) para assegurar o caminho planejado é a atividade final do Controle."
+    },
+    {
+        topic: "Processo Administrativo (Fayol vs. Neoclássica)",
+        supportText: "O processo administrativo abarca o acionamento das Funções da Administração no seu escopo.",
+        q: "Uma das assertivas apresentadas sobre as atribuições previstas nas funções administrativas, em sua perspectiva clássica, não mantém a aderência com a proposta original. Assinale-a.",
+        options: [
+            "A função direção é a responsável pela coordenação do trabalho dos funcionários.",
+            "As Funções podem ser agrupadas em planejamento, organização, direção e controle.",
+            "O planejamento deve ser expresso no programa de ação.",
+            "A função organização é a responsável pela divisão do trabalho.",
+            "Munir a empresa de tudo que é necessário a seu funcionamento: material, instrumental, capital e pessoas é tarefa da função controle."
+        ],
+        answer: 4,
+        disclaimer: "A alternativa E descreve exatamente o ato de prover recursos à empresa (montar o corpo social e material), o que corresponde à definição de ORGANIZAÇÃO (segundo Fayol), e não de Controle."
+    },
+    {
+        topic: "Controle no Nível Tático",
+        supportText: "",
+        q: "Um gestor de nível médio precisa realizar a função controle adequada ao seu nível de atuação. Para tal, ele deve realizar atividades relacionadas a:",
+        options: [
+            "comparar o desempenho esperado e o alcançado no escopo de seu departamento.",
+            "definir planos e metas para a empresa como um todo.",
+            "manualizar processos e procedimentos estritamente operacionais.",
+            "montar uma equipe com atribuições específicas para um novo projeto.",
+            "realizar fisicamente uma atividade da linha de produção."
+        ],
+        answer: 0,
+        disclaimer: "O controle Tático (nível médio) avalia as metas e resultados do seu departamento comparando o desempenho alcançado contra os padrões estipulados no planejamento setorial."
+    },
+    {
+        topic: "Resumo das Funções",
+        supportText: "",
+        q: "Sobre as funções administrativas, assinale a alternativa correta:",
+        options: [
+            "A função controle é a responsável por verificar se as ações estão sendo realizadas conforme definidas no planejamento.",
+            "A função organização é a responsável por chefiar as pessoas e as equipes de trabalho.",
+            "A função direção é a responsável por decidir antecipadamente o que deve ser feito.",
+            "A função planejamento é responsável por dotar a organização dos insumos necessários para o seu funcionamento.",
+            "A função direção é responsável pela divisão do trabalho e desenho do organograma."
+        ],
+        answer: 0,
+        disclaimer: "O Controle verifica e mede. Erros nas demais: chefiar/liderar = Direção (B); decidir o que será feito = Planejamento (C); dotar de insumos/recursos = Organização (D)."
+    },
+    {
+        topic: "Níveis de Controle",
+        supportText: "Uma organização decidiu monitorar seu desempenho global por meio da medição de indicadores como satisfação do acionista, clientes e imagem da organização, bem como medidas financeiras como retorno sobre o investimento e valor das ações.",
+        q: "Esse tipo de controle é relacionado ao nível:",
+        options: [
+            "estratégico",
+            "funcional",
+            "operacional",
+            "tático",
+            "técnico"
+        ],
+        answer: 0,
+        disclaimer: "Monitorar resultados amplos, globais, voltados ao mercado e aos acionistas (imagem, valor de mercado) abrange a empresa como um todo, caracterizando o Controle Estratégico."
+    },
+    {
+        topic: "O Ciclo do Controle",
+        supportText: "O administrador ao estabelecer padrões de desempenho que demonstram a evolução e qualidade do trabalho de acordo com os objetivos de longo prazo, monitorando o desempenho dos colaboradores por meio da coleta de dados e fornecendo para as pessoas feedback a respeito do seu progresso identificando os erros para correção, são atitudes pertinentes à função da administração denominada________.",
+        q: "Assinale a alternativa que preenche corretamente a lacuna:",
+        options: [
+            "liderar",
+            "organizar",
+            "planejar",
+            "recompensar",
+            "controlar"
+        ],
+        answer: 4,
+        disclaimer: "O trecho descreve as quatro etapas de uma só vez: 1) estabelecer padrões; 2) monitorar o desempenho; 3) comparar (feedback); e 4) tomar ação corretiva (identificando erros para correção). Tudo compõe o ato de controlar."
+    },
+    {
+        topic: "Integração do Processo Administrativo",
+        supportText: "De acordo com Chiavenato (2010), ao conjunto das funções administrativas, consideradas como um todo integrado, dá-se o nome de processo administrativo. Esse processo busca explicar como as funções administrativas são desenvolvidas pelas organizações.",
+        q: "Tendo em vista o ilustrado pelo renomado autor, assinale a alternativa correta:",
+        options: [
+            "As quatro funções básicas do administrador, que constituem o chamado processo administrativo, são planejamento, comando, coordenação e controle.",
+            "O controle pode ser definido como um processo desenvolvido para o alcance de uma situação futura desejada, com a melhor concentração de esforços e recursos.",
+            "A função planejamento busca organizar, estruturar e integrar os recursos disponíveis para que as ações a serem realizadas possam atingir o sucesso.",
+            "Comunicação, motivação e liderança são atividades desempenhadas em todas as funções do processo administrativo, exceto na direção.",
+            "A função controle busca verificar como as atividades realizadas estão se comportando em relação ao que estava previsto no planejamento."
+        ],
+        answer: 4,
+        disclaimer: "O controle é a checagem da execução frente ao que foi planejado. Erros: A (é Planejamento, Organização, Direção e Controle); B (isso é Planejamento); C (isso é Organização); D (Comunicação/motivação são exatamente a essência da Direção)."
+    },
+    {
+        topic: "Características do Controle por Nível",
+        supportText: "A finalidade do controle é garantir que os resultados do planejamento, da organização e da direção estejam aderentes aos objetivos previamente estabelecidos.",
+        q: "Quanto ao controle e à sua abrangência organizacional, assinale a alternativa correta:",
+        options: [
+            "No nível intermediário, o controle é detalhado e analítico, orientado para o longo prazo.",
+            "No nível institucional, o controle tático é genérico e sintético, contemplando cada tarefa ou operação da organização.",
+            "No nível operacional, o controle estratégico é voltado para o curto prazo e aborda cada departamento da organização.",
+            "No nível intermediário, o controle tático é micro-orientado e direcionado para o curto prazo.",
+            "No nível institucional, o controle estratégico é macro-orientado, abordando a empresa em sua totalidade."
+        ],
+        answer: 4,
+        disclaimer: "O Controle Estratégico atua no Nível Institucional (alta direção), analisa a organização em sua totalidade (macro-orientado) e foca no longo prazo."
+    },
+    {
+        topic: "Fases do Processo de Controle",
+        supportText: "",
+        q: "Em uma organização, a primeira e a segunda fase de execução da função administrativa de controle são, respectivamente:",
+        options: [
+            "comparação de desempenho e avaliação de desempenho.",
+            "adoção de ação corretiva e comparação de desempenho.",
+            "avaliação de desempenho e adoção de ação corretiva.",
+            "definição de padrões de desempenho e avaliação de desempenho.",
+            "comparação de desempenho e adoção de ação corretiva."
+        ],
+        answer: 3,
+        disclaimer: "As quatro etapas do controle são, na ordem: 1) Definição de padrões de desempenho; 2) Avaliação/Mensuração do desempenho atual; 3) Comparação; e 4) Ação corretiva."
+    },
+    {
+        topic: "Atribuições da Função Controle",
+        supportText: "Uma organização está selecionando candidatos para um cargo na área comercial com as seguintes atribuições: “avaliação da satisfação dos clientes; acompanhamento das vendas; monitoramento da participação dos produtos da empresa no mercado”.",
+        q: "Essas atribuições estão relacionadas à seguinte função da administração:",
+        options: [
+            "controle",
+            "planejamento",
+            "direção",
+            "coordenação",
+            "organização"
+        ],
+        answer: 0,
+        disclaimer: "Os verbos 'avaliar', 'acompanhar' e 'monitorar' revelam processos de mensuração de resultados e retroação (feedback), caracterizando atividades típicas de Controle."
+    },
+    {
+        topic: "Fases do Processo de Controle",
+        supportText: "Para que as atividades sejam executadas de acordo com o planejado, os gerentes utilizam o processo de controle.",
+        q: "São componentes centrais do ciclo do processo de controle, EXCETO:",
+        options: [
+            "controle prévio.",
+            "aquisição das informações (medição).",
+            "padrões de controle.",
+            "comparação e ação corretiva.",
+            "estabelecimento de padrões de desempenho."
+        ],
+        answer: 0,
+        disclaimer: "O 'controle prévio' é uma CLASSIFICAÇÃO do controle quanto ao tempo em que ocorre, e não um dos componentes/etapas metodológicas do ciclo do processo de controle em si (que engloba padrões, medição, comparação e correção)."
+    },
+    {
+        topic: "Fases do Processo de Controle",
+        supportText: "",
+        q: "Fatores críticos de sucesso, como aspectos fundamentais para que uma organização tenha sucesso em termos de desempenho e resultados, são elementos vinculados com a fase do controle como processo cíclico e interativo, conhecida como:",
+        options: [
+            "estabelecimento de padrões.",
+            "comparação do desempenho.",
+            "ação corretiva.",
+            "avaliação do desempenho.",
+            "ação preventiva."
+        ],
+        answer: 0,
+        disclaimer: "Os 'fatores críticos de sucesso' orientam o que deve ser medido. A definição das metas (padrões) em cima desses fatores constitui a primeira etapa do processo de Controle (estabelecimento de padrões)."
+    },
+    {
+        topic: "Organização e Controle (Amplitude Administrativa)",
+        supportText: "Uma amplitude de controle inadequada para a empresa pode causar determinados problemas.",
+        q: "Caso o número real de subordinados seja menor do que a amplitude de controle desenhada para o gestor, um dos principais problemas que pode ocorrer é:",
+        options: [
+            "custos administrativos maiores.",
+            "perda de controle.",
+            "decisões demoradas e mal estruturadas.",
+            "ineficiência nas comunicações.",
+            "sobrecarga de trabalho da chefia."
+        ],
+        answer: 0,
+        disclaimer: "Se cada chefe lidera um número muito pequeno de pessoas (subutilização da amplitude), a empresa precisará contratar muito mais chefes para dar conta do total de funcionários, o que encarece a folha de pagamento e gera 'custos administrativos maiores' (estrutura aguda/alta)."
+    },
+    {
+        topic: "Processo Administrativo",
+        supportText: "Processo administrativo é o nome dado ao conjunto e sequência das funções administrativas.",
+        q: "Sobre a função controle, assinale a alternativa correta:",
+        options: [
+            "Monitora as atividades e faz correções.",
+            "Define os objetivos e os meios para alcançá-los.",
+            "Usa de influência para motivar as pessoas.",
+            "Delega responsabilidades para o cumprimento das tarefas.",
+            "Organiza o organograma da instituição."
+        ],
+        answer: 0,
+        disclaimer: "O binômio 'monitorar e corrigir' (mensuração e ação corretiva) resume perfeitamente a função de Controle. (B é Planejamento, C é Direção, D e E são Organização)."
+    },
+    {
+        topic: "Função Controle",
+        supportText: "",
+        q: "É a função administrativa responsável por analisar o trabalho que está sendo desenvolvido comparando o que foi feito ou está sendo feito com o que deveria ser feito ou alcançado, com o objetivo de apontar desvios em relação ao planejado e propor alternativas para superar as dificuldades encontradas. A definição acima se refere ao conceito de:",
+        options: [
+            "Administração",
+            "Direção/influência",
+            "Planejamento",
+            "Organização",
+            "Controle"
+        ],
+        answer: 4,
+        disclaimer: "A comparação entre o desempenho real ('o que foi feito') e o desempenho padrão ('o que deveria ser feito') para apurar desvios é a definição clássica do Controle."
+    },
+    {
+        topic: "Benchmarking",
+        supportText: "O processo de controle inclui três passos: 1) estabelecer padrões; 2) medir o desempenho em face dos padrões e 3) corrigir os desvios dos padrões e do planejamento.",
+        q: "Uma outra forma de controle é comparar o desempenho da organização com o de outras organizações do mercado, a partir de pontos de referência. Essa forma de controle é chamada:",
+        options: [
+            "ponto crítico",
+            "benchmarking",
+            "padrões de capital",
+            "padrões intangíveis",
+            "padrões de programa"
+        ],
+        answer: 1,
+        disclaimer: "Benchmarking é a ferramenta de gestão que consiste em buscar e analisar as melhores práticas do mercado (referências/concorrentes) para compará-las com o próprio desempenho."
+    },
+    {
+        topic: "Cultura e Clima Organizacional",
+        supportText: "O clima possui natureza avaliativa, podendo ser classificado como favorável ou não, enquanto a cultura é descritiva, sendo um objeto de constatação. Sendo assim, o clima é uma decorrência da cultura organizacional, tanto em seus aspectos positivos e motivadores quanto em seus aspectos negativos e geradores de conflitos, sendo mais facilmente perceptível e manejável pela organização do que a cultura.",
+        q: "Assinale a alternativa que NÃO corresponde a uma característica do clima organizacional.",
+        options: [
+            "Trata da essência da organização e é relativamente estável.",
+            "Está muito relacionado à motivação e aos comportamentos dos funcionários. Um clima positivo influencia positivamente o trabalho.",
+            "Pode ser medido e avaliado para que possa ser melhorado, gerando um aumento da produtividade da organização.",
+            "É a síntese das percepções dos funcionários sobre a organização e o ambiente de trabalho, sendo algo mais temporário.",
+            "A rotatividade de pessoal (turnover), o número de greves, faltas e atrasos são importantes indicadores do clima organizacional."
+        ],
+        answer: 0,
+        disclaimer: "O Clima Organizacional é mutável, avaliativo e temporário (a 'previsão do tempo' da empresa). O que 'trata da essência da organização e é relativamente estável' é a CULTURA organizacional."
+    },
+    {
+        topic: "Cultura Organizacional Forte",
+        supportText: "Uma cultura organizacional forte é aquela que é compartilhada por todos os membros da organização, havendo pouca divergência de opiniões sobre seus pontos principais e alto impacto sobre o comportamento dos funcionários.\nI. Tende a evitar o surgimento de problemas internos, reduzindo o nível de conflitos.\nII. Pode ocasionar menor celeridade nos processos de mudança e adaptação da organização, fazendo com que as pessoas não aceitem bem os processos de mudança.\nIII. Proporciona um senso de identidade aos membros de uma organização.\nIV. Favorece o comprometimento dos colaboradores com a organização.",
+        q: "São vantagens da cultura forte quais das alternativas listadas?",
+        options: [
+            "Apenas III.",
+            "Apenas II e III.",
+            "Apenas I, II e IV.",
+            "Apenas I, III e IV.",
+            "I, II, III e IV."
+        ],
+        answer: 3,
+        disclaimer: "O item II descreve a barreira à inovação (resistência a mudanças), que é uma DESVANTAGEM de culturas excessivamente fortes e rígidas. As opções I, III e IV são, de fato, vantagens."
+    },
+    {
+        topic: "Níveis da Cultura Organizacional (Schein)",
+        supportText: "De acordo com Chiavenato (2014), cultura organizacional é o conjunto de hábitos e crenças compartilhados entre as pessoas por meio de normas, valores, expectativas e atitudes em uma empresa. Portanto, a cultura organizacional reflete a forma de pensar que predomina na organização.",
+        q: "Sobre os três níveis da cultura de Edgar Schein, o que são as pressuposições básicas?",
+        options: [
+            "Representam o primeiro nível da cultura, sendo visíveis, superficiais e perceptíveis (Símbolos, heróis, lemas).",
+            "Constituem o segundo nível e funcionam como justificativas para o seu comportamento (Valores).",
+            "Representam o terceiro nível da cultura organizacional, sendo o mais íntimo, profundo e oculto da cultura. É onde se encontram as crenças inconscientes, tabus e sentimentos que regem o pensamento das pessoas.",
+            "Constituem o primeiro nível da cultura organizacional e representam aquilo que é importante para nortear a estratégia da organização no caminho para o sucesso.",
+            "Constituem o segundo nível e elaboram os elementos do planejamento como missão e visão."
+        ],
+        answer: 2,
+        disclaimer: "Os níveis de Schein são: 1º Artefatos (visíveis); 2º Valores Compartilhados (filosofias/justificativas); e 3º Pressuposições Básicas (crenças inconscientes, inquestionáveis e raízes profundas)."
+    },
+    {
+        topic: "Cultura Organizacional no Setor Público",
+        supportText: "Analise o trecho a seguir.\n“É aprendida e apreendida por meios de processos de socialização, tanto no nível social quanto no nível da instituição. Esse processo impacta a forma de vida, os padrões e os valores das pessoas, que ao longo do tempo, se dedicam intensamente as instituições. As pessoas transportam seus conhecimentos técnicos, emoções, expectativas e características de suas personalidades.”",
+        q: "Com relação ao trecho, é incorreto afirmar:",
+        options: [
+            "Cada organização tem a sua específica.",
+            "O enunciado trata da cultura organizacional.",
+            "As mudanças nos seus padrões são influenciadas pelos anseios e interesses da sociedade.",
+            "As organizações públicas com esse elemento avaliado como estável e maduro estão estruturadas por regras de caráter pessoal e padrões escritos.",
+            "As mudanças que ocorrem nesse fator estão sujeitas a encontrar resistências que se tornam mais fortes ao se atuar nas relações de poder."
+        ],
+        answer: 3,
+        disclaimer: "As organizações públicas burocráticas/gerenciais estáveis estruturam-se por regras de caráter IMPESSOAL (princípio da impessoalidade administrativa), e não 'pessoal' como afirma a alternativa D."
+    },
+    {
+        topic: "Clima Organizacional",
+        supportText: "Analise o trecho a seguir.\nÉ um conceito relacionado às pessoas e ao ambiente, e também com o momento. Para Chiavenato, esse conceito depende de seis fatores: estrutura da organização, responsabilidade, riscos, calor e apoio, recompensas e conflito.",
+        q: "Assinale a alternativa que apresenta o conceito de que trata o trecho.",
+        options: [
+            "Motivação.",
+            "Desempenho.",
+            "Capital intelectual.",
+            "Clima organizacional.",
+            "Avaliação de desempenho."
+        ],
+        answer: 3,
+        disclaimer: "Sempre que um fator humano relacionar-se fortemente 'ao momento' atual (avaliação de estado de ânimo e satisfação em um dado momento), trata-se do Clima Organizacional."
+    },
+    {
+        topic: "Mudança Organizacional",
+        supportText: "Para Chiavenato (2020), em toda organização existe uma balança dinâmica de forças positivas que apoiam e suportam a mudança e de outras forças negativas que restringem e impedem a mudança.",
+        q: "Segundo o autor, são forças negativas de oposição e resistência no processo de mudança organizacional interna, EXCETO:",
+        options: [
+            "Cultura organizacional conservadora.",
+            "Dificuldade de aprender novas tecnologias.",
+            "Velhos hábitos e costumes da organização.",
+            "Oportunidades do mercado.",
+            "Pouco contato com clientes."
+        ],
+        answer: 3,
+        disclaimer: "As 'Oportunidades de mercado' são fatores externos e positivos (Forças Impulsionadoras) que motivam e encorajam a mudança, em vez de restringi-la."
+    },
+    {
+        topic: "Níveis da Cultura Organizacional (Schein)",
+        supportText: "",
+        q: "O componente da cultura organizacional que representa o nível mais íntimo e profundo, que envolve as crenças inconscientes, as percepções, os sentimentos e as pressuposições dominantes em que as pessoas acreditam, denomina-se",
+        options: [
+            "rituais de cerimônias.",
+            "símbolos materiais.",
+            "artefatos.",
+            "valores compartilhados.",
+            "pressuposições básicas."
+        ],
+        answer: 4,
+        disclaimer: "Repetição do conceito de Edgar Schein. O nível profundo, invisível e inquestionável constitui as 'Pressuposições Básicas'."
+    },
+    {
+        topic: "Níveis da Cultura Organizacional (Valores)",
+        supportText: "“Podem ser conscientes ou inconscientes, representando as idealizações e racionalizações do comportamento dos indivíduos. Difíceis de serem identificados apenas por meio da observação direta, sendo identificados com entrevistas a elementos-chave e análise de conteúdo ou discurso dos documentos oficiais.” (ALMEIDA, 2017)",
+        q: "O texto se refere ao seguinte nível de apreensão no âmbito da cultura organizacional:",
+        options: [
+            "artefatos visíveis e criações",
+            "valores compartilhados",
+            "pressupostos básicos e crenças",
+            "processos individuais",
+            "mitos e histórias"
+        ],
+        answer: 1,
+        disclaimer: "Os 'Valores Compartilhados' representam a filosofia de trabalho declarada da empresa, exigindo entrevistas e análises de documentos (como Código de Ética e Missão/Visão) para serem percebidos, diferentemente dos artefatos, que são abertamente visíveis."
+    },
+    {
+        topic: "Clima Organizacional",
+        supportText: "O clima organizacional varia ao longo de um continuum, que varia desde um clima favorável e saudável até um clima desfavorável e negativo.",
+        q: "Assinale a alternativa que apresenta um elemento de sintoma do clima desfavorável.",
+        options: [
+            "letargia",
+            "apatia",
+            "frustração",
+            "indiferença",
+            "desinteresse"
+        ],
+        answer: 2,
+        disclaimer: "Na literatura clássica de clima, a 'frustração' é o elemento ativamente desfavorável que gera tensão, atrito e conflito iminente. (O gabarito original considera Frustração como a variável de sintoma de clima negativo por excelência, enquanto as demais são passivas)."
+    },
+    {
+        topic: "Clima Organizacional",
+        supportText: "O clima organizacional depende de condições econômicas da empresa, da estrutura e da cultura organizacionais.",
+        q: "Sendo assim, assinale a alternativa que apresenta uma variável causal (de entrada) que impacta na formação do clima.",
+        options: [
+            "motivação de pessoas",
+            "estimulação",
+            "desafios",
+            "estrutura organizacional",
+            "nível de satisfação"
+        ],
+        answer: 3,
+        disclaimer: "A Estrutura Organizacional (cargos, salários, hierarquia, condições físicas) é um dado objetivo (variável de entrada). As demais alternativas são variáveis psicológicas, de estado ou de saída."
+    },
+    {
+        topic: "Cultura e Desempenho",
+        supportText: "A cultura corporativa pode ter um impacto significativo sobre o desempenho econômico a longo prazo de uma empresa.",
+        q: "Assinale a alternativa que apresenta um fator que contribui para a formação de uma cultura de compromisso.",
+        options: [
+            "o comportamento da cúpula contradizer sua mensagem de fortalecimento das equipes e das pessoas",
+            "investimento, pela organização, em treinamento e supervisão de pessoas com pouca instrução para executarem tarefas rotineiras e definidas",
+            "a cúpula estar preocupada em ter absoluto controle sobre os resultados do negócio",
+            "o feedback do desempenho ser dado somente pela cúpula",
+            "a cultura democrática e participativa encorajar as pessoas a assumirem riscos e responsabilidades"
+        ],
+        answer: 4,
+        disclaimer: "O comprometimento real floresce em ambientes participativos (empowerment) em que os funcionários têm autonomia e segurança psicológica para inovar e assumir responsabilidades."
+    },
+    {
+        topic: "Artefatos da Cultura Organizacional",
+        supportText: "A cultura organizacional remete a um conjunto complexo de valores, crenças e ações que definem a forma como uma organização conduz seu negócio, caracterizando a identidade da organização.",
+        q: "Pesquisando o tema, especialistas observaram que a cultura organizacional se manifestava em distintos níveis, objeto de uma tipologia, sendo que manifestações como o vestuário, os rituais praticados pelos membros e o próprio mobiliário utilizado foram classificadas segundo o nível definido como:",
+        options: [
+            "artefatos.",
+            "visualidade.",
+            "pressupostos básicos.",
+            "valores compartilhados.",
+            "simbologia."
+        ],
+        answer: 0,
+        disclaimer: "Artefatos representam a camada mais superficial e visível da cultura: uniformes (vestuário), mobiliário, arquitetura do prédio, rituais, lendas e a forma de se comunicar."
+    },
+    {
+        topic: "Cultura Organizacional",
+        supportText: "A cultura organizacional pode ser definida como a identidade de uma organização. Uma de suas principais funções é auxiliar a integração dos colaboradores da organização, criando, assim, um senso de comunidade.",
+        q: "Os elementos da cultura da organização podem ser divididos em diferentes níveis, sendo correto afirmar que:",
+        options: [
+            "as filosofias de vida partilhadas pelos líderes são manifestações verbais do clima.",
+            "as celebrações de aniversários do mês são tipos de rituais inseridos no nível de pressupostos básicos.",
+            "as histórias narradas sobre as conquistas da organização fazem parte das crenças e valores, nível mais íntimo da cultura.",
+            "os estilos de vestuários utilizados pelos integrantes da organização são considerados artefatos de manifestação física.",
+            "o design e as cores do ambiente de trabalho revelam de forma comportamental os pressupostos básicos, nível considerado superficial."
+        ],
+        answer: 3,
+        disclaimer: "O vestuário, crachás e símbolos de status formam os artefatos físicos. Celebrações (B) e Histórias (C) também são artefatos (não níveis profundos)."
+    },
+    {
+        topic: "Identidade e Cultura",
+        supportText: "",
+        q: "Quais são as evidências da identidade organizacional (Cultura) esperadas dos indivíduos que atuam na organização?",
+        options: [
+            "Os avanços somente externos da organização no campo científico e tecnológico.",
+            "O modo operante da organização no contexto local e global, representando sua dimensão política.",
+            "O balizamento do comportamento por normas, valores, histórias e costumes compartilhados.",
+            "Os avanços internos e externos da organização no campo científico e tecnológico.",
+            "O balizamento das interações normativas e institucionais e com outras organizações."
+        ],
+        answer: 2,
+        disclaimer: "A identidade cultural evidencia-se na adoção natural de normas, costumes e valores inatos (o 'jeito de ser' e agir do grupo) no dia a dia da corporação."
+    },
+    {
+        topic: "Fatores de Clima Organizacional",
+        supportText: "A utilização de um conjunto de diferentes técnicas que visam a melhoria do capital humano nas organizações promove a boa prática na gestão de pessoas.",
+        q: "Tomando como base a ideia acima, as organizações buscam como fatores importantes e formadores de um bom clima organizacional:",
+        options: [
+            "pontualidade, diversidade, imparcialidade.",
+            "equidade, realização, companheirismo.",
+            "imparcialidade, inovação, pontualidade.",
+            "individualidade, realização, equidade.",
+            "diversidade, realização, imparcialidade."
+        ],
+        answer: 1,
+        disclaimer: "Equidade (senso de justiça nas recompensas), Realização (desenvolvimento de carreira) e Companheirismo (relações interpessoais no time) são formadores positivos unânimes do clima organizacional."
+    },
+    {
+        topic: "Clima Organizacional",
+        supportText: "",
+        q: "A percepção que o ambiente organizacional é bom, razoável, ruim, ou péssimo, e a sua influência na motivação e comportamento das pessoas, no trabalho, é chamada de",
+        options: [
+            "clima organizacional.",
+            "ambiente psicológico.",
+            "segurança organizacional.",
+            "ambiente competitivo.",
+            "ambiência ocupacional."
+        ],
+        answer: 0,
+        disclaimer: "A 'percepção' temporal e psicológica que as pessoas têm do ambiente de trabalho forma o Clima Organizacional."
+    },
+    {
+        topic: "Cultura Organizacional",
+        supportText: "A cultura organizacional é um fenômeno intimamente ligado ao comportamento dos integrantes de uma organização e possui aspectos identificáveis em diferentes níveis.",
+        q: "Dentre esses aspectos, pode-se afirmar que:",
+        options: [
+            "são ritualísticos aqueles inerentes a comportamentos e práticas usuais, e preditivos aqueles recomendados por normas formais de conduta.",
+            "os fundamentos básicos são uma dimensão psicológica da cultura, que se contrapõe à dimensão estrutural (os valores e crenças da organização).",
+            "todos os aspectos são conscientes e visíveis, representados por condutas normatizadas pela organização, em caráter mandatório ou indicativo.",
+            "são de natureza informal aqueles aplicados pelos usos e costumes da organização, e de caráter estrutural aqueles impostos pela alta liderança.",
+            "os aspectos formais e abertos, ditos artefatos observáveis, constituem o nível de maior visibilidade e fácil constatação da cultura organizacional."
+        ],
+        answer: 4,
+        disclaimer: "O nível 1 da cultura (Artefatos) comporta a linguagem, os móveis, as normas escritas e os documentos de processo, sendo a parte visível e observável da cultura."
+    },
+    {
+        topic: "Componentes Visíveis da Organização",
+        supportText: "Alguns aspectos da cultura organizacional são percebidos com facilidade; enquanto outros, são de difícil percepção (analogia do Iceberg).",
+        q: "Nesse sentido, marque a alternativa CORRETA que apresenta exemplos de aspectos formais e abertos da cultura organizacional (parte emersa do iceberg):",
+        options: [
+            "Percepções e atitudes das pessoas.",
+            "Sentimentos e normas informais de grupos.",
+            "Valores intrínsecos e expectativas.",
+            "Processos, políticas e descrição de cargos.",
+            "Preconceitos, simpatias e relações de amizade."
+        ],
+        answer: 3,
+        disclaimer: "O Iceberg da Cultura Organizacional divide a empresa em aspectos formais (Emersos e Visíveis: estrutura, processos, manuais de cargos, objetivos oficiais) e aspectos informais (Submersos e Invisíveis: sentimentos, atitudes, conflitos de grupo)."
+    },
+    {
+        topic: "Clima e Cultura no Setor Público",
+        supportText: "Embora não raro existam representações negativas do funcionário público, muitos compartilham orgulho e idealismo.",
+        q: "Acerca da cultura e do clima organizacional nas entidades públicas, assinale a alternativa correta.",
+        options: [
+            "É característica intrínseca e natural das organizações públicas a ausência de políticas de qualidade de vida no trabalho.",
+            "A cultura organizacional é o conjunto de hábitos, crenças, valores e comportamentos que define o preço praticado em produtos e serviços de uma organização.",
+            "O clima organizacional corresponde ao modo como o ambiente de trabalho é percebido, sendo uma variável subjetiva que não pode ser mensurada objetivamente.",
+            "A autorrealização e a qualidade de vida são fatores que, em geral, contribuem mais positivamente para o bom clima organizacional que os fatores meramente ligados à remuneração extrínseca.",
+            "Um dos grandes fatores de desmotivação do empregado é sentir-se constantemente desafiado por metas inovadoras."
+        ],
+        answer: 3,
+        disclaimer: "Segundo as teorias modernas de gestão de pessoas e clima, os fatores motivadores intrínsecos (Herzberg) como autorrealização e clima de trabalho possuem peso emocional maior e mais duradouro que fatores higiênicos (como o salário básico)."
+    },
+    {
+        topic: "Cultura Orientada para o Cliente",
+        supportText: "Uma cultura organizacional voltada para os clientes e para o mercado, dentre outras, se caracteriza pela baixa formalização e horizontalização.",
+        q: "Qual é a característica comportamental dessa cultura organizacional que atua como uma extensão direta da baixa formalização?",
+        options: [
+            "Amplo uso da autonomia (empowerment) pelos funcionários da linha de frente.",
+            "Habilidade de ser bom ouvinte unicamente pelas gerências.",
+            "Orientações rígidas e claras aos funcionários via manuais extensos.",
+            "Demonstram cidadania organizacional apenas em atividades extracurriculares.",
+            "Funcionários orientados para redução de custos imediatos."
+        ],
+        answer: 0,
+        disclaimer: "Empresas com baixa formalização ('pouca burocracia') dão empoderamento e autonomia de decisão aos funcionários (empowerment) para que resolvam o problema do cliente de forma rápida e criativa na 'linha de frente'."
+    },
+    {
+        topic: "Administração Burocrática (Impssoalidade)",
+        supportText: "A burocracia é uma organização que se baseia na separação entre a propriedade e a administração. Os membros do corpo administrativo estão separados da propriedade dos meios de produção. Em outros termos, os administradores da burocracia não são seus donos, acionistas ou proprietários.",
+        q: "É correto dizer que esse modelo de separação (recursos do Estado vs. recursos do servidor) indica a seguinte característica da burocracia:",
+        options: [
+            "caráter racional e divisão do trabalho.",
+            "impessoalidade nas relações.",
+            "hierarquia de autoridade.",
+            "competência técnica e meritocracia.",
+            "especialização da administração."
+        ],
+        answer: 1,
+        disclaimer: "A impessoalidade garante que o cargo e os recursos públicos não pertencem à pessoa do servidor. Ao contrário do patrimonialismo, na burocracia há uma separação absoluta entre o patrimônio público e o privado (o cargo não é do ocupante)."
+    },
+    {
+        topic: "Accountability",
+        supportText: "A accountability, que é traduzida por responsabilidade ou responsabilização, é o dever do Estado e do servidor como seu agente de prestar contas de seus atos à sociedade.",
+        q: "Na doutrina do Direito e da Administração, a accountability deriva da aplicação de quais princípios fundamentais?",
+        options: [
+            "Da legalidade e da governança.",
+            "Da impessoalidade e da transparência.",
+            "Da publicidade e da responsabilidade.",
+            "Da moralidade e da governabilidade.",
+            "Da eficiência e da prestabilidade."
+        ],
+        answer: 2,
+        disclaimer: "A Accountability repousa em dois pilares centrais: a Publicidade (ou Transparência), que garante que os atos sejam vistos pela sociedade, e a Responsabilidade (Responsiveness/Enforcement), que garante que o agente responda e seja punido caso aja de forma incorreta."
+    },
+    {
+        topic: "Modelos de Administração Pública",
+        supportText: "Partindo-se de uma perspectiva histórica, verifica-se que a Administração Pública – cujos princípios e características não devem ser confundidos com os da administração das empresas privadas – evoluiu através de modelos básicos.",
+        q: "São reconhecidos na literatura acadêmica (ex: Bresser-Pereira) os seguintes modelos históricos de Administração Pública:\nI. Administração Pública Patrimonialista\nII. Administração Pública Burocrática\nIII. Administração Pública Partidária\nIV. Administração Pública Gerencial",
+        options: [
+            "I, II, III e IV.",
+            "I e II, apenas.",
+            "I, apenas.",
+            "I, II e IV, apenas.",
+            "IV, apenas."
+        ],
+        answer: 3,
+        disclaimer: "O item III ('Partidária') não é um modelo de administração pública consagrado na teoria do Estado. Os três modelos cronológicos clássicos são: Patrimonialista, Burocrática e Gerencial."
+    },
+    {
+        topic: "Administração Pública Gerencial",
+        supportText: "A Administração Pública passou por transformações e modelos distintos ao longo da história brasileira.",
+        q: "Sobre a Administração Pública Gerencial, é correto afirmar que:",
+        options: [
+            "Trata-se do modelo voltado unicamente ao alcance dos resultados, deste modo, as normas e leis devem ser afastadas, para que os resultados sejam atingidos a qualquer custo.",
+            "Este modelo está relacionado puramente aos processos, assim, o controle de cada etapa se mostra mais relevante que os possíveis resultados finais.",
+            "Possibilita o resgate de práticas como nepotismo, fortalecendo, assim, o Princípio da Impessoalidade e a flexibilização nas contratações.",
+            "O modelo preza pela centralização absoluta do poder decisório, evidenciado através de uma hierarquia vertical e rígida.",
+            "Neste modelo, a atuação dos agentes ocorre em observância ao ordenamento jurídico. Há foco nos objetivos, mais autonomia na gestão de recursos, e o controle é realizado a posteriori (foco em resultados)."
+        ],
+        answer: 4,
+        disclaimer: "O Gerencialismo não rompe com a legalidade (ele atua em observância ao Direito), mas flexibiliza a operação para dar autonomia ao gestor. O controle deixa de ser a priori (focado nas regras/processos) e passa a ser a posteriori (focado nos resultados e metas)."
+    },
+    {
+        topic: "Comparativo de Modelos",
+        supportText: "",
+        q: "Acerca dos modelos de gestão pública patrimonialista, burocrática e gerencial, é correto afirmar que:",
+        options: [
+            "A administração gerencial combate o nepotismo e a corrupção por meio de controles rígidos de processos a priori.",
+            "A burocracia introduziu o conceito de qualidade total e foco absoluto no cidadão.",
+            "A administração gerencial é autorreferente e se concentra exclusivamente no cumprimento cego de regras internas.",
+            "No patrimonialismo, os cargos do Estado são ocupados por indicações pessoais baseadas na lealdade e relações de parentesco.",
+            "A burocracia descentralizou o poder de decisão e eliminou os níveis hierárquicos."
+        ],
+        answer: 3,
+        disclaimer: "No modelo patrimonialista vigora o nepotismo, fisiologismo e as prebendas (cargos dados a aliados políticos e parentes, sem critério técnico). O erro da A é que o controle rígido a priori é da Burocracia; a C descreve a Burocracia; a B descreve o Gerencialismo."
+    },
+    {
+        topic: "Accountability",
+        supportText: "",
+        q: "No que compete à administração pública contemporânea, o termo accountability significa:",
+        options: [
+            "O conjunto formado pelo orçamento, empenho, liquidação e balanço geral das contas públicas.",
+            "A capacidade estritamente política e eleitoral de governar e obter apoio.",
+            "A capacidade financeira, técnica e administrativa de realizar a arrecadação de tributos.",
+            "A prestação de contas, a transparência e a responsabilização pelos resultados das ações dos agentes públicos.",
+            "As relações diplomáticas e institucionais entre os Três Poderes do Estado (Freios e Contrapesos)."
+        ],
+        answer: 3,
+        disclaimer: "Accountability abrange a transparência (informar), a justificação (explicar as ações tomadas) e o enforcement (responsabilização e sanção no caso de desvios)."
+    },
+    {
+        topic: "Administração Burocrática",
+        supportText: "",
+        q: "As três características mais relevantes da Teoria Burocrática idealizada por Max Weber na administração são:",
+        options: [
+            "formalidade; autoridade informal; e controle interpessoal.",
+            "formalidade; impessoalidade; e profissionalismo (meritocracia).",
+            "centralização; participação; e padronização orgânica.",
+            "informalidade; padronização; e eficiência mecânica.",
+            "informalidade; impessoalidade; e racionalidade ilimitada."
+        ],
+        answer: 1,
+        disclaimer: "O pilar da Burocracia weberiana assenta-se na Formalidade (regras escritas e leis), na Impessoalidade (os cargos e normas estão acima das pessoas) e no Profissionalismo (contratação e promoção baseadas na competência técnica e mérito)."
+    },
+    {
+        topic: "Administração Patrimonialista",
+        supportText: "",
+        q: "Na identificação das doutrinas que abordam a relação entre a Administração e o Estado, a Administração Patrimonialista se caracteriza historicamente pelas seguintes práticas:",
+        options: [
+            "combate de forma rígida o nepotismo e a corrupção através de concursos públicos.",
+            "utiliza contrato de gestão por resultados e tem controle a posteriori.",
+            "não adota procedimentos rígidos e define estritos indicadores de desempenho operacional.",
+            "não apresenta distinção lógica ou jurídica entre os limites do patrimônio público e os limites do patrimônio privado do governante.",
+            "foca exclusivamente na efetividade dos serviços e no atendimento humanizado ao cidadão."
+        ],
+        answer: 3,
+        disclaimer: "A característica central do patrimonialismo é a confusão patrimonial (a 'res principis' mistura-se com a 'res publica'). O governante trata o Estado como extensão da sua casa e da sua riqueza particular."
+    },
+    {
+        topic: "Diferença entre Governança Pública e Privada",
+        supportText: "A governança corporativa compartilha elementos qualquer que seja a natureza da entidade a que se aplique, mas alguns aspectos são marcadamente diversos entre a governança pública e a privada.",
+        q: "Qual conceito e exigência ganha um peso e uma dimensão muito mais crítica e abrangente no setor público do que no setor privado?",
+        options: [
+            "A busca irrestrita pelo aumento da equidade nas margens de lucro.",
+            "A necessidade de realizar aportes em bolsas de valores.",
+            "A prestação de contas e responsabilização (accountability) perante toda a sociedade.",
+            "Os crimes de responsabilidade aplicados a empregados celetistas.",
+            "A responsabilidade corporativa focada na distribuição de dividendos."
+        ],
+        answer: 2,
+        disclaimer: "Na governança pública, os recursos pertencem aos cidadãos, tornando o nível de Accountability (transparência, compliance legal e controle social/tribunais de contas) muito mais amplo e engessado do que na iniciativa privada."
+    },
+    {
+        topic: "Dimensões da Accountability (Schedler)",
+        supportText: "A accountability na administração pública significa a responsabilização dos agentes públicos e dos governantes por seus atos.",
+        q: "Assinale a alternativa que apresenta as dimensões (ou pilares) da accountability no campo da formulação, implementação e avaliação das políticas públicas, segundo a teoria contemporânea (Andreas Schedler):",
+        options: [
+            "Capacidade de resposta e deliberação parlamentar.",
+            "Planejamento tático, avaliação 360 e controle de ponto.",
+            "Informação (transparência), justificação (explicação dos atos) e punição/sanção (enforcement).",
+            "Transparência irrestrita e governança corporativa.",
+            "Fiscalização de ofício e responsabilidade civil objetiva."
+        ],
+        answer: 2,
+        disclaimer: "Na teoria política, a accountability divide-se em answerability (obrigação de INFORMAR e de JUSTIFICAR as decisões) e enforcement (capacidade de PUNIÇÃO se a conduta for reprovável)."
+    },
+    {
+        topic: "Administração Burocrática",
+        supportText: "Reconhece-se que uma das grandes contribuições da administração pública burocrática é a meritocracia, que passou a valorizar o mérito do trabalho e realizar promoções funcionais em função do mérito de suas realizações.",
+        q: "NÃO corresponde a um elemento da administração pública burocrática:",
+        options: [
+            "o combate rigoroso à corrupção por meio de normas centralizadoras.",
+            "a forte estrutura de hierarquia, a divisão técnica do trabalho e a rigidez.",
+            "a informalidade no trato e a pessoalidade nas contratações e fluxos.",
+            "o controle absoluto de gastos e de processos focados na atividade-meio.",
+            "a padronização e o formalismo documental em todas as comunicações."
+        ],
+        answer: 2,
+        disclaimer: "A Informalidade e a Pessoalidade são características do Patrimonialismo (ou das organizações informais), e não da Burocracia, que preza exatamente pelo oposto: Formalismo (regras escritas) e Impessoalidade."
+    },
+    {
+        topic: "Administração Pública Gerencial e Legalidade",
+        supportText: "",
+        q: "A Administração pública gerencial, voltada para a otimização da gestão, com obtenção de metas e resultados, implementou uma nova visão sobre o aparelho do Estado.",
+        options: [
+            "permite a flexibilização e o descumprimento de normas constitucionais se for para garantir um resultado mais benéfico ao erário.",
+            "não dispensa a observância das regras e dos princípios de direito público aplicáveis à Administração, apenas adota novos arranjos de eficiência e controle.",
+            "sujeita-se integralmente ao regime jurídico de direito privado, diferentemente da Administração burocrática.",
+            "está sujeita à legislação em sua atuação, não lhe sendo aplicáveis, entretanto, os princípios da moralidade e da legalidade estrita.",
+            "submete-se unicamente ao princípio da eficiência, não se aplicando as demais regras legais, porque exclusivas do paradigma burocrático."
+        ],
+        answer: 1,
+        disclaimer: "A Nova Gestão Pública (Gerencialismo) não significa um rompimento com o Direito Administrativo ou com a legalidade. Ela continua sujeita ao regime de direito público e a todos os seus princípios (legalidade, moralidade, etc.), mas busca mecanismos jurídicos que confiram maior agilidade."
+    },
+    {
+        topic: "Gestão da Qualidade (Princípios de Deming)",
+        supportText: "A gestão pela qualidade total (Total Quality Management – TQM) é uma abordagem sobre a qualidade que vai além do foco específico no produto e envolve várias dimensões relativas às operações em uma organização. A TQM se articula sobre os 14 princípios propostos por W. Edwards Deming.",
+        q: "Um dos princípios clássicos da gestão para a qualidade total propostos por Deming é:",
+        options: [
+            "estabelecer orçamentos focando as negociações exclusivamente com base no preço mais baixo no mercado.",
+            "remover as barreiras funcionais departamentais e encorajar o trabalho em equipe interdisciplinar.",
+            "focar os esforços pela qualidade primordialmente na inspeção em massa dos produtos finais.",
+            "reconhecer que o papel da alta liderança é meramente de apoio financeiro, sem adesão aos princípios da qualidade total.",
+            "reforçar a supervisão mecânica intensa sobre o processo produtivo para impor quotas numéricas aos trabalhadores."
+        ],
+        answer: 1,
+        disclaimer: "Deming defendia a 'quebra das barreiras entre departamentos' (Princípio 9) para criar cooperação transversal. Ele era ABSOLUTAMENTE CONTRA comprar apenas pelo preço mais baixo (Princípio 4), contra a dependência de inspeção em massa (Princípio 3) e contra quotas numéricas arbitrárias (Princípio 11)."
+    },
+    {
+        topic: "Gestão da Qualidade (Conceitos Iniciais)",
+        supportText: "Sobre as filosofias e a evolução da gestão da qualidade nas organizações (desde a inspeção até o TQM), analise as afirmativas a seguir.\nI. Qualidade é uma questão de satisfação do cliente, nascendo com a definição de especificações ouvindo-se a voz do cliente, e sendo construída passo a passo ao longo dos processos.\nII. A qualidade tem que ser embutida no produto ou serviço desde o começo (prevenção). A questão é garantir a qualidade ao longo de todo o processo e não apenas encontrar os defeitos no final da linha (inspeção).\nIII. Construir e melhorar a qualidade não depende apenas dos engenheiros; todos na empresa são responsáveis, desde a base até a alta direção.\nIV. A garantia da qualidade exige um enfoque sistêmico, para integrar ações das pessoas, máquinas, informações e todos os outros recursos.",
+        q: "Está correto o que se afirma em:",
+        options: [
+            "I, II, III e IV.",
+            "I e III, apenas.",
+            "II e IV, apenas.",
+            "I, II e III, apenas.",
+            "II, III e IV, apenas."
+        ],
+        answer: 0,
+        disclaimer: "Todas as afirmativas representam perfeitamente a mudança de paradigma da Era da Inspeção (reativa e focada apenas no produto final) para a Era da Qualidade Total (TQM - preventiva, com foco no cliente, envolvimento de todos e visão sistêmica dos processos)."
+    },
+    {
+        topic: "Gestão da Qualidade (Princípios ISO 9001)",
+        supportText: "A gestão de qualidade está baseada em um conjunto de princípios relacionados a critérios e requisitos para se alcançar a excelência. A norma ISO 9001 estabelece as condições para melhorar a gestão de uma empresa.",
+        q: "O princípio que preconiza que os dirigentes máximos devem transmitir a cultura organizacional, criar e manter um ambiente favorável para que todos os colaboradores desempenhem suas atividades e se sintam motivados e comprometidos a alcançar os objetivos de qualidade refere-se:",
+        options: [
+            "ao conhecimento acerca do cliente e do mercado.",
+            "ao desenvolvimento restrito de parcerias com fornecedores.",
+            "à visão sistemática do futuro e tecnologia.",
+            "à liderança proativa e à constância de propósitos.",
+            "à cultura de inovação ou melhoria contínua isolada."
+        ],
+        answer: 3,
+        disclaimer: "Na ISO 9001, o Princípio da Liderança estabelece que os líderes em todos os níveis estabelecem a unidade de propósito e o direcionamento, e criam as condições para que as pessoas estejam engajadas no alcance dos objetivos da qualidade."
+    },
+    {
+        topic: "Ferramentas da Qualidade (Fluxograma)",
+        supportText: "A gestão de qualidade vale-se de ferramentas que possibilitam ao gestor mapear, monitorar e intervir nos processos de trabalho.",
+        q: "Assinale a alternativa que apresenta a denominação da ferramenta que consiste na representação gráfica da sequência das atividades interligadas de um processo, por meio de símbolos padronizados, fornecendo uma visão clara do fluxo de trabalho como um todo.",
+        options: [
+            "Diagrama de causa e efeito, também conhecido como diagrama de Ishikawa ou de espinha de peixe.",
+            "Histograma de frequências.",
+            "Fluxograma.",
+            "Diagrama de correlação ou dispersão.",
+            "Gráfico de Pareto."
+        ],
+        answer: 2,
+        disclaimer: "O Fluxograma utiliza formas geométricas padronizadas (círculos, retângulos, losangos) e setas para representar graficamente o sequenciamento, as decisões e as etapas de um processo do início ao fim."
+    },
+    {
+        topic: "Ferramentas da Qualidade (Diagrama de Pareto)",
+        supportText: "A melhoria contínua do sistema de gestão da qualidade é uma exigência da norma NBR ISO 9001. Para atingir a melhoria, algumas ferramentas de qualidade clássicas podem ser usadas para organizar dados e atacar os maiores problemas.",
+        q: "Assinale a alternativa que caracteriza corretamente a ferramenta Diagrama de Pareto (Gráfico 80/20):",
+        options: [
+            "Análise e comunicação de relações de causa e efeito, facilitando o mapeamento de raízes e sub-raízes do problema.",
+            "Classificação e priorização das oportunidades de melhorias e dos defeitos, separando os 'poucos vitais' dos 'muitos triviais'.",
+            "Comunicação visual sobre a flutuação estatística do processo ao longo do tempo (gráficos de limites de controle).",
+            "Comparação externa dos indicadores de desempenho do processo analisado com as empresas líderes reconhecidas no mercado.",
+            "Descrição narrativa de um processo existente para a elaboração de manuais administrativos de procedimentos (POP)."
+        ],
+        answer: 1,
+        disclaimer: "O Diagrama de Pareto baseia-se na regra 80/20, que afirma que aproximadamente 80% dos efeitos (problemas/defeitos) provêm de 20% das causas. É uma ferramenta visual (gráfico de barras decrescente) focada estritamente em PRIORIZAÇÃO."
+    },
+    {
+        topic: "Gestão da Qualidade (Programa 5S)",
+        supportText: "A QVT (Qualidade de Vida no Trabalho) e o ambiente seguro são basilares para a Gestão da Qualidade. Para conseguir a qualidade do ambiente físico, é amplamente utilizado o conceito do 5S, metodologia criada no Japão que provém dos termos Seiri (Utilização), Seiton (Ordenação), Seiso (Limpeza), Seiketsu (Padronização) e Shitsuke (Disciplina).",
+        q: "Assinale a alternativa que indica corretamente um dos objetivos práticos primários dessa metodologia.",
+        options: [
+            "Projeção e alavancagem financeira da empresa.",
+            "Monitoramento e mapeamento automático de processos gerenciais.",
+            "Organização e asseio do ambiente de trabalho para reduzir desperdícios.",
+            "Elaboração de matrizes avançadas para o fechamento da folha de pagamento.",
+            "Planejamento de projetos em cronogramas ágeis (Kanban)."
+        ],
+        answer: 2,
+        disclaimer: "O Programa 5S atua na base estrutural da empresa (o 'chão' da fábrica ou o escritório), focando na arrumação, limpeza, descarte do que é inútil, saúde e disciplina para criar um ambiente produtivo e sem desperdícios."
+    },
+    {
+        topic: "Ferramentas da Qualidade (Ishikawa / 6M)",
+        supportText: "O Diagrama de Ishikawa é conhecido por ser também o Diagrama de Causa e Efeito (ou Espinha de Peixe). Nele, as causas potencias dos problemas num processo industrial ou de serviço são tradicionalmente agrupadas no conceito dos 6M's.",
+        q: "Assinale a alternativa que NÃO apresenta um dos tradicionais 6M's de Ishikawa:",
+        options: [
+            "Mão de obra.",
+            "Manufatura.",
+            "Máquina.",
+            "Método.",
+            "Meio ambiente."
+        ],
+        answer: 1,
+        disclaimer: "Os 6M's clássicos que formam as 'espinhas' principais do diagrama de Ishikawa são: Método, Máquina, Medida, Meio Ambiente, Material e Mão-de-Obra. 'Manufatura' não faz parte dessa lista."
+    },
+    {
+        topic: "Gestão da Qualidade (Benchmarking)",
+        supportText: "",
+        q: "Pode-se afirmar que a ferramenta gerencial característica por ser um processo sistemático de estudo da concorrência, visando analisar e comparar as boas práticas de empresas bem-sucedidas no mercado para posteriormente adaptar e replicar essas melhorias na própria organização, é denominada:",
+        options: [
+            "Benchmarking.",
+            "Ciclo PDCA.",
+            "Diagrama de Pareto.",
+            "Metodologia 5S.",
+            "Brainstorming (Tempestade de Ideias)."
+        ],
+        answer: 0,
+        disclaimer: "Benchmarking é a busca pelas melhores práticas na indústria (ou até em outros setores) que conduzem a um desempenho superior. É olhar para fora para melhorar por dentro."
+    },
+    {
+        topic: "Conceito de Qualidade",
+        supportText: "A qualidade possui diferentes abordagens dependendo de quem a avalia (visão da manufatura vs. visão do cliente).",
+        q: "Pela percepção exclusiva do usuário/cidadão (perspectiva do cliente), quando o serviço público é realizado, o conceito de qualidade é fundamentalmente compreendido como:",
+        options: [
+            "valor agregado aos impostos aplicados no produto final.",
+            "estrita observância da relação matemática necessidade vs. custo.",
+            "atendimento e, se possível, superação das suas necessidades e expectativas.",
+            "conformidade exata às especificações do projeto desenhado por engenheiros.",
+            "eliminação total das falhas de segurança no produto final (Zero Defeitos)."
+        ],
+        answer: 2,
+        disclaimer: "Na visão moderna focada no cliente (Abordagem Baseada no Usuário), a qualidade é sinônimo da capacidade que o produto/serviço tem de satisfazer as necessidades e superar as expectativas do consumidor final."
+    },
+    {
+        topic: "Dimensões da Qualidade (David Garvin)",
+        supportText: "O estudioso David Garvin propôs oito dimensões clássicas que compõem o conceito analítico de qualidade de um produto ou serviço (Desempenho, Características, Confiabilidade, Conformidade, Durabilidade, Atendimento, Estética, Qualidade Percebida).",
+        q: "No que se refere a essas dimensões propostas por Garvin, assinale a alternativa correta.",
+        options: [
+            "O 'desempenho' consiste no nível de beleza, design e acabamento subjetivo do produto final.",
+            "A dimensão das 'características' refere-se ao tempo de vida útil econômica do produto antes de se deteriorar.",
+            "A 'conformidade' é o grau em que o projeto do produto e as características operacionais estão dentro dos padrões preestabelecidos e isentos de falhas/defeitos.",
+            "A 'qualidade percebida' relaciona-se exclusivamente à facilidade e rapidez do serviço de reparo e pós-venda (assistência técnica).",
+            "A 'estética' é a dimensão que avalia a probabilidade de um produto falhar dentro de um período de tempo especificado."
+        ],
+        answer: 2,
+        disclaimer: "A Conformidade é a exatidão com que o produto sai da fábrica em relação ao projeto original. Erros: A descreve Estética; B descreve Durabilidade; D descreve Atendimento (Serviceability); E descreve Confiabilidade."
+    },
+    {
+        topic: "Ciclo PDCA (Deming)",
+        supportText: "O denominado Ciclo PDCA, também conhecido como Ciclo de Deming ou Ciclo de Shewhart, traduz-se em uma ferramenta fundamental na busca pela excelência organizacional.",
+        q: "Essa ferramenta é bastante difundida e aplicada em:",
+        options: [
+            "controle de qualidade restrito à identificação matemática de falhas, partindo do conceito de que 80% delas são geradas por 20% de causas (Pareto).",
+            "gerenciamento e priorização de projetos isolados, classificando-os de acordo com a Matriz GUT (Gravidade, Urgência e Tendência).",
+            "gestão de riscos atuariais, classificando-os em potenciais, desconhecidos, críticos e aleatórios insuperáveis.",
+            "gestão e melhoria contínua de processos, envolvendo quatro ações ininterruptas: planejamento, execução, checagem (controle) e atuação/correção.",
+            "gestão e quebra de contratos de terceirização (outsourcing), focada estritamente no encerramento de acordos não conformes."
+        ],
+        answer: 3,
+        disclaimer: "O PDCA (Plan, Do, Check, Act) é o método interativo e iterativo de gestão utilizado para o controle e a melhoria contínua de processos e produtos na organização."
+    },
+    {
+        topic: "Ferramentas da Qualidade (5W2H)",
+        supportText: "No universo das ferramentas de apoio à gestão da qualidade, há métodos que ajudam na estruturação racional de ações após o levantamento dos problemas.",
+        q: "Dentre as ferramentas da qualidade, o chamado plano de ação 5W2H (What, Why, Where, When, Who, How, How much) é utilizado predominantemente para:",
+        options: [
+            "representação gráfica das possíveis raízes e causas subjacentes que levam a determinado efeito indesejado.",
+            "priorização matemática e financeira de problemas e mitigação de riscos (matriz GUT/Pareto).",
+            "formatação, planejamento estruturado da execução e delegação de tarefas na elaboração de planos de ação práticos.",
+            "priorização da solução de problemas de relacionamento entre funcionários na linha de produção (brainstorming).",
+            "mensuração estatística da amplitude das variações de um processo (Gráficos de Controle)."
+        ],
+        answer: 2,
+        disclaimer: "O 5W2H é um checklist de atividades específicas e objetivas que devem ser desenvolvidas com clareza (o que será feito, por quem, quando, onde, como, por que e a que custo) para estruturar um plano de ação e garantir a sua implementação."
+    },
+    {
+        topic: "Ferramentas da Qualidade (Diagrama de Ishikawa)",
+        supportText: "O diagrama de Ishikawa, também conhecido como diagrama espinha de peixe ou diagrama de causa e efeito, é uma das principais ferramentas da gestão da qualidade.",
+        q: "Ele tem como objetivo principal:",
+        options: [
+            "permitir o estabelecimento de um padrão de variabilidade estatística na produção, estipulando limites inferiores e superiores de desvios padrão.",
+            "mobilizar os funcionários a adotarem práticas mais higiênicas de organização (Programa 5S).",
+            "auxiliar o gestor a compreender e mapear graficamente a relação de causa e efeito entre as origens dos problemas que afetam o sistema, por meio do uso de categorias como os 6M's.",
+            "identificar os responsáveis por cada atividade da organização, facilitando a elaboração do fluxograma hierárquico e da matriz RACI.",
+            "utilizar símbolos e legendas (como retângulos e losangos de decisão) que permitam a visualização do fluxo sequencial e cronológico das atividades."
+        ],
+        answer: 2,
+        disclaimer: "A finalidade do Diagrama de Ishikawa é identificar, explorar e exibir graficamente (na forma de uma espinha de peixe) as possíveis raízes e causas (Método, Máquina, etc.) que estão contribuindo para um problema ou efeito específico (a 'cabeça' do peixe)."
+    },
+    {
+        topic: "Gestão de Materiais (Conceito de Estoque)",
+        supportText: "",
+        q: "Em Gestão de Materiais, o conceito clássico de estoque consiste:",
+        options: [
+            "na divisão de materiais armazenados em uma organização, que permanecem para uso oportuno.",
+            "no somatório de materiais, bens e provisões armazenados em uma organização, que permanecem temporariamente ociosos aguardando uso oportuno.",
+            "na multiplicação de materiais armazenados em uma organização, que permanecem para uso imediato exclusivo.",
+            "no compartilhamento logístico de materiais armazenados entre empresas, que permanecem para uso oportuno no transporte.",
+            "na contabilização estrita de bens de capital que sofrem depreciação ao longo do tempo."
+        ],
+        answer: 1,
+        disclaimer: "Segundo a doutrina clássica (Dias, 2010), estoque é o acúmulo de materiais, matérias-primas ou produtos acabados que ficam temporariamente ociosos em um complexo de armazenagem aguardando a necessidade de uso ou venda."
+    },
+    {
+        topic: "Gestão de Compras (Perfil do Comprador)",
+        supportText: "A função de compras assume papel estratégico para a redução de custos e garantia do abastecimento nas organizações.",
+        q: "Considerando os atributos indispensáveis ao comprador, tanto de empresas privadas quanto do setor público, no que se refere ao pilar comportamental primário exigido na postura desse profissional frente ao mercado, é correto apontar a:",
+        options: [
+            "postura ética.",
+            "postura de rivalidade com fornecedores.",
+            "postura de inflexibilidade com negociadores.",
+            "postura de superioridade hierárquica com colegas.",
+            "postura de isolamento departamental."
+        ],
+        answer: 0,
+        disclaimer: "Devido ao constante contato com fornecedores e ao manuseio de verbas (especialmente no setor público regido por licitações), a probidade e a POSTURA ÉTICA inquestionável são os atributos basilares exigidos do comprador."
+    },
+    {
+        topic: "Objetivos da Gestão de Materiais",
+        supportText: "A Administração de Materiais é uma área da gestão que visa assegurar que a organização disponha dos insumos necessários ao processamento de suas atividades.",
+        q: "Analise os fatores a seguir, considerando-os essenciais para uma boa gestão de recursos materiais:\n( ) Qualidade do material.\n( ) Prazo de entrega.\n( ) Preço justo e competitivo.\n( ) Condições de Pagamento favoráveis.\nAssinale a alternativa que apresenta a classificação (Verdadeiro ou Falso) correta de cima para baixo:",
+        options: [
+            "F - V - F - V",
+            "V - V - F - V",
+            "V - V - V - V",
+            "F - V - F - F",
+            "V - F - F - V"
+        ],
+        answer: 2,
+        disclaimer: "O objetivo primordial da Gestão de Compras/Materiais é adquirir o material na QUALIDADE certa, no PRAZO exato, na QUANTIDADE adequada e ao melhor PREÇO e CONDIÇÕES DE PAGAMENTO."
+    },
+    {
+        topic: "Importância da Gestão de Materiais",
+        supportText: "Sobre Administração de Materiais, analise as afirmativas a seguir.\nI. Administrar materiais é uma atividade que tomou um grande impulso a partir do momento em que a logística se estendeu além das fronteiras das empresas, tendo como principal objetivo atender às necessidades e expectativas dos clientes.\nII. A administração de materiais tem uma grande interface com os diversos setores da empresa, como área financeira (contas a pagar), vendas, logística e tecnologia da informação.\nIII. Uma administração de materiais, por mais que bem estruturada, tem papel puramente operacional e não permite a obtenção de vantagens competitivas de mercado.",
+        q: "Estão corretas as afirmativas:",
+        options: [
+            "I e II, apenas.",
+            "II e III, apenas.",
+            "I e III, apenas.",
+            "I, II e III.",
+            "III, apenas."
+        ],
+        answer: 0,
+        disclaimer: "A afirmativa III é falsa. Na moderna visão de Supply Chain, uma excelente gestão de materiais (compras eficientes, estoques reduzidos, logística rápida) é uma das maiores fontes de VANTAGEM COMPETITIVA (redução de custos e aumento de margem)."
+    },
+    {
+        topic: "Conceitos Básicos (Suprimentos e Produção)",
+        supportText: "Qualquer que seja o sistema de produção utilizado pela empresa (por encomenda, lotes ou contínua), o processo produtivo é sempre uma complexa e contínua transformação de matérias-primas e informações em produtos acabados ou serviços.",
+        q: "Acerca da administração de materiais, assinale a alternativa correta.",
+        options: [
+            "Os materiais precisam ficar estáticos dentro das empresas, gerando gargalos para facilitar o controle e o fluxo das mercadorias.",
+            "As matérias-primas são também denominadas bens de capital inalienáveis.",
+            "A palavra 'suprimento' serve para designar todas as atividades que visam o abastecimento e fornecimento contínuo de materiais à operação da empresa.",
+            "De acordo com o fluxo dos materiais, os materiais semiacabados transformam-se, por mágica, diretamente em produtos acabados, sem agregar custos.",
+            "A entrada de materiais dos fornecedores (Inbound) vai de maneira direta e exclusiva para a linha de produção, sendo terminantemente proibido o processo de estocagem inicial."
+        ],
+        answer: 2,
+        disclaimer: "A cadeia de suprimentos (Supply Chain) e as atividades de 'Suprimento' garantem que a empresa não sofra rupturas (falta de material) para operar. Erros: materiais estáticos geram custo (A); matéria-prima é bem de consumo, não de capital (B); a estocagem inicial (almoxarifado de matérias-primas) é vital e natural (E)."
+    },
+    {
+        topic: "Conceito de Estoque",
+        supportText: "",
+        q: "Assinale a alternativa que indica corretamente o conceito que corresponde à seguinte definição clássica de Peci e Sobral: “é o nome dado ao conjunto de matérias-primas, de produtos em processo e produtos acabados que uma organização armazena para atender às suas necessidades operacionais ou de vendas”.",
+        options: [
+            "Ativo Imobilizado",
+            "Inventário de Inservíveis",
+            "Patrimônio Permanente",
+            "Logística de Distribuição",
+            "Estoque"
+        ],
+        answer: 4,
+        disclaimer: "Estoque é o conjunto de bens (sejam matérias-primas, materiais em processamento ou produtos finais) que a empresa detém temporariamente para viabilizar sua operação contínua."
+    },
+    {
+        topic: "Objetivos do Estoque",
+        supportText: "",
+        q: "Manter estoques gera custos de oportunidade e armazenagem para a organização. Contudo, essa prática é vital. Assinale a alternativa que relaciona corretamente o objetivo primário e típico de se manter estoques em uma organização.",
+        options: [
+            "Motivar e engajar os funcionários do chão de fábrica.",
+            "Facilitar o trabalho da auditoria de compras públicas.",
+            "Aprimorar diretamente as relações e dividendos com os investidores.",
+            "Assegurar campanhas publicitárias atraentes para os clientes.",
+            "Garantir o abastecimento contínuo das operações, atuando como amortecedor contra incertezas de demanda e fornecimento."
+        ],
+        answer: 4,
+        disclaimer: "O estoque atua como um 'amortecedor' (buffer) entre as oscilações do fornecedor e as demandas da empresa, evitando que a produção ou o serviço parem por falta de material (ruptura)."
+    },
+    {
+        topic: "Função e Justificativa do Estoque",
+        supportText: "Os estoques são materiais e suprimentos que uma empresa utiliza para a produção de seu produto ou para suprir a necessidade de funcionamento da própria empresa.",
+        q: "Assinale a alternativa que apresenta a verdadeira função e a justificativa econômica da manutenção de um estoque bem gerido.",
+        options: [
+            "Operar equipamentos industriais diversos com maior velocidade.",
+            "Manter os clientes permanentemente satisfeitos com a estética dos serviços.",
+            "Obter informações logísticas e compartilhar com a equipe de marketing.",
+            "Minimizar perdas produtivas e custos operacionais, otimizando os investimentos e evitando rupturas (paradas na operação).",
+            "Criar um ambiente colaborativo e de parceria profunda com os concorrentes de mercado."
+        ],
+        answer: 3,
+        disclaimer: "A gestão de estoques busca o ponto de equilíbrio: não ter falta de material (o que gera parada da fábrica e perda de vendas) nem excesso de material (o que gera custo de capital parado e obsolescência), otimizando assim o investimento da empresa."
+    },
+    {
+        topic: "Almoxarifado e Armazenagem",
+        supportText: "A gestão dos materiais e o controle de estoque e almoxarifado, juntamente com os demais itens que se relacionam com a rotina de apoio administrativo, são fundamentais para o gerenciamento das unidades operacionais.",
+        q: "Diante disso, marque a alternativa CORRETA sobre as atividades e boas práticas diretamente relacionadas à gestão de almoxarifados:",
+        options: [
+            "Deixar faltar material estratégico no estoque e adquiri-los emergencialmente, pagando valores superiores aos de mercado para agilizar.",
+            "Evitar inspecionar os produtos que chegam ao almoxarifado para ganhar tempo na armazenagem rápida.",
+            "Zelar pelo uso adequado, pela segurança física, pelo acondicionamento correto e pela conservação dos materiais estocados.",
+            "Utilizar materiais de consumo em excesso para garantir que não percam o prazo de validade na prateleira.",
+            "Misturar intencionalmente materiais novos e velhos sem utilizar o método PEPS (Primeiro que Entra, Primeiro que Sai)."
+        ],
+        answer: 2,
+        disclaimer: "O almoxarifado é a área responsável pela guarda física, preservação da integridade (conservação), segurança e movimentação correta dos materiais da instituição até o seu efetivo uso."
+    },
+    {
+        topic: "Vantagens da Gestão de Materiais",
+        supportText: "",
+        q: "Uma boa administração de materiais permite à empresa a obtenção de vantagens competitivas diretas e financeiras importantes.",
+        options: [
+            "Redução global de custos de operação.",
+            "Fim absoluto do turnover (rotatividade) de funcionários de base.",
+            "Redução do volume de capital imobilizado (investimento) em estoques obsoletos.",
+            "Melhorias nas condições de compras mediante planejamento e negociações estratégicas com fornecedores.",
+            "Melhoria no fluxo de caixa pela redução da necessidade de capital de giro."
+        ],
+        q: "Sobre essas vantagens, assinale a alternativa INCORRETA (aquilo que NÃO é resultado direto da gestão de materiais):",
+        answer: 1,
+        disclaimer: "A redução do 'Turnover' (rotatividade de pessoal) é uma meta e um benefício da área de Recursos Humanos (Gestão de Pessoas e Clima), não tendo relação primária e direta com a área técnica de Gestão de Materiais."
+    },
+    {
+        topic: "Indicadores de Gestão de Materiais",
+        supportText: "A administração de recursos materiais constitui uma atividade que deve levar em conta conceitos e indicadores de desempenho específicos para monitorar o setor de suprimentos.",
+        q: "Um desses indicadores essenciais, frequentemente abordado na literatura, consiste no:",
+        options: [
+            "Nível de serviço, calculado dividindo-se o número de requisições ou pedidos plenamente atendidos pelo total de requisições de materiais efetuadas pelas áreas da organização.",
+            "Curva ABC, que corresponde a um método de contabilidade fiscal de materiais para fins de pagamento de tributos aduaneiros.",
+            "Diagrama de Pareto, consistente em uma matriz que define os materiais que devem ser comprados de acordo exclusivamente com a sua data de validade.",
+            "Giro de estoque, calculado dividindo-se o número de itens devolvidos pelo estoque total de bens patrimoniais obsoletos.",
+            "Turnover, que corresponde à rotatividade de veículos na frota, sendo um indicador muito utilizado no balanço patrimonial logístico das empresas."
+        ],
+        answer: 0,
+        disclaimer: "O Nível de Serviço (Service Level) mede a eficácia do almoxarifado em atender o cliente interno (Pedidos Atendidos / Pedidos Totais). A Curva ABC (B) é técnica de controle por valor/importância, não tributária. O Giro de Estoque (D) mede quantas vezes o estoque se renova no período (Consumo / Estoque Médio)."
+    },
+    {
+        topic: "Classificação de Materiais",
+        supportText: "Para que o controle de estoques seja viável em grandes organizações, os materiais não podem ser tratados de forma caótica; eles devem passar por um rigoroso processo de Classificação.",
+        q: "Assinale a opção que apresenta etapas metodológicas corretas do processo de classificação de materiais:",
+        options: [
+            "Simplificação, normalização e desnivelamento hierárquico.",
+            "Normatização, catalogação e generalização subjetiva.",
+            "Especificação, anotação em livro de ata e descrição oral.",
+            "Catalogação, especificação, padronização e codificação.",
+            "Generalização, simplificação estatística e discriminação de classes."
+        ],
+        answer: 3,
+        disclaimer: "As etapas clássicas da classificação de materiais são: Catalogação (arrolar os itens), Simplificação/Padronização (reduzir diversidade inútil), Especificação (detalhar o item minuciosamente) e Codificação (atribuir números/letras padronizados no sistema)."
+    },
+    {
+        topic: "Tipologia de Materiais",
+        supportText: "A Administração de Materiais é o segmento voltado para o planejamento, coordenação e controle dos suprimentos imprescindíveis ao bom funcionamento da organização, no tempo oportuno e na quantidade necessária.",
+        q: "No que se refere ao status e aos tipos de materiais armazenados, assinale a alternativa CORRETA:",
+        options: [
+            "Materiais imobilizados são aqueles consumíveis armazenados para utilização diária nas atividades operacionais e compõem o ativo circulante da empresa.",
+            "Materiais descontinuados (ou inativos): são materiais sem previsão de consumo futuro e sem saldo físico em estoque, contudo, é estritamente necessário que se mantenha a manutenção do seu registro e histórico no sistema de controle de estoques.",
+            "Materiais de demanda permanente são aqueles com consumo raro, em épocas esporádicas e específicas, e costumam ter pouca quantidade em estoque.",
+            "Materiais em estoque de matéria-prima não são considerados patrimônio monetário da organização até que se tornem produtos acabados.",
+            "Materiais de consumo são aqueles que, em razão de seu uso rotineiro, não sofrem perda de identidade física."
+        ],
+        answer: 1,
+        disclaimer: "Mesmo que um item não seja mais comprado nem haja saldo (item descontinuado), seu cadastro deve ser mantido no sistema ERP (Inativo/Histórico) para rastreabilidade contábil de compras passadas. Erros: A (Imobilizado é Ativo Não Circulante e não é de consumo diário); C (Isso define material de demanda Irregular/Sazonal); D (Matéria-prima em estoque já é ativo/patrimônio circulante); E (Material de consumo perde sua identidade física pelo uso)."
+    },
+    {
+        topic: "Objetivos do Setor de Compras",
+        supportText: "A área de Suprimentos/Compras depara-se com diversos desafios e metas conflitantes no dia a dia.",
+        q: "Em relação à Administração de Materiais e Compras, alguns de seus grandes objetivos estão listados nas opções a seguir, à EXCEÇÃO de uma. Assinale a que NÃO representa uma meta do setor:",
+        options: [
+            "Garantir a aquisição com o preço baixo e mais vantajoso possível.",
+            "Garantir a continuidade e segurança do fornecimento (evitar falta de produto).",
+            "Garantir a consistência e o alto padrão de qualidade exigido dos fornecedores.",
+            "Garantir o baixo giro (rotatividade) de estoques, mantendo grandes volumes parados por muitos anos.",
+            "Desenvolver relações confiáveis e de boa parceria comercial com os principais fornecedores."
+        ],
+        answer: 3,
+        disclaimer: "Manter um 'baixo giro' significa que o material fica encalhado e demorando para sair da prateleira. O objetivo ideal da gestão é ter um ALTO GIRO de estoques (o material entra e sai rapidamente, não prendendo dinheiro da empresa)."
+    },
+    {
+        topic: "Fluxo de Materiais (Cadeia de Suprimentos)",
+        supportText: "Em uma empresa, os materiais não podem ficar estáticos de forma desgovernada para evitar custos desnecessários.",
+        q: "A gestão do fluxo de materiais (Logística Integrada) deve organizar e gerenciar esses bens em um movimento contínuo que vai:",
+        options: [
+            "do recebimento do fornecedor (Logística Inbound), passando pelas diversas etapas do processo produtivo interno, até chegar ao depósito de produtos acabados e seguir em direção ao mercado consumidor (Logística Outbound).",
+            "a partir da logística interna e linha de montagem, passando pelos fornecedores terceirizados, sendo criteriosamente analisada apenas no depósito de devoluções.",
+            "que transita exclusivamente pelo almoxarifado de materiais, pulando a linha de produção, indo até a logística de saída e obtendo o retorno da satisfação.",
+            "que flui pela empresa uma vez que, logo na logística de saída, as matérias-primas brutas tornam-se, sem processamento, produtos que atendem os consumidores.",
+            "que, logo na logística de entrada, já deve realizar o despacho imediato para o consumidor, ignorando o controle de qualidade."
+        ],
+        answer: 0,
+        disclaimer: "A logística integrada gerencia o ciclo completo do material: começa fora da empresa com os Fornecedores (Suprimentos/Inbound), passa pelo coração da empresa (Produção) e finaliza com a Distribuição física até o Cliente (Outbound)."
+    },
+    {
+        topic: "Conceitos de Áreas de Apoio",
+        supportText: "",
+        q: "Não se refere à função típica inerente à área técnica de 'Administração de Materiais e Logística' o processo de:",
+        options: [
+            "aquisição e suprimentos (Compras).",
+            "transporte e distribuição física.",
+            "arquivamento e gestão documental de ofícios processuais.",
+            "gestão física de almoxarifado e armazenagem.",
+            "controle e planejamento de estoques (Ressuprimento)."
+        ],
+        answer: 2,
+        disclaimer: "O 'arquivamento' é o ato de guardar, conservar e gerir documentos, papéis oficiais e informações da instituição, sendo o objeto de estudo da ARQUIVOLOGIA (ou Gestão Documental), e não da Gestão de Materiais físicos patrimoniais."
+    },
+    {
+        topic: "Gestão de Materiais no Setor Público",
+        supportText: "Segundo Fenili (2016) ao inserir a gestão de materiais na administração pública pode-se afirmar que os materiais são os recursos públicos, adquiridos e mantidos com recursos oriundos da sociedade, o que exige licitação para a compra. Há, portanto, o dever do agente de empregá-los da melhor forma e prestação de contas.",
+        q: "Assinale a alternativa CORRETA em relação aos objetivos da gestão de materiais no setor governamental:",
+        options: [
+            "O objetivo central da administração de recursos materiais é maximizar o uso (otimizar a eficiência) dos recursos materiais na organização pública, ou seja, evitar desperdícios e compras desnecessárias.",
+            "Um objetivo secundário da gestão de materiais é suprir a organização antecipando cegamente os pedidos e mantendo, propositalmente, o mais alto nível de estoque possível para evitar licitações constantes.",
+            "Um objetivo central da gestão de materiais pública é aumentar sistematicamente os estoques para gastar todo o orçamento no fim de ano.",
+            "O objetivo central da administração de recursos materiais é minimizar e abolir totalmente o uso dos recursos materiais na organização pública, ainda que o serviço ao cidadão pare.",
+            "Um objetivo secundário é receber e armazenar obrigatoriamente bens perigosos e comuns em um mesmo espaço misturado, com o único intuito de reduzir custos de alocação de prateleiras."
+        ],
+        answer: 0,
+        disclaimer: "A gestão pública rege-se pelos princípios da Eficiência e da Economicidade (Art. 70, CF/88). O objetivo máximo de quem gere o almoxarifado público é otimizar o uso do patrimônio e cortar desperdícios, evitando que dinheiro do pagador de impostos evapore em materiais vencidos ou ociosos."
+    },
+    {
+        topic: "Objetivos Gerais de Materiais",
+        supportText: "",
+        q: "Assinale a alternativa correta no que tange aos objetivos típicos e finalísticos do Departamento de Administração de Materiais nas organizações.",
+        options: [
+            "Contratar campanhas publicitárias e definir o preço de venda.",
+            "Abrir novos mercados globais para os produtos e serviços da empresa.",
+            "Manter a cadeia produtiva e as áreas internas supridas continuamente com os recursos materiais necessários.",
+            "Conferir o custo final (Custo dos Produtos Vendidos - CPV) para fechar o balanço fiscal da empresa.",
+            "Controlar o cumprimento rigoroso das metas de vendas estipuladas aos vendedores."
+        ],
+        answer: 2,
+        disclaimer: "O setor de materiais existe para servir a organização. Sua meta é não deixar a máquina parar (garantir o suprimento contínuo), comprando e entregando os insumos na hora certa para quem for usá-los."
+    },
+    {
+        topic: "Classificação de Materiais (Atributos)",
+        supportText: "A classificação de materiais é um agrupamento ordenado e lógico de itens com características comuns, facilitando a gestão. Um bom sistema de classificação deve possuir alguns atributos metodológicos para não falhar com o tempo.",
+        q: "Assinale a alternativa que compreenda os três principais atributos que garantem a eficiência de um sistema de classificação de materiais:",
+        options: [
+            "Originalidade, Abrangência e Flexibilidade.",
+            "Praticidade, Aplicabilidade e Periodicidade.",
+            "Originalidade, Aplicabilidade e Periodicidade.",
+            "Praticidade, Abrangência e Flexibilidade.",
+            "Codificação alfabética, Sigilo e Rigidez."
+        ],
+        answer: 3,
+        disclaimer: "Os 3 atributos do sistema de classificação: 1) Praticidade (deve ser simples, direto e de fácil entendimento); 2) Abrangência (deve englobar todos os tipos de materiais do estoque sem deixar nenhum de fora); 3) Flexibilidade (deve permitir a inclusão de novos materiais no futuro sem bagunçar a lógica dos códigos atuais)."
+    },
+    {
+        topic: "Subfunções de Suprimentos",
+        supportText: "Dentre as subfunções específicas da cadeia da administração de materiais, existe a fase de verificar se o produto entregue pelo fornecedor atende perfeitamente ao que foi pedido na nota de empenho ou contrato.",
+        q: "Assinale a alternativa que apresenta a subfunção que verifica a conformidade técnica, analisando se o material possui a qualidade, as medidas e os padrões exigidos, proporcionando a aceitação ou a rejeição da entrega.",
+        options: [
+            "Transporte físico de material.",
+            "Inspeção (ou Controle de Qualidade) do recebimento de suprimentos.",
+            "Classificação e tombamento de material.",
+            "Padronização e alienação de material.",
+            "Normalização contábil de material."
+        ],
+        answer: 1,
+        disclaimer: "A Inspeção de Recebimento é o ato (qualitativo e quantitativo) de comparar a mercadoria que acabou de chegar na doca da empresa com a Especificação Técnica que estava no pedido de compras, barrando itens com defeito ou fora da especificação."
+    },
+    {
+        topic: "Conceito de Recursos Materiais",
+        supportText: "Uma organização precisa de vários tipos de recursos para funcionar (humanos, financeiros, tecnológicos, informacionais e materiais).",
+        q: "Os Recursos Materiais são essencialmente aqueles que:",
+        options: [
+            "constituem todos os aspectos relacionados com o capital financeiro (dinheiro e ações) utilizado pela empresa para bancar suas operações.",
+            "constituem toda forma de atividade humana, intelectual e manual, despendida dentro da empresa.",
+            "constituem toda atividade de prospecção e propaganda voltada para o atendimento do mercado de clientes.",
+            "referem-se aos elementos estritamente físicos (tangíveis) empregados por uma organização que concorrem para a constituição de seu produto ou execução de sua atividade, como peças, insumos, canetas e equipamentos.",
+            "referem-se exclusivamente aos bens de informática e telecomunicações que processam os dados da empresa."
+        ],
+        answer: 3,
+        disclaimer: "Recursos Materiais compõem a dimensão física e tangível (bens corpóreos) utilizados na operação (seja para transformar em um produto, seja para consumo no escritório, como papel e grampeador)."
+    },
+    {
+        topic: "Etapas do Processo de Suprimentos (Compras)",
+        supportText: "A cadeia de suprimentos é composta por várias etapas: desde saber o que se precisa até pagar o fornecedor.",
+        q: "Acerca dos procedimentos fundamentais da administração de materiais, assinale a alternativa que descreve a conceituação correta de sua respectiva etapa:",
+        options: [
+            "Gestão da Distribuição refere-se à atividade puramente burocrática de registrar os materiais, sem se importar com seu transporte ao cliente.",
+            "Recebimento Físico refere-se à atividade de preservar eternamente a guarda dos materiais confiados, proibindo o seu consumo final.",
+            "Almoxarifado refere-se à atividade externa de negociar com fornecedores na busca por melhores preços e rápido transporte.",
+            "Cadastramento refere-se à atividade de inventariar o valor de mercado (valuation) das marcas e patentes da empresa perante a Bolsa de Valores.",
+            "A função Compras corresponde à atividade que tem por finalidade suprir as necessidades operacionais da organização, mediante pesquisa de preços e aquisição negocial de materiais ou serviços, com base nas requisições emitidas pelos setores usuários."
+        ],
+        answer: 4,
+        disclaimer: "A alternativa E define o coração do setor de Compras (Acquisition/Procurement), que inicia suas atividades a partir do gatilho gerado pela Requisição de Compras e finaliza na conversão da negociação em um Pedido ou Contrato formal."
+    },
+    {
+        topic: "Planejamento e Controle de Estoques (PCE)",
+        supportText: "O objetivo fundamental do setor de Planejamento da Administração de Materiais não é realizar a compra em si, mas gerar os gatilhos no sistema informando à equipe de compras os parâmetros ideais de abastecimento para que o caixa da empresa não sangre.",
+        q: "A estratégia logística de dimensionamento de estoques tem como finalidade primordial determinar matematicamente ____________ e ____________ adquirir, para repor o estoque de forma equilibrada. Assinale a alternativa que preenche corretamente as lacunas.",
+        options: [
+            "como – quanto."
+            "volume – o que."
+            "quando – o que."
+            "quando – quanto."
+            "preço – como."
+        ],
+        answer: 3,
+        disclaimer: "As duas maiores perguntas respondidas pelos modelos matemáticos de gestão de estoques (como o Ponto de Pedido e o Lote Econômico de Compras) são: QUANDO devo comprar (tempo/momento da reposição) e QUANTO devo comprar (lote/tamanho ideal da reposição)."
+    },
+    {
+        topic: "Tipologia de Estoques (Estágios do Processo)",
+        supportText: "",
+        q: "Os estoques, em uma indústria manufatureira, podem assumir várias formas dependendo da etapa em que se encontram (Matéria-Prima, Produto em Processo, Produto Acabado). Os estoques classificados como Matéria-Prima são exatamente aqueles que:",
+        options: [
+            "constituem o estágio final do processo produtivo, estão embalados e já passaram por todas as suas fases fabris, prontos para a venda.",
+            "referem-se a peças mecânicas isoladas ou componentes submontados que a própria fábrica construiu internamente e guardou na prateleira.",
+            "estão sendo fisicamente transformados ou processados neste exato momento, espalhados ao longo das diversas máquinas e seções da fábrica.",
+            "constituem os insumos puros e os materiais básicos intocados que acabaram de chegar do fornecedor e ainda irão ingressar no processo produtivo da empresa.",
+            "são materiais auxiliares usados exclusivamente para limpar as máquinas e os galpões de produção (manutenção e reparo)."
+        ],
+        answer: 3,
+        disclaimer: "Matérias-primas são os materiais primários e intocados estocados pela empresa antes de sofrerem qualquer processo interno de transformação (Ex: aço bruto, blocos de madeira, tecido em rolo)."
+    },
+    {
+        topic: "Área de Atuação da Gestão de Materiais",
+        supportText: "O ciclo de vida dos bens físicos dentro de uma organização é monitorado por diferentes ramos da administração. Há áreas que cuidam dos bens de rápido consumo e outras que cuidam de bens que compõem a riqueza permanente do Estado/Empresa.",
+        q: "Trata-se de um macroconceito organizacional no qual se incluem tanto os recursos de consumo diário (que têm vida útil efêmera) quanto os recursos patrimoniais duradouros (bens permanentes que compõem o ativo imobilizado). Em ambos os casos, o objetivo dessa área de apoio é evitar o desperdício, classificar corretamente as contas, proteger o patrimônio contra furtos e maximizar o uso do bem em prol do funcionamento da máquina pública ou privada. O trecho acima descreve o objeto de estudo da:",
+        options: [
+            "Arquivologia e Gestão de Documentos.",
+            "Gestão de Protocolos e Malotes.",
+            "Contabilidade Pública Analítica.",
+            "Administração de Materiais e Patrimônio.",
+            "Logística de Distribuição Reversa e Marketing."
+        ],
+        answer: 3,
+        disclaimer: "A Administração de Materiais e Patrimônio é a disciplina ampla que estuda desde o clipe de papel e a caneta (Material de Consumo) até a mesa, a viatura e o prédio (Material Permanente/Patrimônio), focando na aquisição, guarda, tombamento e controle para evitar perdas ou depreciação precoce."
+    },
+    {
+        topic: "Gestão de Pessoas (Habilidades e Competências)",
+        supportText: "A respeito da abordagem dos recursos humanos, seus conceitos e práticas, analise as afirmativas a seguir:\n( ) As habilidades interpessoais envolvem as capacidades de se trabalhar em equipe, facilitar a integração com e das pessoas, liderar e construir equipes.\n( ) A capacidade de avaliar e definir o nível apropriado de risco, tomar decisões com significado e aplicar as medidas compatíveis se relaciona com a flexibilidade.\n( ) A capacidade de análise e uso de conhecimentos e abordagens para lidar e sanar adversidades se relaciona com a habilidade de resolver problemas.\n( ) A capacidade de comunicar de forma clara e direta, com atenção às percepções dos outros e com autoconfiança, se relaciona com a assertividade.",
+        q: "Assinale a sequência (V ou F) correta de cima para baixo:",
+        options: [
+            "V - F - V - F",
+            "F - V - F - V",
+            "V - F - V - V",
+            "F - V - F - F",
+            "V - V - V - F"
+        ],
+        answer: 2,
+        disclaimer: "A segunda afirmação é Falsa. 'Avaliar riscos e tomar decisões' refere-se à habilidade de Tomada de Decisão (ou gestão de riscos), e não à 'Flexibilidade' (que é a capacidade de se adaptar rapidamente a mudanças). As demais definições estão perfeitas."
+    },
+    {
+        topic: "Trabalho em Equipe",
+        supportText: "De acordo com Lacombe (2005), equipe é '[...] um grupo em que as pessoas, além de terem uma meta comum, atuam de forma a colocar os objetivos do grupo acima dos interesses que elas próprias têm dentro dele'.",
+        q: "Quando as organizações trabalham com foco em equipes (em detrimento de meros grupos), a tendência é que ocorram as seguintes vantagens, EXCETO:",
+        options: [
+            "Aumenta a colaboração e a sinergia, que ajudam a atender ao objetivo geral e podem ajudar na transparência organizacional e da comunicação.",
+            "Tem a vantagem em relação à produtividade. Isso porque os membros da equipe ajudam no trabalho uns dos outros, tornando o trabalho mais produtivo.",
+            "Prioriza estritamente o crescimento individual, pois os indivíduos concentram-se no trabalho individual em silos, favorecendo a existência de 'estrelas' especialistas desconectadas do todo.",
+            "É melhor para solucionar problemas complexos; o debate conjunto de ideias torna a solução mais rápida e eficaz logo na primeira abordagem.",
+            "Melhora a satisfação psicológica e o senso de pertencimento dos membros, reduzindo a rotatividade (turnover) do setor."
+        ],
+        answer: 2,
+        disclaimer: "A alternativa C descreve exatamente o OPOSTO do conceito de equipe. O trabalho em equipe combate a mentalidade de 'silos', não prioriza o individualismo e busca a sinergia (o todo é maior que a soma das partes)."
+    },
+    {
+        topic: "Gestão de Conflitos",
+        supportText: "",
+        q: "No ambiente organizacional e na teoria das relações humanas, o conflito passado (ou resíduo de atritos não totalmente resolvidos) que fica latente e pode ser o estopim para gerar novos conflitos é conhecido tecnicamente como:",
+        options: [
+            "falha na comunicação.",
+            "conflito anterior (ou condições antecedentes).",
+            "falta de recursos materiais.",
+            "papel ambíguo.",
+            "estilo de vida divergente."
+        ],
+        answer: 1,
+        disclaimer: "Segundo as teorias de gestão de conflitos (ex: Robbins), as 'condições antecedentes' (ou conflito anterior mal curado) funcionam como combustível adormecido que facilita a eclosão de um novo conflito manifesto à menor faísca."
+    },
+    {
+        topic: "Gestão de Conflitos (Funcionais)",
+        supportText: "O conflito é uma consequência natural das relações interpessoais em qualquer organização, podendo gerar resultados positivos e negativos, dependendo da forma como são tratados.",
+        q: "Os conflitos geram uma repercussão positiva (conflitos funcionais) quando:",
+        options: [
+            "favorecem a percepção estereotipada a respeito dos envolvidos e cristalizam preconceitos.",
+            "funcionam como catalisadores para instigar a criatividade, a inovação e atingir metas.",
+            "se concentram em reduzir e minar a coesão grupal do departamento.",
+            "causam tensão excessiva nos envolvidos, resultando em adoecimento físico e mental (Burnout).",
+            "aprofundam as diferenças cegas e polarizam os indivíduos e grupos de forma irreversível."
+        ],
+        answer: 1,
+        disclaimer: "O 'Conflito Funcional' ou 'Construtivo' é aquele que tira a equipe da zona de conforto, evita a estagnação (pensamento de grupo) e estimula o debate saudável de ideias para melhorar processos e bater metas."
+    },
+    {
+        topic: "Comunicação e Gestão de Conflitos",
+        supportText: "",
+        q: "Uma das formas efetivas, maduras e úteis para se minimizar ou solucionar conflitos interpessoais por meio da comunicação no ambiente de trabalho é:",
+        options: [
+            "possibilitar que os conflitos sejam apenas escritos e repassados aos superiores de forma burocrática para deliberações punitivas.",
+            "o superior destacar um único membro da equipe para atuar como 'espião' e combater ruídos e afirmações falsas de terceiros.",
+            "impor disciplina militar e sanções sumárias para combater afirmações falsas, ruídos e descompensações de ordem emocional.",
+            "dar exemplos históricos prolixos de áreas onde conflito igual ou semelhante foi superado pela ação exclusiva e autoritária de superiores.",
+            "adaptar-se ativamente ao ambiente, exercitar a empatia e utilizar gestual e palavras adequados ao perfil do interlocutor e ao local do trabalho."
+        ],
+        answer: 4,
+        disclaimer: "A adaptação da comunicação (empatia, escuta ativa e ajuste da linguagem ao perfil do receptor) é a técnica mais eficaz para quebrar barreiras interpessoais e desarmar conflitos latentes (Comunicação Não-Violenta)."
+    },
+    {
+        topic: "Recrutamento de Pessoas",
+        supportText: "",
+        q: "O aumento do capital intelectual, a oxigenação de ideias e a diversificação do patrimônio humano ('sangue novo') são considerados os maiores pontos fortes do recrutamento:",
+        options: [
+            "sequencial.",
+            "externo.",
+            "interno.",
+            "fixo.",
+            "misto."
+        ],
+        answer: 1,
+        disclaimer: "O Recrutamento Externo traz candidatos de fora do quadro da empresa. Sua grande vantagem é a inovação, a importação de novas experiências e a renovação da cultura organizacional."
+    },
+    {
+        topic: "Treinamento e Desenvolvimento",
+        supportText: "O treinamento é um desenvolvimento contínuo de pessoas com o objetivo de atingir o nível desejado pela organização.",
+        q: "O 'desenvolvimento de atitudes' é um dos objetivos focais do processo de treinamento. Sua função prática primordial é:",
+        options: [
+            "modificar comportamentos (mudança de postura, conscientização e clima).",
+            "elevar o nível de abstração filosófica do funcionário.",
+            "melhorar as habilidades, destrezas e manuseio de máquinas.",
+            "aumentar puramente o conhecimento técnico e a bagagem de informações das pessoas.",
+            "transmitir informações institucionais sobre regras e horários (integração)."
+        ],
+        answer: 0,
+        disclaimer: "Segundo Chiavenato, os objetivos do treinamento dividem-se em 4: Transmissão de Informações (conhecimento), Desenvolvimento de Habilidades (saber fazer/destreza), Desenvolvimento de Atitudes (mudar comportamentos/posturas) e Desenvolvimento de Conceitos (ideias/abstração)."
+    },
+    {
+        topic: "Processos de Gestão de Pessoas (Provisão)",
+        supportText: "Os processos básicos na moderna gestão de pessoas, conforme Chiavenato (2015), subdividem-se em: agregar (provisão), aplicar, recompensar, manter, desenvolver e monitorar pessoas.",
+        q: "O recrutamento e a seleção de pessoas formam as atividades típicas do processo de:",
+        options: [
+            "provisão (ou processos de agregar).",
+            "aplicação (ou processos de organizar).",
+            "manutenção (ou processos de reter).",
+            "desenvolvimento (ou processos de capacitar).",
+            "monitoração (ou processos de auditar)."
+        ],
+        answer: 0,
+        disclaimer: "Os 'Processos de Provisão' (ou Agregar Pessoas) englobam o planejamento de RH, a pesquisa de mercado, o Recrutamento e a Seleção (as 'portas de entrada' da empresa)."
+    },
+    {
+        topic: "Trabalho em Equipe e Sinergia",
+        supportText: "Na hora em que um gestor executa a função da administração denominada “organização” como forma de definir as atividades e os responsáveis de cada uma, dando assim uma estrutura funcional ao empreendimento, ele se vale de um arranjo coletivo.",
+        q: "Assinale a alternativa que indica corretamente a denominação deste conceito pelo qual são desenvolvidas as habilidades sociais, gera-se um sentimento de pertencimento (identidade) e aumenta-se a motivação por meio da sinergia:",
+        options: [
+            "Retrabalho sistêmico.",
+            "Home Office individualizado.",
+            "Comissionamento financeiro.",
+            "Trabalho em equipe.",
+            "Atividades independentes e individuais."
+        ],
+        answer: 3,
+        disclaimer: "O Trabalho em Equipe promove a sinergia, em que os membros compartilham responsabilidades, desenvolvem senso de pertencimento (espírito de corpo) e colaboram ativamente para atingir as metas."
+    },
+    {
+        topic: "Ciclo de Treinamento",
+        supportText: "Além da escala do emprego, a natureza do trabalho também está mudando, exigindo maior velocidade nos processos de transição dos trabalhadores. Por isso, os esforços de formação e requalificação profissional tornam-se fundamentais.",
+        q: "Acerca do processo de treinamento corporativo, sabe-se que ele é cíclico, contínuo e composto por quatro fases clássicas. Assinale a alternativa que apresenta corretamente a ordem cronológica dessas fases:",
+        options: [
+            "Avaliação, Implementação, Desenho e Diagnóstico.",
+            "Implementação, Desenho, Diagnóstico e Avaliação.",
+            "Diagnóstico, Desenho, Implementação e Avaliação.",
+            "Desenho, Diagnóstico, Implementação e Avaliação.",
+            "Avaliação, Desenho, Diagnóstico e Implementação."
+        ],
+        answer: 2,
+        disclaimer: "O ciclo do treinamento obedece à lógica: 1º Diagnóstico (Levantamento das Necessidades - LNT); 2º Desenho (Planejamento/Programa); 3º Implementação (Execução/Aulas); e 4º Avaliação (Medição dos resultados e do ROI)."
+    },
+    {
+        topic: "Mercado de Trabalho (Oferta vs. Procura)",
+        supportText: "Os processos de agregar pessoas estabelecem as rotas de ingresso na organização. O mercado de trabalho (MT) possui dinâmica própria (Oferta x Procura) que afeta diretamente a forma como o RH atua.",
+        q: "Sobre recrutamento, seleção e o mercado de trabalho, assinale a alternativa correta:",
+        options: [
+            "Os processos de recrutamento devem apresentar um padrão rígido idêntico para evitar a variabilidade entre as organizações públicas e privadas.",
+            "Na abordagem moderna da gestão de pessoas, há um enfoque puramente operacional e burocrático, ignorando as soft skills no recrutamento.",
+            "Como as empresas podem demitir o colaborador no período de experiência sem grandes prejuízos trabalhistas, o processo de recrutamento perdeu totalmente a sua importância na gestão de RH atual.",
+            "Quando o Mercado de Trabalho está em situação de OFERTA, significa que as oportunidades de trabalho (vagas abertas) são mais numerosas do que a procura por elas (candidatos disponíveis).",
+            "Quando o mercado de trabalho está em alta OFERTA de vagas, as empresas impõem critérios de seleção muito mais rígidos para barrar o excesso de candidatos."
+        ],
+        answer: 3,
+        disclaimer: "A alternativa D descreve o Mercado de Trabalho (MT) em Oferta: há fartura de vagas ('oferecimento de empregos') e escassez de candidatos. Nesse cenário (ao contrário do que diz a opção E), as empresas precisam RELAXAR e flexibilizar as exigências para conseguir atrair talentos, já que estão 'disputando' candidatos."
+    },
+    {
+        topic: "Gestão de Conflitos",
+        supportText: "No que diz respeito às relações estabelecidas no ambiente de trabalho, é preciso que a atenção seja redobrada para que eventuais conflitos destrutivos não prejudiquem o processo produtivo que transcorre, na maioria das vezes, interligando as práticas individuais a um só fim.",
+        q: "Nesse sentido, podemos afirmar que os conflitos descontrolados (disfuncionais) podem prejudicar, primária e intimamente:",
+        options: [
+            "O trabalho em equipe e a coesão do grupo.",
+            "A imagem de toda a equipe diante da auditoria externa do Tribunal de Contas.",
+            "A visão que a mídia tem da lucratividade da instituição.",
+            "A saúde do maquinário do chão de fábrica.",
+            "O orçamento das despesas de capital (CAPEX) da organização."
+        ],
+        answer: 0,
+        disclaimer: "Os conflitos disfuncionais destroem a confiança interpessoal, criam ressentimentos, quebram a comunicação e, consequentemente, implodem a coesão e o desempenho do Trabalho em Equipe."
+    },
+    {
+        topic: "Desenvolvimento de Pessoas",
+        supportText: "Os funcionários precisam ser treinados e desenvolvidos nas organizações para assumirem responsabilidades crescentes.",
+        q: "Sobre o processo de 'desenvolvimento de pessoas' e 'educação corporativa', é INCORRETO afirmar que:",
+        options: [
+            "Desenvolvimento se refere ao ensino das habilidades de que os funcionários necessitarão, em algum momento do futuro, no exercício de suas carreiras profissionais.",
+            "O desenvolvimento profissional ocorre naturalmente com o passar dos anos, não exigindo esforço consciente, planejamento ou acompanhamento contínuo por parte da gestão da organização.",
+            "Os programas de desenvolvimento necessitam de elaboração cuidadosa, sendo estabelecidos objetivos específicos de aprendizagem e alocação de recursos necessários.",
+            "Ao identificar e informar aos seus supervisores as áreas em que podem se desenvolver (feedback e PDIs), os funcionários buscam proativamente melhorar seu desempenho.",
+            "À administração cabe a tarefa de permanecer atenta às necessidades e oportunidades de aperfeiçoamento do seu efetivo, discutindo trilhas de carreira com a equipe."
+        ],
+        answer: 1,
+        disclaimer: "O desenvolvimento não é um evento acidental ou 'passivo'. Ele exige forte planejamento estratégico de RH, Planos de Desenvolvimento Individual (PDIs), gestão de carreira e esforço consciente de longo prazo tanto do empregado quanto da empresa."
+    },
+    {
+        topic: "Diferença entre Grupos e Equipes",
+        supportText: "",
+        q: "Na teoria do comportamento organizacional, existem diferenças conceituais marcantes entre um 'Grupo de Trabalho' e uma 'Equipe de Trabalho'. São características específicas que definem os GRUPOS e as EQUIPES, respectivamente:",
+        options: [
+            "objetivos compartilhados e desempenho coletivo sem sinergia.",
+            "desempenho coletivo neutro e sinergia estritamente negativa.",
+            "responsabilidade apenas individual (Grupo) e sinergia positiva (Equipe).",
+            "habilidades complementares (Grupo) e objetivos puramente individuais (Equipe).",
+            "sinergia positiva (Grupo) e responsabilidade estritamente individual (Equipe)."
+        ],
+        answer: 2,
+        disclaimer: "Grupos de trabalho compartilham informações, mas o desempenho é a soma do esforço individual (Responsabilidade Individual e Sinergia Neutra). Nas Equipes, o esforço conjunto resulta num nível de desempenho maior que a soma das partes (Sinergia Positiva e Responsabilidade Mútua)."
+    },
+    {
+        topic: "Processos de RH (Agregar)",
+        supportText: "",
+        q: "O processo de gestão de pessoas destinado ao estudo do cenário do mercado de trabalho e ao recrutamento e à seleção de talentos é modernamente denominado de processo de:",
+        options: [
+            "manutenção (ou retenção).",
+            "atração (ou agregar pessoas/provisão).",
+            "gestão do desempenho (ou avaliação).",
+            "liderança (ou coaching).",
+            "desenvolvimento (ou capacitação)."
+        ],
+        answer: 1,
+        disclaimer: "Recrutar e selecionar formam o pilar da ATRAÇÃO de talentos (Processos de Agregar ou Provisão). Uma vez dentro, entra em cena o desenvolvimento e a manutenção (retenção)."
+    },
+    {
+        topic: "Técnicas de Seleção",
+        supportText: "As técnicas de seleção visam obter informações a respeito do candidato que se apresenta na organização para participar do processo seletivo.",
+        q: "O instrumento de seleção que se utiliza de dramatizações (role-playing) e serve para avaliar as reações e o comportamento interpessoal de candidatos a cargos de gerência, supervisão e vendas sob pressão é denominado:",
+        options: [
+            "técnicas de simulação (dinâmicas/psicodrama).",
+            "testes psicotécnicos de aptidão cognitiva pura.",
+            "testes de personalidade com inventários de múltipla escolha.",
+            "entrevistas de seleção não diretivas.",
+            "testes de aptidão física (TAF)."
+        ],
+        answer: 0,
+        disclaimer: "As Técnicas de Simulação (como dinâmicas de grupo, role-playing, psicodrama) colocam o candidato em situações que imitam o ambiente real para avaliar 'in loco' suas habilidades sociais, empatia e capacidade de liderança/negociação."
+    },
+    {
+        topic: "Vantagens do Recrutamento Externo",
+        supportText: "Recrutamento é conceituado como o esforço que a empresa faz para atrair os candidatos mais qualificados para seus postos de trabalho vagos, podendo utilizar o recrutamento interno ou externo.",
+        q: "É considerada a principal vantagem do recrutamento EXTERNO:",
+        options: [
+            "ser mais barato, ágil e seguro quanto ao perfil comportamental do candidato.",
+            "renovar a cultura organizacional, oxigenando a empresa com novas ideias e 'sangue novo'.",
+            "não requerer qualquer tipo de adaptação ou socialização organizacional (onboarding).",
+            "incentivar a permanência e motivar a ambição de encarreiramento dos atuais funcionários na empresa.",
+            "desvalorizar o potencial humano interno para justificar cortes orçamentários."
+        ],
+        answer: 1,
+        disclaimer: "A grande vantagem de buscar no mercado (Externo) é a renovação de ideias. As opções A e D descrevem vantagens do recrutamento INTERNO (mais barato, seguro e motiva os atuais funcionários)."
+    },
+    {
+        topic: "Fases do Treinamento",
+        supportText: "",
+        q: "A primeira etapa do ciclo do treinamento, em que ocorre o mapeamento e a identificação das lacunas de competência (gaps) que precisam ser resolvidas na organização, é tecnicamente chamada de:",
+        options: [
+            "desenho do programa.",
+            "avaliação de resultados.",
+            "diagnóstico (Levantamento das Necessidades de Treinamento - LNT).",
+            "implementação.",
+            "controle de resultados em serviço."
+        ],
+        answer: 2,
+        disclaimer: "Tudo começa pelo Diagnóstico (LNT), onde o RH descobre QUEM precisa ser treinado e em QUAL competência está deficitário."
+    },
+    {
+        topic: "Atribuições da Área de Gestão de Pessoas",
+        supportText: "Dentro da área administrativa de um órgão, um técnico pode atuar em diferentes setores de apoio.",
+        q: "Quais dos processos a seguir são rotinas clássicas e exclusivas atreladas diretamente à Secretaria/Departamento de Recursos Humanos (Gestão de Pessoas)?",
+        options: [
+            "Elaboração de leis e políticas orçamentárias plurianuais (PPA).",
+            "Gestão de bacias e recursos hídricos patrimoniais.",
+            "Processos de recrutamento, seleção, folha de pagamento e capacitação.",
+            "Fiscalização de obras públicas de infraestrutura viária.",
+            "Redação de editais de compras e licitações de materiais de consumo."
+        ],
+        answer: 2,
+        disclaimer: "Recrutamento, Seleção, Treinamento e Avaliação formam o escopo restrito e exclusivo do setor de RH de qualquer organização."
+    },
+    {
+        topic: "Trabalho em Equipe (Coesão)",
+        supportText: "Chiavenato define determinados fatores sociológicos que afetam positiva e negativamente a coesão (união e atratividade) de uma equipe de trabalho.",
+        q: "Nesse sentido, assinale a opção que indica um fator que DIMINUI ou prejudica drasticamente a coesão da equipe:",
+        options: [
+            "A equipe proporciona reconhecimento, pertencimento e status aos seus membros.",
+            "Ataques e ameaças vindos de fora (que costumam unir o grupo para defesa).",
+            "Avaliação externa altamente favorável e prestígio da equipe perante a diretoria.",
+            "Comportamento dominativo, egoísta ou auto-orientado (narcisismo) de alguns membros.",
+            "Alta oportunidade para interação, diálogo e reciprocidade no ambiente físico."
+        ],
+        answer: 3,
+        disclaimer: "Comportamentos 'tóxicos', egocêntricos e competitivos dentro do próprio grupo geram atrito, destroem a confiança mútua e fragmentam a coesão da equipe. Fatores como ameaças externas (B) ironicamente tendem a aumentar a coesão interna (efeito 'inimigo comum')."
+    },
+    {
+        topic: "Desenvolvimento de Carreira",
+        supportText: "O desenvolvimento da carreira de um colaborador deve ser guiado e planejado pela área de pessoas da organização, em conjunto com o seu gestor direto e o próprio funcionário.",
+        q: "Assinale a alternativa que apresenta o conjunto de processos de RH estruturais mais necessários para fundamentar e guiar políticas justas de PROMOÇÃO e ascensão profissional:",
+        options: [
+            "treinamento admissional (onboarding) e controle de ponto",
+            "mentoria de estagiários e avaliação de clima exclusivamente",
+            "avaliação de desempenho atrelada a um plano de cargos e salários e mapeamento/plano de sucessão",
+            "plano de marketing pessoal, avaliação comportamental genérica e benefícios de saúde",
+            "avaliação do exame médico admissional e testes de aptidão técnica inicial"
+        ],
+        answer: 2,
+        disclaimer: "Para promover alguém com justiça é necessário ter a medição de suas entregas (Avaliação de Desempenho), regras claras de ascensão salarial (Plano de Cargos e Salários) e visão de futuro das posições-chave (Plano de Sucessão)."
+    },
+    {
+        topic: "Desvantagens do Recrutamento Externo",
+        supportText: "Quanto à Gestão de Pessoas e atração de talentos, o Recrutamento Externo traz inovações, mas também carrega ônus para a empresa.",
+        q: "Assinale a afirmativa INCORRETA quanto às desvantagens reais do recrutamento externo.",
+        options: [
+            "Afeta negativamente a motivação dos atuais funcionários, que veem as vagas de promoção serem ocupadas por pessoas de fora.",
+            "Aumenta a fidelidade e o orgulho de pertencer dos antigos funcionários ao oferecer oportunidades a estranhos.",
+            "Requer aplicação de técnicas seletivas longas e complexas para a escolha, significando maiores custos operacionais.",
+            "Exige esquemas de socialização organizacional (ambientação/onboarding) mais longos para os novos funcionários.",
+            "Normalmente é mais demorado que o recrutamento interno, pois exige divulgação e triagem no mercado."
+        ],
+        answer: 1,
+        disclaimer: "A afirmativa B é o exato oposto da realidade e, portanto, é a incorreta solicitada. Contratar pessoas de fora para cargos altos DIMINUI a fidelidade e frustra a expectativa de crescimento (carreira) dos funcionários que já estão na casa."
+    },
+    {
+        topic: "Práticas de Desenvolvimento de Pessoas",
+        supportText: "",
+        q: "Assinale a alternativa que relaciona uma atividade tipicamente utilizada no 'Desenvolvimento de Recursos Humanos' das organizações públicas e privadas.",
+        options: [
+            "Gestão de Comércio Exterior e Câmbio.",
+            "Apuração de lucros, balanços e dividendos (Financeiro).",
+            "Contratação, assinatura de carteira e admissão burocrática de pessoal (Departamento Pessoal).",
+            "Cálculo e pagamento de vale-transporte (Rotinas de RH).",
+            "Orientação, capacitação, coaching e treinamento contínuo dos servidores."
+        ],
+        answer: 4,
+        disclaimer: "O Desenvolvimento abrange as políticas de educação corporativa, treinamento, orientação de carreira e capacitação (formação de longo prazo) dos servidores."
+    },
+    {
+        topic: "Objetivos do Desenvolvimento de RH",
+        supportText: "",
+        q: "O desenvolvimento de recursos humanos nas organizações tipicamente é importante para que:",
+        options: [
+            "Os clientes da empresa tenham as condições necessárias para que suas aptidões industriais se desenvolvam.",
+            "Os funcionários dos fornecedores consigam barganhar melhores contratos.",
+            "Os funcionários dos concorrentes diretos percam a motivação.",
+            "Os funcionários tenham as condições necessárias para que suas habilidades e aptidões se desenvolvam de modo a contribuir para que a organização consiga atingir seus objetivos estratégicos.",
+            "Os gestores concentrem poder absoluto e as informações fiquem restritas à cúpula."
+        ],
+        answer: 3,
+        disclaimer: "O objetivo final do T&D (Treinamento e Desenvolvimento) é alinhar o crescimento profissional do colaborador com o atingimento das metas e objetivos estratégicos do negócio."
+    },
+    {
+        topic: "Ciclo de Treinamento (Desenho)",
+        supportText: "Segundo a conceituação mais difundida no campo da gestão de pessoas, o processo de treinamento é composto por quatro etapas a que correspondem diferentes objetivos, decisões e ações.",
+        q: "As decisões instrucionais acerca dos conteúdos a serem ministrados, das metodologias (EAD ou presencial) e da definição de quem ministrará para o público-alvo são tomadas na:",
+        options: [
+            "segunda etapa, de Desenho (ou Programação) do treinamento.",
+            "primeira etapa, de Avaliação de Reação do treinamento.",
+            "terceira etapa, de Auditoria (ou modelagem) do treinamento.",
+            "primeira etapa, de Diagnóstico das Necessidades (LNT).",
+            "quarta etapa, de Implementação (ou execução) prática."
+        ],
+        answer: 0,
+        disclaimer: "No ciclo de treinamento, após descobrir O QUE precisa ser treinado (Diagnóstico/LNT - 1ª etapa), o RH parte para estruturar COMO, ONDE e POR QUEM o treinamento será dado. Essa estruturação curricular/logística ocorre no Desenho ou Programação do treinamento (2ª etapa)."
+    },
+    {
+        topic: "Gestão de Pessoas (Diagnóstico Organizacional)",
+        supportText: "",
+        q: "O diagnóstico organizacional utiliza várias técnicas para uma ação de intervenção, assim quando é necessário fazer uma intervenção na equipe para melhoria do comportamento humano pode-se utilizar:",
+        options: [
+            "Retroação de dados.",
+            "Intervenções para indivíduos.",
+            "Desenvolvimento de equipes.",
+            "Planejamento de ação.",
+            "Diagnóstico inicial."
+        ],
+        answer: 2,
+        disclaimer: "O 'Desenvolvimento de equipes' (Team Building) é a técnica clássica de intervenção do Desenvolvimento Organizacional (DO) focada em melhorar as relações interpessoais, a comunicação e o comportamento humano dentro de um grupo de trabalho."
+    },
+    {
+        topic: "Gestão de Pessoas (Processos de Agregar)",
+        supportText: "",
+        q: "Na administração de pessoas, a função que acontece, logo após a conclusão do recrutamento, é a:",
+        options: [
+            "Seleção.",
+            "Desenvolvimento.",
+            "Benefícios.",
+            "Cargos e salários.",
+            "Treinamento."
+        ],
+        answer: 0,
+        disclaimer: "Os processos de provisão (ou agregar pessoas) seguem a ordem lógica: primeiro o Recrutamento (atração de candidatos), seguido imediatamente pela Seleção (escolha do candidato mais adequado)."
+    },
+    {
+        topic: "Gestão de Pessoas (Grupos e Equipes)",
+        supportText: "",
+        q: "Avalie, com base em estudos referentes a grupos e equipes, se são características particulares e necessárias das equipes:\nI. Desenvolvimento sinergético neutro.\nII. Junção de habilidades complementares.\nIII. Ênfase em objetivos individuais.\nEstá correto o que se afirma em:",
+        options: [
+            "I, apenas.",
+            "II, apenas.",
+            "III, apenas.",
+            "I e II.",
+            "II e III."
+        ],
+        answer: 1,
+        disclaimer: "Apenas o item II é correto. Equipes possuem habilidades complementares. O desenvolvimento sinergético de uma equipe é POSITIVO (e não neutro) e a ênfase é em objetivos COLETIVOS/COMPARTILHADOS (e não individuais)."
+    },
+    {
+        topic: "Gestão de Pessoas (Avaliação de Desempenho)",
+        supportText: "",
+        q: "Quanto ao comportamento organizacional e ao desempenho, assinale a alternativa correta.",
+        options: [
+            "O desenvolvimento é algo que depende da motivação e das condições oferecidas pela organização.",
+            "A avaliação de desempenho deve se preocupar mais efetivamente em mapear os pontos fracos da organização.",
+            "Os desempenhos individuais devem ser avaliados de formal anual, com base somente em critérios quantitativos.",
+            "A avaliação de desempenho consiste na análise e na mensuração sistemática do desempenho de cada indivíduo na organização.",
+            "A avaliação de desempenho deve ser utilizada, exclusivamente, como base para a demissão de funcionários."
+        ],
+        answer: 3,
+        disclaimer: "A avaliação de desempenho é um processo sistemático de apreciação do comportamento e da eficácia do indivíduo no cargo, servindo não apenas para demissões, mas para promoções, treinamentos e feedback."
+    },
+    {
+        topic: "Gestão de Pessoas (Recrutamento)",
+        supportText: "“O recrutamento é o processo de gerar um conjunto de candidatos para um cargo específico. Ele deve anunciar a disponibilidade do cargo no mercado e atrair candidatos qualificados para disputá-lo. O mercado no qual a organização tenta buscar os candidatos pode ser interno, externo ou uma combinação de ambos.” (Chiavenato, 2014)",
+        q: "Considerando os tipos de recrutamento, marque a opção que indique aquele correspondente à vantagem de ser indicado para enriquecer mais intensa e rapidamente o capital intelectual e à desvantagem de ser mais custoso, oneroso, demorado e inseguro.",
+        options: [
+            "externo",
+            "interno",
+            "misto",
+            "global",
+            "local"
+        ],
+        answer: 0,
+        disclaimer: "O recrutamento externo traz 'sangue novo' e inovações (enriquecendo o capital intelectual), mas é mais demorado, caro (anúncios, agências) e inseguro (candidato ainda é um desconhecido)."
+    },
+    {
+        topic: "Gestão de Pessoas (Composição de Equipes)",
+        supportText: "Na composição das equipes responsáveis pela supervisão do censo realizado pelo IBGE, os funcionários podem ser agrupados segundo uma ampla variedade de experiências, além de atributos e competência complementares, visando ações mais criativas e completas.",
+        q: "Assinale a alternativa que apresenta o fator de composição dos grupos explicitado no enunciado.",
+        options: [
+            "Identidade da tarefa.",
+            "Personalidade.",
+            "Clima de confiança.",
+            "Diversidade.",
+            "Racionalidade homogênea."
+        ],
+        answer: 3,
+        disclaimer: "Agrupar funcionários por 'ampla variedade de experiências e atributos' refere-se ao fator Diversidade, que fomenta pontos de vista diferentes e soluções criativas."
+    },
+    {
+        topic: "Gestão de Conflitos",
+        supportText: "Alguns autores consideram que os conflitos não devem ser eliminados radicalmente, porque existem conflitos “bons” que podem gerar criatividade e esforço maior dos indivíduos e das equipes de trabalho.",
+        q: "O nome correto desse tipo de conflito é:",
+        options: [
+            "disfuncional.",
+            "anormal.",
+            "funcional.",
+            "latente.",
+            "manifesto."
+        ],
+        answer: 2,
+        disclaimer: "Conflitos funcionais (ou construtivos) são aqueles que apoiam os objetivos do grupo e melhoram seu desempenho, estimulando o debate e a inovação."
+    },
+    {
+        topic: "Gestão de Pessoas (Equipes)",
+        supportText: "",
+        q: "Os quatro fatores que enfatizam que os grupos de trabalho se caracterizam como equipes são denominados:",
+        options: [
+            "objetivos, visão, missão e valores.",
+            "valores, trabalho em equipe, compreensão e relacionamento.",
+            "organização, interação, motivação e percepção.",
+            "ética, relacionamento, valores e compreensão.",
+            "objetivos, ética, respeito e compreensão."
+        ],
+        answer: 2,
+        disclaimer: "Segundo a literatura de comportamento organizacional, um grupo passa a atuar como equipe quando há forte organização interna, interação constante, motivação compartilhada e percepção de coletividade."
+    },
+    {
+        topic: "Gestão de Pessoas (Grupos e Equipes)",
+        supportText: "Do ponto de vista organizacional, existem grupos e equipes.",
+        q: "No que se refere a equipes, assinale a alternativa correta.",
+        options: [
+            "São um grupo de pessoas que trabalham em conjunto com objetivos comuns.",
+            "São caracterizadas pelas pessoas que trabalham individualmente, com os próprios propósitos.",
+            "São formadas por pessoas que compartilham o mesmo escritório, mas sem um objetivo comum.",
+            "Compõem-se de pessoas que gostam umas das outras por afinidades.",
+            "Não precisam ser compostas por um grupo de pessoas."
+        ],
+        answer: 0,
+        disclaimer: "Uma equipe é fundamentalmente um grupo estruturado cujos esforços individuais resultam em um desempenho maior que a soma das partes, focando em metas (objetivos) comuns e compartilhadas."
+    },
+    {
+        topic: "Gestão de Pessoas (Relações Humanas)",
+        supportText: "",
+        q: "Assinale a alternativa que indica corretamente o elemento central na gestão de relações humanas no ambiente organizacional.",
+        options: [
+            "lançamentos contábeis",
+            "campanhas publicitárias",
+            "registros contábeis",
+            "comunicação",
+            "licitação"
+        ],
+        answer: 3,
+        disclaimer: "A comunicação é o eixo central das relações humanas; sem ela, é impossível coordenar equipes, liderar, motivar ou resolver conflitos."
+    },
+    {
+        topic: "Gestão de Pessoas (Treinamento e Estratégia)",
+        supportText: "Uma empresa pública atua em um ambiente estável e adota estratégia conservadora e defensiva. Nesse contexto, a estratégia de recursos humanos relativa ao treinamento e desenvolvimento de pessoas deve estar voltada para a construção de competências com foco no longo prazo e na sustentação da eficiência dos processos.",
+        q: "São abordagens de treinamento alinhadas à estratégia conservadora e defensiva:",
+        options: [
+            "treinamento no cargo; treinamento genérico para a flexibilidade;",
+            "treinamento externo; treinamento em equipe;",
+            "treinamento no cargo; treinamento individualizado;",
+            "treinamento específico; treinamento externo para a inovação;",
+            "treinamento externo e interno; treinamento genérico para a flexibilidade."
+        ],
+        answer: 2,
+        disclaimer: "Em estratégias conservadoras e de ambiente estável, o treinamento visa a eficiência operacional estrita e a especialização da rotina, sendo feito majoritariamente on-the-job (no cargo) e de forma individualizada para corrigir desvios locais."
+    },
+    {
+        topic: "Gestão de Pessoas (Trabalho em Equipe)",
+        supportText: "",
+        q: "Acerca do trabalho em equipe, assinale a alternativa correta.",
+        options: [
+            "É formado por um grupo com grande quantidade de pessoas.",
+            "Cada integrante do grupo é compromissado com suas metas e com seus objetivos próprios.",
+            "Uma equipe é formada por interações estáticas, mas não sinérgicas, de pessoas.",
+            "Os resultados individuais de cada membro de um grupo sempre serão maiores que os resultados de uma equipe, porém a performance, quanto à diversidade, será muito maior em uma equipe que em um grupo.",
+            "É uma ferramenta da gestão de pessoas que visa à transformação do conhecimento tácito em explícito."
+        ],
+        answer: 4,
+        disclaimer: "O trabalho em equipe atua como um canal poderoso de gestão do conhecimento. Nele, a interação colaborativa permite que o conhecimento tácito (experiência guardada na mente de um membro) seja compartilhado, externalizado e transformado em conhecimento explícito para todo o grupo."
+    },
+    {
+        topic: "Gestão de Pessoas (Recrutamento)",
+        supportText: "O recrutamento é a primeira fase do processo seletivo por meio do qual a organização divulga oportunidades de emprego e atrai os potenciais candidatos para as etapas subsequentes. O recrutamento pode ser interno, externo ou interno e externo, simultaneamente.",
+        q: "Considerando essas informações, assinale a alternativa que apresenta vantagem(ns) do recrutamento interno.",
+        options: [
+            "obtenção de informações mais precisas e menor custo",
+            "estímulo ao carreirismo",
+            "não necessitar de treinamento para o selecionado",
+            "extrema aceitação dos outros colaboradores e estímulo à performance",
+            "aumento da inovação no trabalho"
+        ],
+        answer: 0,
+        disclaimer: "O recrutamento interno é mais econômico e rápido, possuindo um alto índice de validade e segurança, já que a empresa detém o histórico completo de desempenho e informações precisas sobre o funcionário."
+    },
+    {
+        topic: "Gestão de Pessoas (Conflitos e Comunicação)",
+        supportText: "Rosenberg (2019), na obra “Comunicação Não Violenta”, afirma que o aprendizado da forma de pensar e de se comunicar irá determinar a maneira de se dialogar com outra pessoa.",
+        q: "No ambiente escolar, podem ser aprendidas estratégias de comunicação argumentativa que motivem o aluno a contribuir para o bem-estar dos outros e de si mesmo, o que permitirá que ele desenvolva a capacidade de dialogar de forma respeitosa e colaborativa com o objetivo de superar:",
+        options: [
+            "conflitos",
+            "acordos",
+            "normas",
+            "afetos",
+            "diretrizes"
+        ],
+        answer: 0,
+        disclaimer: "O principal objetivo e aplicação da Comunicação Não Violenta (CNV) nas organizações e nas relações interpessoais é atuar na mediação e superação de conflitos."
+    },
+    {
+        topic: "Gestão de Pessoas (Atribuições)",
+        supportText: "",
+        q: "Nas organizações, compete à área de gestão de pessoas:",
+        options: [
+            "estabelecer o planejamento estratégico.",
+            "garantir a execução do planejamento orçamentário e financeiro.",
+            "controlar o nível de qualidade dos serviços prestados pelos colaboradores.",
+            "identificar necessidades de treinamento dos colaboradores.",
+            "auditar as contas públicas."
+        ],
+        answer: 3,
+        disclaimer: "O Levantamento das Necessidades de Treinamento (LNT) é a fase de diagnóstico do ciclo de capacitação, sendo atribuição central do setor de Recursos Humanos/Gestão de Pessoas."
+    },
+    {
+        topic: "Gestão de Processos (Estratégia e Processos)",
+        supportText: "Um aplicativo de delivery alimentar lançou formalmente ainda em 2021 uma fintech voltada ao segmento de alimentação. Segundo o CEO, o objetivo foi oferecer créditos e soluções digitais aos restaurantes para que pudessem manter ou ampliar seus serviços, após analisarem os reflexos da pandemia em seu segmento de atuação. A nova estratégia foi assim pensada, já que a grande maioria dos restaurantes cadastrados foi impactada com queda de faturamento e dificuldades de se adaptarem tecnologicamente. Através da ferramenta, os donos de restaurantes poderiam realizar transferências, TEDs, pagar boletos e receber via cartão, além de solicitar a antecipação de recebíveis do aplicativo e fazerem solicitações de crédito. Essa fintech foi o primeiro banco dos restaurantes sub-bancarizados, sendo uma construção que contou com colaboradores de vários setores da organização.",
+        q: "Na visão do CEO, o aplicativo criou a estratégia em um processo:",
+        options: [
+            "espontâneo",
+            "intencional",
+            "mimético",
+            "implícito",
+            "sigiloso"
+        ],
+        answer: 1,
+        disclaimer: "A formulação ocorreu a partir de uma análise de cenário consciente e de um objetivo traçado formalmente para atender a uma necessidade identificada (processo deliberado e intencional)."
+    },
+    {
+        topic: "Gestão de Processos (Conceitos)",
+        supportText: "",
+        q: "No que concerne à gestão por processos, assinale a opção que apresenta o conceito que consiste na sequência de passos necessários para que se possa atingir a automação de processos de negócio.",
+        options: [
+            "lead time",
+            "scope",
+            "throughput",
+            "workflow",
+            "billing"
+        ],
+        answer: 3,
+        disclaimer: "O termo Workflow (fluxo de trabalho) refere-se ao mapeamento e à sequência de passos e regras (muitas vezes suportada por sistemas de TI) que automatiza a passagem de informações ou tarefas de um participante para outro."
+    },
+    {
+        topic: "Gestão de Processos (BPMN)",
+        supportText: "O desenho de processos numa organização costuma ser fundamental para identificação de riscos, oportunidades de melhorias, dentre outros benefícios. O Business Process Model and Notation (BPMN) é uma notação gráfica largamente utilizada para mapear os processos de negócio de uma organização, em que cada figura é responsável por simbolizar algo referente ao processo.",
+        q: "A figura que representa um evento é um(a):",
+        options: [
+            "círculo.",
+            "losango.",
+            "quadrado.",
+            "retângulo.",
+            "seta."
+        ],
+        answer: 0,
+        disclaimer: "Na notação BPMN, os Eventos (que indicam que algo aconteceu, como Início, Intermediário e Fim) são representados por círculos."
+    },
+    {
+        topic: "Gestão de Processos (Indicadores)",
+        supportText: "",
+        q: "O indicador de produtividade relacionado à forma de produção de bens e serviços, envolvendo procedimentos de aquisições ou requisições, bem como em dias de prazo para contratação dos mesmos, e, além disso para a própria realização de atividades, é considerado do tipo indicador de:",
+        options: [
+            "processo.",
+            "resultado.",
+            "insumo.",
+            "produto.",
+            "objetivo."
+        ],
+        answer: 0,
+        disclaimer: "Indicadores que medem prazos de trâmites internos, atividades em andamento e fluxo de tarefas avaliam diretamente o funcionamento da operação em si, classificando-se como indicadores de processo."
+    },
+    {
+        topic: "Gestão de Processos (Ferramentas de Qualidade)",
+        supportText: "No âmbito da gestão de processos em uma organização, podem ser utilizadas diferentes ferramentas e metodologias, entre as quais o Diagrama de Ishikawa.",
+        q: "Sobre o Diagrama de Ishikawa, assinale a alternativa correta:",
+        options: [
+            "apresenta-se como uma matriz de quatro quadrantes, sendo dois deles ligados aos fatores internos e dois aos externos.",
+            "parte dos efeitos dos problemas para a identificação das causas que os provocam, colocando-as em grau de importância na forma de uma representação gráfica semelhante a uma espinha de peixe.",
+            "é representado em plano cartesiano, tendo como eixo horizontal as causas que mais se repetem nas falhas identificadas.",
+            "adota a forma de um fluxograma com todos os inputs (entradas) e outputs (saídas) envolvidos em um processo.",
+            "sustenta que 80% do volume dos problemas de uma organização é constituído por apenas 20% de eventos causadores."
+        ],
+        answer: 1,
+        disclaimer: "O Diagrama de Ishikawa (Causa e Efeito / Espinha de Peixe) analisa visualmente as possíveis raízes (causas) que levaram a um determinado problema (efeito)."
+    },
+    {
+        topic: "Gestão de Processos (Indicadores)",
+        supportText: "Segundo Rua (2004), os indicadores de gestão são classificados em estratégicos; de processos; e, de projetos.",
+        q: "Considerando tal classificação, apresenta corretamente indicadores de processos:",
+        options: [
+            "Indicadores de gerência: número de treinamentos realizados.",
+            "Indicadores de projetos: quantidade de resposta do processo.",
+            "Indicadores de desempenho: nível de satisfação dos clientes/usuários.",
+            "Indicadores de efetividade: nível de impacto no cliente ou na sociedade.",
+            "Indicadores de operacionalidade: quantidade de atendimentos realizados."
+        ],
+        answer: 3,
+        disclaimer: "Nota: A banca considerou a alternativa D como correta para a classificação da questão."
+    },
+    {
+        topic: "Gestão de Processos (Conceito de Processo)",
+        supportText: "Considerando a Gestão de Processos, dadas as afirmativas referentes à definição de processo,\nI. Ordenação específica englobando teoria e prática com começo, meio e fim definidos de maneira antecipada por clientes.\nII. Grupo de componentes interligados com a capacidade de transformar um conjunto de entradas em um conjunto de saídas.\nIII. Elemento de execução única com tempo de duração determinado, envolvendo o emprego de esforço na criação de algo novo.\nIV. Conjunto de atividades realizadas de maneira seqüencial, cuja proposta é produzir bens ou serviços para um público específico.",
+        q: "Verifica-se que está(ão) correta(s) apenas:",
+        options: [
+            "IV.",
+            "I e IV.",
+            "II e III.",
+            "I, II e III.",
+            "I, III e IV."
+        ],
+        answer: 0,
+        disclaimer: "Um processo é caracterizado como uma sequência de atividades (rotineiras) que recebe insumos, agrega valor e entrega um produto/serviço ao cliente (IV). O item III define Projeto (execução única e temporária). O item II define Sistema."
+    },
+    {
+        topic: "Gestão de Processos (Cadeia de Valor)",
+        supportText: "Criada por Michael Porter em 1985, a cadeia de valor é uma metodologia usada para coordenar processos e mapear quais as vantagens competitivas da corporação. O autor utilizou de uma divisão teórica para auxiliar no entendimento dos processos, separando em dois grupos as atividades: atividades primárias e atividades de suporte.",
+        q: "São consideradas atividades primárias, EXCETO:",
+        options: [
+            "Gestão de RH.",
+            "Logística de entrada.",
+            "Marketing e vendas.",
+            "Operações.",
+            "Logística de saída."
+        ],
+        answer: 0,
+        disclaimer: "Na Cadeia de Valor de Porter, as Atividades Primárias (que lidam diretamente com o fluxo do produto) são: Logística de Entrada, Operações, Logística de Saída, Marketing/Vendas e Serviços. A Gestão de Recursos Humanos é classificada como Atividade de Suporte (Apoio)."
+    },
+    {
+        topic: "Gestão de Processos (Visão Sistêmica)",
+        supportText: "Os conceitos de organizações, objetivos, recursos, processos de transformação e divisão do trabalho, segundo Maximiano (2004, p. 26-28), são centrais para a compreensão da administração geral.",
+        q: "A esse respeito é correto afirmar que:",
+        options: [
+            "os recursos utilizados pelas organizações envolvem exclusivamente os aspectos materiais.",
+            "os objetivos das organizações se limitam à maximização dos lucros.",
+            "as organizações são, em essência, sistemas de inteligência artificial que usam recursos materiais e intangíveis.",
+            "por meio de processos, a organização transforma os recursos para produzir resultados.",
+            "a divisão do trabalho é o processo que permite ampliar as limitações individuais por meio da especialização."
+        ],
+        answer: 3,
+        disclaimer: "A essência de um processo é exatamente transformar inputs (recursos/insumos) através de atividades em outputs (produtos/resultados gerando valor)."
+    },
+    {
+        topic: "Gestão de Processos (Mensuração)",
+        supportText: "A gestão de processos faz parte do cotidiano de organizações públicas e privadas, que tem o seu sistema de decisões baseados em dados quantitativos. A mensuração do resultado dos processos é primordial, lembrando que aquilo que não pode ser medido não pode ser avaliado, então fica difícil decidir de forma correta as ações a serem implantadas ou implementadas num contexto organizacional. Neste sentido surgiram os indicadores de desempenho dos processos organizacionais com suas respectivas características.",
+        q: "Diante do exposto, assinale a alternativa incorreta sobre indicadores:",
+        options: [
+            "Resolução matemática que resulta em uma medida quantitativa",
+            "Identificam um estado de um processo ou do resultado deste",
+            "Associam-se a metas numéricas preestabelecidas",
+            "Resolução lógica que resulta em uma medida qualitativa",
+            "Relação matemática que mede numericamente atributos de um processo ou de seus resultados"
+        ],
+        answer: 3,
+        disclaimer: "Indicadores de desempenho são, fundamentalmente, grandezas quantificáveis e numéricas. A formulação baseada em 'medida puramente qualitativa não parametrizável matematicamente' contraria o conceito clássico de KPIs (Key Performance Indicators)."
+    },
+    {
+        topic: "Gestão de Processos (Metodologia)",
+        supportText: "A gestão por processos consiste em uma metodologia empresarial na qual se procura o aperfeiçoamento permanente de todos os processos que acontecem dentro de uma organização.\nAnalise as afirmativas abaixo em relação ao assunto:\n1. Documentar as formas de executar os processos é uma função desta metodologia.\n2. Realizar o controle por meio da utilização de KPI’s ajudará a compreender a assertividade de cada processo.\n3. Desenvolver técnicas que tornem os processos mais eficientes faz parte deste tipo de gestão.",
+        q: "Assinale a alternativa que indica todas as afirmativas corretas:",
+        options: [
+            "É correta apenas a afirmativa 1.",
+            "É correta apenas a afirmativa 3.",
+            "São corretas apenas as afirmativas 1 e 3.",
+            "São corretas apenas as afirmativas 2 e 3.",
+            "São corretas as afirmativas 1, 2 e 3."
+        ],
+        answer: 4,
+        disclaimer: "A gestão por processos engloba o mapeamento (documentação AS-IS), a mensuração por meio de indicadores de desempenho (KPIs) e a otimização (TO-BE) para buscar eficiência."
+    },
+    {
+        topic: "Gestão de Processos (Conceito)",
+        supportText: "",
+        q: "O sistema de técnicas interligadas que concentra esforços para mapear, melhorar e aderir aos procedimentos organizacionais é o de",
+        options: [
+            "desenvolvimento organizacional.",
+            "relacionamento com clientes e fornecedores.",
+            "gestão do desempenho.",
+            "gestão de contratos.",
+            "gestão de processos."
+        ],
+        answer: 4,
+        disclaimer: "Mapear, melhorar e aderir a fluxos e procedimentos internos é a definição exata de Gestão de Processos (BPM - Business Process Management)."
+    },
+    {
+        topic: "Gestão de Processos (Indicadores)",
+        supportText: "",
+        q: "Com relação aos atributos dos indicadores, assinale a alternativa que apresenta a característica relacionada ao custo-benefício favorável.",
+        options: [
+            "Simplicidade de comunicação",
+            "Disponibilidade",
+            "Representatividade",
+            "Economicidade",
+            "Tempestividade"
+        ],
+        answer: 3,
+        disclaimer: "Economicidade refere-se à relação custo-benefício de um indicador. O esforço e o custo para coletar e medir os dados do indicador não podem ser superiores ao benefício que a informação trará para a gestão."
+    },
+    {
+        topic: "Gestão de Processos (Tipologia)",
+        supportText: "",
+        q: "Quais são os processos que estão relacionados com a transformação de insumos em produtos destinados a clientes internos ou externos?",
+        options: [
+            "Processos de apoio.",
+            "Processos financeiros.",
+            "Processos de aquisição.",
+            "Processos centrais.",
+            "Processos secundários."
+        ],
+        answer: 3,
+        disclaimer: "Os processos centrais (também chamados de primários ou finalísticos) são aqueles que agregam valor diretamente, transformando insumos no produto ou serviço final que será entregue ao cliente."
+    },
+    {
+        topic: "Gestão de Processos (Cadeia de Valor)",
+        supportText: "",
+        q: "Na gestão de processos de uma empresa, diz respeito à cadeia de valor:",
+        options: [
+            "as atividades primárias e atividades de apoio.",
+            "as forças, fraquezas, oportunidade e ameaças.",
+            "a análise de portfólio de produtos e/ou serviços.",
+            "a tendência, urgência e gravidade das demandas.",
+            "o financeiro, cliente, processos internos e aprendizado e crescimento."
+        ],
+        answer: 0,
+        disclaimer: "A Cadeia de Valor de Michael Porter mapeia o funcionamento da empresa dividindo os processos em 'Atividades Primárias' (logística, operações, marketing) e 'Atividades de Apoio/Suporte' (RH, infraestrutura, tecnologia)."
+    },
+    {
+        topic: "Gestão de Projetos e Processos (CPM)",
+        supportText: "",
+        q: "Na aplicação da metodologia denominada Critical Path Method (CPM), a identificação do denominado caminho crítico corresponde:",
+        options: [
+            "à definição do conjunto de atividades que não podem ser concluídas com atraso, sob pena de impactar o tempo estimado para a execução do projeto.",
+            "às variáveis internas e externas que podem configurar ameaças ou desafios para a consecução dos objetivos estratégicos da organização.",
+            "à construção de uma matriz de riscos corporativos, envolvendo avaliação de probabilidade de ocorrência e criticidade dos eventos.",
+            "aos obstáculos a serem superados para o crescimento da organização e atingimento das metas estabelecidas.",
+            "ao mapeamento das falhas dos processos da organização, visando a identificação do correspondente grau de maturidade."
+        ],
+        answer: 0,
+        disclaimer: "O Caminho Crítico (CPM) é a sequência mais longa de atividades de um projeto que determina a sua duração total. Como as atividades do caminho crítico têm 'folga zero', qualquer atraso nelas atrasará a entrega final do projeto."
+    },
+    {
+        topic: "Gestão de Processos (Classificação)",
+        supportText: "Segundo Chiavenato (2012), processo corresponde à sequência lógica de tarefas, estruturada de atividades iniciadas com uma entrada de recursos, tendo como meio o processamento destes e, como fim, as saídas do processo ou produto. Considerando a gestão de processos, analise as afirmativas a seguir.\nI. A gestão de processos, ao considerar uma visão sistêmica, permite a observação de que cada processo é essencial para toda a organização e, uma vez integrado, é possível a obtenção de melhores resultados.\nII. Os processos primários são aqueles essenciais ou finalísticos, fundamentais para que a organização cumpra a sua missão.\nIII. Os processos de suporte são aqueles de apoio; entregam valor a outros processos e estão diretamente relacionados ao cliente externo.\nIV. Os processos de gestão são aqueles de gerenciamento, tendo como objetivo dar direcionamento ao negócio, controlar a operação, garantir que as políticas e normas da organização estejam sendo cumpridas.",
+        q: "Está correto o que se afirma em:",
+        options: [
+            "I, II, III e IV.",
+            "IV, apenas.",
+            "II e III, apenas.",
+            "I, II e IV, apenas.",
+            "I e IV, apenas."
+        ],
+        answer: 3,
+        disclaimer: "A afirmativa III está incorreta. Os processos de suporte/apoio (ex: RH, TI) entregam valor a processos INTERNOS da própria empresa, e NÃO diretamente ao cliente externo."
+    },
+    {
+        topic: "Gestão de Processos (Benefícios)",
+        supportText: "Um empresário tinha todo o seu tempo tomado pela administração dos negócios de sua indústria. Seus filhos foram envolvidos desde cedo nos negócios da família que progredia a cada ano, requerendo maior envolvimento e dedicação por parte dos gestores. Para o dono da empresa, a eficiência era o grande foco. Seus filhos adquiriram grandes conhecimentos de gestão e observaram que a empresa necessitava de mudanças em seus processos de gestão para se tornar competitiva em um mercado tão acirrado. Para tanto, relacionaram alguns problemas que deveriam ser eliminados.",
+        q: "Considerando o caso hipotético, NÃO apresenta um problema relacionado (ou seja, é uma característica positiva):",
+        options: [
+            "As decisões se baseavam na intuição e no palpite.",
+            "Não havia integração entre os departamentos da empresa.",
+            "Havia incentivos para melhorar o desempenho dos trabalhadores.",
+            "Muitos trabalhadores não cumpriam suas responsabilidades.",
+            "A cadeia produtiva funcionava de forma isolada."
+        ],
+        answer: 2,
+        disclaimer: "Haver 'incentivos para melhorar o desempenho' é uma prática gerencial positiva e desejável, não sendo um 'problema que deveria ser eliminado' na reestruturação dos processos."
+    },
+    {
+        topic: "Gestão de Processos (Indicadores)",
+        supportText: "",
+        q: "Sobre os indicadores de desempenho, assinale a alternativa INCORRETA.",
+        options: [
+            "São medidas que representam ou quantificam um insumo, um resultado, uma característica ou o desempenho de um processo, de um serviço, de um produto ou da organização como um todo.",
+            "São dados ou informações, preferencialmente numéricos, que representam um determinado fenômeno e que são utilizados para medir o desempenho em uma perspectiva organizacional. É o que vai indicar que as coisas estão indo bem ou mal em relação ao empreendimento.",
+            "São abstrações ou parâmetros representativos, concisos, fáceis de interpretar e de serem obtidos, usados para ilustrar as características principais de determinado objeto de análise.",
+            "São ajustes, particularmente, aplicados no processo de mensuração do desempenho de processos, serviços ou, até mesmo, de uma organização como um todo, sendo fundamentais no processo decisório desta, na medida em que podem repercutir nas demonstrações contábeis.",
+            "São instrumentos de gestão essenciais nas atividades de monitoramento e avaliação das organizações, assim como de seus projetos, programas e políticas, pois permitem acompanhar o alcance das metas, identificar avanços, melhorias de qualidade, correção de problemas, necessidades de mudança etc."
+        ],
+        answer: 3,
+        disclaimer: "Indicadores de desempenho de processos não são 'ajustes de mensuração que repercutem nas demonstrações contábeis'. A afirmativa mistura gestão de processos com contabilidade financeira (balanços e ajustes contábeis)."
+    },
+    {
+        topic: "Gestão de Processos vs. Procedimentos",
+        supportText: "Processo significa controle. Um processo precisa das entradas adequadas para produzir as saídas adequadas aos objetivos pré-determinados. Para se atingir os objetivos, os recursos tem que ser usados na medida e na sequência correta, ou seja, um processo controla o que, quanto, quando, e como fazer para se obter a saída desejada, ou o objetivo a ser atingido.\nProcedimentos são apenas instruções para alguém seguir e realizar um trabalho, são usados quando se precisa realizar um trabalho complexo ou que necessita de consistência, ou seja, ser feito sempre do mesmo jeito.\nEm relação aos processos e procedimentos, avalie as afirmações a seguir:\nI. Todo processo tem um objetivo, com medidas qualitativas e quantitativas de suas saídas, diretamente relacionadas com seus objetivos.\nII. Processos passam por várias áreas ou departamentos da organização.\nIII. Procedimentos são descontínuos e discretos, tem fases que podem se iniciar e parar conforme conveniência para a instituição.\nIV. Processo é sinônimo de procedimento.",
+        q: "É CORRETO o que se afirma em:",
+        options: [
+            "somente nas afirmativa I e IV.",
+            "somente nas afirmativas I, II e III.",
+            "somente nas afirmativas II, III e IV.",
+            "somente nas afirmativas I, III e IV.",
+            "somente nas afirmativas II e III."
+        ],
+        answer: 1,
+        disclaimer: "A afirmativa IV está errada: Processo NÃO é sinônimo de procedimento. O Processo é o fluxo de agregação de valor; o Procedimento é o manual ou passo-a-passo prescritivo de como realizar uma etapa específica (POP)."
+    },
+    {
+        topic: "Gestão de Processos (Mapeamento)",
+        supportText: "O estudo dos métodos de trabalho requer o domínio das técnicas de levantamento e análise dos dados. A técnica de levantamento da situação atual é importante na elaboração de um projeto para que se possa sugerir métodos desejáveis com a racionalização das rotinas de trabalho, de um novo arranjo físico, ou mesmo de uma redistribuição da carga de trabalho.",
+        q: "São consideradas técnicas de levantamento, EXCETO:",
+        options: [
+            "Questionário.",
+            "Entrevista.",
+            "Observação pessoal.",
+            "Fluxogramas.",
+            "Amostragem."
+        ],
+        answer: 3,
+        disclaimer: "O Fluxograma não é uma técnica primária de 'levantamento' (coleta) de dados, mas sim uma ferramenta gráfica de representação, análise e modelagem dos dados que JÁ FORAM levantados via observação, entrevista ou questionário."
+    },
+    {
+        topic: "Gestão de Processos (Tipologia)",
+        supportText: "",
+        q: "Constitui um tipo de processo nas organizações o:",
+        options: [
+            "primário ou principal, de que resulta geração direta de valor para os clientes finais.",
+            "secundário ou organizacional, ligado a diretrizes, estratégias e coordenação dos demais processos.",
+            "gerencial, de que resulta geração direta de valor para os clientes finais.",
+            "gerencial, que propicia apoio e condições para o processo principal.",
+            "primário ou principal, ligado a diretrizes, estratégias e coordenação dos demais processos."
+        ],
+        answer: 0,
+        disclaimer: "Processos primários (ou finalísticos) são aqueles que tocam o cliente e geram o produto ou serviço fim da empresa. Processos gerenciais ditam regras/estratégia, e processos de suporte dão apoio interno."
+    },
+    {
+        topic: "Visão por Processos",
+        supportText: "A visão por processos aborda a organização de forma mais ampla, com as diferentes áreas se interrelacionando. Assim, os diversos processos interagem entre si e a gestão monitora isso como um todo, garantindo a satisfação do cliente final.",
+        q: "Pode-se afirmar que NÃO é uma vantagem da Visão por Processos:",
+        options: [
+            "Melhor uso das competências dos profissionais.",
+            "Redução de custos e desperdícios através da inserção de um processo mais enxuto.",
+            "Facilidade na Identificação de gargalos, possibilitando a oferta de novos produtos e serviços aos clientes.",
+            "Boa interação entre as pessoas inseridas estritamente no mesmo setor.",
+            "Mais agilidade nas atividades."
+        ],
+        answer: 3,
+        disclaimer: "A visão por processos é transversal (horizontal), rompendo 'silos' departamentais. Focar na boa interação apenas 'dentro do mesmo setor' é uma característica da visão verticalizada/funcional, e não da visão por processos."
+    },
+    {
+        topic: "Gestão de Processos (Estrutura)",
+        supportText: "",
+        q: "Caso um gestor queira aplicar a gestão de processos em sua organização, deve:",
+        options: [
+            "controlar atividades realizadas por meio de rígida supervisão hierárquica.",
+            "desenvolver metas e objetivos exclusivos de cada uma das áreas isoladamente.",
+            "fundamentar a estrutura organizacional em equipes horizontais focadas no fluxo de valor.",
+            "priorizar programas de capacitação estritamente relacionados à função (cargo) desempenhada.",
+            "organizar as tarefas em procedimentos rotineiros, burocráticos e lineares."
+        ],
+        answer: 2,
+        disclaimer: "A gestão de processos exige estruturas mais planas e orientadas ao fluxo de valor ponta-a-ponta (horizontalidade), rompendo com a tradicional departamentalização hierárquica e rígida."
+    },
+    {
+        topic: "Gestão por Processos (Características)",
+        supportText: "",
+        q: "Entre as características centrais da gestão por processos, inclui-se:",
+        options: [
+            "o foco no cliente externo.",
+            "a centralização administrativa profunda.",
+            "a estrutura eminentemente funcional.",
+            "a organização por tarefas isoladas.",
+            "a hierarquia vertical e rígida."
+        ],
+        answer: 0,
+        disclaimer: "Todo o objetivo do Business Process Management (BPM) é alinhar os fluxos de trabalho para garantir a máxima entrega de valor e qualidade para o cliente final (foco no cliente)."
+    },
+    {
+        topic: "Gestão de Processos (Métricas)",
+        supportText: "",
+        q: "No âmbito da gestão de processos, a quantidade de transações de negócios, tarefas ou entregas realizadas com sucesso em um dado período de tempo refere-se a:",
+        options: [
+            "atividade crítica.",
+            "macroprocesso.",
+            "regra de negócios.",
+            "mapeamento de processo.",
+            "throughput (taxa de transferência)."
+        ],
+        answer: 4,
+        disclaimer: "Throughput (vazão ou taxa de transferência) é uma métrica de capacidade e velocidade que indica o volume de itens de trabalho (saídas) que passam pelo processo e são concluídos em determinado tempo."
+    },
+    {
+        topic: "Ciclo de Gestão de Processos (BPM)",
+        supportText: "",
+        q: "Qual etapa integra o ciclo básico da gestão de processos (BPM)?",
+        options: [
+            "Modelagem e otimização de processos.",
+            "Elaboração do documento conceitual de marketing.",
+            "Aprovação do termo de abertura do projeto (TAP).",
+            "Identificação dos benchmarks de engenharia civil.",
+            "Execução e liquidação financeira orçamentária."
+        ],
+        answer: 0,
+        disclaimer: "O ciclo de vida de BPM envolve o desenho/modelagem do processo atual (AS-IS), a análise, o redesenho/otimização (TO-BE), a implementação e o monitoramento."
+    },
+    {
+        topic: "Melhoria Contínua",
+        supportText: "Existe uma técnica de gestão de processos que visa identificar falhas na execução das atividades e, em seguida, identificar a melhor maneira de eliminar essas falhas de modo incremental, tornando a organização cada vez mais eficaz.",
+        q: "Assinale a alternativa CORRETA, que nomina esta técnica fundamental ligada ao ciclo PDCA.",
+        options: [
+            "Procedimento Operacional Padrão (POP).",
+            "Melhoria contínua (Kaizen).",
+            "Gestão do conhecimento.",
+            "Inovação disruptiva na gestão de pessoas.",
+            "Reengenharia de processos."
+        ],
+        answer: 1,
+        disclaimer: "A identificação e eliminação de falhas de forma progressiva e incremental é o pilar da 'Melhoria Contínua' (Kaizen). A Reengenharia seria uma mudança drástica e de ruptura, não incremental."
+    },
+    {
+        topic: "Organização e Métodos (O&M)",
+        supportText: "Com relação aos projetos ou planos de organização do trabalho e melhorias informacionais e dos processos da instituição, analise as afirmativas a seguir e assinale com V as verdadeiras e com F as falsas.\n( ) Deve-se buscar reduzir ou eliminar as inconsistências nas informações e identificar as causas de resultados díspares dos esperados.\n( ) Deve-se dispor das ferramentas necessárias para coletar informações e conhecimento sobre os processos existentes na instituições, como formulários e caderno de anotações.\n( ) Ao analisar um processo, o responsável por ele, ou o analista de processos, deve pedir que as questões sejam discutidas em reuniões para a “leitura do processo”.\n( ) Ao realizar um plano estratégico, deve-se focar na solução de problemas atuais planejando ações cabíveis a curto prazo.",
+        q: "Assinale a sequência correta.",
+        options: [
+            "V F V F",
+            "F V F V",
+            "F F F V",
+            "V V V F",
+            "V F F V"
+        ],
+        answer: 3,
+        disclaimer: "A última afirmação é falsa: O Plano Estratégico tem foco direcional no LONGO PRAZO e em grandes objetivos (olhar para o futuro), e não restrito à 'solução de problemas atuais a curto prazo', que seria objeto do nível operacional."
+    },
+    {
+        topic: "Mapeamento de Processos (Fluxograma ASME)",
+        supportText: "O mapeamento de processo envolve descrever os processos em termos de como as atividades relacionam-se entre si. Há muitas técnicas que podem ser usadas para mapeamento do processo, todas identificando os diferentes tipos de atividades que ocorrem durante o processo e mostrando o fluxo de materiais, pessoas ou informações que o percorrem. Os símbolos do mapeamento do processo são usados para classificar os diferentes tipos de atividade.",
+        q: "Na simbologia clássica de processos (ASME), o símbolo de um quadrado e o símbolo de um círculo comumente representam, respectivamente:",
+        options: [
+            "atraso e transporte.",
+            "estoque e inspeção.",
+            "inspeção e operação.",
+            "operação e atraso.",
+            "transporte e estoque."
+        ],
+        answer: 2,
+        disclaimer: "No padrão clássico ASME de fluxogramas: o Círculo indica 'Operação' (atividade principal); o Quadrado indica 'Inspeção' (checagem de qualidade/quantidade); a Seta indica 'Transporte'; a letra D indica 'Espera/Atraso'; e o Triângulo Invertido indica 'Armazenagem/Estoque'."
+    },
+    {
+        topic: "Gestão de Projetos (Conceito)",
+        supportText: "Na perspectiva da gestão de projetos, informe se é verdadeiro (V) ou falso (F) o que se afirma ser um projeto.\n( ) Temporário, tem pontos de início e fim definidos.\n( ) Um produto, serviço ou resultado regular e contínuo.\n( ) Formado por equipes dinâmicas e temporárias constituídas para atender às necessidades do projeto.\n( ) Planejado, executado e controlado.",
+        q: "De acordo com as afirmações, a sequência correta de cima para baixo é:",
+        options: [
+            "(F); (V); (V); (F).",
+            "(V); (F); (F); (F).",
+            "(V); (F); (V); (V).",
+            "(F); (V); (F); (V).",
+            "(V); (V); (F); (F)."
+        ],
+        answer: 2,
+        disclaimer: "Projeto é um esforço TEMPORÁRIO (início e fim definidos) para criar um produto, serviço ou resultado EXCLUSIVO. Portanto, a afirmativa de que é algo 'regular e contínuo' (que caracteriza a Rotina/Processo) é Falsa."
+    },
+    {
+        topic: "Gestão de Projetos (Características)",
+        supportText: "Sobre gestão de projetos, marque V para as afirmativas verdadeiras e F para as falsas.\n( ) No que se refere ao fator temporalidade, os projetos são temporários e os seus resultados também o são.\n( ) É um erro comum supor que, devido ao fato de ser temporário, um projeto será sempre de curta duração.\n( ) À medida que as fases do projeto vão sendo desenvolvidas ocorre aumento cumulativo de recursos e de tempo despendidos, ao mesmo tempo em que o prazo e os recursos disponíveis diminuem gradativamente.",
+        q: "A sequência correta é:",
+        options: [
+            "F, V, V.",
+            "F, F, F.",
+            "V, F, F.",
+            "V, V, V.",
+            "V, V, F."
+        ],
+        answer: 0,
+        disclaimer: "A primeira afirmativa é Falsa. O projeto é temporário (tem início e fim), mas seus RESULTADOS/ENTREGAS frequentemente são duradouros e permanentes (ex: construir uma ponte demora 2 anos, mas a ponte fica lá por 50 anos)."
+    },
+    {
+        topic: "Diferença entre Projetos e Processos",
+        supportText: "No estudo a respeito da gestão de projetos, é importante conhecer as diferenças entre projetos e processos.",
+        q: "Nesse contexto, é correto considerar como atividade associada puramente a 'projetos':\nI. a construção de um novo aeroporto.\nII. o levantamento de requisitos para um website.\nIII. a operação de uma usina nuclear.\nIV. a construção de um submarino.\nV. o fornecimento de energia elétrica por meio de produção fotovoltaica.",
+        options: [
+            "II e V, apenas.",
+            "III e IV, apenas.",
+            "I, II e IV, apenas.",
+            "I, II, III e V, apenas.",
+            "I, III, IV e V, apenas."
+        ],
+        answer: 2,
+        disclaimer: "Projetos têm início e fim para entregar algo único (I, II e IV). A operação de usina nuclear (III) e o fornecimento de energia elétrica contínua (V) são operações e rotinas diárias, caracterizando PROCESSOS."
+    },
+    {
+        topic: "Projetos vs. Processos",
+        supportText: "As organizações realizam diversos trabalhos para atingir seus objetivos, onde eles podem ser categorizados como projetos ou processos e existem diferenças e similaridades entre essas categorias.",
+        q: "Com relação às DIFERENÇAS entre essas categorias, podemos afirmar de forma exclusiva sobre os projetos:\nI. Produzem produtos, serviços ou resultados repetitivos.\nII. São eventos temporários.\nIII. São realizados para atingir objetivos organizacionais com instrumentos estratégicos.\nIV. Produzem produtos, serviços ou resultados únicos.\nV. São Limitados aos recursos disponíveis.",
+        options: [
+            "I e II, apenas.",
+            "I, II e III, apenas.",
+            "II e IV, apenas.",
+            "III e IV, apenas.",
+            "III, IV e V, apenas."
+        ],
+        answer: 2,
+        disclaimer: "As grandes diferenças conceituais: Processos são repetitivos e contínuos; Projetos são Temporários (II) e geram Entregas Únicas e Exclusivas (IV). Os itens III e V são 'similaridades', pois ambos usam recursos e atingem metas da organização."
+    },
+    {
+        topic: "Gestão de Projetos (Problemas de Formulação)",
+        supportText: "A elaboração de projetos culturais é uma atividade especializada que exige tanto conhecimento técnico na produção de textos, cronogramas e orçamentos, quanto conhecimento do cenário artístico e cultural.",
+        q: "Porém, de acordo com Thiry-Cherques (2008), muitos projetos são estruturalmente deficientes na origem porque há:",
+        options: [
+            "priorização da formulação do projeto, isto é, a forma final do documento de apresentação, sem que a ideia esteja clara e trabalhada previamente.",
+            "dificuldade histórica de comunicação entre as disciplinas de arte e cultura e as disciplinas da administração, o que torna deficiente a formação dos produtores e gestores culturais.",
+            "baixa especialização dos formuladores de projetos culturais, cujo acesso a métodos de planejamento e gestão de projetos é dificultado pela cultura do favor que domina o setor cultural no país.",
+            "incapacidade dos produtores culturais em estabelecer o objetivo do projeto, recorrendo, quase sempre, a objetivos amplos e vagos que pouco falam da proposta em si e não conseguem esclarecer o conteúdo dos produtos.",
+            "falta de alinhamento com a legislação de fomento e extrema dificuldade burocrática na captação de recursos privados com incentivo."
+        ],
+        answer: 0,
+        disclaimer: "O erro mais comum ao iniciar um projeto é focar na 'embalagem' (criar correndo o documento ou a planilha para entregar para o patrocinador) antes mesmo de maturar, planejar e validar a 'essência' da ideia e os requisitos básicos de viabilidade."
+    },
+    {
+        topic: "Gestão de Projetos Culturais",
+        supportText: "",
+        q: "As etapas de elaboração de projetos culturais são:",
+        options: [
+            "Diagnóstico, Prognóstico, Acompanhamento.",
+            "Apresentação, Justificativa, Objetivos, Público-Alvo, Atividades e metodologia, Recursos, Custos e Cronograma.",
+            "Levantamento, Pesquisas, Observações e Sondagens.",
+            "Idealização, Pré-projeto, Plano de Trabalho, Marco lógico.",
+            "Acompanhamento, Monitoramento e Avaliação."
+        ],
+        answer: 1,
+        disclaimer: "A estruturação formal de um projeto (seja cultural ou administrativo) para captação de recursos e aprovação exige a definição clara da Apresentação, Justificativa (o porquê), Objetivos (o quê), Público-Alvo, Metodologia (como), Custos e Cronograma (quando/quanto)."
+    },
+    {
+        topic: "Ciclo de Vida do Projeto",
+        supportText: "Um projeto pressupõe a execução de etapas que correspondem à sua pré-produção, produção e pós-produção.",
+        q: "Qual item abaixo será realizado na etapa de pós-produção (encerramento) do projeto?",
+        options: [
+            "Público-alvo.",
+            "Parceiros.",
+            "Relatório técnico.",
+            "Orçamento.",
+            "Cronograma."
+        ],
+        answer: 2,
+        disclaimer: "Na pós-produção (fase de Encerramento do PMBOK), as atividades se concentram em finalizar as pendências, documentar as lições aprendidas, prestar contas e entregar o 'Relatório técnico' final do projeto."
+    },
+    {
+        topic: "PMBOK (Áreas de Conhecimento)",
+        supportText: "",
+        q: "Segundo o Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK), na sua quinta edição, de qual Área do Conhecimento fazem parte os processos “Definir Atividades” e “Sequenciar as Atividades”?",
+        options: [
+            "Recursos Humanos.",
+            "Escopo.",
+            "Riscos.",
+            "Tempo (Cronograma).",
+            "Custos."
+        ],
+        answer: 3,
+        disclaimer: "Definir as atividades, sequenciá-las e estimar suas durações são processos pertencentes à Área de Conhecimento do Gerenciamento do Tempo do Projeto (nas edições mais recentes chamada de Gerenciamento do Cronograma)."
+    },
+    {
+        topic: "Conceito de Gerenciamento de Projetos",
+        supportText: "",
+        q: "________________ é a aplicação de conhecimentos, habilidades, ferramentas e técnicas às atividades de um projeto, a fim de atender aos requisitos do referido projeto.\nAssinale a alternativa que preenche corretamente a lacuna acima.",
+        options: [
+            "Gerenciamento de Projeto",
+            "Gestão Estratégica",
+            "Gerenciamento de Mudanças",
+            "Gestão de Processos de Negócio",
+            "Gestão de Riscos"
+        ],
+        answer: 0,
+        disclaimer: "Esta é a definição oficial e literal de Gerenciamento de Projetos consagrada no Guia PMBOK do PMI."
+    },
+    {
+        topic: "PMBOK (Processo Criar a EAP)",
+        supportText: "",
+        q: "Considerando o processo de criar a estrutura analítica de um projeto (EAP/WBS), as atualizações nos documentos do projeto são consideradas:",
+        options: [
+            "Ferramenta",
+            "Entrada",
+            "Saída",
+            "Escopo",
+            "Técnica"
+        ],
+        answer: 2,
+        disclaimer: "Na estrutura do PMBOK (Entradas, Ferramentas/Técnicas e Saídas), as 'atualizações nos documentos do projeto' são sistematicamente consideradas SAÍDAS (Outputs) dos processos, geradas após o trabalho realizado."
+    },
+    {
+        topic: "Papéis na Gestão de Projetos",
+        supportText: "Nos últimos anos, mudanças significativas nos padrões de vida, comportamentos e expectativas têm produzido um pronunciado efeito no comportamento das pessoas nas organizações.\nSobre a gestão de projetos, analise as afirmativas a seguir:\nI. O patrocinador do projeto é responsável pela ligação entre estruturas internas e externas do projeto.\nII. O gerente do projeto é um membro da alta gerência da organização que tem interesse real e autoriza formalmente o projeto.\nIII. Muitas estruturas externas são formadas por circunstâncias que escapam ao controle do gerente do projeto.",
+        q: "Está correto o que se afirma em",
+        options: [
+            "I, II e III.",
+            "I e II, apenas.",
+            "I e III, apenas.",
+            "II, apenas.",
+            "III, apenas."
+        ],
+        answer: 4,
+        disclaimer: "Apenas a III está correta (o ambiente externo e regulatório escapa ao controle do gerente). A I e II estão incorretas porque os conceitos foram invertidos: o Patrocinador (Sponsor) é quem provê recursos e autoriza o projeto (TAP), enquanto o Gerente é quem cuida da ligação, operação e controle da equipe."
+    },
+    {
+        topic: "PMBOK 7ª Edição",
+        supportText: "O Guia PMBOK é um Conjunto de Conhecimentos em Gerenciamento de Projetos e é um recurso fundamental para um gerenciamento de projetos eficaz em qualquer setor. Em 2021, foi lançada a sua sétima edição com várias novidades, entre elas, as ações voltadas ao Agile.",
+        q: "Assinale a alternativa que apresenta uma destas novidades exclusivas da 7ª edição.",
+        options: [
+            "O conceito de Tailoring (Adaptação), em que a adaptação da abordagem de entrega é feita com base no contexto.",
+            "Qualidade dos Projetos, em que a importância da qualidade é fortemente abordada.",
+            "A Gestão de Riscos conta com os processos de planejamento, identificação, análise, planejamento de respostas e monitoramento.",
+            "A TAP - Termo de Abertura do Projeto é apresentada.",
+            "O cronograma vem como um artefato do Gerenciamento do Tempo do Projeto."
+        ],
+        answer: 0,
+        disclaimer: "O 'Tailoring' (Adaptação) ganhou destaque e centralidade no PMBOK 7, que mudou a lógica de processos prescritivos para princípios flexíveis. Reconhece-se que nenhum framework serve para tudo, devendo o gerente adaptar as práticas ao contexto (híbrido, ágil ou preditivo). As demais opções já existiam historicamente nas edições antigas."
+    },
+    {
+        topic: "Competências do Gerente de Projetos",
+        supportText: "Na gerência de projetos, você necessita possuir algumas qualificações para o desempenho eficaz de seu papel. Essas qualificações ou competências gerenciais são agrupadas nas categorias conhecimentos, habilidades e atitudes.",
+        q: "Assinale a alternativa que apresenta alguns dos CONHECIMENTOS mais importantes para o gerente de projetos.",
+        options: [
+            "Capacidade de comunicação, confiabilidade da equipe, relacionamento com clientes e negociação organizacional.",
+            "Delegação de autoridade, confiabilidade da alta administração, resolução de problemas e resolução de conflitos.",
+            "Competência técnica, ferramentas de administração de projetos, ciclo de vida e sistemas organizacionais.",
+            "Motivação pessoal, atividades burocráticas, coordenação de reuniões, desempenho, ambiguidade e tensão.",
+            "Capacidade de planejar, preparação de orçamentos, organização de equipes e execução de atividades."
+        ],
+        answer: 2,
+        disclaimer: "Conhecimento refere-se à bagagem teórica e saberes técnicos (Hard Skills). A alternativa C é a única que elenca estritamente 'conhecimentos' e saberes aplicados: conhecer ferramentas, ciclos de vida e sistemas. (As demais listam habilidades/capacidades e atitudes)."
+    },
+    {
+        topic: "Grupos de Processos",
+        supportText: "",
+        q: "O grupo de processos de gestão de projetos em que as metas do projeto são aperfeiçoadas e é documentada a melhor maneira de alcançá-las denomina-se",
+        options: [
+            "Iniciação.",
+            "Execução.",
+            "Monitoramento e Controle.",
+            "Planejamento.",
+            "Encerramento."
+        ],
+        answer: 3,
+        disclaimer: "A fase de Planejamento é responsável por detalhar o escopo e definir o curso de ação necessário para alcançar as metas estabelecidas na iniciação."
+    },
+    {
+        topic: "Tipos de Entregáveis (Deliverables)",
+        supportText: "Todo projeto tem por objetivo o fornecimento de um produto singular chamado entrega, entregável ou deliverable. Os deliverables classificam-se em quatro categorias principais (MAXIMIANO, 2022):\n1. Produtos Físicos;\n2. Conceitos, conhecimentos e informações;\n3. Eventos e serviços;\n4. Instituições e organizações.",
+        q: "Essas categorias são conceituadas com os seguintes termos:\n( ) projetos de criação, desenvolvimento ou mudança de entidades organizacionais.\n( ) ideias, entidades intangíveis.\n( ) entidades tangíveis.\n( ) sequências e atividades que configuram o fornecimento de um serviço ou evento.\nRelacionando as categorias com as definições, encontra-se a seguinte ordem numérica:",
+        options: [
+            "1, 2, 3, 4.",
+            "2, 3, 4, 1.",
+            "3, 4, 1, 2.",
+            "4, 2, 1, 3.",
+            "1, 2, 4, 3."
+        ],
+        answer: 3,
+        disclaimer: "Associação: Mudança de entidades = (4) Instituições/organizações. Ideias/intangíveis = (2) Conceitos e informações. Entidades tangíveis = (1) Produtos físicos. Sequências/atividades = (3) Eventos e serviços."
+    },
+    {
+        topic: "Princípios do PMBOK 7",
+        supportText: "O Project Management Body of Knowledge (PMBOK©) aponta princípios básicos que devem ser seguidos em um projeto.",
+        q: "Assinale a alternativa que apresenta três destes princípios básicos que fundamentam a atual edição do guia.",
+        options: [
+            "Colaboração, capacitação e planejamento",
+            "Planejamento, colaboração e avaliação",
+            "Capacitação, liderança e dedicação",
+            "Planejamento, adaptabilidade e avaliação",
+            "Colaboração, liderança e adaptabilidade"
+        ],
+        answer: 4,
+        disclaimer: "O PMBOK 7 substituiu as áreas de conhecimento por 12 Princípios. Entre eles estão: demonstrar comportamento de liderança (Liderança); adotar adaptabilidade e resiliência (Adaptabilidade); e criar um ambiente colaborativo (Colaboração)."
+    },
+    {
+        topic: "Conceito de Projeto vs. Operação",
+        supportText: "Maximiano e Veroneze (2022) definem projeto como “empreendimento temporário que fornece um produto e produz mudança e benefícios”.",
+        q: "Conforme a definição destes autores, NÃO pode ser considerado como projeto:",
+        options: [
+            "Operação do aeroporto e da estação de metrô.",
+            "Planejamento, organização e execução de uma competição esportiva, de qualquer tamanho.",
+            "Produção de um filme, desde a escolha do roteiro até a distribuição.",
+            "Realização das eleições para Presidente da República.",
+            "Reforma estrutural de uma edificação."
+        ],
+        answer: 0,
+        disclaimer: "A 'operação de um aeroporto' constitui uma rotina contínua, repetitiva e sem fim predeterminado, caracterizando-se como Processo/Operação, e não como Projeto (que é temporário)."
+    },
+    {
+        topic: "Abordagens de Projetos (Preditiva vs. Ágil)",
+        supportText: "Existem diferentes modelos de gestão de projetos. A definição do modelo mais adequado depende das características do projeto a ser realizado.",
+        q: "Assinale a alternativa CORRETA:",
+        options: [
+            "Utilizar um modelo ágil significa realizar cada atividade do projeto de maneira mais rápida do que no modelo preditivo e, por isso, é um modelo mais produtivo.",
+            "Uma facilidade para implantar um modelo ágil na contratação de projetos governamentais é que tudo o que será feito no projeto fica claro desde o início, com poucas mudanças.",
+            "O modelo preditivo é adequado para projetos com um baixo nível de possibilidade de realizar um planejamento inicial completo, no qual poderão ocorrer muitas mudanças.",
+            "No modelo preditivo de gestão de projetos, o chamado dono do produto (product owner) é quem define o escopo e aprova suas alterações junto à equipe.",
+            "O modelo preditivo é mais adequado do que um modelo ágil para projetos longos e com o escopo bem definido."
+        ],
+        answer: 4,
+        disclaimer: "O modelo Preditivo (Cascata) é ideal quando os requisitos e o escopo são totalmente conhecidos e fixos desde o início. Modelos ágeis servem para ambientes voláteis. 'Ágil' não significa 'rápido', mas sim 'adaptável' (A). O Product Owner é figura do Ágil (Scrum), não do Preditivo (D)."
+    },
+    {
+        topic: "Restrições de Projetos (Triângulo de Ferro)",
+        supportText: "",
+        q: "Em gestão de projetos há sempre restrições, formando o clássico triângulo de restrições ou restrição tripla. Sobre as demandas conflitantes que geram essas restrições, assinale a alternativa incorreta (a que não constitui um dos vértices primários do triângulo).",
+        options: [
+            "Tempo",
+            "Custo",
+            "Materiais",
+            "Escopo",
+            "Qualidade"
+        ],
+        answer: 2,
+        disclaimer: "O Triângulo de Ferro (Restrição Tripla) da gestão de projetos clássica é formado por: Escopo, Tempo e Custo (sendo a Qualidade o resultado ou centro). 'Materiais' compõem os custos/recursos, mas não são a nomenclatura da restrição macro."
+    },
+    {
+        topic: "Ambiente e Envolvimento em Projetos",
+        supportText: "A participação em projetos de organização dos serviços administrativos traz consigo situações novas para a organização e, consequentemente, afeta a vida das pessoas.",
+        q: "Nesse contexto, é incorreto afirmar:",
+        options: [
+            "O sucesso de um projeto está condicionado a sua capacidade de gerar vantagens para todos os interessados, independentemente de sua origem.",
+            "Os gestores são os principais responsáveis pela criação e pela manutenção de um ambiente de integração em torno de objetivos comuns e pela comunicação adequada.",
+            "Não se pode negar que a composição de gráficos, fluxogramas e esquemas de informações dos sistemas são ferramentas para a viabilização dos projetos.",
+            "Não é seguro o surgimento de um projeto com base na sugestão ou opinião das pessoas, mesmo quando estas estão envolvidas diretamente, sendo a aclaração das necessidades operacionais da empresa o único parâmetro.",
+            "Os gerentes de projeto atuam como facilitadores na solução dos problemas de integração da equipe."
+        ],
+        answer: 3,
+        disclaimer: "A alternativa D está errada pois subestima o valor dos stakeholders e usuários finais (as pessoas envolvidas diretamente). O surgimento de projetos baseados no feedback, sugestões e dores das pessoas da base (bottom-up) é extremamente seguro, válido e comum nas organizações inovadoras."
+    },
+    {
+        topic: "Gestão de Comunicações e Riscos",
+        supportText: "Analise as afirmativas a seguir:\nI. A equipe de gerenciamento do projeto pode ou não ter controle direto sobre a seleção dos membros da equipe devido a acordos de negociação coletiva, uso de pessoal subcontratado, ambiente de projeto em estrutura matricial ou relações hierárquicas internas.\nII. Entre os objetivos da gestão de riscos em uma organização pública pode-se incluir elevar as possibilidades de atrasos nos projetos e ampliar a variabilidade dos resultados dos processos.\nIII. O gerenciamento das comunicações do projeto inclui os processos necessários para assegurar que as informações do projeto sejam geradas, coletadas, distribuídas, armazenadas, danificadas, corrompidas e organizadas de maneira oportuna.",
+        q: "Marque a alternativa CORRETA:",
+        options: [
+            "Nenhuma afirmativa está correta.",
+            "Apenas uma afirmativa está correta.",
+            "Apenas duas afirmativas estão corretas.",
+            "Todas as afirmativas estão corretas.",
+            "As afirmativas II e III estão corretas."
+        ],
+        answer: 1,
+        disclaimer: "Apenas a I está correta (numa estrutura matricial, o gerente negocia recursos, não tem poder direto). A II é absurda (gestão de riscos visa REDUZIR atrasos, não elevá-los). A III é absurda (não existe processo para garantir que informações sejam 'danificadas e corrompidas')."
+    },
+    {
+        topic: "Gestão de Conflitos em Projetos",
+        supportText: "",
+        q: "Durante o processo de gestão de um projeto, podem ocorrer conflitos que:",
+        options: [
+            "servem como gatilhos incondicionais que motivam a revisão do escopo do plano de projeto inteiro.",
+            "não existem se a gestão do projeto for realizada com excelência.",
+            "devem ser esperados, mas não é o gerente de projetos que deve solucioná-los.",
+            "fazem parte da rotina das empresas com culturas de gestão de projetos.",
+            "têm mitigação absoluta e eliminação prevista durante a elaboração do plano do projeto."
+        ],
+        answer: 3,
+        disclaimer: "Na gestão moderna, o conflito é visto como inevitável e natural na interação humana (faz parte da rotina). O gerente de projetos deve possuir habilidades interpessoais para gerenciar os conflitos de forma construtiva (funcional)."
+    },
+    {
+        topic: "Caminho Crítico (CPM)",
+        supportText: "",
+        q: "Na aplicação da metodologia denominada Critical Path Method (CPM), a identificação do denominado caminho crítico corresponde:",
+        options: [
+            "aos obstáculos a serem superados para o crescimento da organização e atingimento das metas estabelecidas.",
+            "ao mapeamento das falhas dos processos da organização, visando a identificação do correspondente grau de maturidade.",
+            "à definição do conjunto de atividades que não podem ser concluídas com atraso, sob pena de impactar o tempo estimado para a execução total do projeto.",
+            "às variáveis internas e externas que podem configurar ameaças ou desafios para a consecução dos objetivos estratégicos.",
+            "à construção de uma matriz de riscos corporativos, envolvendo avaliação de probabilidade de ocorrência e criticidade dos eventos."
+        ],
+        answer: 2,
+        disclaimer: "O caminho crítico determina a duração mínima do projeto. Como suas atividades possuem folga zero, qualquer atraso nelas reflete num atraso idêntico no término do projeto."
+    },
+    {
+        topic: "Estimativa PERT",
+        supportText: "Considere que determinada organização pretenda implementar gestão por projetos baseada na metodologia Program Evaluation and Review Technique (PERT).",
+        q: "De acordo com conceitos predicados por referida metodologia, o tempo de execução e as estimativas das atividades dos projetos da organização serão calculados:",
+        options: [
+            "conforme a média aritmética simples do tempo de conclusão das atividades envolvidas em projetos passados.",
+            "a partir de uma média ponderada das estimativas de tempo das atividades (provável, pessimista e otimista).",
+            "pela ponderação das horas demandadas para cada atividade com o número de colaboradores alocados.",
+            "pela média de produtividade da equipe nos últimos doze meses, ponderada com o volume de trabalho.",
+            "de acordo exclusivamente com a simulação de Monte Carlo dos eventos de risco financeiro."
+        ],
+        answer: 1,
+        disclaimer: "A fórmula clássica do PERT para estimativa de duração usa três cenários numa média ponderada: (Otimista + 4x Mais Provável + Pessimista) / 6."
+    },
+    {
+        topic: "Áreas de Conhecimento do PMBOK",
+        supportText: "Em gestão de projetos, as áreas de conhecimento representam um conjunto de processos associados a temas específicos de gerenciamento.",
+        q: "Qual das opções a seguir é um exemplo de Área de Conhecimento estrutural do PMBOK (até a 6ª edição)?",
+        options: [
+            "A estrutura analítica do projeto (EAP).",
+            "O gerenciamento das aquisições do projeto.",
+            "O desenvolvimento do termo de abertura.",
+            "O escritório de gerenciamento de projetos (PMO).",
+            "A programação de entrega de pacotes de trabalho."
+        ],
+        answer: 1,
+        disclaimer: "O Gerenciamento das Aquisições é uma das 10 Áreas de Conhecimento (junto com Integração, Escopo, Tempo, Custos, Qualidade, Recursos, Comunicações, Riscos e Partes Interessadas). A EAP é uma ferramenta, e o Termo de Abertura é um processo."
+    },
+    {
+        topic: "Grupos de Processos (Planejamento)",
+        supportText: "Considerando que os projetos têm um ciclo de vida e são administrados por meio de grupos de processos.",
+        q: "Assinale a alternativa que compreende uma atividade ou resultado inerente à fase (grupo de processos) de planejamento.",
+        options: [
+            "Estabelecimento da estrutura analítica orgânica formal a ser utilizada para o projeto.",
+            "Avaliação inicial de alto nível da viabilidade de atingimento dos objetivos (Business Case).",
+            "Ativar a comunicação primária e alinhamento prático entre os membros da equipe em execução.",
+            "Elaboração da memória técnica e do relatório de lições aprendidas do projeto.",
+            "Emissão formal da ata de encerramento do projeto."
+        ],
+        answer: 0,
+        disclaimer: "A estruturação formal e o desdobramento do projeto (como criar a Estrutura Analítica do Projeto - EAP) ocorrem rigorosamente no Planejamento. Viabilidade ocorre antes da Iniciação (Business Case); lições aprendidas são do Encerramento; e conduzir a equipe é da Execução."
+    },
+    {
+        topic: "Projetos no Setor Público vs. Privado",
+        supportText: "A gestão de projetos na área pública e privada possui convergências, tais como gestão do tempo, escopo, riscos, custos, comunicação, entre outras. Entretanto, há diferenças significativas inerentes ao ambiente.",
+        q: "Assinale a alternativa que indica aspectos que limitam e são exclusivos da área pública na gestão de projetos.",
+        options: [
+            "Influência política; complexidade na mensuração dos resultados finalísticos (sociais) e gestão de pessoas simplificada sem estabilidade.",
+            "Agendas e prioridades conflitantes devido à política; problemas regulatórios amarrados por leis e aspectos financeiros sujeitos à rígida situação fiscal.",
+            "Orçamento sujeito à Lei de Responsabilidade Fiscal; gestão do tempo limitada pela agenda política e ausência total de capacidade técnica dos gestores.",
+            "Mais tecnicidade em função da burocracia estatal flexível; previsibilidade legal absoluta e segurança financeira garantida em função do orçamento público inesgotável.",
+            "Falta total de leis que limitam a execução dos projetos; comunicação excelente devido à modernização do Estado."
+        ],
+        answer: 1,
+        disclaimer: "O setor público é amplamente dominado por restrições legais (licitações, leis orçamentárias), agendas políticas (mudança de governo) e orçamento engessado, fatores que tornam o ambiente de projetos único e mais moroso que o privado."
+    },
+    {
+        topic: "Métodos Ágeis",
+        supportText: "",
+        q: "No contexto da engenharia de software e da gestão moderna de projetos, diversas abordagens buscam entregas incrementais. Qual das alternativas abaixo NÃO é considerada um método ou framework ágil?",
+        options: [
+            "Kanban.",
+            "Scrum.",
+            "Extreme programing (XP).",
+            "PMBOK®.",
+            "Lean."
+        ],
+        answer: 3,
+        disclaimer: "O PMBOK não é um método ágil, mas sim um guia de boas práticas tradicional (embora cite a agilidade, sua estrutura histórica é preditiva). Scrum, XP e Kanban são o núcleo do desenvolvimento ágil."
+    },
+    {
+        topic: "Grupos de Processos",
+        supportText: "Os projetos são compostos por processos que se constituem de uma série de ações que geram produtos e são realizados por pessoas.",
+        q: "Assinale a alternativa que apresenta a categoria (grupo) em que se enquadram os processos inerentes ao andamento organizacional do próprio projeto, que incluem sua descrição, organização e monitoramento.",
+        options: [
+            "Processos de iniciação e planejamento tecnológico.",
+            "Processos de gerenciamento de projetos.",
+            "Processos de monitoramento e controle de aquisições.",
+            "Processos de orientação técnica aos produtos e serviços.",
+            "Processos de execução e encerramento comercial."
+        ],
+        answer: 1,
+        disclaimer: "Os processos que não tocam o produto em si (ex: programação, montagem), mas servem para administrar o andamento, o cronograma e os recursos, são chamados coletivamente de 'Processos de Gerenciamento de Projetos' (em oposição aos processos orientados ao produto)."
+    },
+    {
+        topic: "Fases do Projeto",
+        supportText: "O ciclo de vida do projeto pode ser dividido em fases lógicas para facilitar o gerenciamento e o controle.",
+        q: "No que se refere ao gerenciamento macro de um projeto e suas respectivas fases temporais genéricas, assinale a alternativa correta.",
+        options: [
+            "As fases de um projeto são as seguintes: a de Concepção (ou Iniciação), a de Planejamento, a de Execução e a de Fechamento.",
+            "As fases de um projeto são as seguintes: a de Concepção, a de Planejamento, a de Execução e a de Avaliação contínua.",
+            "As fases de um projeto são as seguintes: a de Concepção, a de Planejamento, a de Análise e a de Implantação sem controle.",
+            "As fases de um projeto são as seguintes: a de Problema, a de Planejamento, a de Execução e a de Avaliação de riscos.",
+            "As fases de um projeto são as seguintes: a de Oportunidade, a de Planejamento, a de Análise e a de Fechamento contábil."
+        ],
+        answer: 0,
+        disclaimer: "O ciclo de vida genérico clássico reconhecido pela literatura possui 4 fases: Início do projeto (Concepção), Organização/Preparação (Planejamento), Execução do trabalho e Encerramento (Fechamento)."
     }
 ];
 
