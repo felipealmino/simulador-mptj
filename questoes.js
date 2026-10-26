@@ -4694,6 +4694,818 @@ const banco_const = [
         ],
         answer: 0,
         disclaimer: "Questão extraída da prova DATAPREV (FGV). A diretriz II é inconstitucional pois a CF estabelece a DESCENTRALIZAÇÃO político-administrativa da assistência social (Art. 204, I). A III é inconstitucional pois a CF PERMITE (e não veda) aos Estados vincular até 0,5% de sua receita tributária líquida a programas de inclusão social (Art. 204, parágrafo único)."
+    },
+    {
+        topic: "Fundamentos da República (Art. 1º da CF/88)",
+        supportText: "",
+        q: "A Constituição Federal de 1988 estabelece os fundamentos da República Federativa do Brasil no seu artigo 1º. Dentre as alternativas abaixo, assinale a que apresenta unicamente fundamentos da República:",
+        options: [
+            "Soberania, cidadania, dignidade da pessoa humana, valores sociais do trabalho e da livre iniciativa, e pluralismo político.",
+            "Construir uma sociedade livre, justa e solidária; garantir o desenvolvimento nacional; erradicar a pobreza e a marginalização.",
+            "Independência nacional, prevalência dos direitos humanos, autodeterminação dos povos e defesa da paz.",
+            "Legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+            "Garantir a segurança jurídica, a celeridade processual e a probidade administrativa."
+        ],
+        answer: 0,
+        disclaimer: "O art. 1º da CF/88 elenca os cinco fundamentos da República: Soberania, Cidadania, Dignidade da pessoa humana, Valores sociais do trabalho e da livre iniciativa, e Pluralismo político."
+    },
+    {
+        topic: "Objetivos Fundamentais (Art. 3º da CF/88)",
+        supportText: "",
+        q: "Nos termos da Constituição Federal de 1988, constitui um dos objetivos fundamentais da República Federativa do Brasil:",
+        options: [
+            "O sufrágio universal e o voto direto e secreto.",
+            "A concessão de asilo político a perseguidos ideológicos.",
+            "Erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais.",
+            "A harmonia e a independência entre os Poderes da União.",
+            "O monopólio estatal na exploração de minérios nucleares."
+        ],
+        answer: 2,
+        disclaimer: "O art. 3º da CF/88 enumera os objetivos fundamentais (metas a serem alcançadas pelo Estado), destacando-se a erradicação da pobreza e a redução das desigualdades sociais e regionais (inciso III)."
+    },
+    {
+        topic: "Princípios das Relações Internacionais (Art. 4º da CF/88)",
+        supportText: "",
+        q: "A República Federativa do Brasil rege-se nas suas relações internacionais por diversos princípios expressos na Constituição Federal. Assinale a alternativa que apresenta um princípio que rege o Estado brasileiro em tal esfera:",
+        options: [
+            "Pluralismo político.",
+            "Dignidade da pessoa humana.",
+            "Prevalência dos direitos humanos.",
+            "Cidadania participativa.",
+            "Valores sociais da livre iniciativa."
+        ],
+        answer: 2,
+        disclaimer: "O art. 4º da CF/88 elenca os princípios das relações internacionais, entre os quais constam a independência nacional, a prevalência dos direitos humanos, a autodeterminação dos povos e a não-intervenção."
+    },
+    {
+        topic: "Forma de Estado e de Governo",
+        supportText: "",
+        q: "A organização político-administrativa da República Federativa do Brasil compreende a União, os Estados, o Distrito Federal e os Municípios, todos autônomos. Sob a perspectiva da ciência política e do direito constitucional, o Brasil adota:",
+        options: [
+            "Forma de Estado Federativa e Forma de Governo Republicana.",
+            "Forma de Estado Unitária e Sistema de Governo Parlamentarista.",
+            "Forma de Governo Federal e Forma de Estado Presidencialista.",
+            "Sistema de Governo Federativo e Regime Político Autoritário.",
+            "Forma de Estado Confederativa e Forma de Governo Monárquica."
+        ],
+        answer: 0,
+        disclaimer: "O Brasil adota a Federação como Forma de Estado (união indissolúvel dos entes autônomos) e a República como Forma de Governo (caráter eletivo e temporário dos mandatos políticos)."
+    },
+    {
+        topic: "Direitos Individuais e Coletivos (Igualdade - Art. 5º)",
+        supportText: "",
+        q: "O caput do art. 5º da Constituição Federal assegura aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade. Sobre o princípio da igualdade no direito brasileiro, é correto afirmar que:",
+        options: [
+            "veda absolutamente qualquer tratamento diferenciado conferido pela lei a grupos específicos.",
+            "consiste na igualdade material ou substancial, que significa tratar igualmente os iguais e desigualmente os desiguais, na medida de suas desigualdades.",
+            "aplica-se exclusivamente aos cidadãos brasileiros natos.",
+            "proíbe a criação de ações afirmativas ou políticas de cotas por serem consideradas discriminatórias.",
+            "impede a exigência de requisitos diferenciados em concursos públicos."
+        ],
+        answer: 1,
+        disclaimer: "O princípio da igualdade (isonomia) desdobra-se na vertente formal (todos iguais perante a lei) e material (tratar desigualmente os desiguais na medida de suas desigualdades), fundamentando a validade de ações afirmativas."
+    },
+    {
+        topic: "Inviolabilidade de Domicílio (Art. 5º, XI)",
+        supportText: "",
+        q: "A casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em hipóteses excepcionais previstas na Constituição Federal. Dentre as exceções que autorizam o ingresso a qualquer hora da noite ou do dia, sem consentimento, está:",
+        options: [
+            "Flagrante delito, desastre ou para prestar socorro, ou por determinação judicial durante o dia.",
+            "Cumprimento de mandado de busca e apreensão expedido por delegado de polícia a qualquer hora.",
+            "Investigação de crimes tributários de menor potencial ofensivo.",
+            "Autorização verbal de vizinhos lindeiros em caso de suspeita leve.",
+            "Busca de documentos fiscais inadimplentes."
+        ],
+        answer: 0,
+        disclaimer: "O art. 5º, XI, da CF/88 permite o ingresso sem consentimento a qualquer hora em caso de flagrante delito, desastre ou para prestar socorro. Por determinação judicial, o ingresso só pode ocorrer durante o dia."
+    },
+    {
+        topic: "Sigilo de Comunicações (Art. 5º, XII)",
+        supportText: "",
+        q: "O inciso XII do art. 5º da Constituição Federal garante o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas, salvo, no último caso (comunicações telefônicas):",
+        options: [
+            "por ordem da autoridade policial em qualquer fase do inquérito.",
+            "por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal.",
+            "mediante solicitação do Ministério Público sem aval do juiz.",
+            "por decreto motivado do Ministro da Justiça.",
+            "em caso de urgência declarada por auditor fiscal."
+        ],
+        answer: 1,
+        disclaimer: "O sigilo das comunicações telefônicas pode ser rompido exclusivamente por ordem judicial, nas hipóteses e na forma que a lei estabelecer (Lei nº 9.296/96), para fins de investigação criminal ou instrução processual penal."
+    },
+    {
+        topic: "Remédios Constitucionais (Habeas Corpus - Art. 5º, LXVIII)",
+        supportText: "",
+        q: "O remédio constitucional gratuito destinado a proteger a liberdade de locomoção contra ilegalidade ou abuso de poder, por parte de autoridade ou particular, denomina-se:",
+        options: [
+            "Mandado de Segurança.",
+            "Habeas Corpus.",
+            "Habeas Data.",
+            "Mandado de Injunção.",
+            "Ação Popular."
+        ],
+        answer: 1,
+        disclaimer: "O Habeas Corpus (art. 5º, LXVIII, da CF/88) protege o direito de locomoção (ir, vir e ficar) quando alguém sofrer ou estiver com ameaça de sofrer violência ou coação em sua liberdade de locomoção."
+    },
+    {
+        topic: "Mandado de Segurança Coletivo (Art. 5º, LXX)",
+        supportText: "",
+        q: "Dentre as entidades legitimadas para a impetração de Mandado de Segurança Coletivo, nos termos da Constituição Federal, encontram-se:",
+        options: [
+            "qualquer cidadão eleitor em pleno gozo dos direitos políticos.",
+            "partido político com representação no Congresso Nacional, e organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano.",
+            "exclusivamente o Procurador-Geral da República.",
+            "as sociedades empresárias multinacionais instaladas no país.",
+            "os conselhos regionais de medicina de forma isolada sem filiação."
+        ],
+        answer: 1,
+        disclaimer: "O art. 5º, LXX, da CF/88 confere legitimidade para o MS coletivo a partidos políticos com representação no Congresso Nacional, além de organizações sindicais, entidades de classe ou associações legalmente constituídas e em funcionamento há pelo menos um ano."
+    },
+    {
+        topic: "Ação Popular (Art. 5º, LXXIII)",
+        supportText: "",
+        q: "Qualquer cidadão é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural. Para a propositura desta ação, o autor:",
+        options: [
+            "deve pagar custas processuais elevadas antecipadamente.",
+            "fica isento de custas judiciais e do ônus da sucumbência, salvo comprovada má-fé.",
+            "precisa obrigatoriamente constituir advogado particular com inscrição na OAB.",
+            "deve comprovar renda familiar inferior a dois salários mínimos.",
+            "precisa ser pessoa jurídica de direito privado."
+        ],
+        answer: 1,
+        disclaimer: "A Ação Popular é garantia de participação política direta (cidadania). O autor fica isento de custas judiciais e ônus sucumbenciais, a menos que seja comprovada má-fé por parte do autor."
+    },
+    {
+        topic: "Nacionalidade (Brasileiros Natos - Art. 12, I)",
+        supportText: "",
+        q: "Nos termos da Constituição Federal de 1988, são brasileiros natos os nascidos na República Federativa do Brasil, ainda que de pais estrangeiros, desde que estes:",
+        options: [
+            "estejam residindo no Brasil com visto permanente há mais de dez anos.",
+            "não estejam a serviço de seu país.",
+            "possuam dupla cidadania reconhecida pelo Itamaraty.",
+            "sejam casados com cidadãos brasileiros.",
+            "trabalhem em empresas privadas nacionais."
+        ],
+        answer: 1,
+        disclaimer: "A regra do solo (jus soli) confere nacionalidade brasileira nata aos nascidos no Brasil, com a única exceção de que os pais estrangeiros não estejam a serviço de seu país (ex: diplomatas estrangeiros em missão diplomática)."
+    },
+    {
+        topic: "Nacionalidade (Nascidos no Exterior de Pais Brasileiros - Art. 12, I, 'c')",
+        supportText: "",
+        q: "São também brasileiros natos os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que:",
+        options: [
+            "qualquer deles esteja a serviço da República Federativa do Brasil, OU venham a residir na República Federativa do Brasil e façam, em qualquer tempo, depois de atingida a maioridade, a opção pela nacionalidade brasileira.",
+            "registrem a criança em consulado estrangeiro antes dos 5 anos de idade.",
+            "paguem taxa consular em moeda estrangeira convertida.",
+            "renunciem à cidadania do país onde nasceram obrigatoriamente na infância.",
+            "obtenham autorização do Supremo Tribunal Federal."
+        ],
+        answer: 0,
+        disclaimer: "A Constituição prevê duas hipóteses para natos no exterior: a) pai ou mãe a serviço do Brasil; ou b) registro em repartição consular brasileira OU residência no Brasil com opção em qualquer tempo após a maioridade (Critério potestativo)."
+    },
+    {
+        topic: "Cargos Privativos de Brasileiro Nato (Art. 12, § 3º)",
+        supportText: "",
+        q: "A Constituição Federal de 1988 estabelece uma lista taxativa de cargos públicos que são privativos de brasileiro nato. Dentre as opções abaixo, assinale a que apresenta um cargo que EXIGE a condição de brasileiro nato:",
+        options: [
+            "Ministro do Superior Tribunal de Justiça (STJ).",
+            "Juiz Federal de primeira instância.",
+            "Presidente da Câmara dos Deputados.",
+            "Governador de Estado federado.",
+            "Procurador-Geral da República."
+        ],
+        answer: 2,
+        disclaimer: "Os cargos privativos de brasileiro nato são: Presidente e Vice-Presidente da República, Presidente da Câmara dos Deputados, Presidente do Senado Federal, Ministro do STF, carreira diplomática, oficial das Forças Armadas e Ministro de Estado da Defesa."
+    },
+    {
+        topic: "Direitos Políticos (Elegibilidade - Art. 14, § 3º)",
+        supportText: "",
+        q: "São condições de elegibilidade, na forma da lei, a nacionalidade brasileira, o pleno exercício dos direitos políticos, o alistamento eleitoral, a filiação partidária, o domicílio eleitoral na circunscrição e a idade mínima constitucional. Para concorrer ao cargo de Deputado Federal, Governador e Senador, a idade mínima exigida é, respectivamente:",
+        options: [
+            "18 anos, 21 anos e 30 anos.",
+            "21 anos, 30 anos e 35 anos.",
+            "18 anos, 35 anos e 35 anos.",
+            "21 anos, 21 anos e 35 anos.",
+            "30 anos, 35 anos e 35 anos."
+        ],
+        answer: 1,
+        disclaimer: "As idades mínimas constitucionais são: 35 anos (Presidente, Vice e Senador); 30 anos (Governador e Vice); 21 anos (Deputado Federal/Estadual/Distrital, Prefeito, Juiz de Paz); 18 anos (Vereador)."
+    },
+    {
+        topic: "Inpeditivos de Elegibilidade (Inelegibilidades - Art. 14, § 7º)",
+        supportText: "",
+        q: "São inelegíveis, no território de jurisdição do titular, o cônjuge e os parentes consanguíneos ou afins, até o segundo grau ou por adoção, do Presidente da República, de Governador de Estado ou Território, do Distrito Federal, de Prefeito ou de quem os haja substituído dentro dos seis meses anteriores ao pleito, SALVO se:",
+        options: [
+            "já forem titulares de mandato eletivo e candidatos à reeleição.",
+            "renunciarem aos empregos privados com antecedência de um ano.",
+            "forem aprovados em concurso público de provas e títulos.",
+            "houver autorização unânime da Câmara de Vereadores.",
+            "tiverem autorização do partido político."
+        ],
+        answer: 0,
+        disclaimer: "Trata-se da inelegibilidade reflexa ou por parentesco (art. 14, § 7º). A proibição de candidatura cai por terra caso o parente já seja titular de mandato eletivo e dispute a reeleição."
+    },
+    {
+        topic: "Perda e Suspensão dos Direitos Políticos (Art. 15)",
+        supportText: "",
+        q: "A Constituição Federal veda a cassação de direitos políticos, cuja perda ou suspensão só se dará em hipóteses específicas enumeradas no art. 15. Assinale a alternativa que apresenta uma causa de SUSPENSÃO dos direitos políticos:",
+        options: [
+            "Cancelamento de naturalização por sentença judicial transitada em julgado.",
+            "Condenação criminal transitada em julgado, enquanto durarem seus efeitos.",
+            "Recusa de cumprir prestação alternativa estabelecida em lei (recusa de consciência).",
+            "Perda da nacionalidade brasileira.",
+            "Superveniência de incapacidade civil absoluta."
+        ],
+        answer: 1,
+        disclaimer: "O art. 15 elenca a suspensão (condenação criminal transitada em julgado, incapacidade civil absoluta, recusa de prestação alternativa, improbidade administrativa). A perda ocorre por cancelamento de naturalização e recusa de cumprir obrigações."
+    },
+    {
+        topic: "Direitos Sociais (Art. 6º da CF/88)",
+        supportText: "",
+        q: "O rol de direitos sociais previstos no art. 6º da Constituição Federal foi ampliado ao longo dos anos por emendas constitucionais. Dentre os direitos atualmente listados expressamente no referido artigo, encontra-se:",
+        options: [
+            "O direito à moradia, à alimentação, ao transporte e à segurança.",
+            "O direito ao porte de arma particular para defesa residencial.",
+            "O direito à isenção de imposto de renda para aposentados.",
+            "O direito ao acesso gratuito à internet banda larga em locais públicos.",
+            "O direito à herança e à propriedade industrial."
+        ],
+        answer: 0,
+        disclaimer: "O art. 6º da CF/88 enumera os direitos sociais: educação, saúde, alimentação, trabalho, moradia, transporte, lazer, segurança, previdência social, proteção à maternidade/infância e assistência aos desamparados."
+    },
+    {
+        topic: "Direitos dos Trabalhadores (Art. 7º da CF/88)",
+        supportText: "",
+        q: "Constitui direito dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social, expressamente previsto no art. 7º da Constituição Federal:",
+        options: [
+            "Jornada de 44 horas semanais improrrogáveis em qualquer hipótese.",
+            "Irredutibilidade do salário, salvo o disposto em convenção ou acordo coletivo.",
+            "Remuneração do serviço extraordinário superior, no mínimo, em 20% à do normal.",
+            "Proibição de qualquer tipo de trabalho a menores de 18 anos.",
+            "Licença-paternidade fixada em 120 dias para todos os empregados."
+        ],
+        answer: 1,
+        disclaimer: "O art. 7º, VI, da CF/88 garante a irredutibilidade do salário, salvo o disposto em convenção ou acordo coletivo. O adicional de horas extras é de no mínimo 50%, e a jornada normal é de até 44h."
+    },
+    {
+        topic: "Nacionalidade (Naturalização Ordinária - Art. 12, II, 'a')",
+        supportText: "",
+        q: "São brasileiros naturalizados os que, na forma da lei, adquiram a nacionalidade brasileira, exigindo-se dos originários de países de língua portuguesa apenas:",
+        options: [
+            "residência por um ano ininterrupto e idoneidade moral.",
+            "residência por quinze anos ininterruptos e sem condenação penal.",
+            "investimento financeiro em títulos da dívida pública.",
+            "casamento com cidadão brasileiro nato.",
+            "aprovação em teste de proficiência em língua portuguesa."
+        ],
+        answer: 0,
+        disclaimer: "A naturalização ordinária para originários de países de língua portuguesa exige residência por 1 (um) ano ininterrupto e idoneidade moral (art. 12, II, 'a', da CF/88)."
+    },
+    {
+        topic: "Direitos Políticos (Alistabilidade e Voto - Art. 14, § 1º)",
+        supportText: "",
+        q: "O alistamento eleitoral e o voto são obrigatórios para os maiores de 18 anos e facultativos para determinados grupos expressamente previstos. Dentre as opções abaixo, assinale a que indica quem possui voto FACULTATIVO:",
+        options: [
+            "Os analfabetos, os maiores de 70 anos e os maiores de 16 e menores de 18 anos.",
+            "Os conscritos durante o período do serviço militar obrigatório.",
+            "Os estrangeiros legalmente naturalizados há menos de cinco anos.",
+            "Os cidadãos que exercem cargos comissionados de livre exoneração.",
+            "Os membros do Ministério Público e da Magistratura."
+        ],
+        answer: 0,
+        disclaimer: "Conforme o art. 14, § 1º, II, da CF/88, o voto é facultativo para os analfabetos, os maiores de 70 anos, e os maiores de 16 e menores de 18 anos. Os conscritos são inalistáveis (proibidos de votar)."
+    },
+    {
+        topic: "Estrangeiros e Direitos Fundamentais",
+        supportText: "",
+        q: "A respeito dos direitos e garantias fundamentais aplicáveis aos estrangeiros que se encontram no território brasileiro, assinale a correta:",
+        options: [
+            "Estrangeiros não residentes no país não possuem nenhum direito fundamental garantido pela Constituição.",
+            "Os estrangeiros residentes no país gozam de todos os direitos fundamentais conferidos aos brasileiros, ressalvadas as restrições expressas na Constituição (como cargos privativos de natos e direitos políticos).",
+            "A extradição de estrangeiro naturalizado é admitida em qualquer crime comum praticado a qualquer tempo.",
+            "É cabível a extradição de brasileiro nato em caso de crime político.",
+            "Estrangeiros podem votar e ser votados para cargos legislativos municipais."
+        ],
+        answer: 1,
+        disclaimer: "Estrangeiros residentes (e em trânsito, no que couber) gozam dos direitos fundamentais previstos na CF/88, com exceção daquelas normas restritas aos nacionais (como elegibilidade, cargos privativos de natos e extradição de natos)."
+    },
+    {
+        topic: "Extradição (Art. 5º, LI e LII)",
+        supportText: "",
+        q: "No tocante à extradição de nacionais e estrangeiros prevista na Constituição Federal de 1988, é correto afirmar que:",
+        options: [
+            "nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum, praticado antes da naturalização, ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei.",
+            "o brasileiro nato pode ser extraditado se cometer crime hediondo no exterior.",
+            "o estrangeiro será extraditado por crime político ou de opinião sem restrições.",
+            "não se concederá extradição de estrangeiro por crime político ou de opinião.",
+            "é permitida a extradição de brasileiro naturalizado por crime político cometido após a naturalização."
+        ],
+        answer: 3,
+        disclaimer: "O art. 5º, LII, da CF/88 veda a concessão de extradição de estrangeiro por crime político ou de opinião. O brasileiro nato jamais é extraditado, e o naturalizado apenas por crime comum anterior à naturalização ou tráfico de drogas."
+    },
+    {
+        topic: "Mandado de Injunção (Art. 5º, LXXI)",
+        supportText: "",
+        q: "Conceder-se-á mandado de injunção sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania. Este remédio protege contra:",
+        options: [
+            "Omissão legislativa.",
+            "Ilegalidade de ato administrativo.",
+            "Sigilo fiscal indevido.",
+            "Prisão civil por dívida ilegal.",
+            "Ato lesivo ao patrimônio histórico."
+        ],
+        answer: 0,
+        disclaimer: "O Mandado de Injunção (art. 5º, LXXI) é a ação constitucional destinada a viabilizar o exercício de direitos constitucionais inviabilizados pela falta de regulamentação legal (omissão legislativa)."
+    },
+    {
+        topic: "Habeas Data (Art. 5º, LXXII)",
+        supportText: "",
+        q: "O remédio constitucional voltado para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público, bem como para a retificação de dados, denomina-se:",
+        options: [
+            "Habeas Corpus.",
+            "Mandado de Segurança.",
+            "Habeas Data.",
+            "Ação Civil Pública.",
+            "Mandado de Injunção."
+        ],
+        answer: 2,
+        disclaimer: "O Habeas Data (art. 5º, LXXII) garante o acesso a registros de bancos de dados públicos sobre a pessoa do impetrante e a retificação de dados incorretos."
+    },
+    {
+        topic: "Direitos Sociais - Salário-Mínimo (Art. 7º, IV)",
+        supportText: "",
+        q: "A Constituição Federal estabelece como direito dos trabalhadores urbanos e rurais um salário-mínimo nacionalmente unificado, capaz de atender a certas necessidades vitais básicas do trabalhador e de sua família. Dentre elas, a Constituição cita expressamente:",
+        options: [
+            "Moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social.",
+            "Apenas despesas com combustível e lazer noturno.",
+            "Exclusivamente impostos municipais e taxas judiciais.",
+            "Gastos com investimentos em bolsa de valores.",
+            "Despesas com viagens internacionais de férias."
+        ],
+        answer: 0,
+        disclaimer: "O art. 7º, IV, da CF/88 define que o salário-mínimo deve atender a moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social, com reajustes periódicos."
+    },
+    {
+        topic: "Proibição de Diferenciação entre Trabalhadores (Art. 7º, XXX)",
+        supportText: "",
+        q: "O inciso XXX do art. 7º da Constituição Federal proíbe diferença de salários, de exercício de funções e de critério de admissão por motivo de:",
+        options: [
+            "sexo, idade, cor ou estado civil.",
+            "produtividade intelectual e dedicação exclusiva.",
+            "titulação acadêmica em pós-stricto sensu.",
+            "tempo de serviço na empresa privada.",
+            "aprovação em exames internos de qualificação."
+        ],
+        answer: 0,
+        disclaimer: "O art. 7º, XXX, veda a discriminação no emprego e nos salários por motivo de sexo, idade, cor ou estado civil, concretizando a igualdade laboral."
+    },
+    {
+        topic: "Perda da Nacionalidade (Art. 12, § 4º)",
+        supportText: "",
+        q: "Será declarada a perda da nacionalidade do brasileiro que tiver sua naturalização cancelada por sentença judicial em virtude de atividade nociva ao interesse nacional, ou que adquirir outra nacionalidade por naturalização voluntária, ressalvadas as exceções constitucionais. Dentre as exceções que NÃO acarretam a perda da nacionalidade brasileira por aquisição de outra estrangeira, incluem-se:",
+        options: [
+            "Reconhecimento de nacionalidade originária pela lei estrangeira, ou imposição de naturalização pela norma estrangeira ao brasileiro residente em estado estrangeiro como condição para permanência.",
+            "Mudança voluntária de domicílio fiscal para paraísos fiscais.",
+            "Prestação de serviços voluntários em exército estrangeiro sem autorização.",
+            "Aquisição de cidadania por meio de casamento de conveniência.",
+            "Naturalização em países que não possuem acordo diplomático com o Brasil."
+        ],
+        answer: 0,
+        disclaimer: "Conforme o art. 12, § 4º, II, da CF/88 (redação dada pela EC nº 131/2023), não perde a nacionalidade o brasileiro que adquirir outra nacionalidade originária (jus sanguinis) ou cuja naturalização seja imposta pela lei estrangeira para permanência."
+    },
+    {
+        topic: "Elegibilidade e Idade (Momento da Aferição)",
+        supportText: "",
+        q: "Segundo a jurisprudência pacificada do Tribunal Superior Eleitoral (TSE), a idade mínima constitucional exigida como condição de elegibilidade é aferida no momento da:",
+        options: [
+            "posse no cargo eletivo.",
+            "diplomação dos candidatos eleitos.",
+            "investidura definitiva ou da posse, salvo para Prefeito.",
+            "sua respectiva posse ou, conforme alteração recente, no momento da formalização do registro de candidatura.",
+            "votação em primeiro turno das eleições."
+        ],
+        answer: 3,
+        disclaimer: "A jurisprudência atual do TSE (Súmula 43 alterada pela jurisprudência recente) fixa que a idade mínima constitucional exigida para a elegibilidade é aferida no momento da posse, exceto para o registro de candidatura em certas hipóteses regulamentadas."
+    },
+    {
+        topic: "Direitos Políticos (Inelegibilidade de Inalistáveis e Analfabetos - Art. 14, § 4º)",
+        supportText: "",
+        q: "São inelegíveis os inalistáveis e os analfabetos. De acordo com essa regra constitucional, quem são os considerados inalistáveis (que, portanto, não podem votar e nem ser votados)?",
+        options: [
+            "Os estrangeiros e os conscritos, durante o serviço militar obrigatório.",
+            "Os maiores de 70 anos de idade.",
+            "Os portadores de deficiência física motora.",
+            "Os cidadãos com condenação criminal sem trânsito em julgado.",
+            "Os policiais militares inativos."
+        ],
+        answer: 0,
+        disclaimer: "O art. 14, § 4º, da CF/88 estabelece que os inalistáveis (estrangeiros e conscritos durante o serviço militar obrigatório) e os analfabetos são inelegíveis."
+    },
+    {
+        topic: "Fundamentos da República (Art. 1º da CF/88)",
+        supportText: "",
+        q: "A Constituição Federal de 1988 estabelece os fundamentos da República Federativa do Brasil no seu artigo 1º. Dentre as alternativas abaixo, assinale a que apresenta unicamente fundamentos da República:",
+        options: [
+            "Soberania, cidadania, dignidade da pessoa humana, valores sociais do trabalho e da livre iniciativa, e pluralismo político.",
+            "Construir uma sociedade livre, justa e solidária; garantir o desenvolvimento nacional; erradicar a pobreza e a marginalização.",
+            "Independência nacional, prevalência dos direitos humanos, autodeterminação dos povos e defesa da paz.",
+            "Legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+            "Garantir a segurança jurídica, a celeridade processual e a probidade administrativa."
+        ],
+        answer: 0,
+        disclaimer: "O art. 1º da CF/88 elenca os cinco fundamentos da República: Soberania, Cidadania, Dignidade da pessoa humana, Valores sociais do trabalho e da livre iniciativa, e Pluralismo político."
+    },
+    {
+        topic: "Objetivos Fundamentais (Art. 3º da CF/88)",
+        supportText: "",
+        q: "Nos termos da Constituição Federal de 1988, constitui um dos objetivos fundamentais da República Federativa do Brasil:",
+        options: [
+            "O sufrágio universal e o voto direto e secreto.",
+            "A concessão de asilo político a perseguidos ideológicos.",
+            "Erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais.",
+            "A harmonia e a independência entre os Poderes da União.",
+            "O monopólio estatal na exploração de minérios nucleares."
+        ],
+        answer: 2,
+        disclaimer: "O art. 3º da CF/88 enumera os objetivos fundamentais (metas a serem alcançadas pelo Estado), destacando-se a erradicação da pobreza e a redução das desigualdades sociais e regionais (inciso III)."
+    },
+    {
+        topic: "Princípios das Relações Internacionais (Art. 4º da CF/88)",
+        supportText: "",
+        q: "A República Federativa do Brasil rege-se nas suas relações internacionais por diversos princípios expressos na Constituição Federal. Assinale a alternativa que apresenta um princípio que rege o Estado brasileiro em tal esfera:",
+        options: [
+            "Pluralismo político.",
+            "Dignidade da pessoa humana.",
+            "Prevalência dos direitos humanos.",
+            "Cidadania participativa.",
+            "Valores sociais da livre iniciativa."
+        ],
+        answer: 2,
+        disclaimer: "O art. 4º da CF/88 elenca os princípios das relações internacionais, entre os quais constam a independência nacional, a prevalência dos direitos humanos, a autodeterminação dos povos e a não-intervenção."
+    },
+    {
+        topic: "Forma de Estado e de Governo",
+        supportText: "",
+        q: "A organização político-administrativa da República Federativa do Brasil compreende a União, os Estados, o Distrito Federal e os Municípios, todos autônomos. Sob a perspectiva da ciência política e do direito constitucional, o Brasil adota:",
+        options: [
+            "Forma de Estado Federativa e Forma de Governo Republicana.",
+            "Forma de Estado Unitária e Sistema de Governo Parlamentarista.",
+            "Forma de Governo Federal e Forma de Estado Presidencialista.",
+            "Sistema de Governo Federativo e Regime Político Autoritário.",
+            "Forma de Estado Confederativa e Forma de Governo Monárquica."
+        ],
+        answer: 0,
+        disclaimer: "O Brasil adota a Federação como Forma de Estado (união indissolúvel dos entes autônomos) e a República como Forma de Governo (caráter eletivo e temporário dos mandatos políticos)."
+    },
+    {
+        topic: "Direitos Individuais e Coletivos (Igualdade - Art. 5º)",
+        supportText: "",
+        q: "O caput do art. 5º da Constituição Federal assegura aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade. Sobre o princípio da igualdade no direito brasileiro, é correto afirmar que:",
+        options: [
+            "veda absolutamente qualquer tratamento diferenciado conferido pela lei a grupos específicos.",
+            "consiste na igualdade material ou substancial, que significa tratar igualmente os iguais e desigualmente os desiguais, na medida de suas desigualdades.",
+            "aplica-se exclusivamente aos cidadãos brasileiros natos.",
+            "proíbe a criação de ações afirmativas ou políticas de cotas por serem consideradas discriminatórias.",
+            "impede a exigência de requisitos diferenciados em concursos públicos."
+        ],
+        answer: 1,
+        disclaimer: "O princípio da igualdade (isonomia) desdobra-se na vertente formal (todos iguais perante a lei) e material (tratar desigualmente os desiguais na medida de suas desigualdades), fundamentando a validade de ações afirmativas."
+    },
+    {
+        topic: "Inviolabilidade de Domicílio (Art. 5º, XI)",
+        supportText: "",
+        q: "A casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em hipóteses excepcionais previstas na Constituição Federal. Dentre as exceções que autorizam o ingresso a qualquer hora da noite ou do dia, sem consentimento, está:",
+        options: [
+            "Flagrante delito, desastre ou para prestar socorro, ou por determinação judicial durante o dia.",
+            "Cumprimento de mandado de busca e apreensão expedido por delegado de polícia a qualquer hora.",
+            "Investigação de crimes tributários de menor potencial ofensivo.",
+            "Autorização verbal de vizinhos lindeiros em caso de suspeita leve.",
+            "Busca de documentos fiscais inadimplentes."
+        ],
+        answer: 0,
+        disclaimer: "O art. 5º, XI, da CF/88 permite o ingresso sem consentimento a qualquer hora em caso de flagrante delito, desastre ou para prestar socorro. Por determinação judicial, o ingresso só pode ocorrer durante o dia."
+    },
+    {
+        topic: "Sigilo de Comunicações (Art. 5º, XII)",
+        supportText: "",
+        q: "O inciso XII do art. 5º da Constituição Federal garante o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas, salvo, no último caso (comunicações telefônicas):",
+        options: [
+            "por ordem da autoridade policial em qualquer fase do inquérito.",
+            "por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal.",
+            "mediante solicitação do Ministério Público sem aval do juiz.",
+            "por decreto motivado do Ministro da Justiça.",
+            "em caso de urgência declarada por auditor fiscal."
+        ],
+        answer: 1,
+        disclaimer: "O sigilo das comunicações telefônicas pode ser rompido exclusivamente por ordem judicial, nas hipóteses e na forma que a lei estabelecer (Lei nº 9.296/96), para fins de investigação criminal ou instrução processual penal."
+    },
+    {
+        topic: "Remédios Constitucionais (Habeas Corpus - Art. 5º, LXVIII)",
+        supportText: "",
+        q: "O remédio constitucional gratuito destinado a proteger a liberdade de locomoção contra ilegalidade ou abuso de poder, por parte de autoridade ou particular, denomina-se:",
+        options: [
+            "Mandado de Segurança.",
+            "Habeas Corpus.",
+            "Habeas Data.",
+            "Mandado de Injunção.",
+            "Ação Popular."
+        ],
+        answer: 1,
+        disclaimer: "O Habeas Corpus (art. 5º, LXVIII, da CF/88) protege o direito de locomoção (ir, vir e ficar) quando alguém sofrer ou estiver com ameaça de sofrer violência ou coação em sua liberdade de locomoção."
+    },
+    {
+        topic: "Mandado de Segurança Coletivo (Art. 5º, LXX)",
+        supportText: "",
+        q: "Dentre as entidades legitimadas para a impetração de Mandado de Segurança Coletivo, nos termos da Constituição Federal, encontram-se:",
+        options: [
+            "qualquer cidadão eleitor em pleno gozo dos direitos políticos.",
+            "partido político com representação no Congresso Nacional, e organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano.",
+            "exclusivamente o Procurador-Geral da República.",
+            "as sociedades empresárias multinacionais instaladas no país.",
+            "os conselhos regionais de medicina de forma isolada sem filiação."
+        ],
+        answer: 1,
+        disclaimer: "O art. 5º, LXX, da CF/88 confere legitimidade para o MS coletivo a partidos políticos com representação no Congresso Nacional, além de organizações sindicais, entidades de classe ou associações legalmente constituídas e em funcionamento há pelo menos um ano."
+    },
+    {
+        topic: "Ação Popular (Art. 5º, LXXIII)",
+        supportText: "",
+        q: "Qualquer cidadão é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural. Para a propositura desta ação, o autor:",
+        options: [
+            "deve pagar custas processuais elevadas antecipadamente.",
+            "fica isento de custas judiciais e do ônus da sucumbência, salvo comprovada má-fé.",
+            "precisa obrigatoriamente constituir advogado particular com inscrição na OAB.",
+            "deve comprovar renda familiar inferior a dois salários mínimos.",
+            "precisa ser pessoa jurídica de direito privado."
+        ],
+        answer: 1,
+        disclaimer: "A Ação Popular é garantia de participação política direta (cidadania). O autor fica isento de custas judiciais e ônus sucumbenciais, a menos que seja comprovada má-fé por parte do autor."
+    },
+    {
+        topic: "Nacionalidade (Brasileiros Natos - Art. 12, I)",
+        supportText: "",
+        q: "Nos termos da Constituição Federal de 1988, são brasileiros natos os nascidos na República Federativa do Brasil, ainda que de pais estrangeiros, desde que estes:",
+        options: [
+            "estejam residindo no Brasil com visto permanente há mais de dez anos.",
+            "não estejam a serviço de seu país.",
+            "possuam dupla cidadania reconhecida pelo Itamaraty.",
+            "sejam casados com cidadãos brasileiros.",
+            "trabalhem em empresas privadas nacionais."
+        ],
+        answer: 1,
+        disclaimer: "A regra do solo (jus soli) confere nacionalidade brasileira nata aos nascidos no Brasil, com a única exceção de que os pais estrangeiros não estejam a serviço de seu país (ex: diplomatas estrangeiros em missão diplomática)."
+    },
+    {
+        topic: "Nacionalidade (Nascidos no Exterior de Pais Brasileiros - Art. 12, I, 'c')",
+        supportText: "",
+        q: "São também brasileiros natos os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que:",
+        options: [
+            "qualquer deles esteja a serviço da República Federativa do Brasil, OU venham a residir na República Federativa do Brasil e façam, em qualquer tempo, depois de atingida a maioridade, a opção pela nacionalidade brasileira.",
+            "registrem a criança em consulado estrangeiro antes dos 5 anos de idade.",
+            "paguem taxa consular em moeda estrangeira convertida.",
+            "renunciem à cidadania do país onde nasceram obrigatoriamente na infância.",
+            "obtenham autorização do Supremo Tribunal Federal."
+        ],
+        answer: 0,
+        disclaimer: "A Constituição prevê duas hipóteses para natos no exterior: a) pai ou mãe a serviço do Brasil; ou b) registro em repartição consular brasileira OU residência no Brasil com opção em qualquer tempo após a maioridade (Critério potestativo)."
+    },
+    {
+        topic: "Cargos Privativos de Brasileiro Nato (Art. 12, § 3º)",
+        supportText: "",
+        q: "A Constituição Federal de 1988 estabelece uma lista taxativa de cargos públicos que são privativos de brasileiro nato. Dentre as opções abaixo, assinale a que apresenta um cargo que EXIGE a condição de brasileiro nato:",
+        options: [
+            "Ministro do Superior Tribunal de Justiça (STJ).",
+            "Juiz Federal de primeira instância.",
+            "Presidente da Câmara dos Deputados.",
+            "Governador de Estado federado.",
+            "Procurador-Geral da República."
+        ],
+        answer: 2,
+        disclaimer: "Os cargos privativos de brasileiro nato são: Presidente e Vice-Presidente da República, Presidente da Câmara dos Deputados, Presidente do Senado Federal, Ministro do STF, carreira diplomática, oficial das Forças Armadas e Ministro de Estado da Defesa."
+    },
+    {
+        topic: "Direitos Políticos (Elegibilidade - Art. 14, § 3º)",
+        supportText: "",
+        q: "São condições de elegibilidade, na forma da lei, a nacionalidade brasileira, o pleno exercício dos direitos políticos, o alistamento eleitoral, a filiação partidária, o domicílio eleitoral na circunscrição e a idade mínima constitucional. Para concorrer ao cargo de Deputado Federal, Governador e Senador, a idade mínima exigida é, respectivamente:",
+        options: [
+            "18 anos, 21 anos e 30 anos.",
+            "21 anos, 30 anos e 35 anos.",
+            "18 anos, 35 anos e 35 anos.",
+            "21 anos, 21 anos e 35 anos.",
+            "30 anos, 35 anos e 35 anos."
+        ],
+        answer: 1,
+        disclaimer: "As idades mínimas constitucionais são: 35 anos (Presidente, Vice e Senador); 30 anos (Governador e Vice); 21 anos (Deputado Federal/Estadual/Distrital, Prefeito, Juiz de Paz); 18 anos (Vereador)."
+    },
+    {
+        topic: "Inpeditivos de Elegibilidade (Inelegibilidades - Art. 14, § 7º)",
+        supportText: "",
+        q: "São inelegíveis, no território de jurisdição do titular, o cônjuge e os parentes consanguíneos ou afins, até o segundo grau ou por adoção, do Presidente da República, de Governador de Estado ou Território, do Distrito Federal, de Prefeito ou de quem os haja substituído dentro dos seis meses anteriores ao pleito, SALVO se:",
+        options: [
+            "já forem titulares de mandato eletivo e candidatos à reeleição.",
+            "renunciarem aos empregos privados com antecedência de um ano.",
+            "forem aprovados em concurso público de provas e títulos.",
+            "houver autorização unânime da Câmara de Vereadores.",
+            "tiverem autorização do partido político."
+        ],
+        answer: 0,
+        disclaimer: "Trata-se da inelegibilidade reflexa ou por parentesco (art. 14, § 7º). A proibição de candidatura cai por terra caso o parente já seja titular de mandato eletivo e dispute a reeleição."
+    },
+    {
+        topic: "Perda e Suspensão dos Direitos Políticos (Art. 15)",
+        supportText: "",
+        q: "A Constituição Federal veda a cassação de direitos políticos, cuja perda ou suspensão só se dará em hipóteses específicas enumeradas no art. 15. Assinale a alternativa que apresenta uma causa de SUSPENSÃO dos direitos políticos:",
+        options: [
+            "Cancelamento de naturalização por sentença judicial transitada em julgado.",
+            "Condenação criminal transitada em julgado, enquanto durarem seus efeitos.",
+            "Recusa de cumprir prestação alternativa estabelecida em lei (recusa de consciência).",
+            "Perda da nacionalidade brasileira.",
+            "Superveniência de incapacidade civil absoluta."
+        ],
+        answer: 1,
+        disclaimer: "O art. 15 elenca a suspensão (condenação criminal transitada em julgado, incapacidade civil absoluta, recusa de prestação alternativa, improbidade administrativa). A perda ocorre por cancelamento de naturalização e recusa de cumprir obrigações."
+    },
+    {
+        topic: "Direitos Sociais (Art. 6º da CF/88)",
+        supportText: "",
+        q: "O rol de direitos sociais previstos no art. 6º da Constituição Federal foi ampliado ao longo dos anos por emendas constitucionais. Dentre os direitos atualmente listados expressamente no referido artigo, encontra-se:",
+        options: [
+            "O direito à moradia, à alimentação, ao transporte e à segurança.",
+            "O direito ao porte de arma particular para defesa residencial.",
+            "O direito à isenção de imposto de renda para aposentados.",
+            "O direito ao acesso gratuito à internet banda larga em locais públicos.",
+            "O direito à herança e à propriedade industrial."
+        ],
+        answer: 0,
+        disclaimer: "O art. 6º da CF/88 enumera os direitos sociais: educação, saúde, alimentação, trabalho, moradia, transporte, lazer, segurança, previdência social, proteção à maternidade/infância e assistência aos desamparados."
+    },
+    {
+        topic: "Direitos dos Trabalhadores (Art. 7º da CF/88)",
+        supportText: "",
+        q: "Constitui direito dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social, expressamente previsto no art. 7º da Constituição Federal:",
+        options: [
+            "Jornada de 44 horas semanais improrrogáveis em qualquer hipótese.",
+            "Irredutibilidade do salário, salvo o disposto em convenção ou acordo coletivo.",
+            "Remuneração do serviço extraordinário superior, no mínimo, em 20% à do normal.",
+            "Proibição de qualquer tipo de trabalho a menores de 18 anos.",
+            "Licença-paternidade fixada em 120 dias para todos os empregados."
+        ],
+        answer: 1,
+        disclaimer: "O art. 7º, VI, da CF/88 garante a irredutibilidade do salário, salvo o disposto em convenção ou acordo coletivo. O adicional de horas extras é de no mínimo 50%, e a jornada normal é de até 44h."
+    },
+    {
+        topic: "Nacionalidade (Naturalização Ordinária - Art. 12, II, 'a')",
+        supportText: "",
+        q: "São brasileiros naturalizados os que, na forma da lei, adquiram a nacionalidade brasileira, exigindo-se dos originários de países de língua portuguesa apenas:",
+        options: [
+            "residência por um ano ininterrupto e idoneidade moral.",
+            "residência por quinze anos ininterruptos e sem condenação penal.",
+            "investimento financeiro em títulos da dívida pública.",
+            "casamento com cidadão brasileiro nato.",
+            "aprovação em teste de proficiência em língua portuguesa."
+        ],
+        answer: 0,
+        disclaimer: "A naturalização ordinária para originários de países de língua portuguesa exige residência por 1 (um) ano ininterrupto e idoneidade moral (art. 12, II, 'a', da CF/88)."
+    },
+    {
+        topic: "Direitos Políticos (Alistabilidade e Voto - Art. 14, § 1º)",
+        supportText: "",
+        q: "O alistamento eleitoral e o voto são obrigatórios para os maiores de 18 anos e facultativos para determinados grupos expressamente previstos. Dentre as opções abaixo, assinale a que indica quem possui voto FACULTATIVO:",
+        options: [
+            "Os analfabetos, os maiores de 70 anos e os maiores de 16 e menores de 18 anos.",
+            "Os conscritos durante o período do serviço militar obrigatório.",
+            "Os estrangeiros legalmente naturalizados há menos de cinco anos.",
+            "Os cidadãos que exercem cargos comissionados de livre exoneração.",
+            "Os membros do Ministério Público e da Magistratura."
+        ],
+        answer: 0,
+        disclaimer: "Conforme o art. 14, § 1º, II, da CF/88, o voto é facultativo para os analfabetos, os maiores de 70 anos, e os maiores de 16 e menores de 18 anos. Os conscritos são inalistáveis (proibidos de votar)."
+    },
+    {
+        topic: "Estrangeiros e Direitos Fundamentais",
+        supportText: "",
+        q: "A respeito dos direitos e garantias fundamentais aplicáveis aos estrangeiros que se encontram no território brasileiro, assinale a correta:",
+        options: [
+            "Estrangeiros não residentes no país não possuem nenhum direito fundamental garantido pela Constituição.",
+            "Os estrangeiros residentes no país gozam de todos os direitos fundamentais conferidos aos brasileiros, ressalvadas as restrições expressas na Constituição (como cargos privativos de natos e direitos políticos).",
+            "A extradição de estrangeiro naturalizado é admitida em qualquer crime comum praticado a qualquer tempo.",
+            "É cabível a extradição de brasileiro nato em caso de crime político.",
+            "Estrangeiros podem votar e ser votados para cargos legislativos municipais."
+        ],
+        answer: 1,
+        disclaimer: "Estrangeiros residentes (e em trânsito, no que couber) gozam dos direitos fundamentais previstos na CF/88, com exceção daquelas normas restritas aos nacionais (como elegibilidade, cargos privativos de natos e extradição de natos)."
+    },
+    {
+        topic: "Extradição (Art. 5º, LI e LII)",
+        supportText: "",
+        q: "No tocante à extradição de nacionais e estrangeiros prevista na Constituição Federal de 1988, é correto afirmar que:",
+        options: [
+            "nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum, praticado antes da naturalização, ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei.",
+            "o brasileiro nato pode ser extraditado se cometer crime hediondo no exterior.",
+            "o estrangeiro será extraditado por crime político ou de opinião sem restrições.",
+            "não se concederá extradição de estrangeiro por crime político ou de opinião.",
+            "é permitida a extradição de brasileiro naturalizado por crime político cometido após a naturalização."
+        ],
+        answer: 3,
+        disclaimer: "O art. 5º, LII, da CF/88 veda a concessão de extradição de estrangeiro por crime político ou de opinião. O brasileiro nato jamais é extraditado, e o naturalizado apenas por crime comum anterior à naturalização ou tráfico de drogas."
+    },
+    {
+        topic: "Mandado de Injunção (Art. 5º, LXXI)",
+        supportText: "",
+        q: "Conceder-se-á mandado de injunção sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania. Este remédio protege contra:",
+        options: [
+            "Omissão legislativa.",
+            "Ilegalidade de ato administrativo.",
+            "Sigilo fiscal indevido.",
+            "Prisão civil por dívida ilegal.",
+            "Ato lesivo ao patrimônio histórico."
+        ],
+        answer: 0,
+        disclaimer: "O Mandado de Injunção (art. 5º, LXXI) é a ação constitucional destinada a viabilizar o exercício de direitos constitucionais inviabilizados pela falta de regulamentação legal (omissão legislativa)."
+    },
+    {
+        topic: "Habeas Data (Art. 5º, LXXII)",
+        supportText: "",
+        q: "O remédio constitucional voltado para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público, bem como para a retificação de dados, denomina-se:",
+        options: [
+            "Habeas Corpus.",
+            "Mandado de Segurança.",
+            "Habeas Data.",
+            "Ação Civil Pública.",
+            "Mandado de Injunção."
+        ],
+        answer: 2,
+        disclaimer: "O Habeas Data (art. 5º, LXXII) garante o acesso a registros de bancos de dados públicos sobre a pessoa do impetrante e a retificação de dados incorretos."
+    },
+    {
+        topic: "Direitos Sociais - Salário-Mínimo (Art. 7º, IV)",
+        supportText: "",
+        q: "A Constituição Federal estabelece como direito dos trabalhadores urbanos e rurais um salário-mínimo nacionalmente unificado, capaz de atender a certas necessidades vitais básicas do trabalhador e de sua família. Dentre elas, a Constituição cita expressamente:",
+        options: [
+            "Moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social.",
+            "Apenas despesas com combustível e lazer noturno.",
+            "Exclusivamente impostos municipais e taxas judiciais.",
+            "Gastos com investimentos em bolsa de valores.",
+            "Despesas com viagens internacionais de férias."
+        ],
+        answer: 0,
+        disclaimer: "O art. 7º, IV, da CF/88 define que o salário-mínimo deve atender a moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social, com reajustes periódicos."
+    },
+    {
+        topic: "Proibição de Diferenciação entre Trabalhadores (Art. 7º, XXX)",
+        supportText: "",
+        q: "O inciso XXX do art. 7º da Constituição Federal proíbe diferença de salários, de exercício de funções e de critério de admissão por motivo de:",
+        options: [
+            "sexo, idade, cor ou estado civil.",
+            "produtividade intelectual e dedicação exclusiva.",
+            "titulação acadêmica em pós-stricto sensu.",
+            "tempo de serviço na empresa privada.",
+            "aprovação em exames internos de qualificação."
+        ],
+        answer: 0,
+        disclaimer: "O art. 7º, XXX, veda a discriminação no emprego e nos salários por motivo de sexo, idade, cor ou estado civil, concretizando a igualdade laboral."
+    },
+    {
+        topic: "Perda da Nacionalidade (Art. 12, § 4º)",
+        supportText: "",
+        q: "Será declarada a perda da nacionalidade do brasileiro que tiver sua naturalização cancelada por sentença judicial em virtude de atividade nociva ao interesse nacional, ou que adquirir outra nacionalidade por naturalização voluntária, ressalvadas as exceções constitucionais. Dentre as exceções que NÃO acarretam a perda da nacionalidade brasileira por aquisição de outra estrangeira, incluem-se:",
+        options: [
+            "Reconhecimento de nacionalidade originária pela lei estrangeira, ou imposição de naturalização pela norma estrangeira ao brasileiro residente em estado estrangeiro como condição para permanência.",
+            "Mudança voluntária de domicílio fiscal para paraísos fiscais.",
+            "Prestação de serviços voluntários em exército estrangeiro sem autorização.",
+            "Aquisição de cidadania por meio de casamento de conveniência.",
+            "Naturalização em países que não possuem acordo diplomático com o Brasil."
+        ],
+        answer: 0,
+        disclaimer: "Conforme o art. 12, § 4º, II, da CF/88 (redação dada pela EC nº 131/2023), não perde a nacionalidade o brasileiro que adquirir outra nacionalidade originária (jus sanguinis) ou cuja naturalização seja imposta pela lei estrangeira para permanência."
+    },
+    {
+        topic: "Elegibilidade e Idade (Momento da Aferição)",
+        supportText: "",
+        q: "Segundo a jurisprudência pacificada do Tribunal Superior Eleitoral (TSE), a idade mínima constitucional exigida como condição de elegibilidade é aferida no momento da:",
+        options: [
+            "posse no cargo eletivo.",
+            "diplomação dos candidatos eleitos.",
+            "investidura definitiva ou da posse, salvo para Prefeito.",
+            "sua respectiva posse ou, conforme alteração recente, no momento da formalização do registro de candidatura.",
+            "votação em primeiro turno das eleições."
+        ],
+        answer: 3,
+        disclaimer: "A jurisprudência atual do TSE (Súmula 43 alterada pela jurisprudência recente) fixa que a idade mínima constitucional exigida para a elegibilidade é aferida no momento da posse, exceto para o registro de candidatura em certas hipóteses regulamentadas."
+    },
+    {
+        topic: "Direitos Políticos (Inelegibilidade de Inalistáveis e Analfabetos - Art. 14, § 4º)",
+        supportText: "",
+        q: "São inelegíveis os inalistáveis e os analfabetos. De acordo com essa regra constitucional, quem são os considerados inalistáveis (que, portanto, não podem votar e nem ser votados)?",
+        options: [
+            "Os estrangeiros e os conscritos, durante o serviço militar obrigatório.",
+            "Os maiores de 70 anos de idade.",
+            "Os portadores de deficiência física motora.",
+            "Os cidadãos com condenação criminal sem trânsito em julgado.",
+            "Os policiais militares inativos."
+        ],
+        answer: 0,
+        disclaimer: "O art. 14, § 4º, da CF/88 estabelece que os inalistáveis (estrangeiros e conscritos durante o serviço militar obrigatório) e os analfabetos são inelegíveis."
     }
 ];
 
