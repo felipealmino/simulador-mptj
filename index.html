@@ -9,34 +9,93 @@
     <script src="questoes.js"></script>
 
     <style>
+        /* TEMA PADRÃO (CLARO) */
         :root {
             --bg-color: #f8fafc;
             --text-main: #1e293b;
             --text-muted: #64748b;
             --border-color: #e2e8f0;
+            
             --primary: #3b82f6;
             --primary-hover: #2563eb;
-            --logo-color: #1e3a8a; /* Azul escuro do logotipo */
+            --logo-color: #1e3a8a;
+            
+            --card-bg: #ffffff;
+            --input-bg: #f1f5f9;
+            --input-hover: #f8fafc;
+            
             --correct-bg: #d1fae5;
             --correct-border: #10b981;
+            --correct-text: #065f46;
+            
             --incorrect-bg: #fee2e2;
             --incorrect-border: #ef4444;
+            --incorrect-text: #991b1b;
+            
             --selected-bg: #eff6ff;
-            --card-bg: #ffffff;
+            
+            --disclaimer-bg: #fffbeb;
+            --disclaimer-border: #f59e0b;
+            --disclaimer-text: #b45309;
+
+            --btn-sec-bg: #e2e8f0;
+            --btn-sec-hover: #cbd5e1;
+            
+            --shadow-color: rgba(0, 0, 0, 0.05);
+        }
+
+        /* TEMA ESCURO (PALETA STUDIO) */
+        [data-theme="dark"] {
+            --bg-color: #0f172a;        
+            --card-bg: #1e293b;         
+            --text-main: #f8fafc;       
+            --text-muted: #94a3b8;      
+            --border-color: #334155;    
+            
+            --primary: #818cf8;         
+            --primary-hover: #6366f1;   
+            --logo-color: #818cf8;
+            
+            --input-bg: #0f172a;
+            --input-hover: #334155;
+            
+            --correct-bg: rgba(16, 185, 129, 0.15); 
+            --correct-border: #10b981;
+            --correct-text: #34d399;
+            
+            --incorrect-bg: rgba(239, 68, 68, 0.15);
+            --incorrect-border: #ef4444;
+            --incorrect-text: #f87171;
+            
+            --selected-bg: rgba(129, 140, 248, 0.15);
+            
+            --disclaimer-bg: rgba(245, 158, 11, 0.1);
+            --disclaimer-border: #f59e0b;
+            --disclaimer-text: #fcd34d;
+
+            --btn-sec-bg: #334155;
+            --btn-sec-hover: #475569;
+
+            --shadow-color: rgba(0, 0, 0, 0.3);
         }
 
         * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Inter', sans-serif; }
         
-        /* ESTRUTURA GLOBAL DA TELA */
-        body { background-color: var(--bg-color); color: var(--text-main); display: flex; flex-direction: column; height: 100vh; overflow: hidden; }
+        /* ESTRUTURA GLOBAL: FLEXBOX PARA ANCORAR HEADER E FOOTER */
+        body { background-color: var(--bg-color); color: var(--text-main); display: flex; flex-direction: column; height: 100vh; overflow: hidden; transition: background-color 0.3s ease, color 0.3s ease; }
 
         /* CABEÇALHO PERSONALIZADO */
-        header { background: var(--card-bg); padding: 18px 40px; border-bottom: 1px solid var(--border-color); display: flex; justify-content: space-between; align-items: center; box-shadow: 0 1px 3px rgba(0,0,0,0.03); z-index: 10; flex-shrink: 0; }
-        .logo-container { font-size: 1rem; color: var(--text-muted); display: flex; align-items: center; gap: 10px; }
-        .logo-container strong { font-weight: 800; color: var(--logo-color); font-size: 1.25rem; letter-spacing: -0.5px; }
-        .logo-container span { color: var(--border-color); }
+        header { background: var(--card-bg); padding: 18px 40px; border-bottom: 1px solid var(--border-color); display: flex; justify-content: space-between; align-items: center; box-shadow: 0 1px 3px var(--shadow-color); z-index: 10; flex-shrink: 0; transition: background-color 0.3s ease; }
+        .logo-container { font-size: 1.1rem; color: var(--text-muted); display: flex; align-items: center; gap: 8px; }
+        .logo-container strong { font-weight: 800; color: var(--logo-color); font-size: 1.3rem; letter-spacing: -0.5px; }
+        .logo-container span { color: var(--border-color); font-weight: 300; margin: 0 4px; }
+        
+        .header-controls { display: flex; align-items: center; gap: 20px; }
+        
+        /* BOTÃO DE TEMA */
+        .theme-btn { background: var(--input-bg); border: 1px solid var(--border-color); color: var(--text-main); width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; transition: 0.2s; font-size: 1.1rem; }
+        .theme-btn:hover { background: var(--border-color); }
 
-        /* BARRA DE PROGRESSO */
         #progress-bar-container { width: 100%; height: 4px; background: var(--border-color); display: none; flex-shrink: 0; }
         #progress-bar { height: 100%; width: 0%; background: var(--primary); transition: width 0.3s ease; }
 
@@ -47,70 +106,69 @@
         .screen { width: 100%; display: none; flex-direction: column; align-items: center; margin-bottom: 20px; }
         #setup-screen { display: flex; } 
 
-        .content-box { max-width: 700px; width: 100%; background: var(--card-bg); padding: 40px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05); }
+        .content-box { max-width: 700px; width: 100%; background: var(--card-bg); padding: 40px; border-radius: 12px; box-shadow: 0 4px 6px -1px var(--shadow-color); transition: background-color 0.3s ease; }
         .sim-box { max-width: 800px; width: 100%; display: flex; flex-direction: column; }
 
-        /* SETUP */
+        /* SETUP - ABAS DE CARGO */
         .setup-section { margin-bottom: 30px; width: 100%; }
-        .setup-section h2 { font-size: 1.1rem; margin-bottom: 15px; border-bottom: 2px solid var(--bg-color); padding-bottom: 8px; }
+        .setup-section h2 { font-size: 1.1rem; margin-bottom: 15px; border-bottom: 2px solid var(--border-color); padding-bottom: 8px; }
         
-        /* ABAS DE CARGO */
-        .role-tabs { display: flex; gap: 8px; margin-bottom: 20px; background: #f1f5f9; padding: 6px; border-radius: 8px; flex-wrap: wrap; }
+        .role-tabs { display: flex; gap: 8px; margin-bottom: 20px; background: var(--input-bg); padding: 6px; border-radius: 8px; flex-wrap: wrap; }
         .role-tab { flex: 1; text-align: center; padding: 10px; border-radius: 6px; font-weight: 600; font-size: 0.9rem; cursor: pointer; color: var(--text-muted); transition: 0.2s; white-space: nowrap;}
-        .role-tab.active { background: white; color: var(--primary); box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+        .role-tab.active { background: var(--card-bg); color: var(--primary); box-shadow: 0 2px 4px var(--shadow-color); }
 
-        .master-toggle { display: flex; align-items: center; justify-content: space-between; padding: 12px; background: #f1f5f9; border-radius: 8px; font-weight: 600; cursor: pointer; margin-bottom: 15px; width: 100%;}
+        .master-toggle { display: flex; align-items: center; justify-content: space-between; padding: 12px; background: var(--input-bg); border-radius: 8px; font-weight: 600; cursor: pointer; margin-bottom: 15px; width: 100%;}
         
         /* LISTA DE MATÉRIAS SCROLLÁVEL */
         .topic-list-wrapper { max-height: 350px; overflow-y: auto; padding-right: 10px; margin-bottom: 10px; width: 100%; }
         .topic-list { display: flex; flex-direction: column; gap: 10px; }
         .topic-list-wrapper::-webkit-scrollbar { width: 6px; }
         .topic-list-wrapper::-webkit-scrollbar-track { background: transparent; }
-        .topic-list-wrapper::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
+        .topic-list-wrapper::-webkit-scrollbar-thumb { background: var(--border-color); border-radius: 10px; }
         
-        .topic-item { display: flex; justify-content: space-between; align-items: center; padding: 12px 15px; background: #fff; border: 1px solid var(--border-color); border-radius: 8px; }
-        .topic-item:hover { background: #f8fafc; }
+        .topic-item { display: flex; justify-content: space-between; align-items: center; padding: 12px 15px; background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 8px; }
+        .topic-item:hover { background: var(--input-hover); }
         .topic-label { display: flex; align-items: center; gap: 10px; font-size: 0.95rem; cursor: pointer; font-weight: 500; flex: 1;}
         .topic-info { color: var(--text-muted); font-size: 0.8rem; font-weight: 400; }
         .topic-qtd-wrapper { display: flex; align-items: center; gap: 8px; font-size: 0.85rem; color: var(--text-muted); }
         
         input[type="checkbox"] { width: 18px; height: 18px; accent-color: var(--primary); cursor: pointer; }
-        input[type="number"] { width: 60px; padding: 6px; border: 1px solid var(--border-color); border-radius: 6px; text-align: center; outline: none; }
+        input[type="number"] { width: 60px; padding: 6px; border: 1px solid var(--border-color); background: var(--bg-color); color: var(--text-main); border-radius: 6px; text-align: center; outline: none; }
         input[type="number"]:focus { border-color: var(--primary); }
 
-        .timer-config { display: flex; align-items: center; gap: 15px; background: #f8fafc; padding: 15px; border-radius: 8px; border: 1px solid var(--border-color); width: 100%;}
+        .timer-config { display: flex; align-items: center; gap: 15px; background: var(--input-bg); padding: 15px; border-radius: 8px; border: 1px solid var(--border-color); width: 100%;}
         
         /* BOTÕES GERAIS */
         .btn { padding: 12px 24px; border: none; border-radius: 8px; font-size: 1rem; font-weight: 600; cursor: pointer; transition: 0.2s; display: inline-flex; justify-content: center; align-items: center; }
-        .btn-start { width: 100%; padding: 16px; background: var(--primary); color: white; font-size: 1.1rem; }
+        .btn-start { width: 100%; padding: 16px; background: var(--primary); color: #ffffff; font-size: 1.1rem; }
         .btn-start:hover { background: var(--primary-hover); }
-        .btn-secondary { background: #e2e8f0; color: var(--text-main); }
-        .btn-secondary:hover { background: #cbd5e1; }
-        .btn-danger { background: white; color: #ef4444; border: 1px solid #ef4444; }
-        .btn-danger:hover { background: #fee2e2; }
+        .btn-secondary { background: var(--btn-sec-bg); color: var(--text-main); }
+        .btn-secondary:hover { background: var(--btn-sec-hover); }
+        .btn-danger { background: transparent; color: var(--incorrect-border); border: 1px solid var(--incorrect-border); }
+        .btn-danger:hover { background: var(--incorrect-bg); }
 
         /* SIMULATION SCREEN */
         .sim-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px; font-weight: 600; color: var(--text-muted); width: 100%; }
-        .timer-display { font-size: 1.2rem; color: #ef4444; background: #fee2e2; padding: 6px 12px; border-radius: 6px; display: none; font-variant-numeric: tabular-nums; }
+        .timer-display { font-size: 1.2rem; color: var(--incorrect-border); background: var(--incorrect-bg); padding: 6px 12px; border-radius: 6px; display: none; font-variant-numeric: tabular-nums; border: 1px solid var(--incorrect-border); }
         .timer-display.warning { animation: pulse 1s infinite; }
         @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.5; } 100% { opacity: 1; } }
 
-        .question-card { background: var(--card-bg); padding: 40px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05); width: 100%; }
+        .question-card { background: var(--card-bg); padding: 40px; border-radius: 12px; box-shadow: 0 4px 6px -1px var(--shadow-color); width: 100%; }
         .q-meta { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 20px; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
-        .q-support { font-size: 0.95rem; color: var(--text-muted); line-height: 1.6; margin-bottom: 24px; padding: 16px; background: #f8fafc; border-radius: 8px; border-left: 4px solid var(--border-color); }
+        .q-support { font-size: 0.95rem; color: var(--text-muted); line-height: 1.6; margin-bottom: 24px; padding: 16px; background: var(--input-bg); border-radius: 8px; border-left: 4px solid var(--border-color); }
         .q-text { font-size: 1.15rem; font-weight: 600; line-height: 1.6; margin-bottom: 32px; }
 
         .options-list { display: flex; flex-direction: column; gap: 12px; width: 100%; }
-        .option { padding: 16px 20px; border: 2px solid var(--border-color); border-radius: 8px; cursor: pointer; font-size: 1rem; line-height: 1.5; transition: all 0.2s; display: flex; gap: 12px; }
-        .option:hover:not(.disabled) { border-color: var(--primary); background: #f8fafc; }
+        .option { padding: 16px 20px; border: 2px solid var(--border-color); border-radius: 8px; cursor: pointer; font-size: 1rem; line-height: 1.5; transition: all 0.2s; display: flex; gap: 12px; background: var(--card-bg); }
+        .option:hover:not(.disabled) { border-color: var(--primary); background: var(--input-hover); }
         
         .option.selected { border-color: var(--primary); background-color: var(--selected-bg); }
-        .option.correct { background-color: var(--correct-bg); border-color: var(--correct-border); color: #065f46; font-weight: 500; }
-        .option.incorrect { background-color: var(--incorrect-bg); border-color: var(--incorrect-border); color: #991b1b; opacity: 0.8; }
+        .option.correct { background-color: var(--correct-bg); border-color: var(--correct-border); color: var(--correct-text); font-weight: 500; }
+        .option.incorrect { background-color: var(--incorrect-bg); border-color: var(--incorrect-border); color: var(--incorrect-text); opacity: 0.8; }
         .option.disabled { cursor: default; pointer-events: none; }
 
-        .disclaimer-box { margin-top: 24px; padding: 20px; border-radius: 8px; background: #fffbeb; border-left: 4px solid #f59e0b; font-size: 1rem; line-height: 1.6; display: none; }
-        .disclaimer-box strong { color: #b45309; font-size: 1.1rem; }
+        .disclaimer-box { margin-top: 24px; padding: 20px; border-radius: 8px; background: var(--disclaimer-bg); border-left: 4px solid var(--disclaimer-border); font-size: 1rem; line-height: 1.6; display: none; }
+        .disclaimer-box strong { color: var(--disclaimer-text); font-size: 1.1rem; }
 
         .navigation { display: flex; justify-content: space-between; align-items: center; margin-top: 32px; width: 100%; gap: 15px; }
 
@@ -121,42 +179,48 @@
         .score-subtitle { color: var(--text-muted); font-size: 1.1rem; }
         
         .breakdown-list { margin-top: 30px; display: flex; flex-direction: column; gap: 12px; }
-        .breakdown-item { display: flex; justify-content: space-between; padding: 15px; background: #f8fafc; border-radius: 8px; border: 1px solid var(--border-color); }
+        .breakdown-item { display: flex; justify-content: space-between; padding: 15px; background: var(--input-bg); border-radius: 8px; border: 1px solid var(--border-color); }
         .breakdown-item span { font-weight: 500; }
-        .breakdown-score { color: var(--primary); font-weight: 700; }
+        .breakdown-score { font-weight: 700; }
         
         .results-actions { margin-top: 40px; display: flex; gap: 15px; flex-wrap: wrap;}
         .results-actions .btn { flex: 1; min-width: 150px; text-align: center;}
 
-        /* RODAPÉ PERSONALIZADO */
-        footer { padding: 15px; text-align: center; font-size: 0.85rem; color: var(--text-muted); flex-shrink: 0; background-color: var(--bg-color); }
+        /* RODAPÉ PERSONALIZADO ANCORADO */
+        footer { padding: 15px; text-align: center; font-size: 0.85rem; color: var(--text-muted); flex-shrink: 0; background-color: var(--bg-color); transition: background-color 0.3s ease; border-top: 1px solid var(--border-color);}
     </style>
 </head>
 <body>
 
-    <!-- CABEÇALHO (Recuperado do seu Design Original) -->
+    <!-- CABEÇALHO -->
     <header id="main-header">
         <div class="logo-container">
             <strong>MP/TJ</strong> <span>|</span> Estudo Reverso
+        </div>
+        
+        <div class="header-controls">
+            <button class="theme-btn" id="themeToggleBtn" onclick="toggleTheme()" title="Alternar Modo Noturno">⏾</button>
         </div>
     </header>
 
     <div id="progress-bar-container"><div id="progress-bar"></div></div>
 
+    <!-- CONTEÚDO CENTRAL ROLÁVEL -->
     <div class="app-container">
+        
         <!-- TELA 1: PREPARAÇÃO -->
         <div id="setup-screen" class="screen">
             <div class="content-box">
                 <div class="setup-section">
-                    <h2>Escolha seu Cargo-Alvo</h2>
+                    <h2>Escolha Cargo-Alvo</h2>
                     <div class="role-tabs">
                         <div class="role-tab active" data-role="juridica" onclick="mudarCargo('juridica', this)">Analista (Jurídico)</div>
                         <div class="role-tab" data-role="administrativa" onclick="mudarCargo('administrativa', this)">Técnico</div>
-                        <div class="role-tab" data-role="ti" onclick="mudarCargo('ti', this)">Analista (T.I.)</div>
+                        <div class="role-tab" data-role="ti" onclick="mudarCargo('ti', this)">Analista (Sistemas)</div>
                     </div>
 
                     <label class="master-toggle">
-                        <span>Selecionar / Desmarcar Todas as Matérias</span>
+                        <span>Selecionar / Desmarcar Todas as Visíveis</span>
                         <input type="checkbox" id="selectAllBtn" checked>
                     </label>
                     
@@ -197,6 +261,7 @@
 
                 <div class="navigation">
                     <button class="btn btn-secondary" onclick="voltarQuestao()">Anterior</button>
+                    <!-- Botão Inteligente (Muda de Encerrar Simulado para Sair da Revisão) -->
                     <button class="btn btn-danger" id="btn-encerrar" onclick="lidarBotaoEncerrar()"></button>
                     <button class="btn btn-start" style="width: auto; padding: 12px 30px;" id="btn-proxima" onclick="proximaQuestao()">Próxima</button>
                 </div>
@@ -218,8 +283,8 @@
 
                 <div class="results-actions">
                     <button class="btn btn-secondary" onclick="voltarAoInicio()">Voltar ao Início</button>
-                    <button class="btn btn-secondary" onclick="iniciarRevisao(false)">Revisar Tudo</button>
-                    <button class="btn btn-start" id="btn-revisar-erros" onclick="iniciarRevisao(true)">Revisar Meus Erros</button>
+                    <button class="btn btn-secondary" onclick="iniciarRevisao(false)">Revisar Todas as Questões</button>
+                    <button class="btn btn-start" id="btn-revisar-erros" onclick="iniciarRevisao(true)">Revisar Apenas Meus Erros</button>
                 </div>
             </div>
         </div>
@@ -231,11 +296,29 @@
     </footer>
 
     <script>
+        // GERENCIAMENTO DE TEMA (DARK/LIGHT MODE)
+        const themeBtn = document.getElementById('themeToggleBtn');
+        
+        function applyTheme(theme) {
+            document.documentElement.setAttribute('data-theme', theme);
+            localStorage.setItem('simulador-theme', theme);
+            themeBtn.innerText = theme === 'dark' ? '☀︎' : '⏾';
+        }
+
+        function toggleTheme() {
+            const currentTheme = document.documentElement.getAttribute('data-theme');
+            applyTheme(currentTheme === 'dark' ? 'light' : 'dark');
+        }
+
+        const savedTheme = localStorage.getItem('simulador-theme') || 'light';
+        applyTheme(savedTheme);
+
+
+        // CARREGAMENTO SEGURO DOS BANCOS DE DADOS
         function carregarBanco(nomeVariavel) {
             try { return eval(nomeVariavel); } catch (e) { return []; }
         }
 
-        // MAPEAMENTO DOS CARGOS E BANCOS
         const todasAsDisciplinas = [
             { id: 'banco_pt', nome: 'Língua Portuguesa', cargos: ['juridica', 'administrativa', 'ti'] },
             { id: 'banco_rlm', nome: 'Raciocínio Lógico (RLM)', cargos: ['juridica', 'administrativa', 'ti'] },
@@ -307,6 +390,7 @@
             document.getElementById('timeInputGroup').style.display = e.target.checked ? 'flex' : 'none';
         });
 
+        // 1. INICIAR SIMULADO (MODO CEGO)
         window.iniciarSimulado = function() {
             questoesSimulado = [];
             const checkboxes = document.querySelectorAll('.topic-cb:checked');
@@ -358,6 +442,7 @@
             renderizarQuestao();
         }
 
+        // 2. RENDERIZAR QUESTÃO
         window.renderizarQuestao = function() {
             const q = questoesVisiveis[indiceAtual];
             
@@ -383,11 +468,13 @@
                 let classes = "option";
                 
                 if (!modoRevisao) {
+                    // MODO PROVA: Sem mostrar gabarito, apenas a seleção
                     if (q.selecionada === idx) classes += " selected";
                     html += `<div class="${classes}" onclick="marcarAlternativa(${idx})">
                                 <strong>${letra})</strong> <span>${opt}</span>
                              </div>`;
                 } else {
+                    // MODO REVISÃO: Mostra cores e trava cliques
                     classes += " disabled";
                     if (idx === q.answer) classes += " correct"; 
                     else if (idx === q.selecionada) classes += " incorrect"; 
@@ -399,6 +486,7 @@
             });
             html += `</div>`; 
 
+            // Disclaimer aparece APENAS na revisão
             if (modoRevisao) {
                 html += `<div class="disclaimer-box" style="display:block;">
                             <strong>Veje bem:</strong> ${q.disclaimer}
@@ -435,9 +523,10 @@
             }
         }
 
+        // LIDA COM O BOTÃO INFERIOR CENTRAL
         window.lidarBotaoEncerrar = function() {
             if(modoRevisao) {
-                mostrarResultados();
+                mostrarResultados(); // Volta pro painel se sair no meio da revisão
             } else {
                 confirmarFimSimulado(false);
             }
@@ -453,6 +542,7 @@
             mostrarResultados();
         }
 
+        // 3. TELA DE RESULTADOS E MÉTRICAS
         let metricas = { corretas: 0, errosList: [] };
 
         function calcularMetricas() {
@@ -487,7 +577,7 @@
             let breakdownHtml = "";
             for (const [disc, dados] of Object.entries(performance)) {
                 let percDisc = Math.round((dados.certas / dados.total) * 100);
-                let cor = percDisc >= 70 ? '#10b981' : (percDisc >= 50 ? '#f59e0b' : '#ef4444');
+                let cor = percDisc >= 70 ? 'var(--correct-border)' : (percDisc >= 50 ? 'var(--disclaimer-border)' : 'var(--incorrect-border)');
                 breakdownHtml += `
                     <div class="breakdown-item">
                         <span>${disc}</span>
@@ -504,6 +594,7 @@
             document.getElementById('results-screen').style.display = 'flex';
         }
 
+        // 4. INICIAR REVISÃO
         window.iniciarRevisao = function(apenasErros) {
             if (apenasErros && metricas.errosList.length === 0) return;
             
@@ -530,6 +621,7 @@
             document.getElementById('progress-bar-container').style.display = 'none';
         }
 
+        // TIMER LOGIC
         function contagemRegressiva() {
             if (tempoRestante <= 0) {
                 clearInterval(timerInterval);
@@ -550,6 +642,7 @@
             document.getElementById('timerDisplay').innerText = `${h}:${m}:${s}`;
         }
 
+        // Init
         renderizarDisciplinas('juridica');
     </script>
 </body>
