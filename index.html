@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simulador | Modo Foco</title>
+    <title>Simulador Pessoal</title>
     
-    <!-- Importando fonte limpa e focada em leitura -->
+    <!-- Fonte limpa e legível -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     
     <!-- Carregamento do seu Banco de Dados -->
@@ -13,13 +13,12 @@
 
     <style>
         :root {
-            /* Paleta Minimalista (Light Mode) */
             --bg-color: #f8fafc;
-            --sidebar-bg: #ffffff;
             --text-main: #1e293b;
             --text-muted: #64748b;
             --border-color: #e2e8f0;
             --primary: #3b82f6;
+            --primary-hover: #2563eb;
             --correct-bg: #d1fae5;
             --correct-border: #10b981;
             --incorrect-bg: #fee2e2;
@@ -28,100 +27,137 @@
         }
 
         * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Inter', sans-serif; }
-        
-        body { background-color: var(--bg-color); color: var(--text-main); display: flex; height: 100vh; overflow: hidden; }
+        body { background-color: var(--bg-color); color: var(--text-main); display: flex; flex-direction: column; height: 100vh; overflow: hidden; }
 
-        /* Barra de Progresso no Topo */
-        #progress-bar-container { position: fixed; top: 0; left: 0; width: 100%; height: 4px; background: var(--border-color); z-index: 100; }
+        /* HEADER PESSOAL */
+        header { background: var(--card-bg); padding: 20px 40px; border-bottom: 1px solid var(--border-color); display: flex; justify-content: space-between; align-items: center; box-shadow: 0 1px 3px rgba(0,0,0,0.05); z-index: 10; }
+        header h1 { font-size: 1.2rem; font-weight: 700; color: var(--primary); }
+        header p { font-size: 0.9rem; color: var(--text-muted); font-weight: 500; }
+
+        /* BARRA DE PROGRESSO */
+        #progress-bar-container { width: 100%; height: 4px; background: var(--border-color); display: none; }
         #progress-bar { height: 100%; width: 0%; background: var(--primary); transition: width 0.3s ease; }
 
-        /* Sidebar - Filtros */
-        .sidebar { width: 320px; background: var(--sidebar-bg); border-right: 1px solid var(--border-color); padding: 24px; display: flex; flex-direction: column; gap: 20px; overflow-y: auto; }
-        .sidebar h2 { font-size: 1.2rem; font-weight: 600; }
+        /* CONTAINER PRINCIPAL (Rola caso necessário) */
+        .app-container { flex: 1; overflow-y: auto; display: flex; justify-content: center; padding: 40px 20px; }
+
+        /* TELA 1: SETUP DO SIMULADO */
+        #setup-screen { max-width: 600px; width: 100%; background: var(--card-bg); padding: 40px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05); }
+        .setup-section { margin-bottom: 30px; }
+        .setup-section h2 { font-size: 1.1rem; margin-bottom: 15px; border-bottom: 2px solid var(--bg-color); padding-bottom: 8px; }
         
-        /* Toggle Switch - Selecionar Todos */
-        .master-toggle { display: flex; align-items: center; justify-content: space-between; padding: 12px; background: #f1f5f9; border-radius: 8px; font-weight: 600; cursor: pointer; }
-        .topic-list { display: flex; flex-direction: column; gap: 10px; }
-        .topic-label { display: flex; align-items: center; gap: 10px; font-size: 0.95rem; cursor: pointer; padding: 8px; border-radius: 6px; transition: background 0.2s; }
+        .master-toggle { display: flex; align-items: center; justify-content: space-between; padding: 12px; background: #f1f5f9; border-radius: 8px; font-weight: 600; cursor: pointer; margin-bottom: 15px; }
+        .topic-list { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+        .topic-label { display: flex; align-items: center; gap: 10px; font-size: 0.95rem; cursor: pointer; padding: 8px; border-radius: 6px; }
         .topic-label:hover { background: #f1f5f9; }
         
         input[type="checkbox"] { width: 18px; height: 18px; accent-color: var(--primary); cursor: pointer; }
+        input[type="number"] { width: 80px; padding: 8px; border: 1px solid var(--border-color); border-radius: 6px; font-size: 1rem; text-align: center; }
 
-        /* Área Principal - Modo Foco */
-        .main-content { flex: 1; padding: 40px; overflow-y: auto; display: flex; flex-direction: column; align-items: center; }
-        .question-container { max-width: 800px; width: 100%; background: var(--card-bg); padding: 40px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05); }
+        .timer-config { display: flex; align-items: center; gap: 15px; background: #f8fafc; padding: 15px; border-radius: 8px; border: 1px solid var(--border-color); }
+
+        .btn-start { width: 100%; padding: 16px; background: var(--primary); color: white; border: none; border-radius: 8px; font-size: 1.1rem; font-weight: 600; cursor: pointer; transition: 0.2s; }
+        .btn-start:hover { background: var(--primary-hover); }
+
+        /* TELA 2: MODO FOCO (SIMULADOR) */
+        #simulation-screen { max-width: 800px; width: 100%; display: none; flex-direction: column; }
         
-        /* Cabeçalho da Questão */
-        .q-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px; font-size: 0.9rem; color: var(--text-muted); font-weight: 500; }
+        .sim-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px; font-weight: 600; color: var(--text-muted); }
+        .timer-display { font-size: 1.2rem; color: #ef4444; background: #fee2e2; padding: 6px 12px; border-radius: 6px; display: none; }
+        
+        .question-card { background: var(--card-bg); padding: 40px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05); }
+        .q-meta { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 20px; text-transform: uppercase; letter-spacing: 0.5px; }
         .q-support { font-size: 0.95rem; color: var(--text-muted); line-height: 1.6; margin-bottom: 24px; padding: 16px; background: #f8fafc; border-radius: 8px; border-left: 4px solid var(--border-color); }
         .q-text { font-size: 1.15rem; font-weight: 600; line-height: 1.6; margin-bottom: 32px; }
 
-        /* Alternativas */
         .options-list { display: flex; flex-direction: column; gap: 12px; }
         .option { padding: 16px 20px; border: 2px solid var(--border-color); border-radius: 8px; cursor: pointer; font-size: 1rem; line-height: 1.5; transition: all 0.2s; display: flex; gap: 12px; }
         .option:hover:not(.disabled) { border-color: var(--primary); background: #f0fdf4; }
         .option.disabled { cursor: not-allowed; }
-        
         .option.correct { background-color: var(--correct-bg); border-color: var(--correct-border); color: #065f46; font-weight: 500; }
         .option.incorrect { background-color: var(--incorrect-bg); border-color: var(--incorrect-border); color: #991b1b; opacity: 0.7; }
 
-        /* Feedback - "Veje bem" */
         .disclaimer-box { margin-top: 24px; padding: 20px; border-radius: 8px; background: #fffbeb; border-left: 4px solid #f59e0b; font-size: 1rem; line-height: 1.6; display: none; animation: slideDown 0.3s ease forwards; }
         .disclaimer-box strong { color: #b45309; font-size: 1.1rem; }
 
-        @keyframes slideDown {
-            from { opacity: 0; transform: translateY(-10px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
+        @keyframes slideDown { from { opacity: 0; transform: translateY(-10px); } to { opacity: 1; transform: translateY(0); } }
 
-        /* Navegação */
-        .navigation { display: flex; justify-content: space-between; margin-top: 32px; width: 100%; max-width: 800px; }
+        .navigation { display: flex; justify-content: space-between; margin-top: 32px; }
         .btn { padding: 12px 24px; border: none; border-radius: 8px; font-size: 1rem; font-weight: 600; cursor: pointer; transition: 0.2s; }
         .btn-secondary { background: #e2e8f0; color: var(--text-main); }
         .btn-secondary:hover { background: #cbd5e1; }
-        .btn-primary { background: var(--primary); color: white; }
-        .btn-primary:hover { background: var(--primary-hover); }
+        .btn-danger { background: white; color: #ef4444; border: 1px solid #ef4444; }
+        .btn-danger:hover { background: #fee2e2; }
 
-        /* Estado Vazio */
-        .empty-state { text-align: center; color: var(--text-muted); margin-top: 100px; }
     </style>
 </head>
 <body>
 
+    <!-- CABEÇALHO PESSOAL (Fixo) -->
+    <header id="main-header">
+        <h1>Simulador PRO</h1>
+        <!-- AQUI VOCÊ PODE INSERIR SEU NOME OU FRASE MOTIVACIONAL -->
+        <p>Projeto de Aprovação - [Seu Nome]</p>
+    </header>
+
+    <!-- BARRA DE PROGRESSO DO SIMULADO -->
     <div id="progress-bar-container"><div id="progress-bar"></div></div>
 
-    <!-- PAINEL LATERAL -->
-    <aside class="sidebar">
-        <h2>Disciplinas</h2>
+    <div class="app-container">
         
-        <!-- O NOVO BOTÃO GLOBAL (Funcional e Confiável) -->
-        <label class="master-toggle">
-            <span>Selecionar / Desmarcar Todas</span>
-            <input type="checkbox" id="selectAllBtn" checked>
-        </label>
-        
-        <hr style="border: 0; border-top: 1px solid var(--border-color);">
-        
-        <div class="topic-list" id="topic-list">
-            <!-- Gerado via JS -->
-        </div>
-    </aside>
+        <!-- TELA 1: PREPARAÇÃO E FILTROS -->
+        <div id="setup-screen">
+            <div class="setup-section">
+                <h2>1. Escolha as Disciplinas</h2>
+                <label class="master-toggle">
+                    <span>Selecionar / Desmarcar Todas</span>
+                    <input type="checkbox" id="selectAllBtn" checked>
+                </label>
+                <div class="topic-list" id="topic-list">
+                    <!-- Checkboxes injetados pelo JS -->
+                </div>
+            </div>
 
-    <!-- ÁREA DA QUESTÃO (MODO FOCO) -->
-    <main class="main-content">
-        <div id="question-area" style="width: 100%; display: flex; flex-direction: column; align-items: center;">
-            <!-- Conteúdo injetado via JS -->
+            <div class="setup-section">
+                <h2>2. Controle de Tempo</h2>
+                <div class="timer-config">
+                    <label style="display: flex; align-items: center; gap: 10px; font-weight: 500; cursor: pointer;">
+                        <input type="checkbox" id="enableTimer" checked>
+                        Ativar Cronômetro
+                    </label>
+                    <div id="timeInputGroup" style="display: flex; align-items: center; gap: 10px;">
+                        <input type="number" id="simTime" value="60" min="1" max="300">
+                        <span style="color: var(--text-muted); font-size: 0.9rem;">minutos</span>
+                    </div>
+                </div>
+            </div>
+
+            <button class="btn-start" onclick="iniciarSimulado()">INICIAR SIMULADO</button>
         </div>
 
-        <div class="navigation" id="nav-area" style="display: none;">
-            <button class="btn btn-secondary" id="btn-prev">Anterior</button>
-            <span id="counter" style="align-self: center; font-weight: 500; color: var(--text-muted);"></span>
-            <button class="btn btn-primary" id="btn-next">Próxima</button>
+
+        <!-- TELA 2: MODO FOCO (SIMULADOR) -->
+        <div id="simulation-screen">
+            <div class="sim-header">
+                <span id="counter">Questão 1 de 10</span>
+                <div class="timer-display" id="timerDisplay">00:00:00</div>
+            </div>
+
+            <div class="question-card" id="question-area">
+                <!-- Questão injetada pelo JS -->
+            </div>
+
+            <div class="navigation">
+                <button class="btn btn-secondary" onclick="voltarQuestao()">Anterior</button>
+                <button class="btn btn-danger" onclick="encerrarSimulado()">Encerrar Simulado</button>
+                <button class="btn btn-start" style="width: auto; padding: 12px 30px;" onclick="proximaQuestao()">Próxima</button>
+            </div>
         </div>
-    </main>
+
+    </div>
 
     <script>
-        // 1. MAPEAMENTO SEGURO DOS BANCOS (Evita quebrar se um banco não existir no questoes.js)
+        // 1. MAPEAMENTO SEGURO DOS BANCOS
         const fontes = [
             { id: 'banco_pt', nome: 'Língua Portuguesa', data: typeof banco_pt !== 'undefined' ? banco_pt : [] },
             { id: 'banco_rlm', nome: 'Raciocínio Lógico', data: typeof banco_rlm !== 'undefined' ? banco_rlm : [] },
@@ -137,150 +173,144 @@
         let questoesAtivas = [];
         let indiceAtual = 0;
         let respondida = false;
+        
+        // Timer Variables
+        let timerInterval;
+        let tempoRestante = 0; // em segundos
 
-        // 2. INICIALIZAÇÃO DA INTERFACE (Renderiza Sidebar)
+        // 2. INICIALIZAR CHECKBOXES
         const topicList = document.getElementById('topic-list');
         fontes.forEach(fonte => {
             if(fonte.data.length > 0) {
                 const label = document.createElement('label');
                 label.className = 'topic-label';
-                label.innerHTML = `
-                    <input type="checkbox" class="topic-cb" value="${fonte.id}" checked>
-                    ${fonte.nome} <span style="color: #94a3b8; font-size: 0.8rem;">(${fonte.data.length})</span>
-                `;
+                label.innerHTML = `<input type="checkbox" class="topic-cb" value="${fonte.id}" checked> ${fonte.nome}`;
                 topicList.appendChild(label);
             }
         });
 
-        // 3. LÓGICA BLINDADA DO BOTÃO "SELECIONAR TODOS"
+        // 3. LÓGICA DO MASTER TOGGLE (Selecionar Todos)
         const selectAllBtn = document.getElementById('selectAllBtn');
         const checkboxes = document.querySelectorAll('.topic-cb');
 
         selectAllBtn.addEventListener('change', (e) => {
             checkboxes.forEach(cb => cb.checked = e.target.checked);
-            carregarQuestoes();
         });
 
         checkboxes.forEach(cb => {
             cb.addEventListener('change', () => {
-                // Se algum for desmarcado, desmarca o mestre. Se todos marcados, marca o mestre.
-                const allChecked = Array.from(checkboxes).every(c => c.checked);
-                selectAllBtn.checked = allChecked;
-                carregarQuestoes();
+                selectAllBtn.checked = Array.from(checkboxes).every(c => c.checked);
             });
         });
 
-        // 4. MOTOR DE RENDERIZAÇÃO E FILTRAGEM
-        function carregarQuestoes() {
+        // Toggle do campo de minutos
+        document.getElementById('enableTimer').addEventListener('change', (e) => {
+            document.getElementById('timeInputGroup').style.display = e.target.checked ? 'flex' : 'none';
+        });
+
+        // 4. INICIAR SIMULADO
+        function iniciarSimulado() {
             questoesAtivas = [];
             checkboxes.forEach(cb => {
                 if(cb.checked) {
                     const fonte = fontes.find(f => f.id === cb.value);
-                    // Adiciona o nome da disciplina dentro do objeto da questão para exibir na tela
                     const questoesMapeadas = fonte.data.map(q => ({...q, disciplina: fonte.nome}));
                     questoesAtivas = questoesAtivas.concat(questoesMapeadas);
                 }
             });
 
-            // Embaralhar banco (Opcional - Atualmente apenas reseta o índice)
-            indiceAtual = 0;
-            renderizarQuestao();
-        }
-
-        function renderizarQuestao() {
-            const area = document.getElementById('question-area');
-            const nav = document.getElementById('nav-area');
-            const counter = document.getElementById('counter');
-            const progress = document.getElementById('progress-bar');
-            respondida = false;
-
             if(questoesAtivas.length === 0) {
-                area.innerHTML = `<div class="empty-state"><h2>Nenhuma disciplina selecionada</h2><p>Use o painel lateral para escolher o que estudar.</p></div>`;
-                nav.style.display = 'none';
-                progress.style.width = '0%';
+                alert("Selecione pelo menos uma disciplina para gerar o simulado!");
                 return;
             }
 
-            const q = questoesAtivas[indiceAtual];
-            nav.style.display = 'flex';
-            counter.innerText = `Questão ${indiceAtual + 1} de ${questoesAtivas.length}`;
-            progress.style.width = `${((indiceAtual + 1) / questoesAtivas.length) * 100}%`;
+            // Embaralhar as questões
+            questoesAtivas.sort(() => Math.random() - 0.5);
+            indiceAtual = 0;
 
-            let html = `<div class="question-container">`;
-            html += `<div class="q-header"><span>${q.disciplina}</span><span>${q.topic}</span></div>`;
+            // Setup UI
+            document.getElementById('setup-screen').style.display = 'none';
+            document.getElementById('simulation-screen').style.display = 'flex';
+            document.getElementById('progress-bar-container').style.display = 'block';
             
+            // Iniciar Timer se ativado
+            const usarTimer = document.getElementById('enableTimer').checked;
+            const displayTimer = document.getElementById('timerDisplay');
+            if(usarTimer) {
+                const minutos = parseInt(document.getElementById('simTime').value);
+                tempoRestante = minutos * 60;
+                displayTimer.style.display = 'block';
+                atualizarDisplayTempo();
+                timerInterval = setInterval(contagemRegressiva, 1000);
+            } else {
+                displayTimer.style.display = 'none';
+            }
+
+            renderizarQuestao();
+        }
+
+        // 5. RENDERIZAR A QUESTÃO
+        function renderizarQuestao() {
+            respondida = false;
+            const q = questoesAtivas[indiceAtual];
+            
+            document.getElementById('counter').innerText = `Questão ${indiceAtual + 1} de ${questoesAtivas.length}`;
+            document.getElementById('progress-bar').style.width = `${((indiceAtual + 1) / questoesAtivas.length) * 100}%`;
+
+            let html = `<div class="q-meta">${q.disciplina} • ${q.topic}</div>`;
             if(q.supportText && q.supportText.trim() !== "") {
                 html += `<div class="q-support">${q.supportText}</div>`;
             }
-            
             html += `<div class="q-text">${q.q}</div>`;
             html += `<div class="options-list">`;
             
             q.options.forEach((opt, idx) => {
-                // Usando letras (A, B, C...) para as opções
                 const letra = String.fromCharCode(65 + idx);
                 html += `<div class="option" onclick="verificarResposta(${idx}, ${q.answer}, this)">
                             <strong>${letra})</strong> <span>${opt}</span>
                          </div>`;
             });
-            
-            html += `</div>`; // fecha options-list
-            
-            // O FAMOSO "VEJE BEM" PREPARADO PARA APARECER
+            html += `</div>`; 
+
             html += `<div class="disclaimer-box" id="disclaimer">
                         <strong>Veje bem:</strong> ${q.disclaimer}
                      </div>`;
             
-            html += `</div>`; // fecha question-container
-            area.innerHTML = html;
-
-            // Scroll suave pro topo da questão
-            document.querySelector('.main-content').scrollTop = 0;
+            document.getElementById('question-area').innerHTML = html;
+            document.querySelector('.app-container').scrollTop = 0;
         }
 
-        // 5. APRENDIZADO GUIADO PELO ERRO (Interação de Resposta)
+        // 6. INTERAÇÃO (APRENDIZADO GUIADO PELO ERRO)
         window.verificarResposta = function(escolhida, correta, elementoClicado) {
-            if(respondida) return; // Trava a questão após responder
+            if(respondida) return;
             respondida = true;
-
             const opcoes = document.querySelectorAll('.option');
-            
             opcoes.forEach((opt, idx) => {
-                opt.classList.add('disabled'); // Desativa hover e clique
-                if(idx === correta) {
-                    opt.classList.add('correct');
-                } else if (idx === escolhida && escolhida !== correta) {
-                    opt.classList.add('incorrect');
-                }
+                opt.classList.add('disabled');
+                if(idx === correta) opt.classList.add('correct');
+                else if (idx === escolhida) opt.classList.add('incorrect');
             });
-
-            // Exibe a fundamentação "Veje bem" com animação
             document.getElementById('disclaimer').style.display = 'block';
         };
 
-        // 6. NAVEGAÇÃO
-        document.getElementById('btn-next').addEventListener('click', () => {
+        // 7. NAVEGAÇÃO E CONTROLES
+        function proximaQuestao() {
             if(indiceAtual < questoesAtivas.length - 1) {
                 indiceAtual++;
                 renderizarQuestao();
+            } else {
+                alert("Simulado concluído! Bom trabalho.");
+                encerrarSimulado();
             }
-        });
+        }
 
-        document.getElementById('btn-prev').addEventListener('click', () => {
+        function voltarQuestao() {
             if(indiceAtual > 0) {
                 indiceAtual--;
                 renderizarQuestao();
             }
-        });
+        }
 
-        // Atalhos de teclado (Setas)
-        document.addEventListener('keydown', (e) => {
-            if(e.key === 'ArrowRight') document.getElementById('btn-next').click();
-            if(e.key === 'ArrowLeft') document.getElementById('btn-prev').click();
-        });
-
-        // Inicia o app
-        carregarQuestoes();
-    </script>
-</body>
-</html>
+        function encerrarSimulado() {
+            clearInterval(timerInterval);
+            document.getElementById('simulation-screen').style.display = 'none';
