@@ -3,12 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simulador Pessoal</title>
+    <title>Simulador PRO | Modo Foco</title>
     
-    <!-- Fonte limpa e legível -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    
-    <!-- Carregamento do seu Banco de Dados -->
     <script src="questoes.js"></script>
 
     <style>
@@ -29,44 +26,48 @@
         * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Inter', sans-serif; }
         body { background-color: var(--bg-color); color: var(--text-main); display: flex; flex-direction: column; height: 100vh; overflow: hidden; }
 
-        /* HEADER PESSOAL */
         header { background: var(--card-bg); padding: 20px 40px; border-bottom: 1px solid var(--border-color); display: flex; justify-content: space-between; align-items: center; box-shadow: 0 1px 3px rgba(0,0,0,0.05); z-index: 10; }
         header h1 { font-size: 1.2rem; font-weight: 700; color: var(--primary); }
         header p { font-size: 0.9rem; color: var(--text-muted); font-weight: 500; }
 
-        /* BARRA DE PROGRESSO */
         #progress-bar-container { width: 100%; height: 4px; background: var(--border-color); display: none; }
         #progress-bar { height: 100%; width: 0%; background: var(--primary); transition: width 0.3s ease; }
 
-        /* CONTAINER PRINCIPAL (Rola caso necessário) */
         .app-container { flex: 1; overflow-y: auto; display: flex; justify-content: center; padding: 40px 20px; }
 
-        /* TELA 1: SETUP DO SIMULADO */
-        #setup-screen { max-width: 600px; width: 100%; background: var(--card-bg); padding: 40px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05); }
+        /* SETUP SCREEN */
+        #setup-screen { max-width: 700px; width: 100%; background: var(--card-bg); padding: 40px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05); }
         .setup-section { margin-bottom: 30px; }
         .setup-section h2 { font-size: 1.1rem; margin-bottom: 15px; border-bottom: 2px solid var(--bg-color); padding-bottom: 8px; }
         
         .master-toggle { display: flex; align-items: center; justify-content: space-between; padding: 12px; background: #f1f5f9; border-radius: 8px; font-weight: 600; cursor: pointer; margin-bottom: 15px; }
-        .topic-list { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
-        .topic-label { display: flex; align-items: center; gap: 10px; font-size: 0.95rem; cursor: pointer; padding: 8px; border-radius: 6px; }
-        .topic-label:hover { background: #f1f5f9; }
+        
+        .topic-list { display: flex; flex-direction: column; gap: 10px; }
+        .topic-item { display: flex; justify-content: space-between; align-items: center; padding: 10px 15px; background: #fff; border: 1px solid var(--border-color); border-radius: 8px; }
+        .topic-item:hover { background: #f8fafc; }
+        
+        .topic-label { display: flex; align-items: center; gap: 10px; font-size: 0.95rem; cursor: pointer; font-weight: 500;}
+        .topic-info { color: var(--text-muted); font-size: 0.8rem; font-weight: 400; }
+        
+        .topic-qtd-wrapper { display: flex; align-items: center; gap: 8px; font-size: 0.85rem; color: var(--text-muted); }
         
         input[type="checkbox"] { width: 18px; height: 18px; accent-color: var(--primary); cursor: pointer; }
-        input[type="number"] { width: 80px; padding: 8px; border: 1px solid var(--border-color); border-radius: 6px; font-size: 1rem; text-align: center; }
+        input[type="number"] { width: 60px; padding: 6px; border: 1px solid var(--border-color); border-radius: 6px; text-align: center; outline: none; }
+        input[type="number"]:focus { border-color: var(--primary); }
 
         .timer-config { display: flex; align-items: center; gap: 15px; background: #f8fafc; padding: 15px; border-radius: 8px; border: 1px solid var(--border-color); }
 
         .btn-start { width: 100%; padding: 16px; background: var(--primary); color: white; border: none; border-radius: 8px; font-size: 1.1rem; font-weight: 600; cursor: pointer; transition: 0.2s; }
         .btn-start:hover { background: var(--primary-hover); }
 
-        /* TELA 2: MODO FOCO (SIMULADOR) */
+        /* SIMULATION SCREEN */
         #simulation-screen { max-width: 800px; width: 100%; display: none; flex-direction: column; }
         
         .sim-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px; font-weight: 600; color: var(--text-muted); }
-        .timer-display { font-size: 1.2rem; color: #ef4444; background: #fee2e2; padding: 6px 12px; border-radius: 6px; display: none; }
+        .timer-display { font-size: 1.2rem; color: #ef4444; background: #fee2e2; padding: 6px 12px; border-radius: 6px; display: none; font-variant-numeric: tabular-nums; }
         
         .question-card { background: var(--card-bg); padding: 40px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05); }
-        .q-meta { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 20px; text-transform: uppercase; letter-spacing: 0.5px; }
+        .q-meta { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 20px; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
         .q-support { font-size: 0.95rem; color: var(--text-muted); line-height: 1.6; margin-bottom: 24px; padding: 16px; background: #f8fafc; border-radius: 8px; border-left: 4px solid var(--border-color); }
         .q-text { font-size: 1.15rem; font-weight: 600; line-height: 1.6; margin-bottom: 32px; }
 
@@ -88,33 +89,28 @@
         .btn-secondary:hover { background: #cbd5e1; }
         .btn-danger { background: white; color: #ef4444; border: 1px solid #ef4444; }
         .btn-danger:hover { background: #fee2e2; }
-
     </style>
 </head>
 <body>
 
-    <!-- CABEÇALHO PESSOAL (Fixo) -->
     <header id="main-header">
         <h1>Simulador PRO</h1>
-        <!-- AQUI VOCÊ PODE INSERIR SEU NOME OU FRASE MOTIVACIONAL -->
         <p>Projeto de Aprovação - [Seu Nome]</p>
     </header>
 
-    <!-- BARRA DE PROGRESSO DO SIMULADO -->
     <div id="progress-bar-container"><div id="progress-bar"></div></div>
 
     <div class="app-container">
-        
-        <!-- TELA 1: PREPARAÇÃO E FILTROS -->
+        <!-- TELA 1: PREPARAÇÃO -->
         <div id="setup-screen">
             <div class="setup-section">
-                <h2>1. Escolha as Disciplinas</h2>
+                <h2>1. Escolha as Disciplinas e a Quantidade</h2>
                 <label class="master-toggle">
                     <span>Selecionar / Desmarcar Todas</span>
                     <input type="checkbox" id="selectAllBtn" checked>
                 </label>
                 <div class="topic-list" id="topic-list">
-                    <!-- Checkboxes injetados pelo JS -->
+                    <!-- Gerado dinamicamente -->
                 </div>
             </div>
 
@@ -135,16 +131,15 @@
             <button class="btn-start" onclick="iniciarSimulado()">INICIAR SIMULADO</button>
         </div>
 
-
-        <!-- TELA 2: MODO FOCO (SIMULADOR) -->
+        <!-- TELA 2: MODO FOCO -->
         <div id="simulation-screen">
             <div class="sim-header">
-                <span id="counter">Questão 1 de 10</span>
+                <span id="counter">Questão 1 de X</span>
                 <div class="timer-display" id="timerDisplay">00:00:00</div>
             </div>
 
             <div class="question-card" id="question-area">
-                <!-- Questão injetada pelo JS -->
+                <!-- Injetado via JS -->
             </div>
 
             <div class="navigation">
@@ -153,43 +148,70 @@
                 <button class="btn btn-start" style="width: auto; padding: 12px 30px;" onclick="proximaQuestao()">Próxima</button>
             </div>
         </div>
-
     </div>
 
     <script>
-        // 1. MAPEAMENTO SEGURO DOS BANCOS
-        const fontes = [
-            { id: 'banco_pt', nome: 'Língua Portuguesa', data: typeof banco_pt !== 'undefined' ? banco_pt : [] },
-            { id: 'banco_rlm', nome: 'Raciocínio Lógico', data: typeof banco_rlm !== 'undefined' ? banco_rlm : [] },
-            { id: 'banco_adm', nome: 'Dir. Administrativo', data: typeof banco_adm !== 'undefined' ? banco_adm : [] },
-            { id: 'banco_const', nome: 'Dir. Constitucional', data: typeof banco_const !== 'undefined' ? banco_const : [] },
-            { id: 'banco_civil', nome: 'Direito Civil', data: typeof banco_civil !== 'undefined' ? banco_civil : [] },
-            { id: 'banco_proc_civil', nome: 'Processo Civil', data: typeof banco_proc_civil !== 'undefined' ? banco_proc_civil : [] },
-            { id: 'banco_penal', nome: 'Direito Penal', data: typeof banco_penal !== 'undefined' ? banco_penal : [] },
-            { id: 'banco_proc_penal', nome: 'Processo Penal', data: typeof banco_proc_penal !== 'undefined' ? banco_proc_penal : [] },
-            { id: 'banco_info', nome: 'Noções de Informática', data: typeof banco_info !== 'undefined' ? banco_info : [] }
+        // FUNÇÃO SEGURA PARA CARREGAR OS BANCOS SEM QUEBRAR O SCRIPT
+        function carregarBanco(nomeVariavel) {
+            try {
+                return eval(nomeVariavel);
+            } catch (e) {
+                return [];
+            }
+        }
+
+        // 1. MAPEAMENTO DE TODAS AS DISCIPLINAS POSSÍVEIS
+        const todasAsDisciplinas = [
+            { id: 'banco_pt', nome: 'Língua Portuguesa' },
+            { id: 'banco_rlm', nome: 'Raciocínio Lógico (RLM)' },
+            { id: 'banco_noc_adm', nome: 'Noções de Administração' },
+            { id: 'banco_adm', nome: 'Direito Administrativo' },
+            { id: 'banco_const', nome: 'Direito Constitucional' },
+            { id: 'banco_civil', nome: 'Direito Civil' },
+            { id: 'banco_proc_civil', nome: 'Processo Civil' },
+            { id: 'banco_penal', nome: 'Direito Penal' },
+            { id: 'banco_proc_penal', nome: 'Processo Penal' },
+            { id: 'banco_legis_mppe', nome: 'Legislação MPPE' },
+            { id: 'banco_info', nome: 'Noções de Informática' },
+            { id: 'banco_eng_soft_ia', nome: 'Engenharia de Software e IA' },
+            { id: 'banco_seg_ti', nome: 'Segurança da Informação' },
+            { id: 'banco_infra_bd', nome: 'Infraestrutura e Banco de Dados' },
+            { id: 'banco_gov_ti', nome: 'Governança de TI' }
         ];
+
+        // Filtra apenas as disciplinas que realmente existem e têm questões no arquivo
+        const fontesDisponiveis = todasAsDisciplinas.map(d => ({
+            ...d,
+            data: carregarBanco(d.id)
+        })).filter(d => d.data && d.data.length > 0);
 
         let questoesAtivas = [];
         let indiceAtual = 0;
         let respondida = false;
         
-        // Timer Variables
         let timerInterval;
-        let tempoRestante = 0; // em segundos
+        let tempoRestante = 0;
 
-        // 2. INICIALIZAR CHECKBOXES
+        // 2. RENDERIZAR O PAINEL DE DISCIPLINAS COM INPUT DE QUANTIDADE
         const topicList = document.getElementById('topic-list');
-        fontes.forEach(fonte => {
-            if(fonte.data.length > 0) {
-                const label = document.createElement('label');
-                label.className = 'topic-label';
-                label.innerHTML = `<input type="checkbox" class="topic-cb" value="${fonte.id}" checked> ${fonte.nome}`;
-                topicList.appendChild(label);
-            }
+        fontesDisponiveis.forEach(fonte => {
+            const defaultQtd = Math.min(5, fonte.data.length); // Padrão 5 questões, ou o máximo disponível
+            
+            const div = document.createElement('div');
+            div.className = 'topic-item';
+            div.innerHTML = `
+                <label class="topic-label">
+                    <input type="checkbox" class="topic-cb" value="${fonte.id}" checked>
+                    <span>${fonte.nome} <span class="topic-info">(${fonte.data.length} disponíveis)</span></span>
+                </label>
+                <div class="topic-qtd-wrapper">
+                    Qtd: <input type="number" id="qtd_${fonte.id}" value="${defaultQtd}" min="1" max="${fonte.data.length}">
+                </div>
+            `;
+            topicList.appendChild(div);
         });
 
-        // 3. LÓGICA DO MASTER TOGGLE (Selecionar Todos)
+        // 3. MASTER TOGGLE (Selecionar Todos)
         const selectAllBtn = document.getElementById('selectAllBtn');
         const checkboxes = document.querySelectorAll('.topic-cb');
 
@@ -208,23 +230,34 @@
             document.getElementById('timeInputGroup').style.display = e.target.checked ? 'flex' : 'none';
         });
 
-        // 4. INICIAR SIMULADO
+        // 4. INICIAR SIMULADO (A MÁGICA DA SELEÇÃO)
         function iniciarSimulado() {
             questoesAtivas = [];
+            
             checkboxes.forEach(cb => {
                 if(cb.checked) {
-                    const fonte = fontes.find(f => f.id === cb.value);
-                    const questoesMapeadas = fonte.data.map(q => ({...q, disciplina: fonte.nome}));
-                    questoesAtivas = questoesAtivas.concat(questoesMapeadas);
+                    const fonte = fontesDisponiveis.find(f => f.id === cb.value);
+                    const qtdInput = document.getElementById(`qtd_${fonte.id}`);
+                    
+                    // Valida a quantidade solicitada
+                    let qtdSelecionada = parseInt(qtdInput.value) || 5;
+                    if(qtdSelecionada > fonte.data.length) qtdSelecionada = fonte.data.length;
+                    if(qtdSelecionada < 1) qtdSelecionada = 1;
+
+                    // Cria uma cópia do array e embaralha para sortear as X questões da matéria
+                    let bancoEmbaralhado = [...fonte.data].sort(() => Math.random() - 0.5);
+                    let questoesSorteadas = bancoEmbaralhado.slice(0, qtdSelecionada).map(q => ({...q, disciplina: fonte.nome}));
+                    
+                    questoesAtivas = questoesAtivas.concat(questoesSorteadas);
                 }
             });
 
             if(questoesAtivas.length === 0) {
-                alert("Selecione pelo menos uma disciplina para gerar o simulado!");
+                alert("Selecione pelo menos uma disciplina e defina a quantidade para gerar o simulado!");
                 return;
             }
 
-            // Embaralhar as questões
+            // Embaralhar as questões ativas (Para misturar as disciplinas no simulado)
             questoesAtivas.sort(() => Math.random() - 0.5);
             indiceAtual = 0;
 
@@ -233,11 +266,11 @@
             document.getElementById('simulation-screen').style.display = 'flex';
             document.getElementById('progress-bar-container').style.display = 'block';
             
-            // Iniciar Timer se ativado
+            // Iniciar Timer
             const usarTimer = document.getElementById('enableTimer').checked;
             const displayTimer = document.getElementById('timerDisplay');
             if(usarTimer) {
-                const minutos = parseInt(document.getElementById('simTime').value);
+                const minutos = parseInt(document.getElementById('simTime').value) || 60;
                 tempoRestante = minutos * 60;
                 displayTimer.style.display = 'block';
                 atualizarDisplayTempo();
@@ -249,7 +282,7 @@
             renderizarQuestao();
         }
 
-        // 5. RENDERIZAR A QUESTÃO
+        // 5. RENDERIZAR QUESTÃO NO MODO FOCO
         function renderizarQuestao() {
             respondida = false;
             const q = questoesAtivas[indiceAtual];
@@ -272,6 +305,7 @@
             });
             html += `</div>`; 
 
+            // Disclaimer escondido
             html += `<div class="disclaimer-box" id="disclaimer">
                         <strong>Veje bem:</strong> ${q.disclaimer}
                      </div>`;
@@ -280,7 +314,7 @@
             document.querySelector('.app-container').scrollTop = 0;
         }
 
-        // 6. INTERAÇÃO (APRENDIZADO GUIADO PELO ERRO)
+        // 6. MICROINTERAÇÃO E FEEDBACK DA RESPOSTA
         window.verificarResposta = function(escolhida, correta, elementoClicado) {
             if(respondida) return;
             respondida = true;
@@ -293,13 +327,13 @@
             document.getElementById('disclaimer').style.display = 'block';
         };
 
-        // 7. NAVEGAÇÃO E CONTROLES
+        // 7. NAVEGAÇÃO DO SIMULADO
         function proximaQuestao() {
             if(indiceAtual < questoesAtivas.length - 1) {
                 indiceAtual++;
                 renderizarQuestao();
             } else {
-                alert("Simulado concluído! Bom trabalho.");
+                alert("Você finalizou todas as questões deste simulado! Bom trabalho.");
                 encerrarSimulado();
             }
         }
@@ -314,3 +348,27 @@
         function encerrarSimulado() {
             clearInterval(timerInterval);
             document.getElementById('simulation-screen').style.display = 'none';
+            document.getElementById('progress-bar-container').style.display = 'none';
+            document.getElementById('setup-screen').style.display = 'block';
+        }
+
+        function contagemRegressiva() {
+            if (tempoRestante <= 0) {
+                clearInterval(timerInterval);
+                alert("O tempo do seu simulado acabou!");
+                encerrarSimulado();
+                return;
+            }
+            tempoRestante--;
+            atualizarDisplayTempo();
+        }
+
+        function atualizarDisplayTempo() {
+            const h = Math.floor(tempoRestante / 3600).toString().padStart(2, '0');
+            const m = Math.floor((tempoRestante % 3600) / 60).toString().padStart(2, '0');
+            const s = (tempoRestante % 60).toString().padStart(2, '0');
+            document.getElementById('timerDisplay').innerText = `${h}:${m}:${s}`;
+        }
+    </script>
+</body>
+</html>
