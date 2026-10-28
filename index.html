@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simulador PRO | Modo Foco</title>
+    <title>MP/TJ | Estudo Reverso</title>
     
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <script src="questoes.js"></script>
 
     <style>
@@ -16,6 +16,7 @@
             --border-color: #e2e8f0;
             --primary: #3b82f6;
             --primary-hover: #2563eb;
+            --logo-color: #1e3a8a; /* Azul escuro do logotipo */
             --correct-bg: #d1fae5;
             --correct-border: #10b981;
             --incorrect-bg: #fee2e2;
@@ -25,22 +26,27 @@
         }
 
         * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Inter', sans-serif; }
+        
+        /* ESTRUTURA GLOBAL DA TELA */
         body { background-color: var(--bg-color); color: var(--text-main); display: flex; flex-direction: column; height: 100vh; overflow: hidden; }
 
-        header { background: var(--card-bg); padding: 20px 40px; border-bottom: 1px solid var(--border-color); display: flex; justify-content: space-between; align-items: center; box-shadow: 0 1px 3px rgba(0,0,0,0.05); z-index: 10; flex-shrink: 0; }
-        header h1 { font-size: 1.2rem; font-weight: 700; color: var(--primary); }
-        header p { font-size: 0.9rem; color: var(--text-muted); font-weight: 500; }
+        /* CABEÇALHO PERSONALIZADO */
+        header { background: var(--card-bg); padding: 18px 40px; border-bottom: 1px solid var(--border-color); display: flex; justify-content: space-between; align-items: center; box-shadow: 0 1px 3px rgba(0,0,0,0.03); z-index: 10; flex-shrink: 0; }
+        .logo-container { font-size: 1rem; color: var(--text-muted); display: flex; align-items: center; gap: 10px; }
+        .logo-container strong { font-weight: 800; color: var(--logo-color); font-size: 1.25rem; letter-spacing: -0.5px; }
+        .logo-container span { color: var(--border-color); }
 
+        /* BARRA DE PROGRESSO */
         #progress-bar-container { width: 100%; height: 4px; background: var(--border-color); display: none; flex-shrink: 0; }
         #progress-bar { height: 100%; width: 0%; background: var(--primary); transition: width 0.3s ease; }
 
+        /* ÁREA ROLÁVEL CENTRAL */
         .app-container { flex: 1; overflow-y: auto; display: flex; justify-content: center; padding: 40px 20px; }
 
         /* TELAS GERAIS */
-        .screen { width: 100%; display: none; flex-direction: column; align-items: center; }
-        #setup-screen { display: flex; } /* Ativa no início */
+        .screen { width: 100%; display: none; flex-direction: column; align-items: center; margin-bottom: 20px; }
+        #setup-screen { display: flex; } 
 
-        /* CONTAINER RESTRITO PARA NÃO ESTICAR OS ELEMENTOS */
         .content-box { max-width: 700px; width: 100%; background: var(--card-bg); padding: 40px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05); }
         .sim-box { max-width: 800px; width: 100%; display: flex; flex-direction: column; }
 
@@ -48,13 +54,14 @@
         .setup-section { margin-bottom: 30px; width: 100%; }
         .setup-section h2 { font-size: 1.1rem; margin-bottom: 15px; border-bottom: 2px solid var(--bg-color); padding-bottom: 8px; }
         
-        /* 3 ABAS AGORA */
+        /* ABAS DE CARGO */
         .role-tabs { display: flex; gap: 8px; margin-bottom: 20px; background: #f1f5f9; padding: 6px; border-radius: 8px; flex-wrap: wrap; }
         .role-tab { flex: 1; text-align: center; padding: 10px; border-radius: 6px; font-weight: 600; font-size: 0.9rem; cursor: pointer; color: var(--text-muted); transition: 0.2s; white-space: nowrap;}
         .role-tab.active { background: white; color: var(--primary); box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
 
         .master-toggle { display: flex; align-items: center; justify-content: space-between; padding: 12px; background: #f1f5f9; border-radius: 8px; font-weight: 600; cursor: pointer; margin-bottom: 15px; width: 100%;}
         
+        /* LISTA DE MATÉRIAS SCROLLÁVEL */
         .topic-list-wrapper { max-height: 350px; overflow-y: auto; padding-right: 10px; margin-bottom: 10px; width: 100%; }
         .topic-list { display: flex; flex-direction: column; gap: 10px; }
         .topic-list-wrapper::-webkit-scrollbar { width: 6px; }
@@ -72,14 +79,20 @@
         input[type="number"]:focus { border-color: var(--primary); }
 
         .timer-config { display: flex; align-items: center; gap: 15px; background: #f8fafc; padding: 15px; border-radius: 8px; border: 1px solid var(--border-color); width: 100%;}
-        .btn-start { width: 100%; padding: 16px; background: var(--primary); color: white; border: none; border-radius: 8px; font-size: 1.1rem; font-weight: 600; cursor: pointer; transition: 0.2s; }
+        
+        /* BOTÕES GERAIS */
+        .btn { padding: 12px 24px; border: none; border-radius: 8px; font-size: 1rem; font-weight: 600; cursor: pointer; transition: 0.2s; display: inline-flex; justify-content: center; align-items: center; }
+        .btn-start { width: 100%; padding: 16px; background: var(--primary); color: white; font-size: 1.1rem; }
         .btn-start:hover { background: var(--primary-hover); }
+        .btn-secondary { background: #e2e8f0; color: var(--text-main); }
+        .btn-secondary:hover { background: #cbd5e1; }
+        .btn-danger { background: white; color: #ef4444; border: 1px solid #ef4444; }
+        .btn-danger:hover { background: #fee2e2; }
 
         /* SIMULATION SCREEN */
         .sim-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px; font-weight: 600; color: var(--text-muted); width: 100%; }
         .timer-display { font-size: 1.2rem; color: #ef4444; background: #fee2e2; padding: 6px 12px; border-radius: 6px; display: none; font-variant-numeric: tabular-nums; }
         .timer-display.warning { animation: pulse 1s infinite; }
-        
         @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.5; } 100% { opacity: 1; } }
 
         .question-card { background: var(--card-bg); padding: 40px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05); width: 100%; }
@@ -99,13 +112,7 @@
         .disclaimer-box { margin-top: 24px; padding: 20px; border-radius: 8px; background: #fffbeb; border-left: 4px solid #f59e0b; font-size: 1rem; line-height: 1.6; display: none; }
         .disclaimer-box strong { color: #b45309; font-size: 1.1rem; }
 
-        /* NAVEGAÇÃO HORIZONTAL CORRIGIDA (SEM ESTICAR) */
         .navigation { display: flex; justify-content: space-between; align-items: center; margin-top: 32px; width: 100%; gap: 15px; }
-        .btn { padding: 12px 24px; border: none; border-radius: 8px; font-size: 1rem; font-weight: 600; cursor: pointer; transition: 0.2s; height: fit-content; }
-        .btn-secondary { background: #e2e8f0; color: var(--text-main); }
-        .btn-secondary:hover { background: #cbd5e1; }
-        .btn-danger { background: white; color: #ef4444; border: 1px solid #ef4444; }
-        .btn-danger:hover { background: #fee2e2; }
 
         /* RESULTS SCREEN */
         .results-header { text-align: center; margin-bottom: 30px; }
@@ -118,33 +125,38 @@
         .breakdown-item span { font-weight: 500; }
         .breakdown-score { color: var(--primary); font-weight: 700; }
         
-        .results-actions { margin-top: 40px; display: flex; gap: 15px; }
+        .results-actions { margin-top: 40px; display: flex; gap: 15px; flex-wrap: wrap;}
+        .results-actions .btn { flex: 1; min-width: 150px; text-align: center;}
+
+        /* RODAPÉ PERSONALIZADO */
+        footer { padding: 15px; text-align: center; font-size: 0.85rem; color: var(--text-muted); flex-shrink: 0; background-color: var(--bg-color); }
     </style>
 </head>
 <body>
 
+    <!-- CABEÇALHO (Recuperado do seu Design Original) -->
     <header id="main-header">
-        <h1>Simulador PRO</h1>
-        <p>Projeto de Aprovação - [Seu Nome]</p>
+        <div class="logo-container">
+            <strong>MP/TJ</strong> <span>|</span> Estudo Reverso
+        </div>
     </header>
 
     <div id="progress-bar-container"><div id="progress-bar"></div></div>
 
     <div class="app-container">
-        
         <!-- TELA 1: PREPARAÇÃO -->
         <div id="setup-screen" class="screen">
             <div class="content-box">
                 <div class="setup-section">
-                    <h2>1. Escolha seu Foco (Cargo)</h2>
+                    <h2>Escolha seu Cargo-Alvo</h2>
                     <div class="role-tabs">
-                        <div class="role-tab active" data-role="juridica" onclick="mudarCargo('juridica', this)">Área Jurídica</div>
-                        <div class="role-tab" data-role="administrativa" onclick="mudarCargo('administrativa', this)">Área Administrativa</div>
-                        <div class="role-tab" data-role="ti" onclick="mudarCargo('ti', this)">Área de T.I.</div>
+                        <div class="role-tab active" data-role="juridica" onclick="mudarCargo('juridica', this)">Analista (Jurídico)</div>
+                        <div class="role-tab" data-role="administrativa" onclick="mudarCargo('administrativa', this)">Técnico</div>
+                        <div class="role-tab" data-role="ti" onclick="mudarCargo('ti', this)">Analista (T.I.)</div>
                     </div>
 
                     <label class="master-toggle">
-                        <span>Selecionar / Desmarcar Todas as Visíveis</span>
+                        <span>Selecionar / Desmarcar Todas as Matérias</span>
                         <input type="checkbox" id="selectAllBtn" checked>
                     </label>
                     
@@ -154,7 +166,7 @@
                 </div>
 
                 <div class="setup-section">
-                    <h2>2. Controle de Tempo</h2>
+                    <h2>Controle de Tempo</h2>
                     <div class="timer-config">
                         <label style="display: flex; align-items: center; gap: 10px; font-weight: 500; cursor: pointer;">
                             <input type="checkbox" id="enableTimer" checked>
@@ -167,7 +179,7 @@
                     </div>
                 </div>
 
-                <button class="btn-start" onclick="iniciarSimulado()">GERAR SIMULADO</button>
+                <button class="btn btn-start" onclick="iniciarSimulado()">INICIAR</button>
             </div>
         </div>
 
@@ -185,7 +197,7 @@
 
                 <div class="navigation">
                     <button class="btn btn-secondary" onclick="voltarQuestao()">Anterior</button>
-                    <button class="btn btn-danger" id="btn-encerrar" onclick="confirmarFimSimulado()">Encerrar Simulado</button>
+                    <button class="btn btn-danger" id="btn-encerrar" onclick="lidarBotaoEncerrar()"></button>
                     <button class="btn btn-start" style="width: auto; padding: 12px 30px;" id="btn-proxima" onclick="proximaQuestao()">Próxima</button>
                 </div>
             </div>
@@ -205,20 +217,25 @@
                 </div>
 
                 <div class="results-actions">
-                    <button class="btn btn-secondary" style="flex: 1;" onclick="voltarAoInicio()">Novo Simulado</button>
-                    <button class="btn btn-start" style="flex: 2;" onclick="iniciarRevisao()">Revisar Respostas</button>
+                    <button class="btn btn-secondary" onclick="voltarAoInicio()">Voltar ao Início</button>
+                    <button class="btn btn-secondary" onclick="iniciarRevisao(false)">Revisar Tudo</button>
+                    <button class="btn btn-start" id="btn-revisar-erros" onclick="iniciarRevisao(true)">Revisar Meus Erros</button>
                 </div>
             </div>
         </div>
     </div>
 
+    <!-- RODAPÉ PERSONALIZADO -->
+    <footer>
+        Simulador MP/TJ • Elaborado por Felipe Almino
+    </footer>
+
     <script>
-        // CARREGAMENTO SEGURO
         function carregarBanco(nomeVariavel) {
             try { return eval(nomeVariavel); } catch (e) { return []; }
         }
 
-        // MAPEAMENTO SEPARADO (Jurídica / Administrativa / TI)
+        // MAPEAMENTO DOS CARGOS E BANCOS
         const todasAsDisciplinas = [
             { id: 'banco_pt', nome: 'Língua Portuguesa', cargos: ['juridica', 'administrativa', 'ti'] },
             { id: 'banco_rlm', nome: 'Raciocínio Lógico (RLM)', cargos: ['juridica', 'administrativa', 'ti'] },
@@ -242,13 +259,13 @@
             data: carregarBanco(d.id)
         })).filter(d => d.data && d.data.length > 0);
 
-        let questoesAtivas = [];
+        let questoesSimulado = []; 
+        let questoesVisiveis = []; 
         let indiceAtual = 0;
         let timerInterval;
         let tempoRestante = 0;
         let modoRevisao = false;
 
-        // RENDERIZA LISTA BASEADA NO CARGO ESCOLHIDO
         function renderizarDisciplinas(cargo) {
             const topicList = document.getElementById('topic-list');
             topicList.innerHTML = ''; 
@@ -261,7 +278,7 @@
                 div.innerHTML = `
                     <label class="topic-label">
                         <input type="checkbox" class="topic-cb" value="${fonte.id}" checked>
-                        <span>${fonte.nome} <span class="topic-info">(${fonte.data.length})</span></span>
+                        <span>${fonte.nome} <span class="topic-info">(${fonte.data.length} disp.)</span></span>
                     </label>
                     <div class="topic-qtd-wrapper">
                         Qtd: <input type="number" id="qtd_${fonte.id}" value="${defaultQtd}" min="1" max="${fonte.data.length}">
@@ -290,9 +307,8 @@
             document.getElementById('timeInputGroup').style.display = e.target.checked ? 'flex' : 'none';
         });
 
-        // INICIAR SIMULADO
         window.iniciarSimulado = function() {
-            questoesAtivas = [];
+            questoesSimulado = [];
             const checkboxes = document.querySelectorAll('.topic-cb:checked');
             
             checkboxes.forEach(cb => {
@@ -306,12 +322,13 @@
                 let bancoEmbaralhado = [...fonte.data].sort(() => Math.random() - 0.5);
                 let questoesSorteadas = bancoEmbaralhado.slice(0, qtdSelecionada).map(q => ({...q, disciplina: fonte.nome, selecionada: null}));
                 
-                questoesAtivas = questoesAtivas.concat(questoesSorteadas);
+                questoesSimulado = questoesSimulado.concat(questoesSorteadas);
             });
 
-            if(questoesAtivas.length === 0) { alert("Selecione pelo menos uma disciplina e defina a quantidade!"); return; }
+            if(questoesSimulado.length === 0) { alert("Selecione pelo menos uma disciplina e defina a quantidade!"); return; }
 
-            questoesAtivas.sort(() => Math.random() - 0.5);
+            questoesSimulado.sort(() => Math.random() - 0.5);
+            questoesVisiveis = questoesSimulado;
             indiceAtual = 0;
             modoRevisao = false;
 
@@ -320,7 +337,10 @@
             document.getElementById('simulation-screen').style.display = 'flex';
             document.getElementById('progress-bar-container').style.display = 'block';
             
-            document.getElementById('btn-encerrar').style.display = 'block';
+            const btnEncerrar = document.getElementById('btn-encerrar');
+            btnEncerrar.innerText = "Encerrar Simulado";
+            btnEncerrar.classList.add('btn-danger');
+            btnEncerrar.classList.remove('btn-secondary');
             
             const usarTimer = document.getElementById('enableTimer').checked;
             const displayTimer = document.getElementById('timerDisplay');
@@ -338,16 +358,15 @@
             renderizarQuestao();
         }
 
-        // RENDERIZAR QUESTÃO
         window.renderizarQuestao = function() {
-            const q = questoesAtivas[indiceAtual];
+            const q = questoesVisiveis[indiceAtual];
             
-            document.getElementById('counter').innerText = `Questão ${indiceAtual + 1} de ${questoesAtivas.length}`;
-            document.getElementById('progress-bar').style.width = `${((indiceAtual + 1) / questoesAtivas.length) * 100}%`;
+            document.getElementById('counter').innerText = `Questão ${indiceAtual + 1} de ${questoesVisiveis.length}`;
+            document.getElementById('progress-bar').style.width = `${((indiceAtual + 1) / questoesVisiveis.length) * 100}%`;
 
             const btnProxima = document.getElementById('btn-proxima');
-            if(indiceAtual === questoesAtivas.length - 1) {
-                btnProxima.innerText = modoRevisao ? "Sair da Revisão" : "Finalizar Simulado";
+            if(indiceAtual === questoesVisiveis.length - 1) {
+                btnProxima.innerText = modoRevisao ? "Finalizar Revisão" : "Finalizar Simulado";
             } else {
                 btnProxima.innerText = "Próxima";
             }
@@ -392,19 +411,19 @@
 
         window.marcarAlternativa = function(idx) {
             if(modoRevisao) return;
-            questoesAtivas[indiceAtual].selecionada = idx;
+            questoesVisiveis[indiceAtual].selecionada = idx;
             renderizarQuestao(); 
         };
 
         window.proximaQuestao = function() {
-            if(indiceAtual < questoesAtivas.length - 1) {
+            if(indiceAtual < questoesVisiveis.length - 1) {
                 indiceAtual++;
                 renderizarQuestao();
             } else {
                 if(!modoRevisao) {
                     confirmarFimSimulado(true);
                 } else {
-                    voltarAoInicio();
+                    mostrarResultados();
                 }
             }
         }
@@ -416,38 +435,55 @@
             }
         }
 
+        window.lidarBotaoEncerrar = function() {
+            if(modoRevisao) {
+                mostrarResultados();
+            } else {
+                confirmarFimSimulado(false);
+            }
+        }
+
         window.confirmarFimSimulado = function(forcar = false) {
-            const naoRespondidas = questoesAtivas.filter(q => q.selecionada === null).length;
-            
+            const naoRespondidas = questoesVisiveis.filter(q => q.selecionada === null).length;
             if(!forcar && naoRespondidas > 0) {
                 if(!confirm(`Você tem ${naoRespondidas} questões em branco. Deseja mesmo encerrar?`)) return;
             }
-            
             clearInterval(timerInterval);
-            calcularResultados();
+            calcularMetricas();
+            mostrarResultados();
         }
 
-        function calcularResultados() {
-            document.getElementById('simulation-screen').style.display = 'none';
-            document.getElementById('progress-bar-container').style.display = 'none';
-            document.getElementById('results-screen').style.display = 'flex';
-            
-            let corretas = 0;
+        let metricas = { corretas: 0, errosList: [] };
+
+        function calcularMetricas() {
+            metricas.corretas = 0;
+            metricas.errosList = [];
             let performance = {};
 
-            questoesAtivas.forEach(q => {
+            questoesSimulado.forEach(q => {
                 if(!performance[q.disciplina]) performance[q.disciplina] = { total: 0, certas: 0 };
                 performance[q.disciplina].total++;
+                
                 if(q.selecionada === q.answer) {
-                    corretas++;
+                    metricas.corretas++;
                     performance[q.disciplina].certas++;
+                } else {
+                    metricas.errosList.push(q);
                 }
             });
 
-            const percent = Math.round((corretas / questoesAtivas.length) * 100);
+            const percent = Math.round((metricas.corretas / questoesSimulado.length) * 100);
             document.getElementById('score-percent').innerText = `${percent}%`;
-            document.getElementById('score-text').innerText = `Você acertou ${corretas} de ${questoesAtivas.length} questões.`;
+            document.getElementById('score-text').innerText = `Você acertou ${metricas.corretas} de ${questoesSimulado.length} questões.`;
             
+            const btnErros = document.getElementById('btn-revisar-erros');
+            if(metricas.errosList.length === 0) {
+                btnErros.style.display = 'none';
+            } else {
+                btnErros.style.display = 'block';
+                btnErros.innerText = `Revisar Meus Erros (${metricas.errosList.length})`;
+            }
+
             let breakdownHtml = "";
             for (const [disc, dados] of Object.entries(performance)) {
                 let percDisc = Math.round((dados.certas / dados.total) * 100);
@@ -462,13 +498,28 @@
             document.getElementById('breakdown-list').innerHTML = breakdownHtml;
         }
 
-        window.iniciarRevisao = function() {
+        function mostrarResultados() {
+            document.getElementById('simulation-screen').style.display = 'none';
+            document.getElementById('progress-bar-container').style.display = 'none';
+            document.getElementById('results-screen').style.display = 'flex';
+        }
+
+        window.iniciarRevisao = function(apenasErros) {
+            if (apenasErros && metricas.errosList.length === 0) return;
+            
+            questoesVisiveis = apenasErros ? metricas.errosList : questoesSimulado;
             modoRevisao = true;
             indiceAtual = 0;
+
             document.getElementById('results-screen').style.display = 'none';
             document.getElementById('simulation-screen').style.display = 'flex';
-            document.getElementById('btn-encerrar').style.display = 'none'; 
             document.getElementById('progress-bar-container').style.display = 'block';
+            
+            const btnEncerrar = document.getElementById('btn-encerrar');
+            btnEncerrar.innerText = "Sair da Revisão";
+            btnEncerrar.classList.remove('btn-danger');
+            btnEncerrar.classList.add('btn-secondary');
+
             renderizarQuestao();
         }
 
@@ -483,12 +534,11 @@
             if (tempoRestante <= 0) {
                 clearInterval(timerInterval);
                 alert("Tempo Esgotado! O simulado será encerrado.");
-                calcularResultados();
+                calcularMetricas();
+                mostrarResultados();
                 return;
             }
-            
             if (tempoRestante === 300) { document.getElementById('timerDisplay').classList.add('warning'); }
-            
             tempoRestante--;
             atualizarDisplayTempo();
         }
@@ -500,9 +550,7 @@
             document.getElementById('timerDisplay').innerText = `${h}:${m}:${s}`;
         }
 
-        // Init
         renderizarDisciplinas('juridica');
-
     </script>
 </body>
 </html>
