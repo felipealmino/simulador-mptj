@@ -36,22 +36,26 @@
 
         .app-container { flex: 1; overflow-y: auto; display: flex; justify-content: center; padding: 40px 20px; }
 
-        /* SCREENS */
-        .screen { max-width: 700px; width: 100%; background: var(--card-bg); padding: 40px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05); height: fit-content; display: none; }
-        #setup-screen { display: block; }
-        #simulation-screen { max-width: 800px; background: transparent; box-shadow: none; padding: 0; }
-        
+        /* TELAS GERAIS */
+        .screen { width: 100%; display: none; flex-direction: column; align-items: center; }
+        #setup-screen { display: flex; } /* Ativa no início */
+
+        /* CONTAINER RESTRITO PARA NÃO ESTICAR OS ELEMENTOS */
+        .content-box { max-width: 700px; width: 100%; background: var(--card-bg); padding: 40px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05); }
+        .sim-box { max-width: 800px; width: 100%; display: flex; flex-direction: column; }
+
         /* SETUP */
-        .setup-section { margin-bottom: 30px; }
+        .setup-section { margin-bottom: 30px; width: 100%; }
         .setup-section h2 { font-size: 1.1rem; margin-bottom: 15px; border-bottom: 2px solid var(--bg-color); padding-bottom: 8px; }
         
-        .role-tabs { display: flex; gap: 10px; margin-bottom: 20px; background: #f1f5f9; padding: 6px; border-radius: 8px; }
-        .role-tab { flex: 1; text-align: center; padding: 10px; border-radius: 6px; font-weight: 600; font-size: 0.95rem; cursor: pointer; color: var(--text-muted); transition: 0.2s; }
+        /* 3 ABAS AGORA */
+        .role-tabs { display: flex; gap: 8px; margin-bottom: 20px; background: #f1f5f9; padding: 6px; border-radius: 8px; flex-wrap: wrap; }
+        .role-tab { flex: 1; text-align: center; padding: 10px; border-radius: 6px; font-weight: 600; font-size: 0.9rem; cursor: pointer; color: var(--text-muted); transition: 0.2s; white-space: nowrap;}
         .role-tab.active { background: white; color: var(--primary); box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
 
-        .master-toggle { display: flex; align-items: center; justify-content: space-between; padding: 12px; background: #f1f5f9; border-radius: 8px; font-weight: 600; cursor: pointer; margin-bottom: 15px; }
+        .master-toggle { display: flex; align-items: center; justify-content: space-between; padding: 12px; background: #f1f5f9; border-radius: 8px; font-weight: 600; cursor: pointer; margin-bottom: 15px; width: 100%;}
         
-        .topic-list-wrapper { max-height: 350px; overflow-y: auto; padding-right: 10px; margin-bottom: 10px; }
+        .topic-list-wrapper { max-height: 350px; overflow-y: auto; padding-right: 10px; margin-bottom: 10px; width: 100%; }
         .topic-list { display: flex; flex-direction: column; gap: 10px; }
         .topic-list-wrapper::-webkit-scrollbar { width: 6px; }
         .topic-list-wrapper::-webkit-scrollbar-track { background: transparent; }
@@ -67,27 +71,26 @@
         input[type="number"] { width: 60px; padding: 6px; border: 1px solid var(--border-color); border-radius: 6px; text-align: center; outline: none; }
         input[type="number"]:focus { border-color: var(--primary); }
 
-        .timer-config { display: flex; align-items: center; gap: 15px; background: #f8fafc; padding: 15px; border-radius: 8px; border: 1px solid var(--border-color); }
+        .timer-config { display: flex; align-items: center; gap: 15px; background: #f8fafc; padding: 15px; border-radius: 8px; border: 1px solid var(--border-color); width: 100%;}
         .btn-start { width: 100%; padding: 16px; background: var(--primary); color: white; border: none; border-radius: 8px; font-size: 1.1rem; font-weight: 600; cursor: pointer; transition: 0.2s; }
         .btn-start:hover { background: var(--primary-hover); }
 
         /* SIMULATION SCREEN */
-        .sim-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px; font-weight: 600; color: var(--text-muted); }
+        .sim-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px; font-weight: 600; color: var(--text-muted); width: 100%; }
         .timer-display { font-size: 1.2rem; color: #ef4444; background: #fee2e2; padding: 6px 12px; border-radius: 6px; display: none; font-variant-numeric: tabular-nums; }
         .timer-display.warning { animation: pulse 1s infinite; }
         
         @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.5; } 100% { opacity: 1; } }
 
-        .question-card { background: var(--card-bg); padding: 40px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05); }
+        .question-card { background: var(--card-bg); padding: 40px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05); width: 100%; }
         .q-meta { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 20px; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
         .q-support { font-size: 0.95rem; color: var(--text-muted); line-height: 1.6; margin-bottom: 24px; padding: 16px; background: #f8fafc; border-radius: 8px; border-left: 4px solid var(--border-color); }
         .q-text { font-size: 1.15rem; font-weight: 600; line-height: 1.6; margin-bottom: 32px; }
 
-        .options-list { display: flex; flex-direction: column; gap: 12px; }
+        .options-list { display: flex; flex-direction: column; gap: 12px; width: 100%; }
         .option { padding: 16px 20px; border: 2px solid var(--border-color); border-radius: 8px; cursor: pointer; font-size: 1rem; line-height: 1.5; transition: all 0.2s; display: flex; gap: 12px; }
         .option:hover:not(.disabled) { border-color: var(--primary); background: #f8fafc; }
         
-        /* Estados da Opção */
         .option.selected { border-color: var(--primary); background-color: var(--selected-bg); }
         .option.correct { background-color: var(--correct-bg); border-color: var(--correct-border); color: #065f46; font-weight: 500; }
         .option.incorrect { background-color: var(--incorrect-bg); border-color: var(--incorrect-border); color: #991b1b; opacity: 0.8; }
@@ -96,8 +99,9 @@
         .disclaimer-box { margin-top: 24px; padding: 20px; border-radius: 8px; background: #fffbeb; border-left: 4px solid #f59e0b; font-size: 1rem; line-height: 1.6; display: none; }
         .disclaimer-box strong { color: #b45309; font-size: 1.1rem; }
 
-        .navigation { display: flex; justify-content: space-between; margin-top: 32px; }
-        .btn { padding: 12px 24px; border: none; border-radius: 8px; font-size: 1rem; font-weight: 600; cursor: pointer; transition: 0.2s; }
+        /* NAVEGAÇÃO HORIZONTAL CORRIGIDA (SEM ESTICAR) */
+        .navigation { display: flex; justify-content: space-between; align-items: center; margin-top: 32px; width: 100%; gap: 15px; }
+        .btn { padding: 12px 24px; border: none; border-radius: 8px; font-size: 1rem; font-weight: 600; cursor: pointer; transition: 0.2s; height: fit-content; }
         .btn-secondary { background: #e2e8f0; color: var(--text-main); }
         .btn-secondary:hover { background: #cbd5e1; }
         .btn-danger { background: white; color: #ef4444; border: 1px solid #ef4444; }
@@ -127,75 +131,83 @@
     <div id="progress-bar-container"><div id="progress-bar"></div></div>
 
     <div class="app-container">
+        
         <!-- TELA 1: PREPARAÇÃO -->
         <div id="setup-screen" class="screen">
-            <div class="setup-section">
-                <h2>1. Escolha seu Foco</h2>
-                <div class="role-tabs">
-                    <div class="role-tab active" data-role="juridica" onclick="mudarCargo('juridica', this)">Área Jurídica / Adm</div>
-                    <div class="role-tab" data-role="ti" onclick="mudarCargo('ti', this)">Área de T.I.</div>
-                </div>
+            <div class="content-box">
+                <div class="setup-section">
+                    <h2>1. Escolha seu Foco (Cargo)</h2>
+                    <div class="role-tabs">
+                        <div class="role-tab active" data-role="juridica" onclick="mudarCargo('juridica', this)">Área Jurídica</div>
+                        <div class="role-tab" data-role="administrativa" onclick="mudarCargo('administrativa', this)">Área Administrativa</div>
+                        <div class="role-tab" data-role="ti" onclick="mudarCargo('ti', this)">Área de T.I.</div>
+                    </div>
 
-                <label class="master-toggle">
-                    <span>Selecionar / Desmarcar Todas as Visíveis</span>
-                    <input type="checkbox" id="selectAllBtn" checked>
-                </label>
-                
-                <div class="topic-list-wrapper">
-                    <div class="topic-list" id="topic-list"></div>
-                </div>
-            </div>
-
-            <div class="setup-section">
-                <h2>2. Controle de Tempo</h2>
-                <div class="timer-config">
-                    <label style="display: flex; align-items: center; gap: 10px; font-weight: 500; cursor: pointer;">
-                        <input type="checkbox" id="enableTimer" checked>
-                        Ativar Cronômetro
+                    <label class="master-toggle">
+                        <span>Selecionar / Desmarcar Todas as Visíveis</span>
+                        <input type="checkbox" id="selectAllBtn" checked>
                     </label>
-                    <div id="timeInputGroup" style="display: flex; align-items: center; gap: 10px;">
-                        <input type="number" id="simTime" value="60" min="1" max="300">
-                        <span style="color: var(--text-muted); font-size: 0.9rem;">minutos</span>
+                    
+                    <div class="topic-list-wrapper">
+                        <div class="topic-list" id="topic-list"></div>
                     </div>
                 </div>
-            </div>
 
-            <button class="btn-start" onclick="iniciarSimulado()">GERAR SIMULADO</button>
+                <div class="setup-section">
+                    <h2>2. Controle de Tempo</h2>
+                    <div class="timer-config">
+                        <label style="display: flex; align-items: center; gap: 10px; font-weight: 500; cursor: pointer;">
+                            <input type="checkbox" id="enableTimer" checked>
+                            Ativar Cronômetro
+                        </label>
+                        <div id="timeInputGroup" style="display: flex; align-items: center; gap: 10px;">
+                            <input type="number" id="simTime" value="60" min="1" max="300">
+                            <span style="color: var(--text-muted); font-size: 0.9rem;">minutos</span>
+                        </div>
+                    </div>
+                </div>
+
+                <button class="btn-start" onclick="iniciarSimulado()">GERAR SIMULADO</button>
+            </div>
         </div>
 
         <!-- TELA 2: MODO FOCO -->
         <div id="simulation-screen" class="screen">
-            <div class="sim-header">
-                <span id="counter">Questão 1 de X</span>
-                <div class="timer-display" id="timerDisplay">00:00:00</div>
-            </div>
+            <div class="sim-box">
+                <div class="sim-header">
+                    <span id="counter">Questão 1 de X</span>
+                    <div class="timer-display" id="timerDisplay">00:00:00</div>
+                </div>
 
-            <div class="question-card" id="question-area">
-                <!-- Injetado via JS -->
-            </div>
+                <div class="question-card" id="question-area">
+                    <!-- Injetado via JS -->
+                </div>
 
-            <div class="navigation">
-                <button class="btn btn-secondary" onclick="voltarQuestao()">Anterior</button>
-                <button class="btn btn-danger" id="btn-encerrar" onclick="confirmarFimSimulado()">Encerrar Simulado</button>
-                <button class="btn btn-start" style="width: auto; padding: 12px 30px;" id="btn-proxima" onclick="proximaQuestao()">Próxima</button>
+                <div class="navigation">
+                    <button class="btn btn-secondary" onclick="voltarQuestao()">Anterior</button>
+                    <button class="btn btn-danger" id="btn-encerrar" onclick="confirmarFimSimulado()">Encerrar Simulado</button>
+                    <button class="btn btn-start" style="width: auto; padding: 12px 30px;" id="btn-proxima" onclick="proximaQuestao()">Próxima</button>
+                </div>
             </div>
         </div>
 
         <!-- TELA 3: RESULTADOS -->
         <div id="results-screen" class="screen">
-            <div class="results-header">
-                <h2>Fim do Simulado!</h2>
-                <div class="score-display" id="score-percent">0%</div>
-                <div class="score-subtitle" id="score-text">Você acertou 0 de 0 questões.</div>
-            </div>
-            
-            <div class="breakdown-list" id="breakdown-list">
-                <!-- Injetado via JS -->
-            </div>
+            <div class="content-box">
+                <div class="results-header">
+                    <h2>Fim do Simulado!</h2>
+                    <div class="score-display" id="score-percent">0%</div>
+                    <div class="score-subtitle" id="score-text">Você acertou 0 de 0 questões.</div>
+                </div>
+                
+                <div class="breakdown-list" id="breakdown-list">
+                    <!-- Injetado via JS -->
+                </div>
 
-            <div class="results-actions">
-                <button class="btn btn-secondary" style="flex: 1;" onclick="voltarAoInicio()">Novo Simulado</button>
-                <button class="btn btn-start" style="flex: 2;" onclick="iniciarRevisao()">Revisar Respostas</button>
+                <div class="results-actions">
+                    <button class="btn btn-secondary" style="flex: 1;" onclick="voltarAoInicio()">Novo Simulado</button>
+                    <button class="btn btn-start" style="flex: 2;" onclick="iniciarRevisao()">Revisar Respostas</button>
+                </div>
             </div>
         </div>
     </div>
@@ -206,18 +218,19 @@
             try { return eval(nomeVariavel); } catch (e) { return []; }
         }
 
+        // MAPEAMENTO SEPARADO (Jurídica / Administrativa / TI)
         const todasAsDisciplinas = [
-            { id: 'banco_pt', nome: 'Língua Portuguesa', cargos: ['juridica', 'ti'] },
-            { id: 'banco_rlm', nome: 'Raciocínio Lógico (RLM)', cargos: ['juridica', 'ti'] },
-            { id: 'banco_noc_adm', nome: 'Noções de Administração', cargos: ['juridica'] },
-            { id: 'banco_adm', nome: 'Direito Administrativo', cargos: ['juridica', 'ti'] },
-            { id: 'banco_const', nome: 'Direito Constitucional', cargos: ['juridica', 'ti'] },
+            { id: 'banco_pt', nome: 'Língua Portuguesa', cargos: ['juridica', 'administrativa', 'ti'] },
+            { id: 'banco_rlm', nome: 'Raciocínio Lógico (RLM)', cargos: ['juridica', 'administrativa', 'ti'] },
+            { id: 'banco_noc_adm', nome: 'Noções de Administração', cargos: ['administrativa'] },
+            { id: 'banco_adm', nome: 'Direito Administrativo', cargos: ['juridica', 'administrativa', 'ti'] }, 
+            { id: 'banco_const', nome: 'Direito Constitucional', cargos: ['juridica', 'administrativa', 'ti'] }, 
             { id: 'banco_civil', nome: 'Direito Civil', cargos: ['juridica'] },
             { id: 'banco_proc_civil', nome: 'Processo Civil', cargos: ['juridica'] },
             { id: 'banco_penal', nome: 'Direito Penal', cargos: ['juridica'] },
             { id: 'banco_proc_penal', nome: 'Processo Penal', cargos: ['juridica'] },
-            { id: 'banco_legis_mppe', nome: 'Legislação Institucional', cargos: ['juridica', 'ti'] },
-            { id: 'banco_info', nome: 'Noções de Informática', cargos: ['juridica'] },
+            { id: 'banco_legis_mppe', nome: 'Legislação Institucional', cargos: ['juridica', 'administrativa', 'ti'] },
+            { id: 'banco_info', nome: 'Noções de Informática', cargos: ['juridica', 'administrativa'] }, 
             { id: 'banco_eng_soft_ia', nome: 'Eng. de Software e IA', cargos: ['ti'] },
             { id: 'banco_seg_ti', nome: 'Segurança da Informação', cargos: ['ti'] },
             { id: 'banco_infra_bd', nome: 'Infra. e Banco de Dados', cargos: ['ti'] },
@@ -235,7 +248,7 @@
         let tempoRestante = 0;
         let modoRevisao = false;
 
-        // RENDERIZA LISTA BASEADA NO CARGO
+        // RENDERIZA LISTA BASEADA NO CARGO ESCOLHIDO
         function renderizarDisciplinas(cargo) {
             const topicList = document.getElementById('topic-list');
             topicList.innerHTML = ''; 
@@ -288,9 +301,9 @@
                 
                 let qtdSelecionada = parseInt(qtdInput.value) || 5;
                 if(qtdSelecionada > fonte.data.length) qtdSelecionada = fonte.data.length;
-                
+                if(qtdSelecionada < 1) qtdSelecionada = 1;
+
                 let bancoEmbaralhado = [...fonte.data].sort(() => Math.random() - 0.5);
-                // Adicionamos a chave "selecionada: null" para rastrear o que o aluno marcou
                 let questoesSorteadas = bancoEmbaralhado.slice(0, qtdSelecionada).map(q => ({...q, disciplina: fonte.nome, selecionada: null}));
                 
                 questoesAtivas = questoesAtivas.concat(questoesSorteadas);
@@ -307,7 +320,6 @@
             document.getElementById('simulation-screen').style.display = 'flex';
             document.getElementById('progress-bar-container').style.display = 'block';
             
-            // Controle do botão "Encerrar" e "Próxima"
             document.getElementById('btn-encerrar').style.display = 'block';
             
             const usarTimer = document.getElementById('enableTimer').checked;
@@ -326,14 +338,13 @@
             renderizarQuestao();
         }
 
-        // RENDERIZAR QUESTÃO (Usado no modo Prova e no modo Revisão)
+        // RENDERIZAR QUESTÃO
         window.renderizarQuestao = function() {
             const q = questoesAtivas[indiceAtual];
             
             document.getElementById('counter').innerText = `Questão ${indiceAtual + 1} de ${questoesAtivas.length}`;
             document.getElementById('progress-bar').style.width = `${((indiceAtual + 1) / questoesAtivas.length) * 100}%`;
 
-            // Muda o texto do botão Próxima se for a última questão
             const btnProxima = document.getElementById('btn-proxima');
             if(indiceAtual === questoesAtivas.length - 1) {
                 btnProxima.innerText = modoRevisao ? "Sair da Revisão" : "Finalizar Simulado";
@@ -353,16 +364,14 @@
                 let classes = "option";
                 
                 if (!modoRevisao) {
-                    // No modo prova, mostra apenas o que ele marcou (sem dizer se tá certo/errado)
                     if (q.selecionada === idx) classes += " selected";
                     html += `<div class="${classes}" onclick="marcarAlternativa(${idx})">
                                 <strong>${letra})</strong> <span>${opt}</span>
                              </div>`;
                 } else {
-                    // No modo revisão, pinta as cores e bloqueia clique
                     classes += " disabled";
-                    if (idx === q.answer) classes += " correct"; // A certa fica verde
-                    else if (idx === q.selecionada) classes += " incorrect"; // A que ele errou fica vermelha
+                    if (idx === q.answer) classes += " correct"; 
+                    else if (idx === q.selecionada) classes += " incorrect"; 
                     
                     html += `<div class="${classes}">
                                 <strong>${letra})</strong> <span>${opt}</span>
@@ -371,7 +380,6 @@
             });
             html += `</div>`; 
 
-            // Disclaimer só aparece na revisão
             if (modoRevisao) {
                 html += `<div class="disclaimer-box" style="display:block;">
                             <strong>Veje bem:</strong> ${q.disclaimer}
@@ -382,21 +390,19 @@
             document.querySelector('.app-container').scrollTop = 0;
         }
 
-        // LÓGICA DE MARCAR A QUESTÃO DURANTE A PROVA
         window.marcarAlternativa = function(idx) {
             if(modoRevisao) return;
             questoesAtivas[indiceAtual].selecionada = idx;
-            renderizarQuestao(); // Re-renderiza para atualizar a classe .selected
+            renderizarQuestao(); 
         };
 
-        // NAVEGAÇÃO
         window.proximaQuestao = function() {
             if(indiceAtual < questoesAtivas.length - 1) {
                 indiceAtual++;
                 renderizarQuestao();
             } else {
                 if(!modoRevisao) {
-                    confirmarFimSimulado(true); // Chamada via botão da última questão
+                    confirmarFimSimulado(true);
                 } else {
                     voltarAoInicio();
                 }
@@ -410,7 +416,6 @@
             }
         }
 
-        // RESULTADOS
         window.confirmarFimSimulado = function(forcar = false) {
             const naoRespondidas = questoesAtivas.filter(q => q.selecionada === null).length;
             
@@ -425,16 +430,14 @@
         function calcularResultados() {
             document.getElementById('simulation-screen').style.display = 'none';
             document.getElementById('progress-bar-container').style.display = 'none';
-            document.getElementById('results-screen').style.display = 'block';
+            document.getElementById('results-screen').style.display = 'flex';
             
             let corretas = 0;
             let performance = {};
 
             questoesAtivas.forEach(q => {
-                // Inicializa a matéria no objeto de performance
                 if(!performance[q.disciplina]) performance[q.disciplina] = { total: 0, certas: 0 };
                 performance[q.disciplina].total++;
-
                 if(q.selecionada === q.answer) {
                     corretas++;
                     performance[q.disciplina].certas++;
@@ -445,7 +448,6 @@
             document.getElementById('score-percent').innerText = `${percent}%`;
             document.getElementById('score-text').innerText = `Você acertou ${corretas} de ${questoesAtivas.length} questões.`;
             
-            // Build Breakdown List
             let breakdownHtml = "";
             for (const [disc, dados] of Object.entries(performance)) {
                 let percDisc = Math.round((dados.certas / dados.total) * 100);
@@ -465,7 +467,7 @@
             indiceAtual = 0;
             document.getElementById('results-screen').style.display = 'none';
             document.getElementById('simulation-screen').style.display = 'flex';
-            document.getElementById('btn-encerrar').style.display = 'none'; // Some com o botão de encerrar na revisão
+            document.getElementById('btn-encerrar').style.display = 'none'; 
             document.getElementById('progress-bar-container').style.display = 'block';
             renderizarQuestao();
         }
@@ -473,11 +475,10 @@
         window.voltarAoInicio = function() {
             document.getElementById('results-screen').style.display = 'none';
             document.getElementById('simulation-screen').style.display = 'none';
-            document.getElementById('setup-screen').style.display = 'block';
+            document.getElementById('setup-screen').style.display = 'flex';
             document.getElementById('progress-bar-container').style.display = 'none';
         }
 
-        // TIMER LOGIC
         function contagemRegressiva() {
             if (tempoRestante <= 0) {
                 clearInterval(timerInterval);
@@ -486,9 +487,7 @@
                 return;
             }
             
-            if (tempoRestante === 300) { // Aviso visual nos 5 min finais
-                document.getElementById('timerDisplay').classList.add('warning');
-            }
+            if (tempoRestante === 300) { document.getElementById('timerDisplay').classList.add('warning'); }
             
             tempoRestante--;
             atualizarDisplayTempo();
@@ -501,7 +500,7 @@
             document.getElementById('timerDisplay').innerText = `${h}:${m}:${s}`;
         }
 
-        // Initialize App
+        // Init
         renderizarDisciplinas('juridica');
 
     </script>
