@@ -846,7 +846,7 @@ const banco_pt = [
     },
     {
         topic: "Estrutura e Formação de Palavras",
-        supportText: "",
+        supportText: "Texto 1: Sem cultura não há partilha; sem língua não há cidadania nem futuro (José Manuel Diogo)<br>Nesta segunda-feira (5), Dia Mundial da Língua Portuguesa, celebramos não apenas um idioma, mas uma comunidade. Uma língua não é apenas um conjunto de palavras – é um território partilhado, um exercício contínuo de cidadania. E é por isso que, ao olharmos para os recentes debates sobre imigração em Portugal, devemos recolocar a língua no centro da equação: como critério de integração, como vetor de cultura e, sobretudo, como fundamento da cidadania contemporânea.<br>Os dados falam por si: dos 4.500 imigrantes recentemente notificados para deixar Portugal, apenas cerca de 10% são brasileiros. Esse número, silencioso, revela uma prática que merece ser assumida como política – a valorização da língua como instrumento de inclusão.<br>Falar português é mais do que dominar um idioma: é participar de uma cultura, compreender códigos sociais, partilhar valores e histórias. É estar pronto para exercer uma cidadania ativa, mesmo antes de qualquer formalização administrativa.<br>A cidadania, aliás, é o fio que liga todos os argumentos sobre imigração. Porque não se trata apenas de entrar num país – trata-se de participar nele. E essa participação só se realiza de forma plena quando há cultura comum. A língua, nesse sentido, não é uma barreira: é a porta de entrada. Quem fala a nossa língua já iniciou o percurso da cidadania. E ignorar isso é negar a própria natureza do convívio democrático.<br>Portugal, como país historicamente emigrante, deveria ter essa consciência profundamente enraizada. Fomos – e somos – milhões lá fora. E o que nos manteve ligados ao país de origem não foi a distância medida em quilômetros, mas a continuidade da língua. Ela nos permitiu manter os afetos, transmitir memórias, educar os filhos. Ela foi – e é – a nossa forma mais duradoura de cidadania.<br>Por isso, quando se verificam identidades, quando se traçam fronteiras administrativas, é urgente reconhecer que, sem cultura partilhada, toda a política migratória será falha. A cidadania não se constrói apenas com documentos – constrói-se com convivência. E não há convivência duradoura sem linguagem comum.<br>Precisamos nos juntar cotidianamente em torno do que é diferente e partilhá-lo para que se torne comum. Isso fará com que a língua portuguesa não seja apenas celebrada em discursos, mas assumida como um pilar ativo de integração e de cidadania global.<br>Neste 5 de maio, que saibamos ver na língua o que ela realmente é: um lugar onde pertencemos, antes mesmo de chegarmos. E que saibamos reconhecer nos que partilham essa língua o direito pleno de também pertencer.",
         q: "Em relação à estrutura e à formação de palavras no Texto 1, assinale a alternativa correta:",
         options: [
             "Em 'imigrantes', o prefixo 'i' é adicionado à palavra 'migrantes' para indicar 'aqueles que saem do seu país de origem'.",
@@ -874,7 +874,7 @@ const banco_pt = [
     },
     {
         topic: "Locuções Verbais",
-        supportText: "",
+        supportText: "Texto 1: Sem cultura não há partilha; sem língua não há cidadania nem futuro (José Manuel Diogo)<br>Nesta segunda-feira (5), Dia Mundial da Língua Portuguesa, celebramos não apenas um idioma, mas uma comunidade. Uma língua não é apenas um conjunto de palavras – é um território partilhado, um exercício contínuo de cidadania. E é por isso que, ao olharmos para os recentes debates sobre imigração em Portugal, devemos recolocar a língua no centro da equação: como critério de integração, como vetor de cultura e, sobretudo, como fundamento da cidadania contemporânea.<br>Os dados falam por si: dos 4.500 imigrantes recentemente notificados para deixar Portugal, apenas cerca de 10% são brasileiros. Esse número, silencioso, revela uma prática que merece ser assumida como política – a valorização da língua como instrumento de inclusão.<br>Falar português é mais do que dominar um idioma: é participar de uma cultura, compreender códigos sociais, partilhar valores e histórias. É estar pronto para exercer uma cidadania ativa, mesmo antes de qualquer formalização administrativa.<br>A cidadania, aliás, é o fio que liga todos os argumentos sobre imigração. Porque não se trata apenas de entrar num país – trata-se de participar nele. E essa participação só se realiza de forma plena quando há cultura comum. A língua, nesse sentido, não é uma barreira: é a porta de entrada. Quem fala a nossa língua já iniciou o percurso da cidadania. E ignorar isso é negar a própria natureza do convívio democrático.<br>Portugal, como país historicamente emigrante, deveria ter essa consciência profundamente enraizada. Fomos – e somos – milhões lá fora. E o que nos manteve ligados ao país de origem não foi a distância medida em quilômetros, mas a continuidade da língua. Ela nos permitiu manter os afetos, transmitir memórias, educar os filhos. Ela foi – e é – a nossa forma mais duradoura de cidadania.<br>Por isso, quando se verificam identidades, quando se traçam fronteiras administrativas, é urgente reconhecer que, sem cultura partilhada, toda a política migratória será falha. A cidadania não se constrói apenas com documentos – constrói-se com convivência. E não há convivência duradoura sem linguagem comum.<br>Precisamos nos juntar cotidianamente em torno do que é diferente e partilhá-lo para que se torne comum. Isso fará com que a língua portuguesa não seja apenas celebrada em discursos, mas assumida como um pilar ativo de integração e de cidadania global.<br>Neste 5 de maio, que saibamos ver na língua o que ela realmente é: um lugar onde pertencemos, antes mesmo de chegarmos. E que saibamos reconhecer nos que partilham essa língua o direito pleno de também pertencer.",
         q: "Quanto ao emprego de locuções verbais no Texto 1, assinale a alternativa correta:",
         options: [
             "Em '<u>Precisamos nos juntar</u> cotidianamente em torno do que é diferente [...]', o verbo 'precisamos' integra uma locução verbal e é classificado como um auxiliar modal.",
@@ -888,7 +888,7 @@ const banco_pt = [
     },
     {
         topic: "Pontuação",
-        supportText: "",
+        supportText: "Texto 1: Sem cultura não há partilha; sem língua não há cidadania nem futuro (José Manuel Diogo)<br>Nesta segunda-feira (5), Dia Mundial da Língua Portuguesa, celebramos não apenas um idioma, mas uma comunidade. Uma língua não é apenas um conjunto de palavras – é um território partilhado, um exercício contínuo de cidadania. E é por isso que, ao olharmos para os recentes debates sobre imigração em Portugal, devemos recolocar a língua no centro da equação: como critério de integração, como vetor de cultura e, sobretudo, como fundamento da cidadania contemporânea.<br>Os dados falam por si: dos 4.500 imigrantes recentemente notificados para deixar Portugal, apenas cerca de 10% são brasileiros. Esse número, silencioso, revela uma prática que merece ser assumida como política – a valorização da língua como instrumento de inclusão.<br>Falar português é mais do que dominar um idioma: é participar de uma cultura, compreender códigos sociais, partilhar valores e histórias. É estar pronto para exercer uma cidadania ativa, mesmo antes de qualquer formalização administrativa.<br>A cidadania, aliás, é o fio que liga todos os argumentos sobre imigração. Porque não se trata apenas de entrar num país – trata-se de participar nele. E essa participação só se realiza de forma plena quando há cultura comum. A língua, nesse sentido, não é uma barreira: é a porta de entrada. Quem fala a nossa língua já iniciou o percurso da cidadania. E ignorar isso é negar a própria natureza do convívio democrático.<br>Portugal, como país historicamente emigrante, deveria ter essa consciência profundamente enraizada. Fomos – e somos – milhões lá fora. E o que nos manteve ligados ao país de origem não foi a distância medida em quilômetros, mas a continuidade da língua. Ela nos permitiu manter os afetos, transmitir memórias, educar os filhos. Ela foi – e é – a nossa forma mais duradoura de cidadania.<br>Por isso, quando se verificam identidades, quando se traçam fronteiras administrativas, é urgente reconhecer que, sem cultura partilhada, toda a política migratória será falha. A cidadania não se constrói apenas com documentos – constrói-se com convivência. E não há convivência duradoura sem linguagem comum.<br>Precisamos nos juntar cotidianamente em torno do que é diferente e partilhá-lo para que se torne comum. Isso fará com que a língua portuguesa não seja apenas celebrada em discursos, mas assumida como um pilar ativo de integração e de cidadania global.<br>Neste 5 de maio, que saibamos ver na língua o que ela realmente é: um lugar onde pertencemos, antes mesmo de chegarmos. E que saibamos reconhecer nos que partilham essa língua o direito pleno de também pertencer.",
         q: "Sobre o emprego dos sinais de pontuação no Texto 1, assinale a alternativa correta:",
         options: [
             "Em '[...] é participar de uma cultura, compreender códigos sociais, partilhar valores e histórias.', as vírgulas são de uso facultativo.",
@@ -2634,6 +2634,76 @@ const banco_info = [
         disclaimer: "Pelo art. 41, § 2º da LGPD, cabe ao Encarregado (DPO) aceitar reclamações dos titulares (I), receber comunicações da ANPD (II), orientar funcionários (III) e executar demais atribuições de proteção de dados determinadas pelo controlador (IV). Revisar contratos com foco em cláusulas comerciais não é atribuição legal do DPO."
     },
     {
+        topic: "Correio Eletrônico (Clientes de E-mail)",
+        supportText: "",
+        q: "Os softwares utilitários são programas que oferecem funcionalidades específicas para melhorar o desempenho, a segurança ou a usabilidade de um sistema computacional. Entre esses utilitários, existem aqueles voltados para a gestão de e-mails. Assinale a alternativa que apresenta um software classificado como cliente de e-mail.", //[cite: 6]
+        options: [
+            "IrfanView.",
+            "Microsoft Outlook.",
+            "Google Meet.",
+            "VLC Media Player.",
+            "Kaspersky."
+        ],
+        answer: 1,
+        disclaimer: "O Microsoft Outlook é um cliente de e-mail e gerenciador de informações pessoais da Microsoft." //[cite: 6]
+    },
+    {
+        topic: "Sistema Operacional (Windows 11)",
+        supportText: "",
+        q: "Ao utilizar o sistema operacional Microsoft Windows 11 (em português), é possível nomear pastas e arquivos, entretanto alguns caracteres e nomes são reservados do sistema operacional e, portanto, não podem ser utilizados. Considerando essa informação, assinale a alternativa que apresenta um nome de pasta permitido, ou seja, que não é reservado do sistema operacional.", //[cite: 6]
+        options: [
+            "AUX",
+            "COM2",
+            "LPT4",
+            "AHL",
+            "CON"
+        ],
+        answer: 3,
+        disclaimer: "Herança do antigo MS-DOS, o Windows proíbe o uso de nomes de dispositivos reservados como CON, PRN, AUX, NUL, COM1-COM9 e LPT1-LPT9. Portanto, 'AHL' é o único permitido." //[cite: 6]
+    },
+    {
+        topic: "Hardware (Dispositivos de Armazenamento)",
+        supportText: "Os discos de armazenamento são dispositivos utilizados para guardar dados de forma permanente ou temporária, sendo essenciais para o funcionamento de qualquer computador ou sistema digital. Considerando alguns desses discos de armazenamento, informe se é verdadeiro (V) ou falso (F) o que se afirma a seguir:\n( ) Um SSD (Solid State Drive) utiliza discos magnéticos e cabeças de leitura para acessar os dados.\n( ) Um HDD (Hard Disk Drive) armazena dados usando memória flash, sem partes móveis.\n( ) O pendrive tem armazenamento portátil com memória flash.", //[cite: 6]
+        q: "Assinale a alternativa com a sequência correta.", //[cite: 6]
+        options: [
+            "V - V - V.",
+            "F - F - F.",
+            "V - F - V.",
+            "F - F - V.",
+            "V - F - F."
+        ],
+        answer: 3,
+        disclaimer: "A banca inverteu os conceitos nas duas primeiras: o HDD é que usa discos magnéticos e cabeças móveis; o SSD usa memória flash (chips) sem partes móveis, assim como o pendrive. Sequência: F - F - V." //[cite: 6]
+    },
+    {
+        topic: "Navegadores (Google Chrome)",
+        supportText: "",
+        q: "Durante uma verificação de rotina nos sites institucionais, um servidor do MPRS identificou que algumas páginas oficiais apresentavam lentidão e erros de exibição ao serem acessadas pelo Google Chrome (em português). Ao perceber que o problema persistia mesmo após limpar os dados de navegação e reiniciar o navegador, o servidor decidiu informar o ocorrido diretamente à equipe de suporte do navegador, utilizando o formulário de feedback. Para isso, ele utilizou qual dos seguintes atalhos do teclado?", //[cite: 6]
+        options: [
+            "Ctrl + Shift + g",
+            "Ctrl + Shift + j",
+            "Ctrl + Shift + m",
+            "Alt + Shift + a",
+            "Alt + Shift + i"
+        ],
+        answer: 4,
+        disclaimer: "No Google Chrome, o atalho de teclado padrão para abrir a janela de 'Enviar feedback' (informar um problema) é Alt + Shift + i." //[cite: 6]
+    },
+    {
+        topic: "Segurança da Informação (LGPD)",
+        supportText: "",
+        q: "De acordo com a Lei Geral de Proteção de Dados (LGPD), Lei nº 13.709/2018 - Cap. IV - Dos Agentes de Tratamento de Dados Pessoais, Seção I - Do Encarregado pelo Tratamento de Dados Pessoais, Art. 41, § 2º, as atividades do encarregado consistem em, EXCETO", //[cite: 6]
+        options: [
+            "revisar contratos jurídicos da empresa com foco em cláusulas comerciais.",
+            "executar as demais atribuições determinadas pelo controlador ou estabelecidas em normas complementares.",
+            "orientar os funcionários e os contratados da entidade a respeito das práticas a serem tomadas em relação à proteção de dados pessoais.",
+            "receber comunicações da autoridade nacional e adotar providências.",
+            "aceitar reclamações e comunicações dos titulares, prestar esclarecimentos e adotar providências."
+        ],
+        answer: 0,
+        disclaimer: "Revisar contratos com foco puramente comercial foge do escopo legal de atuação do DPO (Encarregado), que deve focar na conformidade de privacidade e proteção de dados." //[cite: 6]
+    },
+    {
         topic: "Noções de Informática",
         supportText: "",
         q: "João está preocupado em perder seus arquivos importantes no computador. Para garantir a segurança dos seus dados, João deve",
@@ -2772,22 +2842,6 @@ const banco_info = [
         ],
         answer: 4,
         disclaimer: "Questão extraída da prova PGM-RJ (FGV). Todas as associações estão corretas. A política de 'Mesa Limpa e Tela Limpa' (Clear Desk and Clear Screen Policy da ISO 27001) protege ativamente os três pilares da segurança (Confidencialidade, Integridade e Disponibilidade) mitigando engenharia social e acessos físicos indevidos."
-    },
-    // ----- Questões adicionadas das provas FCC (MPE-PI 2025, MPE-AL 2026, TJ-CE 2026, MPE-SE 2026) -----
-    // FCC | TJ-CE 2026 | Técnico Judiciário - Área Judiciária (Tipo 3) | Q31 | gabarito oficial FCC
-    {
-        topic: "Segurança da Informação (LGPD - Conceitos e Consentimento)",
-        supportText: "",
-        q: "Quanto à disciplina da proteção de dados pessoais, nos termos da Lei nº 13.709/2018,",
-        options: [
-            "o tratamento de dados pessoais tornados manifestamente públicos pelo seu titular não dispensa a exigência do seu consentimento.",
-            "o dado pessoal referente à saúde ou à vida sexual vinculado a uma pessoa natural é considerado dado pessoal sensível.",
-            "o dado relativo a titular que não possa ser identificado pelos meios técnicos razoáveis e disponíveis na ocasião do seu tratamento denomina-se dado oculto.",
-            "a pessoa a quem competem as decisões referentes ao tratamento de dados pessoais é denominada operador.",
-            "o consentimento do titular para tratamento de seus dados pessoais poderá ser, como regra, verbal, admitindo-se o consentimento tácito, que se perfaz mediante a ausência de recusa expressa do titular ao tratamento de dados pessoais perante a autoridade responsável."
-        ],
-        answer: 1,
-        disclaimer: "Questão extraída da prova TJ-CE (FCC, 2026). Art. 5º, II, da LGPD: dado pessoal sensível é o dado sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou organização religiosa, filosófica ou política, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural. A: o tratamento de dados manifestamente públicos pelo titular dispensa o consentimento (art. 7º, §4º). C: o dado que não permite identificar o titular é o dado anonimizado; “dado oculto” não existe na lei. D: quem decide é o controlador; o operador trata os dados em nome do controlador. E: o consentimento deve ser livre, informado e inequívoco, fornecido por escrito ou por outro meio que demonstre a manifestação de vontade (art. 8º), o que afasta o consentimento tácito."
     }
 ];
 
@@ -4298,578 +4352,7 @@ const banco_rlm = [
         ],
         answer: 4,
         disclaimer: "Questão extraída da prova PGM-RJ (FGV). A negação do quantificador universal ('Todos') faz-se com o quantificador existencial ('Pelo menos um', 'Algum' ou 'Existe') acompanhado da negação do predicado. Logo, 'Pelo menos um táxi não é branco'."
-    },
-    banco_rlm.push(
-    {
-        topic: "Operações com Números Reais e Porcentagem",
-        supportText: "IPCA – JANEIRO 2023<br>Alimentação e bebidas: 21,86%<br>Habitação: 15,26%<br>Artigos de residência: 3,95%<br>Vestuário: 4,84%<br>Transportes: 20,44%<br>Saúde e cuidados pessoais: 13,05%<br>Despesas pessoais: 10,07%<br>Educação: [ ? ]<br>Comunicação: 4,88%",
-        q: "A tabela apresentada a seguir, publicada pelo Instituto Brasileiro de Geografia e Estatística (IBGE), apresenta o peso mensal da variação dos grupos de produtos e serviços no índice geral do IPCA (Índice Nacional de Preços ao Consumidor Amplo), do mês de janeiro de 2023, com exceção do grupo Educação.<br><br>Sabendo-se que todos os grupos de produtos e serviços que são considerados para o cálculo da variação do referido índice constam na tabela, o peso mensal do grupo Educação, no IPCA de janeiro de 2023, foi de:",
-        options: ["5,65%", "4,75%", "6,65%", "4,65%", "5,75%"],
-        answer: 0,
-        disclaimer: "[VUNESP/2023] A soma de todos os pesos percentuais no índice geral deve totalizar 100%. Somando os valores fornecidos (21,86 + 15,26 + 3,95 + 4,84 + 20,44 + 13,05 + 10,07 + 4,88), obtemos 94,35%. Subtraindo esse valor de 100%, temos 100% - 94,35% = 5,65%."
     }
-);
-
-banco_rlm.push(
-    {
-        topic: "Porcentagem",
-        supportText: "",
-        q: "Em reportagem publicada na internet no final de fevereiro de 2023, uma agência de notícias informou que a receita com as vendas de smartphones no varejo mundial, em 2022, foi de US$ 330 bilhões, cerca de 10% menor, quando comparada à receita de 2021. Isso significa que, das alternativas a seguir, aquela que contém o valor que mais se aproxima da receita com a venda de smartphones no varejo mundial, em 2021, é:",
-        options: ["US$ 363 bilhões.", "US$ 359 bilhões.", "US$ 367 bilhões.", "US$ 351 bilhões.", "US$ 355 bilhões."],
-        answer: 2,
-        disclaimer: "[VUNESP/2023] Seja X a receita de 2021. Como a receita de 2022 (330 bilhões) foi 10% menor que a de 2021, temos que 0,90 * X = 330. Logo, X = 330 / 0,9 = 366,66... bilhões, o que se aproxima de US$ 367 bilhões."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Razão e Proporção",
-        supportText: "",
-        q: "Em uma pesquisa realizada em 2019, com 200 pessoas, identificou-se que a razão entre o número de pessoas que não tinham filho ou filha e o número de pessoas que tinham filho(s) ou filha(s) era 6/19. No ano passado, as mesmas pessoas participaram de outra pesquisa, ocasião em que foi identificado que o número de pessoas que não tinham filho ou filha havia diminuído em 12 unidades. Na pesquisa realizada no passado, a razão entre os números das pessoas que não tinham filho ou filha e das pessoas que tinham filho(s) ou filha(s) foi:",
-        options: ["3/10.", "9/41.", "9/38.", "3/7.", "12/41."],
-        answer: 1,
-        disclaimer: "[VUNESP/2023] Em 2019, a proporção era de 6k (sem filhos) para 19k (com filhos). Como 6k + 19k = 200, temos 25k = 200, logo k = 8. Assim, 48 pessoas não tinham filhos e 152 tinham. Na nova pesquisa, o grupo sem filhos diminuiu em 12, passando a ser 48 - 12 = 36. Consequentemente, o grupo com filhos aumentou em 12, passando a ser 152 + 12 = 164. A nova razão é 36/164, que simplificando por 4 resulta em 9/41."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Médias e Sistemas de Equações",
-        supportText: "",
-        q: "Para a realização de um serviço, foram feitos três orçamentos. O que se sabe sobre esses orçamentos é que: a média aritmética simples dos seus valores é igual a R$ 29.500,00; o maior deles ficou R$ 1.200,00 mais alto que o valor do orçamento não menor; e o menor deles ficou R$ 2.250,00 mais baixo que o valor do maior orçamento. O valor do menor orçamento foi de",
-        options: ["R$ 29.450,00.", "R$ 29.850,00.", "R$ 28.500,00.", "R$ 28.300,00.", "R$ 28.400,00."],
-        answer: 4,
-        disclaimer: "[VUNESP/2023] Sejam os orçamentos A < B < C. A soma deles é 3 * 29.500 = 88.500. Sabemos que C = B + 1200 (logo B = C - 1200) e A = C - 2250. Substituindo na soma: (C - 2250) + (C - 1200) + C = 88.500 => 3C - 3450 = 88.500 => 3C = 91.950 => C = 30.650. O menor orçamento (A) é 30.650 - 2.250 = R$ 28.400,00."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Sistemas de Equações do 1º Grau",
-        supportText: "",
-        q: "Em uma casa de venda no varejo e no atacado, se um cliente comprar quantidades 80 < q ≤ 150 de cada produto A ou B, ele tem R$ 10,00 de desconto em cada unidade do produto A e R$ 15,00 de desconto em cada unidade do produto B. Se o cliente comprar quantidades q > 150, de cada produto, ele tem descontos unitários de R$ 15,00 no produto A e de R$ 20,00 no produto B. Sabendo que Fulano comprou 100 unidades de A e 50 unidades de B, pagando o valor total de R$ 11.500,00, e que Beltrano comprou 200 unidades de A e 300 unidades de B, pagando o total de R$ 34.000,00, quem comprar apenas uma unidade de cada produto pagará, nessa compra, o total de",
-        options: ["R$ 155,00.", "R$ 150,00.", "R$ 165,00.", "R$ 170,00.", "R$ 160,00."],
-        answer: 3,
-        disclaimer: "[VUNESP/2023] Sejam A e B os preços unitários sem desconto. Fulano teve R$ 10 de desconto em A (pois 80 < 100 ≤ 150) e nenhum desconto em B (pois 50 ≤ 80): 100(A - 10) + 50B = 11.500 => 100A + 50B = 12.500 => 2A + B = 250. Beltrano teve desconto máximo em ambos (q > 150): 200(A - 15) + 300(B - 20) = 34.000 => 200A - 3000 + 300B - 6000 = 34.000 => 200A + 300B = 43.000 => 2A + 3B = 430. Subtraindo as equações: (2A + 3B) - (2A + B) = 430 - 250 => 2B = 180 => B = 90. Logo, 2A + 90 = 250 => A = 80. A compra de uma unidade de cada (sem desconto) custa A + B = 80 + 90 = R$ 170,00."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Geometria Plana",
-        supportText: "",
-        q: "O logotipo de uma repartição pública tem o formato de triângulo retângulo e, para efeito de ampliação ou redução, sabe-se que o maior lado desse logotipo mede 17/8 da medida do menor lado. Em uma propaganda, esse logotipo foi impresso com o menor lado medindo 4 cm e, portanto, a área ocupada, somente com a impressão desse logotipo, em cm², foi de",
-        options: ["23.", "19.", "30.", "26.", "15."],
-        answer: 4,
-        disclaimer: "[VUNESP/2023] O menor cateto mede 4 cm. O maior lado (hipotenusa) mede (17/8) * 4 = 8,5 cm. Pelo Teorema de Pitágoras, sendo x o outro cateto: x² + 4² = (8,5)² => x² + 16 = 72,25 => x² = 56,25 => x = 7,5 cm. A área do triângulo retângulo é (cateto1 * cateto2) / 2 = (4 * 7,5) / 2 = 15 cm²."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Diagramas Lógicos e Quantificadores",
-        supportText: "",
-        q: "Nesta questão, estão sendo consideradas quatro modalidades esportivas: A, B, C e D. É sabido que:<br>• Todo praticante de B é praticante de A.<br>• Alguns praticantes de C são praticantes de B.<br>• Alguns praticantes de A são praticantes de D.<br>A partir dessas informações, é necessariamente verdade que",
-        options: ["não existe quem pratique apenas B e C.", "alguns praticantes de B são praticantes de D.", "não há praticante de B que seja praticante de D.", "qualquer praticante de A que seja praticante de C é também praticante de B.", "todo praticante de C é praticante de D."],
-        answer: 0,
-        disclaimer: "[VUNESP/2023] Como todo praticante de B é obrigatoriamente praticante de A (o conjunto B está inteiramente contido em A), é impossível alguém praticar B sem praticar A. Portanto, não existe quem pratique *apenas* B e C (pois teria que praticar A também)."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Sequências Lógicas",
-        supportText: "",
-        q: "3. Alguns homens, familiares entre si, estão em uma sala e verificam que, entre eles, 1 é bisavô, 2 são avôs, 6 são pais, 6 são netos e 2 são bisnetos. O bisavô desses 2 bisnetos está na sala. Cada um dos 6 netos olha pela sala e pode ver o seu avô. Cada um dos 6 pais olha pela sala e pode ver o seu pai, exceto o bisavô que olha, e seu pai não está sala. O menor número possível de pessoas que podem estar nessa sala é igual a",
-        options: ["17.", "10.", "11.", "8.", "9."],
-        answer: 3,
-        disclaimer: "[VUNESP/2023] Para minimizar o número de pessoas, uma mesma pessoa deve acumular múltiplos papéis familiares. Podemos estruturar 4 gerações: G1 (1 pessoa: é bisavô, avô e pai); G2 (1 pessoa: filho de G1, logo é pai e avô); G3 (4 pessoas: filhos de G2, logo são netos de G1 e também são pais); G4 (2 pessoas: filhos de alguém de G3, logo são bisnetos de G1 e netos de G2). Contagem: Pais = G1(1) + G2(1) + G3(4) = 6 pais. Avôs = G1(1) + G2(1) = 2 avôs. Bisavô = G1(1). Netos = G3(4, netos de G1) + G4(2, netos de G2) = 6 netos. Bisnetos = G4(2). Total de pessoas = 1 + 1 + 4 + 2 = 8 pessoas."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Sequências Numéricas",
-        supportText: "",
-        q: "A sequência a seguir foi criada com um padrão lógico:<br>1, 3, 9, 13, 25, 31, 49, 57, ...<br>Nessa sequência, a diferença entre o menor termo maior que 1000 e o maior termo menor que 1000 é",
-        options: ["119.", "108.", "87.", "96.", "128."],
-        answer: 4,
-        disclaimer: "[VUNESP/2023] As diferenças entre os termos consecutivos são: +2, +6, +4, +12, +6, +18, +8... Observa-se que os termos de posição ímpar são quadrados perfeitos ímpares: T1=1², T3=3²=9, T5=5²=25, T7=7²=49. O quadrado ímpar próximo de 1000 é 31² = 961 (que ocupa a posição T31) e o próximo é 33² = 1089 (T33). Para achar T32, observamos que de T(2k-1) para T(2k) soma-se 2k: T1 para T2 (+2), T3 para T4 (+4), T5 para T6 (+6). Como 961 é o 16º quadrado ímpar (k=16), para o próximo termo somamos 2*16 = 32. Logo, o termo seguinte a 961 é 961 + 32 = 993 (maior termo menor que 1000). O termo seguinte é 33² = 1089? Não, vamos checar o salto par: 1(+2)3(+6)9(+4)13(+12)25(+6)31(+18)49(+8)57. Os termos pares são: T2=1+2, T4=9+4, T6=25+6, T8=49+8. Logo, após o quadrado (2k-1)², soma-se 2k. Para 31²=961, temos 2k-1=31 => 2k=32. Então o termo após 961 é 961 + 32 = 993. E o termo seguinte a 993 é o próximo quadrado ímpar: 33² = 1089. A diferença entre 1089 e 993 é 1089 - 993 = 96. (Nota: no gabarito oficial da banca a resposta foi D: 96)."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Equivalências Lógicas",
-        supportText: "Letícia afirmou: “Se o concurso é longo e é difícil, então os candidatos estudam.”<br>Pedro afirmou: “Se os candidatos estudam, então o concurso é longo e é difícil.”<br>Mércia afirmou: “Se os candidatos não estudam, então o concurso não é longo e não é difícil.”<br>Célia afirmou: “Se o concurso não é longo ou não é difícil, então os candidatos não estudam.”<br>Rodrigo afirmou: “Se o concurso é longo ou é difícil, então os candidatos não estudam.”",
-        q: "Um pouco antes de entrarem para prestar a prova de um concurso, 5 pessoas fizeram afirmações que soaram um tanto parecidas.<br><br>Duas dessas pessoas disseram afirmações logicamente equivalentes entre si. Essa dupla de pessoas é",
-        options: ["Letícia e Rodrigo.", "Rodrigo e Mércia.", "Célia e Mércia.", "Pedro e Mércia.", "Pedro e Célia."],
-        answer: 4,
-        disclaimer: "[VUNESP/2023] A afirmação de Pedro é do tipo E -> (L ^ D). Pela equivalência contrapositiva (~Q -> ~P), negamos o consequente e o antecedente, invertendo a ordem. A negação de (L ^ D) pela Lei de De Morgan é (~L v ~D). A negação de E é ~E. Portanto, a contrapositiva de Pedro é (~L v ~D) -> ~E ('Se o concurso não é longo ou não é difícil, então os candidatos não estudam'), que é exatamente a afirmação de Célia."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Tabela-Verdade e Dedução Lógica",
-        supportText: "I. “Se Ana é generosa, então Bernardo é gastador”. Considere essa afirmação como sendo VERDADEIRA.<br>II. “Bernardo é gastador ou Claudete é gentil”. Considere essa afirmação como sendo VERDADEIRA.<br>III. “Eduardo é tímido e Claudete é gentil”. Considere essa afirmação como sendo FALSA.<br>IV. “Ou Gerson é ligeiro ou Eduardo é tímido”. Considere essa afirmação como sendo VERDADEIRA.<br>V. “Bernardo é gastador”. Considere essa afirmação como sendo FALSA.<br>VI. “Se Hugo é rico, então Ana é generosa”. Considere essa afirmação como sendo VERDADEIRA.",
-        q: "Seguem algumas afirmações sobre pessoas.<br><br>A partir das informações apresentadas, é logicamente verdadeiro que",
-        options: ["Claudete não é gentil.", "Hugo não é rico.", "Gerson não é ligeiro.", "Eduardo é tímido.", "Ana é generosa."],
-        answer: 1,
-        disclaimer: "[VUNESP/2023] De V, sabemos que 'Bernardo é gastador' é F. Substituindo em I (Se Ana é generosa -> F = V), concluímos que 'Ana é generosa' é F. Substituindo em VI (Se Hugo é rico -> F = V), para a condicional ser verdadeira com consequente falso, o antecedente deve ser falso. Logo, 'Hugo é rico' é F, o que torna verdadeiro que 'Hugo não é rico'."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Diagramas de Venn (Conjuntos)",
-        supportText: "",
-        q: "A figura a seguir representa um diagrama lógico composto por 4 conjuntos (A, B, C e D). Nesse diagrama, há 4 regiões de intersecção de 3 e apenas 3 conjuntos, 5 regiões de intersecção de 2 e apenas 2 conjuntos e 4 regiões que são de apenas 1 conjunto. Nesse diagrama lógico, cada região que possui elementos de apenas 1 conjunto possui 24 elementos, e em cada região que se caracteriza por ser intersecção de 3 e apenas 3 conjuntos possui 40 elementos. Sabe-se que, no total, são 416 elementos que fazem parte desse diagrama e que o número de elementos que pertencem a cada região, que se caracteriza por ser intersecção de 2 e apenas 2 conjuntos, é igual entre si. E esse número é",
-        options: ["40.", "36.", "48.", "60.", "80."],
-        answer: 0,
-        disclaimer: "[VUNESP/2023] Analisando a estrutura clássica do diagrama dado na prova: há 4 regiões exclusivas de 1 conjunto (4 * 24 = 96 elementos); há 3 regiões de intersecção de exatos 3 conjuntos (3 * 40 = 120 elementos); e há 5 regiões de intersecção de exatos 2 conjuntos (5 * x). Somando tudo: 96 + 120 + 5x = 416 => 216 + 5x = 416 => 5x = 200 => x = 40."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Negação de Proposições Compostas",
-        supportText: "",
-        q: "A alternativa que corresponde à negação lógica da afirmação:<br>“Qualquer processo deve ser considerado ou não há trabalho eficiente neste escritório”, é",
-        options: ["Algum processo não deve ser considerado e há trabalho eficiente neste escritório.", "Há trabalho eficiente neste escritório ou todos os processos não devem ser considerados.", "Qualquer processo não deve ser considerado e não há trabalho eficiente neste escritório.", "Se qualquer processo não deve ser considerado, então há trabalho eficiente neste escritório.", "Se há trabalho eficiente neste escritório, então todo processo deve ser considerado."],
-        answer: 0,
-        disclaimer: "[VUNESP/2023] Pela Lei de De Morgan, a negação de uma disjunção (P ou Q) é a conjunção das negações (~P e ~Q). A proposição P é 'Qualquer (todo) processo deve ser considerado', cuja negação é 'Algum processo não deve ser considerado'. A proposição Q é 'não há trabalho eficiente...', cuja negação é 'há trabalho eficiente...'. Unindo com 'e', temos a alternativa A."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Associação Lógica",
-        supportText: "",
-        q: "Três amigas, Juliana, Nádia e Marluce, praticam atletismo, não necessariamente nesta ordem de modalidades: 100 metros rasos, 400 metros com barreiras e 5 000 metros. As alturas de cada uma delas são, não necessariamente nesta ordem: 1,68 m, 1,72 m e 1,81 m. Sobre elas é conhecido que Juliana não corre os 100 metros rasos e mora perto da amiga cuja altura é de 1,72 m. Já Nádia, que não é a mais baixa, não pratica provas com menos de 1 000 m e não mora perto das outras duas amigas. A partir dessas informações, tem valor lógico verdadeiro a afirmação:",
-        options: ["A atleta que tem 1,72 m de altura pratica 100 metros rasos e Juliana pratica os 5 000 metros.", "Ou Juliana pratica os 400 metros com barreiras ou Nádia tem 1,81 m de altura.", "Se Nádia tem 1,72 m de altura, então Marluce tem 1,81 m de altura.", "Se Juliana tem 1,68 m de altura, então Nádia pratica os 400 metros com barreiras.", "Nádia pratica 5000 metros e Marluce tem 1,81 m de altura."],
-        answer: 1,
-        disclaimer: "[VUNESP/2023] Como Nádia não pratica provas < 1000m, Nádia pratica 5000m. Como Juliana não corre 100m, Juliana corre 400m com barreiras e Marluce corre 100m. Juliana mora perto da amiga de 1,72m, e Nádia não mora perto de nenhuma, logo Juliana e Marluce moram perto uma da outra, o que significa que Marluce tem 1,72m. Como Nádia não é a mais baixa (1,68m), Nádia tem 1,81m e Juliana tem 1,68m. Na alternativa D, temos uma condicional onde o antecedente ('Juliana tem 1,68m') é V e o consequente ('Nádia pratica 400m') é F, tornando-a Falsa. Na alternativa C, o antecedente ('Nádia tem 1,72m') é Falso, o que torna toda a condicional logicamente VERDADEIRA! (Nota: Na B, é uma disjunção exclusiva onde ambas são V, logo é F. Gabarito oficial: C)."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Sequências Numéricas",
-        supportText: "A = (1, 2, 4, 7, 9, 10, 12, 15, 17, 18, 20, 23, 25, ..., 97)<br>B = (100, 97, 95, 94, 92, 89, 87, 86, 84, 81, 79, 78, 76, ..., 4)",
-        q: "Considere duas sequências, A e B, cada uma criada com o próprio padrão lógico. Na sequência A, o primeiro termo apresentado é o 1, e o último termo é o 97. Na sequência B, o primeiro termo apresentado é o 100, e o último termo é o 4.<br><br>A diferença, em valor absoluto, entre os números do par formado pelos primeiros termos de cada sequência, o 1 e o 100, é igual a 99 (100 – 1). A diferença, em valor absoluto, entre os números do par formado pelos sétimos termos de cada sequência, o 12 e o 87, é igual a 75 (87 – 12). O par de termos de cada sequência que, pareados conforme os exemplos anteriores, apresenta a menor diferença absoluta entre seus termos está localizado na posição",
-        options: ["24.", "25.", "23.", "27.", "26."],
-        answer: 1,
-        disclaimer: "[VUNESP/2023] A sequência A soma ciclicamente (+1, +2, +3, +2), ou seja, a cada 4 passos aumenta 8 unidades. A sequência B subtrai ciclicamente (-3, -2, -1, -2), ou seja, a cada 4 passos diminui 8 unidades. Vamos avançar de 4 em 4 posições a partir da posição 1 (A1=1, B1=100): Na posição 1 + 4*6 = 25, teremos A25 = 1 + 6*8 = 49, e B25 = 100 - 6*8 = 52. A diferença é |52 - 49| = 3. Testando a posição 26: A26 = 49 + 1 = 50; B26 = 52 - 3 = 49; a diferença é |49 - 50| = 1 (menor diferença possível, pois no termo 27 será A27=52 e B27=47, dif=5). Logo, a posição é 26."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Probabilidade Condicional",
-        supportText: "",
-        q: "Um dado cúbico honesto, com as faces numeradas de 1 a 6, é lançado duas vezes consecutivas. Sabe-se que no primeiro lançamento saiu um número maior do que 4. A probabilidade de que a soma dos dois números sorteados seja maior do que 8 é:",
-        options: ["1/2;", "2/3;", "5/8;", "7/12;", "9/16."],
-        answer: 0,
-        disclaimer: "[FGV/2023] Como no primeiro lançamento saiu um número maior que 4, os resultados possíveis para o 1º dado são apenas {5, 6}. Como o 2º dado tem 6 possibilidades {1, 2, 3, 4, 5, 6}, o espaço amostral reduzido possui 2 x 6 = 12 pares equiprováveis. Queremos soma > 8: se o 1º for 5, o 2º pode ser {4, 5, 6} (3 casos); se o 1º for 6, o 2º pode ser {3, 4, 5, 6} (4 casos). Total de casos favoráveis = 3 + 4 = 7. Portanto, a probabilidade é 7/12. (Gabarito: D, índice 3)."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Problemas do 1º Grau (Idades)",
-        supportText: "",
-        q: "As amigas Carla e Diana fazem aniversário hoje. Há 6 anos, quando Carla fez 7 anos, Diana deu um cachorrinho recém-nascido para Carla, que deu o nome Bob a ele. Hoje, a soma das idades de Bob, Carla e Diana é 35 anos. A diferença, em anos, entre as idades de Diana e Carla é:",
-        options: ["2;", "3;", "4;", "5;", "6."],
-        answer: 1,
-        disclaimer: "[FGV/2023] Há 6 anos, Bob nasceu (tinha 0 anos) e Carla tinha 7 anos. Logo, hoje Bob tem 6 anos e Carla tem 7 + 6 = 13 anos. Como a soma das três idades hoje é 35, temos: 6 + 13 + Diana = 35 => 19 + Diana = 35 => Diana = 16 anos. A diferença entre as idades de Diana e Carla é 16 - 13 = 3 anos."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Razão, Proporção e Velocidade",
-        supportText: "",
-        q: "Os corredores A e B são tais que a velocidade de A é 50% maior que a velocidade de B. Em uma pista, B está 120 m à frente de A e, juntos, iniciam uma corrida com A perseguindo B. A distância que o corredor A percorrerá até alcançar B é:",
-        options: ["240 m;", "300 m;", "320 m;", "360 m;", "480 m."],
-        answer: 3,
-        disclaimer: "[FGV/2023] Seja V a velocidade de B. A velocidade de A é 1,5V. No mesmo intervalo de tempo t até o encontro, a distância percorrida é proporcional à velocidade. Enquanto B percorre uma distância d, A percorre 1,5d. Como A precisa tirar a diferença inicial de 120 m, temos: 1,5d - d = 120 => 0,5d = 120 => d = 240 m. Portanto, a distância total percorrida por A é 1,5 * 240 = 360 m."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Geometria Plana (Circunferência)",
-        supportText: "",
-        q: "A roda de certa bicicleta tem 60 cm de diâmetro externo. A bicicleta tem um contador de voltas, ou seja, um aparelho que registra o número de voltas dadas pela roda em determinado percurso. Jair testou essa bicicleta e fez um percurso onde o contador registrou 500 voltas da roda. Considere a aproximação π = 3,14. A distância percorrida por Jair nesse teste foi de, aproximadamente:",
-        options: ["840 m;", "940 m;", "1060 m;", "1120 m;", "1200 m."],
-        answer: 1,
-        disclaimer: "[FGV/2023] O comprimento de uma volta da roda é C = π * d = 3,14 * 60 cm = 188,4 cm = 1,884 metros. Em 500 voltas, a distância total percorrida é 500 * 1,884 m = 942 metros, o que é aproximadamente 940 m."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Análise Combinatória",
-        supportText: "",
-        q: "Considere o conjunto dos números naturais de 2 até 20:<br>{2, 3, 4, 5, ..., 18, 19, 20}<br>O número de pares ordenados que podem ser formados com os elementos desse conjunto, de tal forma que as primeiras coordenadas (abcissas) sejam números pares e maiores do que as segundas coordenadas (ordenadas) correspondentes é:",
-        options: ["120;", "100;", "90;", "80;", "60."],
-        answer: 2,
-        disclaimer: "[FGV/2023] Queremos pares (x, y) no conjunto {2, 3, ..., 20} tais que x é par e x > y. Se x = 2, não há y menor no conjunto (0 opções). Se x = 4, y pode ser {2, 3} (2 opções). Se x = 6, y pode ser {2, 3, 4, 5} (4 opções). Seguindo o padrão para os números pares até x = 20 (onde y tem 18 opções: de 2 a 19), temos a soma dos pares: 0 + 2 + 4 + 6 + 8 + 10 + 12 + 14 + 16 + 18 = 90 pares ordenados."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Lógica Proposicional (Tabela-Verdade)",
-        supportText: "",
-        q: "Sabe-se que a sentença:<br>“Se a camisa é preta e a calça é branca, então o cinto é marrom ou o sapato é marrom” é FALSA.<br>É correto afirmar que:",
-        options: ["Se o cinto é marrom, então o sapato é marrom;", "Se o sapato não é marrom, então a camisa não é preta;", "Se a calça é branca, então o sapato é marrom;", "Se a camisa é preta, então a calça não é branca;", "Se a camisa é preta, então o cinto é marrom."],
-        answer: 0,
-        disclaimer: "[FGV/2023] Para uma condicional (P -> Q) ser FALSA, o antecedente deve ser Verdadeiro e o consequente Falso. Logo: 'a camisa é preta' (V), 'a calça é branca' (V), 'o cinto é marrom' (F) e 'o sapato é marrom' (F). Analisando a alternativa A: 'Se o cinto é marrom (F), então o sapato é marrom (F)'. Na condicional, F -> F resulta em VERDADEIRO."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Geometria Plana (Áreas)",
-        supportText: "",
-        q: "Em um triângulo ABC retângulo em A, o lado AC está dividido em 3 partes iguais pelos pontos D e E (sendo D mais próximo de A); o lado BC está dividido em 3 partes iguais pelos pontos F e G (sendo F mais próximo de B). São dados AB = 18 cm e AC = 12 cm. A área do quadrilátero ABFD, em cm², é:",
-        options: ["42;", "45;", "48;", "60;", "72."],
-        answer: 3,
-        disclaimer: "[FGV/2023] A área total do triângulo ABC é (18 * 12) / 2 = 108 cm². Podemos achar a área do quadrilátero ABFD subtraindo a área do triângulo CDF da área total ABC. No triângulo CDF, o ponto D divide AC de forma que CD = (2/3)AC = 8 cm. Como F divide BC em 3 partes (CF = 2/3 de BC), a distância horizontal (altura de F em relação à base AC) também é 2/3 de AB = (2/3)*18 = 12 cm. Logo, a área de CDF é (base CD * altura) / 2 = (8 * 12) / 2 = 48 cm². Assim, a área de ABFD = 108 - 48 = 60 cm²."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Unidades de Medida de Tempo e Proporção",
-        supportText: "",
-        q: "Uma impressora deve imprimir os relatórios personalizados de todos os clientes de certa corretora. A impressão de cada um demora 24 segundos e a corretora possui 1.200 clientes. Trabalhando continuamente, a impressora realizará todo o trabalho em:",
-        options: ["7 horas e meia;", "7 horas e 40 minutos;", "8 horas;", "8 horas e meia;", "9 horas."],
-        answer: 2,
-        disclaimer: "[FGV/2023] O tempo total em segundos é 1.200 * 24 = 28.800 segundos. Como 1 hora possui 3.600 segundos, dividimos 28.800 por 3.600, obtendo exatamente 8 horas."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Porcentagem",
-        supportText: "",
-        q: "Joana gastou 30% da sua mesada comprando chocolates e 40% do que sobrou comprando livros. Da sua mesada total, Joana ainda tem:",
-        options: ["28%;", "30%;", "36%;", "42%;", "54%."],
-        answer: 3,
-        disclaimer: "[FGV/2023] Após gastar 30%, sobrou 70% da mesada. Ela gastou 40% desses 70%, restando 60% de 70%. Calculando: 0,60 * 0,70 = 0,42, ou seja, 42% da mesada total."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Aritmética e Problemas de Otimização",
-        supportText: "",
-        q: "Natália tem dez moedas de R$ 0,25, dez moedas de R$ 0,50 e dez moedas de R$ 1,00. Ela foi a uma mercearia e quer pagar R$ 9,75 com as moedas que ela tem. O maior número de moedas que ela pode usar para pagar esse valor é:",
-        options: ["15;", "17;", "18;", "20;", "21."],
-        answer: 4,
-        disclaimer: "[FGV/2023] Para usar o maior número possível de moedas, devemos priorizar as moedas de menor valor. Usando todas as 10 moedas de R$ 0,25, temos R$ 2,50. Faltam R$ 9,75 - R$ 2,50 = R$ 7,25. Como não há mais moedas de R$ 0,25, não é possível formar os 25 centavos finais! Logo, devemos usar apenas 9 moedas de R$ 0,25 (totalizando R$ 2,25). Faltam R$ 9,75 - R$ 2,25 = R$ 7,50. Agora usamos todas as 10 moedas de R$ 0,50 (totalizando R$ 5,00). Faltam R$ 2,50, que não dá para formar com moedas de R$ 1,00! Então usamos 9 moedas de R$ 0,50 (R$ 4,50). Assim: 9*(0,25) + 9*(0,50) = 2,25 + 4,50 = R$ 6,75. Faltam exatamente R$ 3,00, que pagamos com 3 moedas de R$ 1,00. Total de moedas = 9 + 9 + 3 = 21 moedas."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Regra de Três Inversa",
-        supportText: "",
-        q: "Um morro foi cortado para a construção de uma estrada e 12 caminhões trabalharam durante 24 dias para transportar toda a terra para um aterro próximo. Se 18 caminhões tivessem sido usados para esse trabalho, o transporte de toda a terra teria sido realizado em:",
-        options: ["16 dias;", "18 dias;", "20 dias;", "30 dias;", "36 dias."],
-        answer: 0,
-        disclaimer: "[FGV/2023] A quantidade de caminhões e o tempo são grandezas inversamente proporcionais. Portanto, 18 * d = 12 * 24 => 18 * d = 288 => d = 288 / 18 = 16 dias."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Mínimo Múltiplo Comum (MMC) e Calendário",
-        supportText: "",
-        q: "Duas máquinas funcionam continuamente. Uma delas necessita de vistoria a cada 15 dias e a outra necessita de vistoria a cada 25 dias. As duas máquinas foram vistoriadas no dia 1º de março. O próximo dia em que as máquinas receberão vistoria simultaneamente será:",
-        options: ["9 de abril;", "19 de abril;", "2 de maio;", "14 de maio;", "15 de maio."],
-        answer: 4,
-        disclaimer: "[FGV/2023] O encontro ocorrerá após um número de dias igual ao MMC(15, 25) = 75 dias. Contando 75 dias a partir de 1º de março: como março tem 31 dias, faltam 30 dias para acabar março (chegamos a 31/março). Abril tem 30 dias (30 + 30 = 60 dias, chegamos a 30/abril). Restam 75 - 60 = 15 dias em maio. Portanto, será no dia 15 de maio."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Inequações e Operações com Decimais",
-        supportText: "",
-        q: "Uma fórmula muito usada por motoristas de aplicativos, para saber se vale mais a pena abastecer o carro de motor flex com gasolina ou álcool (etanol), é dividir o preço do litro de etanol pelo da gasolina. Se o resultado for maior do que 0,7, é mais vantajoso abastecer o carro com gasolina, se for menor do que 0,7 é mais vantajoso abastecer o carro com etanol e, se for igual a 0,7, é indiferente abastecer o carro com gasolina ou etanol. Renan, que é motorista de aplicativo, fez as contas por essa fórmula e verificou que seria mais vantajoso abastecer seu carro com etanol, já que o preço do litro de gasolina estava R$ 5,10. O preço do litro de etanol usado nos cálculos de Renan, necessariamente,",
-        options: ["era maior do que R$ 4,40.", "estava entre R$ 3,50 e R$ 3,57.", "era menor do que R$ 3,50.", "estava entre R$ 3,57 e R$ 4,40.", "era menor do que R$ 3,57."],
-        answer: 4,
-        disclaimer: "[VUNESP/2023] Para ser mais vantajoso abastecer com etanol, a razão (Etanol / Gasolina) deve ser menor que 0,7. Sendo a gasolina R$ 5,10, temos: E / 5,10 < 0,7 => E < 0,7 * 5,10 => E < 3,57. Logo, o preço do etanol era necessariamente menor do que R$ 3,57."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Escalas e Proporcionalidade",
-        supportText: "",
-        q: "De acordo com a escala de um mapa, cada 6 cm de distância no mapa corresponde a uma distância real de 19 km. Uma distância real de 570 m corresponde, nesse mapa, a distância de",
-        options: ["1,8 mm.", "18 mm.", "18 cm.", "9 mm.", "9 cm."],
-        answer: 0,
-        disclaimer: "[VUNESP/2023] Convertendo 19 km para metros, temos 19.000 m. Pela regra de três: 6 cm está para 19.000 m assim como x cm está para 570 m. Logo, x = (6 * 570) / 19.000 = 3.420 / 19.000 = 0,18 cm. Convertendo de centímetros para milímetros (multiplicando por 10), temos 1,8 mm."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Sistemas de Equações e Geometria",
-        supportText: "",
-        q: "Duas pilhas são formadas envolvendo cinco retângulos idênticos e três quadrados idênticos. Sabe-se que a largura (menor lado) do retângulo é igual à medida do lado do quadrado. A primeira pilha (de 15 cm de altura) é formada por 1 quadrado na base, 1 retângulo em pé no meio e 1 retângulo deitado no topo. A segunda pilha (de 16 cm de altura) é formada por 1 retângulo deitado na base, 1 quadrado no meio, outro retângulo deitado acima dele, e no topo 1 quadrado ao lado de 1 retângulo deitado... [Adaptação direta das equações visuais da figura da prova]: Na pilha 1 (15 cm), a altura é composta por 1 lado do quadrado (x), 1 comprimento do retângulo em pé (y) e 1 largura do retângulo deitado (x), somando 2x + y = 15. Na pilha 2 (16 cm), a altura é composta por 1 retângulo em pé (y) e 2 quadrados (2x)? Não, olhando as proporções: se x = 3,2 cm (lado do quadrado e largura do retângulo) e y = 10 cm (comprimento do retângulo): Pilha 1 = y + x + ... Vamos equacionar pelas alternativas: 10,24 é 3,2², que seria o quadrado. Se área do retângulo = 20,48 e x = 3,2, então y = 6,4. Testando x=3,2 e y=6,4: Pilha 1 tem dois retângulos deitados e um em pé? 3,2 + 6,4 + 3,2 = 12,8 (não). Se x=3,2 e y=8,6: 3,2*8,6 = 27,52! Testando x=3,2 e y=8,6: Pilha 1 = 2x + y = 2(3,2) + 8,6 = 6,4 + 8,6 = 15 cm! Pilha 2 = 5x = 5(3,2) = 16 cm! (Na pilha 2, as alturas somam três retângulos deitados e dois quadrados, ou seja, 3x + 2x = 5x = 16 cm). Na condição dada, a área de cada um dos cinco retângulos da figura, em cm², é igual a",
-        options: ["32,00.", "20,48.", "27,52.", "10,89.", "10,24."],
-        answer: 2,
-        disclaimer: "[VUNESP/2023] Seja x o lado do quadrado (que é igual à menor dimensão do retângulo) e y a maior dimensão do retângulo. Na segunda pilha (16 cm), a altura vertical é formada por 3 retângulos deitados (altura x cada) e 2 quadrados (altura x cada) empilhados, totalizando 5x = 16 cm => x = 3,2 cm. Na primeira pilha (15 cm), a altura é formada por 1 retângulo em pé (y), 1 quadrado (x) e 1 retângulo deitado (x), totalizando y + 2x = 15 => y + 6,4 = 15 => y = 8,6 cm. A área de cada retângulo é x * y = 3,2 * 8,6 = 27,52 cm²."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Porcentagem e Juros",
-        supportText: "",
-        q: "O preço à vista de um celular é de R$ 1.280,00. Caso o comprador queira pagar a prazo, em 10 prestações mensais fixas, cada prestação será de R$ 153,60. Nesse caso, o acréscimo que o comprador pagará, em relação ao preço do pagamento à vista, corresponderá a:",
-        options: ["16%", "18%", "15%", "20%", "12%"],
-        answer: 3,
-        disclaimer: "[VUNESP/2023] O valor total a prazo é 10 * R$ 153,60 = R$ 1.536,00. O acréscimo em reais é 1.536 - 1.280 = R$ 256,00. Percentualmente, em relação ao valor à vista: 256 / 1.280 = 0,20 = 20%."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Média Ponderada",
-        supportText: "",
-        q: "Um concurso consiste de três provas de pesos diferentes, que são: matemática (peso 1), legislação (peso 3) e português (peso 4). Cada uma das três provas vale de 0 a 10 pontos, e a nota final de cada candidato é a média ponderada das três provas. Rafaela prestou esse concurso, tirou 6 na prova de português e na de matemática tirou o dobro da nota que tirou na prova de legislação. Sabendo-se que Rafaela foi aprovada nesse concurso com média ponderada igual a 5, sua nota na prova de matemática superou a nota na prova de português em",
-        options: ["0,5 ponto.", "0,4 ponto.", "0,2 ponto.", "0,6 ponto.", "0,8 ponto."],
-        answer: 1,
-        disclaimer: "[VUNESP/2023] Seja x a nota em legislação; logo, a nota em matemática foi 2x. A soma dos pesos é 1 + 3 + 4 = 8. Pela fórmula da média ponderada: [1*(2x) + 3*(x) + 4*(6)] / 8 = 5 => 5x + 24 = 40 => 5x = 16 => x = 3,2. Assim, a nota em matemática foi 2 * 3,2 = 6,4. Essa nota superou a de português (6,0) em 6,4 - 6,0 = 0,4 ponto."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Geometria Plana (Área e Perímetro)",
-        supportText: "",
-        q: "A figura indica o estacionamento retangular PARK, cujo comprimento PA (medida x) mede a metade da largura AR (medida 2x). No meio desse estacionamento, há uma rotatória circular, de área 12 m², que é a única parte do interior do estacionamento que não pode ser ocupada por veículos. Se a área da parte desse estacionamento que pode ser ocupada com veículos é de 500 m², então o perímetro do retângulo PARK, em metros, é igual a",
-        options: ["84.", "102.", "78.", "90.", "96."],
-        answer: 4,
-        disclaimer: "[VUNESP/2023] A área total do retângulo é a soma da área útil (500 m²) com a área da rotatória (12 m²), totalizando 512 m². Como os lados medem x e 2x, temos: x * 2x = 512 => 2x² = 512 => x² = 256 => x = 16 metros. O perímetro do retângulo é 2*(x + 2x) = 6x = 6 * 16 = 96 metros."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Diagramas Lógicos (Conjuntos)",
-        supportText: "I. Todos que possuem a habilidade Q também possuem a habilidade P.<br>II. Não há quem possua a habilidade R, que não possua também a habilidade P, mas desses nem todos possuem a habilidade Q.<br>III. Há quem possua a habilidade T que possui também a habilidade Q, e não há quem possua a habilidade R que possui a habilidade T.",
-        q: "Em relação a um grupo de pessoas e quanto ao domínio de quatro habilidades: P, Q, R e T, sabe-se que:<br><br>A descrição correta do diagrama lógico que satisfaz plenamente as três afirmações dadas é:",
-        options: ["Os conjuntos Q e R estão totalmente contidos em P; R intercepta Q (mas não está contido nele); T intercepta Q e P, mas é totalmente disjunto de R.", "O conjunto P está contido em Q; R intercepta T.", "Os conjuntos R e T possuem intersecção não vazia dentro de P.", "O conjunto Q engloba o conjunto P e o conjunto R.", "O conjunto R está parcialmente fora do conjunto P."],
-        answer: 0,
-        disclaimer: "[VUNESP/2023] De I, o círculo Q fica inteiramente dentro de P. De II, todo R é P (R fica inteiramente dentro de P), mas R não fica inteiramente dentro de Q. De III, T tem intersecção com Q (e consequentemente com P), mas não tem nenhuma intersecção com R (T e R são disjuntos)."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Lógica Proposicional (Tabela-Verdade)",
-        supportText: "I. Se Fabiana é técnica judiciária, então Gerusa é escrevente.<br>II. Se Humberto é juiz, então Gerusa não é escrevente.<br>III. Se Janice é desembargadora, então Ivo é promotor.<br>IV. Ivo é promotor ou Humberto é juiz.",
-        q: "Acerca de cinco servidores de um tribunal foram feitas quatro afirmações. A terceira afirmação é FALSA e as demais são VERDADEIRAS.<br><br>A partir dessas afirmações, é logicamente VERDADEIRO que",
-        options: ["Gerusa é escrevente.", "Janice não é desembargadora.", "Ivo é promotor.", "Humberto não é juiz.", "Fabiana não é técnica judiciária."],
-        answer: 4,
-        disclaimer: "[VUNESP/2023] Como III é FALSA (condicional), o antecedente é V ('Janice é desembargadora') e o consequente é F ('Ivo é promotor' é F). Em IV (que é V), como 'Ivo é promotor' é F, obrigatoriamente 'Humberto é juiz' é V. Em II (que é V), sendo Humberto juiz (V), segue que 'Gerusa não é escrevente' é V (ou seja, 'Gerusa é escrevente' é F). Em I (que é V), como o consequente ('Gerusa é escrevente') é F, o antecedente tem que ser F, logo 'Fabiana não é técnica judiciária'."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Sequências Numéricas",
-        supportText: "",
-        q: "A sequência a seguir é ilimitada e foi criada com um padrão lógico:<br>20, 5, 4, 40, 10, 8, 60, 15, 12, 80, 20, 16, ..., 180, _K_, _L_, ..., 260, _M_, _N_, ...<br>O valor de K + L + M + N é",
-        options: ["192.", "202.", "186.", "198.", "208."],
-        answer: 2,
-        disclaimer: "[VUNESP/2023] A sequência é dividida em trincas: (20, 5, 4), (40, 10, 8), (60, 15, 12)... Em cada trinca n, o 1º termo é 20n, o 2º termo é o primeiro dividido por 4 (5n), e o 3º termo é o primeiro dividido por 5 (4n). Para 180 (n=9): K = 180 / 4 = 45; L = 180 / 5 = 36. Para 260 (n=13): M = 260 / 4 = 65; N = 260 / 5 = 52. Somando: K + L + M + N = 45 + 36 + 65 + 52 = 198. (Gabarito oficial: D, índice 3)."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Equivalências Lógicas",
-        supportText: "",
-        q: "Em uma reunião, com seus colaboradores, o chefe do atendimento diz:<br>“Se o atendimento é bom, então o cliente fica satisfeito e volta”.<br>A alternativa que contém uma afirmação equivalente à afirmação do chefe é:",
-        options: ["Se o cliente não fica satisfeito ou volta, então o atendimento não é bom.", "O cliente fica satisfeito ou volta e o atendimento é bom.", "Se o cliente fica satisfeito e volta, então o atendimento é bom.", "O atendimento é bom e o cliente fica satisfeito e volta.", "Se o cliente não fica satisfeito ou não volta, então o atendimento não é bom."],
-        answer: 4,
-        disclaimer: "[VUNESP/2023] Pela equivalência contrapositiva de A -> (B ^ C), negamos ambos os lados e invertemos a direção: ~(B ^ C) -> ~A. Pela Lei de De Morgan, a negação de 'fica satisfeito e volta' é 'não fica satisfeito OU não volta'. Logo, equivale a: 'Se o cliente não fica satisfeito ou não volta, então o atendimento não é bom'."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Diagramas de Venn (Conjuntos)",
-        supportText: "",
-        q: "Três conjuntos: I, II e III formam um diagrama lógico. As regiões A, D e E são regiões do conjunto I (onde A é exclusiva de I). As regiões B, E e F são regiões do conjunto II (B exclusiva de II). As regiões C, D e F são regiões do conjunto III (C exclusiva de III). As letras representam o número de elementos da região na qual a letra está inserida. A intersecção simultânea dos três conjuntos não possui elementos. A união dos três conjuntos possui 55 elementos, e sabe-se que: A + B = 23; A + C = 26; B + C = 25. A região D tem um elemento a mais que a região E, que, por sua vez, tem um elemento a mais que a região F. Sendo assim, é correto afirmar que o conjunto que tem mais elementos supera o conjunto com o menor número de elementos em",
-        options: ["2 elementos.", "3 elementos.", "4 elementos.", "1 elemento.", "5 elementos."],
-        answer: 1,
-        disclaimer: "[VUNESP/2023] Somando as três equações dadas: 2(A + B + C) = 23 + 26 + 25 = 74 => A + B + C = 37. Como aos valores faltam (A+B=23 => C=14; A+C=26 => B=11; B+C=25 => A=12). Como o total da união é 55, temos D + E + F = 55 - 37 = 18. Sabemos que D = E + 1 e F = E - 1, logo (E+1) + E + (E-1) = 18 => 3E = 18 => E = 6, D = 7 e F = 5. Calculando o total de cada conjunto: Conjunto I = A + D + E = 12 + 7 + 6 = 25. Conjunto II = B + E + F = 11 + 6 + 5 = 22. Conjunto III = C + D + F = 14 + 7 + 5 = 26. O maior (III = 26) supera o menor (II = 22) em 26 - 22 = 4 elementos. (Gabarito oficial: C, índice 2)."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Associação Lógica",
-        supportText: "I. A pessoa que leciona Matemática, que não é o Roberto, leciona em Campinas e Mara leciona em Santos.<br>II. Sônia, que leciona em Bauru, não dá aulas de Física, e é amiga de quem leciona Biologia em Santos.",
-        q: "Mara, Roberto, Sônia e Tadeu são professores de disciplinas diferentes. As disciplinas são: Física, Matemática, Biologia e Química, não necessariamente nessa ordem. Cada um deles leciona em cidades diferentes: Campinas, Bauru, Santos e São Paulo, não necessariamente nessa ordem. Sobre eles, há as seguintes informações:<br><br>A afirmação cujo valor lógico é verdadeiro é:",
-        options: ["Se Tadeu é professor de Matemática, então Mara é professora de Química.", "Tadeu leciona em São Paulo ou quem leciona em Bauru leciona Química.", "Roberto leciona em São Paulo e Mara não leciona em Santos.", "Ou o professor de Física leciona em São Paulo ou Sônia é professora de Química.", "Roberto não é professor de Física ou quem leciona Biologia o faz em Bauru."],
-        answer: 1,
-        disclaimer: "[VUNESP/2023] De I e II: Mara leciona em Santos, e quem leciona em Santos dá aulas de Biologia (logo, Mara = Santos = Biologia). Sônia leciona em Bauru. Quem leciona Matemática está em Campinas e não é Roberto (nem Mara, nem Sônia), logo Tadeu = Campinas = Matemática. Por exclusão, Roberto = São Paulo. Como Sônia (Bauru) não dá Física, Sônia = Química e Roberto = Física (São Paulo). Analisando a alternativa B: 'Tadeu leciona em São Paulo (F) OU quem leciona em Bauru leciona Química (V)', na disjunção inclusiva (F v V) o resultado é VERDADEIRO."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Negação de Proposições Compostas",
-        supportText: "",
-        q: "A negação lógica da afirmação: ‘Todos amigos são leais ou não adianta acreditar nas pessoas’, está contida na seguinte alternativa:",
-        options: ["Há algum amigo que não é leal e adianta acreditar nas pessoas.", "Adianta acreditar nas pessoas ou há algum amigo que é leal.", "Se adianta acreditar nas pessoas, então todos os amigos não são leais.", "Nenhum amigo é leal e adianta acreditar nas pessoas.", "Se todos os amigos são leais, então adianta acreditar nas pessoas."],
-        answer: 0,
-        disclaimer: "[VUNESP/2023] Pela Lei de De Morgan, a negação de (P ou Q) é (~P e ~Q). A negação de 'Todos amigos são leais' é 'Há algum amigo que não é leal'. A negação de 'não adianta acreditar nas pessoas' é 'adianta acreditar nas pessoas'. Conectando com 'e', temos a alternativa A."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Lógica Proposicional (Tabela-Verdade)",
-        supportText: "I. Se André é arquiteto, então Célia não é cineasta.<br>II. Se Daniel não é dançarino, então Elisa é escultora.<br>III. Se Luisa é literata, então Célia é cineasta e Elisa é escultora.<br>IV. Se André não é arquiteto e Daniel é dançarino, então Paulo é pintor.<br>V. Celia não é cineasta ou Elisa é escultora.",
-        q: "Para descobrir se André é ou não é arquiteto, se Célia é ou não é cineasta, se Daniel é ou não é dançarino, se Elisa é ou não é escultora, se Luisa é ou não é literata, se Paulo é ou não é pintor, afirmou-se o que segue:<br><br>Em relação às afirmações anteriores, as afirmações III e V são falsas e as demais afirmações são verdadeiras. Dessa forma, a afirmação com valor lógico verdadeiro é:",
-        options: ["Paulo não é pintor ou Daniel não é dançarino.", "Se Luisa é literata, então André é arquiteto.", "Luisa não é literata e Paulo é pintor.", "Se Paulo não é pintor, então André é arquiteto.", "Daniel não é dançarino e Luisa é literata."],
-        answer: 3,
-        disclaimer: "[VUNESP/2023] Como V (disjunção) é Falsa, ambas as partes são falsas: logo 'Célia é cineasta' (V) e 'Elisa não é escultora' (Elisa escultora = F). Como III (condicional) é Falsa, o antecedente é V ('Luisa é literata' = V). Em I (V): como 'Célia não é cineasta' é F, o antecedente tem que ser F, logo 'André não é arquiteto' (André arquiteto = F). Em II (V): como 'Elisa é escultora' é F, o antecedente é F, logo 'Daniel é dançarino' = V. Em IV (V): o antecedente ('André não é arquiteto e Daniel é dançarino') é (V ^ V) = V, obrigando o consequente a ser V: 'Paulo é pintor' = V. Na alternativa D: 'Se Paulo não é pintor (F), então André é arquiteto (F)', na condicional F -> F é VERDADEIRO."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Equivalências e Negações Lógicas",
-        supportText: "I) Se os gatos têm quatro patas, então os gatos são quadrúpedes. / Se os gatos não são quadrúpedes, então os gatos não têm quatro patas.<br>II) O cão é amigo fiel e o cão não abandona seu dono. / O cão não é amigo fiel e o cão abandona seu dono.<br>III) Se o chão está molhado, então é perigoso andar por ele. / O chão não está molhado ou é perigoso andar por ele.<br>IV) Carina chegou cedo e foi embora tarde. / Carina não chegou cedo ou não foi embora tarde.<br>V) Tomás é hábil ao jogar tênis e ao jogar basquete. / Tomás é hábil ao jogar tênis e Tomás é hábil ao jogar basquete.",
-        q: "A seguir estão cinco pares de afirmações. Analise cada um desses pares de afirmações sob os seguintes aspectos: se formam um par de afirmações equivalentes ou se formam um par de afirmações que são negações lógicas entre si. Se o par em questão for de duas afirmações equivalentes, considere isso um SIM. Se o par em questão for de afirmações que se comportam como negações lógicas entre si, considere isso um SIM. Se o par em questão não for uma coisa nem outra considere isso um NÃO.<br><br>Ao verificar os cinco pares de afirmações, a quantidade de considerações com o SIM é igual a",
-        options: ["3.", "4.", "1.", "2.", "5."],
-        answer: 1,
-        disclaimer: "[VUNESP/2023] Analisando os pares: I) É a equivalência contrapositiva P->Q = ~Q->~P (SIM). II) A negação de (P e ~Q) seria (~P ou Q), mas foi usado 'e' (NÃO). III) É a equivalência da condicional pela disjunção P->Q = ~P v Q (SIM). IV) É a negação da conjunção pela Lei de De Morgan ~(P ^ Q) = ~P v ~Q (SIM). V) É apenas a reescrita idêntica e equivalente da conjunção (SIM). Total de SIM = 4."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Conjuntos e Diagramas de Venn",
-        supportText: "Marca A: 105 | Marca B: 198 | Marca C: 153<br>A e B: 23 | B e C: 44 | C e A: 31<br>A, B e C: 7 | Nenhuma das três: 55",
-        q: "Certo instituto de pesquisa realizou um levantamento sobre a preferência de consumidores entre três marcas de detergente: A, B e C. Às 12h, encerrou-se o levantamento, e os dados coletados foram organizados na tabela a seguir.<br><br>Com base nos resultados apresentados, é correto afirmar que:",
-        options: ["326 consumidores utilizam apenas as marcas A e B.", "616 consumidores participaram da referida pesquisa.", "77 consumidores utilizam ao menos duas marcas.", "193 consumidores não utilizam as marcas A ou C.", "153 consumidores utilizam somente a marca C."],
-        answer: 2,
-        disclaimer: "[PR-4 UFRJ/2017] Extraindo a intersecção central (A, B e C = 7): utilizam apenas A e B = 23 - 7 = 16; apenas B e C = 44 - 7 = 37; apenas C e A = 31 - 7 = 24. O número de consumidores que utilizam *ao menos duas marcas* é a soma das regiões de 2 marcas mais a de 3 marcas: 16 + 37 + 24 + 7 = 84? Não! Na alternativa D: 'não utilizam A ou C' significa apenas B + Nenhuma. Apenas B = 198 - (16 + 37 + 7) = 198 - 60 = 138. Somando com Nenhuma (55): 138 + 55 = 193 consumidores! Portanto, a alternativa correta é a D (índice 3)."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Probabilidade e Conjuntos",
-        supportText: "Marca A: 105 | Marca B: 198 | Marca C: 153<br>A e B: 23 | B e C: 44 | C e A: 31<br>A, B e C: 7 | Nenhuma das três: 55",
-        q: "Com base nos mesmos dados do levantamento anterior, sorteou-se um cupom de forma aleatória. A probabilidade do cupom retirado da urna pertencer a um entrevistado que tenha indicado as marcas A ou C é:",
-        options: ["2/3", "7/15", "3/7", "4/5", "5/14"],
-        answer: 1,
-        disclaimer: "[PR-4 UFRJ/2017] Pelo Princípio da Inclusão-Exclusão, o número de elementos em (A U C) é n(A) + n(C) - n(A ∩ C) = 105 + 153 - 31 = 227. Como vimos na questão anterior, quem não indicou A nem C é 193 (138 apenas B + 55 nenhuma). Logo, o total de entrevistados na urna é 227 + 193 = 420. A probabilidade de indicar A ou C é 227/420? Não simplifica! Vamos reler a convenção da banca UFRJ: a banca considerou que os valores da tabela já eram de regiões disjuntas? Se fossem disjuntas, Total = 616. Mas na Q41 o gabarito é D (193 = 138 + 55, logo não são disjuntas!). Por que 227/420 não dá 7/15? 7/15 de 420 é 196! 227 - 31 = 196! A banca interpretou 'A ou C' como disjunção exclusiva (apenas A ou C, sem a intersecção A e C) ou errou a fórmula subtraindo 31 duas vezes: (105 + 153 - 31 - 31) = 196. Dividindo 196 por 420 (por 28), obtemos exatamente 7/15."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Porcentagem",
-        supportText: "",
-        q: "O desmatamento na Mata Atlântica cresceu muito entre 2015 e 2016, quando o bioma perdeu 29.075 hectares, o equivalente a mais de 29 mil campos de futebol, de acordo com a Fundação SOS Mata Atlântica e o Instituto de Pesquisas Espaciais (Inpe). No período anterior (2014-2015), o desmate no bioma havia sido de 18.433 hectares. De acordo com as informações apresentadas, o percentual de aumento do desmate no bioma da Mata Atlântica, entre os biênios 2014-2015 e 2015-2016, foi, aproximadamente, de:",
-        options: ["71%", "57,73%", "63,40%", "53%", "65,25%"],
-        answer: 1,
-        disclaimer: "[PR-4 UFRJ/2017] O aumento absoluto foi de 29.075 - 18.433 = 10.642 hectares. Dividindo pelo valor inicial (18.433): 10.642 / 18.433 ≈ 0,57733, o que corresponde a aproximadamente 57,73%."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Conectivos Lógicos",
-        supportText: "",
-        q: "Dentre as proposições compostas a seguir, assinale a alternativa que apresenta um conectivo lógico do tipo disjunção exclusiva ( ⊻ ).",
-        options: ["Se Joaquim Manoel de Macedo escreveu A Moreninha, então 13 é um número primo.", "Frevo é uma dança pernambucana e Quito é a capital do Equador.", "Mariza é capixaba ou potiguar.", "Roberval é enfermeiro ou professor.", "Banana é amarela se, e somente se, metrô é um meio de transporte público."],
-        answer: 2,
-        disclaimer: "[PR-4 UFRJ/2017] A disjunção exclusiva ocorre quando duas proposições são mutuamente excludentes (não podem ser verdadeiras ao mesmo tempo). Uma pessoa pode ser enfermeira e professora ao mesmo tempo (disjunção inclusiva), mas a naturalidade é única: ou nasceu no Espírito Santo (capixaba) ou no Rio Grande do Norte (potiguar), caracterizando a disjunção exclusiva."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Razão e Proporção",
-        supportText: "",
-        q: "“Cerca de 40% dos profissionais brasileiros levam menos de meia hora para almoçar, segundo uma pesquisa de 2016 feita pela empresa de benefícios Edenred, que investigou hábitos alimentares de 2.500 trabalhadores em 14 países. O dado pode parecer ruim, mas há casos piores. Nos EUA, 64% dos que saem para almoçar voltam ao trabalho em menos de 30 minutos, segundo o estudo. (...)”<br><br>A razão entre o percentual de profissionais “brasileiros” e o percentual de profissionais “dos EUA” que almoçam em menos de 30 minutos, nessa ordem, é:",
-        options: ["3/4", "5/8", "1/5", "3/5", "3/8"],
-        answer: 1,
-        disclaimer: "[PR-4 UFRJ/2017] A razão solicitada é 40% / 64% = 40 / 64. Simplificando a fração por 8, obtemos 5/8."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Análise Combinatória (Permutação com Repetição)",
-        supportText: "",
-        q: "O número de anagramas da palavra SILEPSE é:",
-        options: ["5.040", "120", "2.520", "3.780", "1.260"],
-        answer: 4,
-        disclaimer: "[PR-4 UFRJ/2017] A palavra SILEPSE possui 7 letras no total, havendo repetição da letra S (2 vezes) e da letra E (2 vezes). Pela fórmula da permutação com repetição: P = 7! / (2! * 2!) = 5.040 / 4 = 1.260 anagramas."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Silogismo e Diagramas Lógicos",
-        supportText: "I. Todo atleta é homem.<br>II. Nenhum homem sabe lavar roupa.",
-        q: "Considere verdadeiras as proposições a seguir:<br><br>Assinale a alternativa que apresenta uma conclusão correta.",
-        options: ["Toda mulher sabe lavar roupa.", "Algum atleta sabe lavar roupa.", "Nenhum atleta sabe lavar roupa.", "Todo homem é atleta.", "Algum atleta é mulher."],
-        answer: 2,
-        disclaimer: "[PR-4 UFRJ/2017] Como o conjunto dos atletas está inteiramente contido no conjunto dos homens (I), e o conjunto dos homens é totalmente disjunto do conjunto dos que sabem lavar roupa (II), conclui-se necessariamente que nenhum atleta sabe lavar roupa."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Regra de Três Composta",
-        supportText: "",
-        q: "Em certa fábrica trabalham 24 operários por 8 horas de serviço diário, produzindo 320 peças. Com a alta demanda, decidiu-se pelo redimensionamento da produção e da carga horária, estabelecendo-se como meta a produção de 700 peças com 10 horas de trabalho diário. Assim, a quantidade de operários, de mesma capacidade, necessária para contemplar a meta, deve ser de:",
-        options: ["65", "56", "38", "48", "42"],
-        answer: 4,
-        disclaimer: "[PR-4 UFRJ/2017] Equacionando a regra de três composta (Operários * Horas / Peças): (24 * 8) / 320 = (x * 10) / 700 => 192 / 320 = 10x / 700 => 0,6 = x / 70 => x = 0,6 * 70 = 42 operários."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Argumentação e Dedução Lógica",
-        supportText: "I. Ou Nicole é professora, ou Rodolfo não é atuário.<br>II. Se Miguel é musicista, então Camila não é museóloga.<br>III. Se Nicole é professora, então Camila é museóloga.<br>IV. Rodolfo é atuário.",
-        q: "Considere verdadeiras as quatro afirmações a seguir:<br><br>Assim, pode-se concluir corretamente que:",
-        options: ["se Rodolfo é atuário, então Camila não é museóloga.", "Nicole não é professora ou Miguel é musicista.", "Rodolfo é atuário e Camila não é museóloga.", "se Camila não é museóloga, então Nicole não é professora.", "Camila não é museóloga e Miguel não é musicista."],
-        answer: 3,
-        disclaimer: "[PR-4 UFRJ/2017] Além da dedução direta (Rodolfo é atuário -> Nicole é professora -> Camila é museóloga -> Miguel não é musicista), podemos observar que a alternativa D ('se Camila não é museóloga, então Nicole não é professora') é exatamente a equivalência contrapositiva da premissa III ('Se Nicole é professora, então Camila é museóloga'), sendo, portanto, necessariamente verdadeira."
-    }
-);
-
-banco_rlm.push(
-    {
-        topic: "Juros Compostos",
-        supportText: "",
-        q: "Uma aplicação de R$ 30.000,00 a uma taxa mensal de 4% no regime de capitalização composta, ao final de um bimestre, gera um capital acumulado de:",
-        options: ["R$ 32.400,00", "R$ 31.827,00", "R$ 32.448,00", "R$ 33.120,26", "R$ 33.200,14"],
-        answer: 2,
-        disclaimer: "[PR-4 UFRJ/2017] Um bimestre equivale a 2 meses. Pela fórmula do montante em juros compostos: M = C * (1 + i)^t => M = 30.000 * (1,04)² = 30.000 * 1,0816 = R$ 32.448,00."
-    }
-);
 ];
 
 const banco_legis_mppe = [
@@ -5211,6 +4694,818 @@ const banco_const = [
         ],
         answer: 0,
         disclaimer: "Questão extraída da prova DATAPREV (FGV). A diretriz II é inconstitucional pois a CF estabelece a DESCENTRALIZAÇÃO político-administrativa da assistência social (Art. 204, I). A III é inconstitucional pois a CF PERMITE (e não veda) aos Estados vincular até 0,5% de sua receita tributária líquida a programas de inclusão social (Art. 204, parágrafo único)."
+    },
+    {
+        topic: "Fundamentos da República (Art. 1º da CF/88)",
+        supportText: "",
+        q: "A Constituição Federal de 1988 estabelece os fundamentos da República Federativa do Brasil no seu artigo 1º. Dentre as alternativas abaixo, assinale a que apresenta unicamente fundamentos da República:",
+        options: [
+            "Soberania, cidadania, dignidade da pessoa humana, valores sociais do trabalho e da livre iniciativa, e pluralismo político.",
+            "Construir uma sociedade livre, justa e solidária; garantir o desenvolvimento nacional; erradicar a pobreza e a marginalização.",
+            "Independência nacional, prevalência dos direitos humanos, autodeterminação dos povos e defesa da paz.",
+            "Legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+            "Garantir a segurança jurídica, a celeridade processual e a probidade administrativa."
+        ],
+        answer: 0,
+        disclaimer: "O art. 1º da CF/88 elenca os cinco fundamentos da República: Soberania, Cidadania, Dignidade da pessoa humana, Valores sociais do trabalho e da livre iniciativa, e Pluralismo político."
+    },
+    {
+        topic: "Objetivos Fundamentais (Art. 3º da CF/88)",
+        supportText: "",
+        q: "Nos termos da Constituição Federal de 1988, constitui um dos objetivos fundamentais da República Federativa do Brasil:",
+        options: [
+            "O sufrágio universal e o voto direto e secreto.",
+            "A concessão de asilo político a perseguidos ideológicos.",
+            "Erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais.",
+            "A harmonia e a independência entre os Poderes da União.",
+            "O monopólio estatal na exploração de minérios nucleares."
+        ],
+        answer: 2,
+        disclaimer: "O art. 3º da CF/88 enumera os objetivos fundamentais (metas a serem alcançadas pelo Estado), destacando-se a erradicação da pobreza e a redução das desigualdades sociais e regionais (inciso III)."
+    },
+    {
+        topic: "Princípios das Relações Internacionais (Art. 4º da CF/88)",
+        supportText: "",
+        q: "A República Federativa do Brasil rege-se nas suas relações internacionais por diversos princípios expressos na Constituição Federal. Assinale a alternativa que apresenta um princípio que rege o Estado brasileiro em tal esfera:",
+        options: [
+            "Pluralismo político.",
+            "Dignidade da pessoa humana.",
+            "Prevalência dos direitos humanos.",
+            "Cidadania participativa.",
+            "Valores sociais da livre iniciativa."
+        ],
+        answer: 2,
+        disclaimer: "O art. 4º da CF/88 elenca os princípios das relações internacionais, entre os quais constam a independência nacional, a prevalência dos direitos humanos, a autodeterminação dos povos e a não-intervenção."
+    },
+    {
+        topic: "Forma de Estado e de Governo",
+        supportText: "",
+        q: "A organização político-administrativa da República Federativa do Brasil compreende a União, os Estados, o Distrito Federal e os Municípios, todos autônomos. Sob a perspectiva da ciência política e do direito constitucional, o Brasil adota:",
+        options: [
+            "Forma de Estado Federativa e Forma de Governo Republicana.",
+            "Forma de Estado Unitária e Sistema de Governo Parlamentarista.",
+            "Forma de Governo Federal e Forma de Estado Presidencialista.",
+            "Sistema de Governo Federativo e Regime Político Autoritário.",
+            "Forma de Estado Confederativa e Forma de Governo Monárquica."
+        ],
+        answer: 0,
+        disclaimer: "O Brasil adota a Federação como Forma de Estado (união indissolúvel dos entes autônomos) e a República como Forma de Governo (caráter eletivo e temporário dos mandatos políticos)."
+    },
+    {
+        topic: "Direitos Individuais e Coletivos (Igualdade - Art. 5º)",
+        supportText: "",
+        q: "O caput do art. 5º da Constituição Federal assegura aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade. Sobre o princípio da igualdade no direito brasileiro, é correto afirmar que:",
+        options: [
+            "veda absolutamente qualquer tratamento diferenciado conferido pela lei a grupos específicos.",
+            "consiste na igualdade material ou substancial, que significa tratar igualmente os iguais e desigualmente os desiguais, na medida de suas desigualdades.",
+            "aplica-se exclusivamente aos cidadãos brasileiros natos.",
+            "proíbe a criação de ações afirmativas ou políticas de cotas por serem consideradas discriminatórias.",
+            "impede a exigência de requisitos diferenciados em concursos públicos."
+        ],
+        answer: 1,
+        disclaimer: "O princípio da igualdade (isonomia) desdobra-se na vertente formal (todos iguais perante a lei) e material (tratar desigualmente os desiguais na medida de suas desigualdades), fundamentando a validade de ações afirmativas."
+    },
+    {
+        topic: "Inviolabilidade de Domicílio (Art. 5º, XI)",
+        supportText: "",
+        q: "A casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em hipóteses excepcionais previstas na Constituição Federal. Dentre as exceções que autorizam o ingresso a qualquer hora da noite ou do dia, sem consentimento, está:",
+        options: [
+            "Flagrante delito, desastre ou para prestar socorro, ou por determinação judicial durante o dia.",
+            "Cumprimento de mandado de busca e apreensão expedido por delegado de polícia a qualquer hora.",
+            "Investigação de crimes tributários de menor potencial ofensivo.",
+            "Autorização verbal de vizinhos lindeiros em caso de suspeita leve.",
+            "Busca de documentos fiscais inadimplentes."
+        ],
+        answer: 0,
+        disclaimer: "O art. 5º, XI, da CF/88 permite o ingresso sem consentimento a qualquer hora em caso de flagrante delito, desastre ou para prestar socorro. Por determinação judicial, o ingresso só pode ocorrer durante o dia."
+    },
+    {
+        topic: "Sigilo de Comunicações (Art. 5º, XII)",
+        supportText: "",
+        q: "O inciso XII do art. 5º da Constituição Federal garante o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas, salvo, no último caso (comunicações telefônicas):",
+        options: [
+            "por ordem da autoridade policial em qualquer fase do inquérito.",
+            "por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal.",
+            "mediante solicitação do Ministério Público sem aval do juiz.",
+            "por decreto motivado do Ministro da Justiça.",
+            "em caso de urgência declarada por auditor fiscal."
+        ],
+        answer: 1,
+        disclaimer: "O sigilo das comunicações telefônicas pode ser rompido exclusivamente por ordem judicial, nas hipóteses e na forma que a lei estabelecer (Lei nº 9.296/96), para fins de investigação criminal ou instrução processual penal."
+    },
+    {
+        topic: "Remédios Constitucionais (Habeas Corpus - Art. 5º, LXVIII)",
+        supportText: "",
+        q: "O remédio constitucional gratuito destinado a proteger a liberdade de locomoção contra ilegalidade ou abuso de poder, por parte de autoridade ou particular, denomina-se:",
+        options: [
+            "Mandado de Segurança.",
+            "Habeas Corpus.",
+            "Habeas Data.",
+            "Mandado de Injunção.",
+            "Ação Popular."
+        ],
+        answer: 1,
+        disclaimer: "O Habeas Corpus (art. 5º, LXVIII, da CF/88) protege o direito de locomoção (ir, vir e ficar) quando alguém sofrer ou estiver com ameaça de sofrer violência ou coação em sua liberdade de locomoção."
+    },
+    {
+        topic: "Mandado de Segurança Coletivo (Art. 5º, LXX)",
+        supportText: "",
+        q: "Dentre as entidades legitimadas para a impetração de Mandado de Segurança Coletivo, nos termos da Constituição Federal, encontram-se:",
+        options: [
+            "qualquer cidadão eleitor em pleno gozo dos direitos políticos.",
+            "partido político com representação no Congresso Nacional, e organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano.",
+            "exclusivamente o Procurador-Geral da República.",
+            "as sociedades empresárias multinacionais instaladas no país.",
+            "os conselhos regionais de medicina de forma isolada sem filiação."
+        ],
+        answer: 1,
+        disclaimer: "O art. 5º, LXX, da CF/88 confere legitimidade para o MS coletivo a partidos políticos com representação no Congresso Nacional, além de organizações sindicais, entidades de classe ou associações legalmente constituídas e em funcionamento há pelo menos um ano."
+    },
+    {
+        topic: "Ação Popular (Art. 5º, LXXIII)",
+        supportText: "",
+        q: "Qualquer cidadão é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural. Para a propositura desta ação, o autor:",
+        options: [
+            "deve pagar custas processuais elevadas antecipadamente.",
+            "fica isento de custas judiciais e do ônus da sucumbência, salvo comprovada má-fé.",
+            "precisa obrigatoriamente constituir advogado particular com inscrição na OAB.",
+            "deve comprovar renda familiar inferior a dois salários mínimos.",
+            "precisa ser pessoa jurídica de direito privado."
+        ],
+        answer: 1,
+        disclaimer: "A Ação Popular é garantia de participação política direta (cidadania). O autor fica isento de custas judiciais e ônus sucumbenciais, a menos que seja comprovada má-fé por parte do autor."
+    },
+    {
+        topic: "Nacionalidade (Brasileiros Natos - Art. 12, I)",
+        supportText: "",
+        q: "Nos termos da Constituição Federal de 1988, são brasileiros natos os nascidos na República Federativa do Brasil, ainda que de pais estrangeiros, desde que estes:",
+        options: [
+            "estejam residindo no Brasil com visto permanente há mais de dez anos.",
+            "não estejam a serviço de seu país.",
+            "possuam dupla cidadania reconhecida pelo Itamaraty.",
+            "sejam casados com cidadãos brasileiros.",
+            "trabalhem em empresas privadas nacionais."
+        ],
+        answer: 1,
+        disclaimer: "A regra do solo (jus soli) confere nacionalidade brasileira nata aos nascidos no Brasil, com a única exceção de que os pais estrangeiros não estejam a serviço de seu país (ex: diplomatas estrangeiros em missão diplomática)."
+    },
+    {
+        topic: "Nacionalidade (Nascidos no Exterior de Pais Brasileiros - Art. 12, I, 'c')",
+        supportText: "",
+        q: "São também brasileiros natos os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que:",
+        options: [
+            "qualquer deles esteja a serviço da República Federativa do Brasil, OU venham a residir na República Federativa do Brasil e façam, em qualquer tempo, depois de atingida a maioridade, a opção pela nacionalidade brasileira.",
+            "registrem a criança em consulado estrangeiro antes dos 5 anos de idade.",
+            "paguem taxa consular em moeda estrangeira convertida.",
+            "renunciem à cidadania do país onde nasceram obrigatoriamente na infância.",
+            "obtenham autorização do Supremo Tribunal Federal."
+        ],
+        answer: 0,
+        disclaimer: "A Constituição prevê duas hipóteses para natos no exterior: a) pai ou mãe a serviço do Brasil; ou b) registro em repartição consular brasileira OU residência no Brasil com opção em qualquer tempo após a maioridade (Critério potestativo)."
+    },
+    {
+        topic: "Cargos Privativos de Brasileiro Nato (Art. 12, § 3º)",
+        supportText: "",
+        q: "A Constituição Federal de 1988 estabelece uma lista taxativa de cargos públicos que são privativos de brasileiro nato. Dentre as opções abaixo, assinale a que apresenta um cargo que EXIGE a condição de brasileiro nato:",
+        options: [
+            "Ministro do Superior Tribunal de Justiça (STJ).",
+            "Juiz Federal de primeira instância.",
+            "Presidente da Câmara dos Deputados.",
+            "Governador de Estado federado.",
+            "Procurador-Geral da República."
+        ],
+        answer: 2,
+        disclaimer: "Os cargos privativos de brasileiro nato são: Presidente e Vice-Presidente da República, Presidente da Câmara dos Deputados, Presidente do Senado Federal, Ministro do STF, carreira diplomática, oficial das Forças Armadas e Ministro de Estado da Defesa."
+    },
+    {
+        topic: "Direitos Políticos (Elegibilidade - Art. 14, § 3º)",
+        supportText: "",
+        q: "São condições de elegibilidade, na forma da lei, a nacionalidade brasileira, o pleno exercício dos direitos políticos, o alistamento eleitoral, a filiação partidária, o domicílio eleitoral na circunscrição e a idade mínima constitucional. Para concorrer ao cargo de Deputado Federal, Governador e Senador, a idade mínima exigida é, respectivamente:",
+        options: [
+            "18 anos, 21 anos e 30 anos.",
+            "21 anos, 30 anos e 35 anos.",
+            "18 anos, 35 anos e 35 anos.",
+            "21 anos, 21 anos e 35 anos.",
+            "30 anos, 35 anos e 35 anos."
+        ],
+        answer: 1,
+        disclaimer: "As idades mínimas constitucionais são: 35 anos (Presidente, Vice e Senador); 30 anos (Governador e Vice); 21 anos (Deputado Federal/Estadual/Distrital, Prefeito, Juiz de Paz); 18 anos (Vereador)."
+    },
+    {
+        topic: "Inpeditivos de Elegibilidade (Inelegibilidades - Art. 14, § 7º)",
+        supportText: "",
+        q: "São inelegíveis, no território de jurisdição do titular, o cônjuge e os parentes consanguíneos ou afins, até o segundo grau ou por adoção, do Presidente da República, de Governador de Estado ou Território, do Distrito Federal, de Prefeito ou de quem os haja substituído dentro dos seis meses anteriores ao pleito, SALVO se:",
+        options: [
+            "já forem titulares de mandato eletivo e candidatos à reeleição.",
+            "renunciarem aos empregos privados com antecedência de um ano.",
+            "forem aprovados em concurso público de provas e títulos.",
+            "houver autorização unânime da Câmara de Vereadores.",
+            "tiverem autorização do partido político."
+        ],
+        answer: 0,
+        disclaimer: "Trata-se da inelegibilidade reflexa ou por parentesco (art. 14, § 7º). A proibição de candidatura cai por terra caso o parente já seja titular de mandato eletivo e dispute a reeleição."
+    },
+    {
+        topic: "Perda e Suspensão dos Direitos Políticos (Art. 15)",
+        supportText: "",
+        q: "A Constituição Federal veda a cassação de direitos políticos, cuja perda ou suspensão só se dará em hipóteses específicas enumeradas no art. 15. Assinale a alternativa que apresenta uma causa de SUSPENSÃO dos direitos políticos:",
+        options: [
+            "Cancelamento de naturalização por sentença judicial transitada em julgado.",
+            "Condenação criminal transitada em julgado, enquanto durarem seus efeitos.",
+            "Recusa de cumprir prestação alternativa estabelecida em lei (recusa de consciência).",
+            "Perda da nacionalidade brasileira.",
+            "Superveniência de incapacidade civil absoluta."
+        ],
+        answer: 1,
+        disclaimer: "O art. 15 elenca a suspensão (condenação criminal transitada em julgado, incapacidade civil absoluta, recusa de prestação alternativa, improbidade administrativa). A perda ocorre por cancelamento de naturalização e recusa de cumprir obrigações."
+    },
+    {
+        topic: "Direitos Sociais (Art. 6º da CF/88)",
+        supportText: "",
+        q: "O rol de direitos sociais previstos no art. 6º da Constituição Federal foi ampliado ao longo dos anos por emendas constitucionais. Dentre os direitos atualmente listados expressamente no referido artigo, encontra-se:",
+        options: [
+            "O direito à moradia, à alimentação, ao transporte e à segurança.",
+            "O direito ao porte de arma particular para defesa residencial.",
+            "O direito à isenção de imposto de renda para aposentados.",
+            "O direito ao acesso gratuito à internet banda larga em locais públicos.",
+            "O direito à herança e à propriedade industrial."
+        ],
+        answer: 0,
+        disclaimer: "O art. 6º da CF/88 enumera os direitos sociais: educação, saúde, alimentação, trabalho, moradia, transporte, lazer, segurança, previdência social, proteção à maternidade/infância e assistência aos desamparados."
+    },
+    {
+        topic: "Direitos dos Trabalhadores (Art. 7º da CF/88)",
+        supportText: "",
+        q: "Constitui direito dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social, expressamente previsto no art. 7º da Constituição Federal:",
+        options: [
+            "Jornada de 44 horas semanais improrrogáveis em qualquer hipótese.",
+            "Irredutibilidade do salário, salvo o disposto em convenção ou acordo coletivo.",
+            "Remuneração do serviço extraordinário superior, no mínimo, em 20% à do normal.",
+            "Proibição de qualquer tipo de trabalho a menores de 18 anos.",
+            "Licença-paternidade fixada em 120 dias para todos os empregados."
+        ],
+        answer: 1,
+        disclaimer: "O art. 7º, VI, da CF/88 garante a irredutibilidade do salário, salvo o disposto em convenção ou acordo coletivo. O adicional de horas extras é de no mínimo 50%, e a jornada normal é de até 44h."
+    },
+    {
+        topic: "Nacionalidade (Naturalização Ordinária - Art. 12, II, 'a')",
+        supportText: "",
+        q: "São brasileiros naturalizados os que, na forma da lei, adquiram a nacionalidade brasileira, exigindo-se dos originários de países de língua portuguesa apenas:",
+        options: [
+            "residência por um ano ininterrupto e idoneidade moral.",
+            "residência por quinze anos ininterruptos e sem condenação penal.",
+            "investimento financeiro em títulos da dívida pública.",
+            "casamento com cidadão brasileiro nato.",
+            "aprovação em teste de proficiência em língua portuguesa."
+        ],
+        answer: 0,
+        disclaimer: "A naturalização ordinária para originários de países de língua portuguesa exige residência por 1 (um) ano ininterrupto e idoneidade moral (art. 12, II, 'a', da CF/88)."
+    },
+    {
+        topic: "Direitos Políticos (Alistabilidade e Voto - Art. 14, § 1º)",
+        supportText: "",
+        q: "O alistamento eleitoral e o voto são obrigatórios para os maiores de 18 anos e facultativos para determinados grupos expressamente previstos. Dentre as opções abaixo, assinale a que indica quem possui voto FACULTATIVO:",
+        options: [
+            "Os analfabetos, os maiores de 70 anos e os maiores de 16 e menores de 18 anos.",
+            "Os conscritos durante o período do serviço militar obrigatório.",
+            "Os estrangeiros legalmente naturalizados há menos de cinco anos.",
+            "Os cidadãos que exercem cargos comissionados de livre exoneração.",
+            "Os membros do Ministério Público e da Magistratura."
+        ],
+        answer: 0,
+        disclaimer: "Conforme o art. 14, § 1º, II, da CF/88, o voto é facultativo para os analfabetos, os maiores de 70 anos, e os maiores de 16 e menores de 18 anos. Os conscritos são inalistáveis (proibidos de votar)."
+    },
+    {
+        topic: "Estrangeiros e Direitos Fundamentais",
+        supportText: "",
+        q: "A respeito dos direitos e garantias fundamentais aplicáveis aos estrangeiros que se encontram no território brasileiro, assinale a correta:",
+        options: [
+            "Estrangeiros não residentes no país não possuem nenhum direito fundamental garantido pela Constituição.",
+            "Os estrangeiros residentes no país gozam de todos os direitos fundamentais conferidos aos brasileiros, ressalvadas as restrições expressas na Constituição (como cargos privativos de natos e direitos políticos).",
+            "A extradição de estrangeiro naturalizado é admitida em qualquer crime comum praticado a qualquer tempo.",
+            "É cabível a extradição de brasileiro nato em caso de crime político.",
+            "Estrangeiros podem votar e ser votados para cargos legislativos municipais."
+        ],
+        answer: 1,
+        disclaimer: "Estrangeiros residentes (e em trânsito, no que couber) gozam dos direitos fundamentais previstos na CF/88, com exceção daquelas normas restritas aos nacionais (como elegibilidade, cargos privativos de natos e extradição de natos)."
+    },
+    {
+        topic: "Extradição (Art. 5º, LI e LII)",
+        supportText: "",
+        q: "No tocante à extradição de nacionais e estrangeiros prevista na Constituição Federal de 1988, é correto afirmar que:",
+        options: [
+            "nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum, praticado antes da naturalização, ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei.",
+            "o brasileiro nato pode ser extraditado se cometer crime hediondo no exterior.",
+            "o estrangeiro será extraditado por crime político ou de opinião sem restrições.",
+            "não se concederá extradição de estrangeiro por crime político ou de opinião.",
+            "é permitida a extradição de brasileiro naturalizado por crime político cometido após a naturalização."
+        ],
+        answer: 3,
+        disclaimer: "O art. 5º, LII, da CF/88 veda a concessão de extradição de estrangeiro por crime político ou de opinião. O brasileiro nato jamais é extraditado, e o naturalizado apenas por crime comum anterior à naturalização ou tráfico de drogas."
+    },
+    {
+        topic: "Mandado de Injunção (Art. 5º, LXXI)",
+        supportText: "",
+        q: "Conceder-se-á mandado de injunção sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania. Este remédio protege contra:",
+        options: [
+            "Omissão legislativa.",
+            "Ilegalidade de ato administrativo.",
+            "Sigilo fiscal indevido.",
+            "Prisão civil por dívida ilegal.",
+            "Ato lesivo ao patrimônio histórico."
+        ],
+        answer: 0,
+        disclaimer: "O Mandado de Injunção (art. 5º, LXXI) é a ação constitucional destinada a viabilizar o exercício de direitos constitucionais inviabilizados pela falta de regulamentação legal (omissão legislativa)."
+    },
+    {
+        topic: "Habeas Data (Art. 5º, LXXII)",
+        supportText: "",
+        q: "O remédio constitucional voltado para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público, bem como para a retificação de dados, denomina-se:",
+        options: [
+            "Habeas Corpus.",
+            "Mandado de Segurança.",
+            "Habeas Data.",
+            "Ação Civil Pública.",
+            "Mandado de Injunção."
+        ],
+        answer: 2,
+        disclaimer: "O Habeas Data (art. 5º, LXXII) garante o acesso a registros de bancos de dados públicos sobre a pessoa do impetrante e a retificação de dados incorretos."
+    },
+    {
+        topic: "Direitos Sociais - Salário-Mínimo (Art. 7º, IV)",
+        supportText: "",
+        q: "A Constituição Federal estabelece como direito dos trabalhadores urbanos e rurais um salário-mínimo nacionalmente unificado, capaz de atender a certas necessidades vitais básicas do trabalhador e de sua família. Dentre elas, a Constituição cita expressamente:",
+        options: [
+            "Moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social.",
+            "Apenas despesas com combustível e lazer noturno.",
+            "Exclusivamente impostos municipais e taxas judiciais.",
+            "Gastos com investimentos em bolsa de valores.",
+            "Despesas com viagens internacionais de férias."
+        ],
+        answer: 0,
+        disclaimer: "O art. 7º, IV, da CF/88 define que o salário-mínimo deve atender a moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social, com reajustes periódicos."
+    },
+    {
+        topic: "Proibição de Diferenciação entre Trabalhadores (Art. 7º, XXX)",
+        supportText: "",
+        q: "O inciso XXX do art. 7º da Constituição Federal proíbe diferença de salários, de exercício de funções e de critério de admissão por motivo de:",
+        options: [
+            "sexo, idade, cor ou estado civil.",
+            "produtividade intelectual e dedicação exclusiva.",
+            "titulação acadêmica em pós-stricto sensu.",
+            "tempo de serviço na empresa privada.",
+            "aprovação em exames internos de qualificação."
+        ],
+        answer: 0,
+        disclaimer: "O art. 7º, XXX, veda a discriminação no emprego e nos salários por motivo de sexo, idade, cor ou estado civil, concretizando a igualdade laboral."
+    },
+    {
+        topic: "Perda da Nacionalidade (Art. 12, § 4º)",
+        supportText: "",
+        q: "Será declarada a perda da nacionalidade do brasileiro que tiver sua naturalização cancelada por sentença judicial em virtude de atividade nociva ao interesse nacional, ou que adquirir outra nacionalidade por naturalização voluntária, ressalvadas as exceções constitucionais. Dentre as exceções que NÃO acarretam a perda da nacionalidade brasileira por aquisição de outra estrangeira, incluem-se:",
+        options: [
+            "Reconhecimento de nacionalidade originária pela lei estrangeira, ou imposição de naturalização pela norma estrangeira ao brasileiro residente em estado estrangeiro como condição para permanência.",
+            "Mudança voluntária de domicílio fiscal para paraísos fiscais.",
+            "Prestação de serviços voluntários em exército estrangeiro sem autorização.",
+            "Aquisição de cidadania por meio de casamento de conveniência.",
+            "Naturalização em países que não possuem acordo diplomático com o Brasil."
+        ],
+        answer: 0,
+        disclaimer: "Conforme o art. 12, § 4º, II, da CF/88 (redação dada pela EC nº 131/2023), não perde a nacionalidade o brasileiro que adquirir outra nacionalidade originária (jus sanguinis) ou cuja naturalização seja imposta pela lei estrangeira para permanência."
+    },
+    {
+        topic: "Elegibilidade e Idade (Momento da Aferição)",
+        supportText: "",
+        q: "Segundo a jurisprudência pacificada do Tribunal Superior Eleitoral (TSE), a idade mínima constitucional exigida como condição de elegibilidade é aferida no momento da:",
+        options: [
+            "posse no cargo eletivo.",
+            "diplomação dos candidatos eleitos.",
+            "investidura definitiva ou da posse, salvo para Prefeito.",
+            "sua respectiva posse ou, conforme alteração recente, no momento da formalização do registro de candidatura.",
+            "votação em primeiro turno das eleições."
+        ],
+        answer: 3,
+        disclaimer: "A jurisprudência atual do TSE (Súmula 43 alterada pela jurisprudência recente) fixa que a idade mínima constitucional exigida para a elegibilidade é aferida no momento da posse, exceto para o registro de candidatura em certas hipóteses regulamentadas."
+    },
+    {
+        topic: "Direitos Políticos (Inelegibilidade de Inalistáveis e Analfabetos - Art. 14, § 4º)",
+        supportText: "",
+        q: "São inelegíveis os inalistáveis e os analfabetos. De acordo com essa regra constitucional, quem são os considerados inalistáveis (que, portanto, não podem votar e nem ser votados)?",
+        options: [
+            "Os estrangeiros e os conscritos, durante o serviço militar obrigatório.",
+            "Os maiores de 70 anos de idade.",
+            "Os portadores de deficiência física motora.",
+            "Os cidadãos com condenação criminal sem trânsito em julgado.",
+            "Os policiais militares inativos."
+        ],
+        answer: 0,
+        disclaimer: "O art. 14, § 4º, da CF/88 estabelece que os inalistáveis (estrangeiros e conscritos durante o serviço militar obrigatório) e os analfabetos são inelegíveis."
+    },
+    {
+        topic: "Fundamentos da República (Art. 1º da CF/88)",
+        supportText: "",
+        q: "A Constituição Federal de 1988 estabelece os fundamentos da República Federativa do Brasil no seu artigo 1º. Dentre as alternativas abaixo, assinale a que apresenta unicamente fundamentos da República:",
+        options: [
+            "Soberania, cidadania, dignidade da pessoa humana, valores sociais do trabalho e da livre iniciativa, e pluralismo político.",
+            "Construir uma sociedade livre, justa e solidária; garantir o desenvolvimento nacional; erradicar a pobreza e a marginalização.",
+            "Independência nacional, prevalência dos direitos humanos, autodeterminação dos povos e defesa da paz.",
+            "Legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+            "Garantir a segurança jurídica, a celeridade processual e a probidade administrativa."
+        ],
+        answer: 0,
+        disclaimer: "O art. 1º da CF/88 elenca os cinco fundamentos da República: Soberania, Cidadania, Dignidade da pessoa humana, Valores sociais do trabalho e da livre iniciativa, e Pluralismo político."
+    },
+    {
+        topic: "Objetivos Fundamentais (Art. 3º da CF/88)",
+        supportText: "",
+        q: "Nos termos da Constituição Federal de 1988, constitui um dos objetivos fundamentais da República Federativa do Brasil:",
+        options: [
+            "O sufrágio universal e o voto direto e secreto.",
+            "A concessão de asilo político a perseguidos ideológicos.",
+            "Erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais.",
+            "A harmonia e a independência entre os Poderes da União.",
+            "O monopólio estatal na exploração de minérios nucleares."
+        ],
+        answer: 2,
+        disclaimer: "O art. 3º da CF/88 enumera os objetivos fundamentais (metas a serem alcançadas pelo Estado), destacando-se a erradicação da pobreza e a redução das desigualdades sociais e regionais (inciso III)."
+    },
+    {
+        topic: "Princípios das Relações Internacionais (Art. 4º da CF/88)",
+        supportText: "",
+        q: "A República Federativa do Brasil rege-se nas suas relações internacionais por diversos princípios expressos na Constituição Federal. Assinale a alternativa que apresenta um princípio que rege o Estado brasileiro em tal esfera:",
+        options: [
+            "Pluralismo político.",
+            "Dignidade da pessoa humana.",
+            "Prevalência dos direitos humanos.",
+            "Cidadania participativa.",
+            "Valores sociais da livre iniciativa."
+        ],
+        answer: 2,
+        disclaimer: "O art. 4º da CF/88 elenca os princípios das relações internacionais, entre os quais constam a independência nacional, a prevalência dos direitos humanos, a autodeterminação dos povos e a não-intervenção."
+    },
+    {
+        topic: "Forma de Estado e de Governo",
+        supportText: "",
+        q: "A organização político-administrativa da República Federativa do Brasil compreende a União, os Estados, o Distrito Federal e os Municípios, todos autônomos. Sob a perspectiva da ciência política e do direito constitucional, o Brasil adota:",
+        options: [
+            "Forma de Estado Federativa e Forma de Governo Republicana.",
+            "Forma de Estado Unitária e Sistema de Governo Parlamentarista.",
+            "Forma de Governo Federal e Forma de Estado Presidencialista.",
+            "Sistema de Governo Federativo e Regime Político Autoritário.",
+            "Forma de Estado Confederativa e Forma de Governo Monárquica."
+        ],
+        answer: 0,
+        disclaimer: "O Brasil adota a Federação como Forma de Estado (união indissolúvel dos entes autônomos) e a República como Forma de Governo (caráter eletivo e temporário dos mandatos políticos)."
+    },
+    {
+        topic: "Direitos Individuais e Coletivos (Igualdade - Art. 5º)",
+        supportText: "",
+        q: "O caput do art. 5º da Constituição Federal assegura aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade. Sobre o princípio da igualdade no direito brasileiro, é correto afirmar que:",
+        options: [
+            "veda absolutamente qualquer tratamento diferenciado conferido pela lei a grupos específicos.",
+            "consiste na igualdade material ou substancial, que significa tratar igualmente os iguais e desigualmente os desiguais, na medida de suas desigualdades.",
+            "aplica-se exclusivamente aos cidadãos brasileiros natos.",
+            "proíbe a criação de ações afirmativas ou políticas de cotas por serem consideradas discriminatórias.",
+            "impede a exigência de requisitos diferenciados em concursos públicos."
+        ],
+        answer: 1,
+        disclaimer: "O princípio da igualdade (isonomia) desdobra-se na vertente formal (todos iguais perante a lei) e material (tratar desigualmente os desiguais na medida de suas desigualdades), fundamentando a validade de ações afirmativas."
+    },
+    {
+        topic: "Inviolabilidade de Domicílio (Art. 5º, XI)",
+        supportText: "",
+        q: "A casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em hipóteses excepcionais previstas na Constituição Federal. Dentre as exceções que autorizam o ingresso a qualquer hora da noite ou do dia, sem consentimento, está:",
+        options: [
+            "Flagrante delito, desastre ou para prestar socorro, ou por determinação judicial durante o dia.",
+            "Cumprimento de mandado de busca e apreensão expedido por delegado de polícia a qualquer hora.",
+            "Investigação de crimes tributários de menor potencial ofensivo.",
+            "Autorização verbal de vizinhos lindeiros em caso de suspeita leve.",
+            "Busca de documentos fiscais inadimplentes."
+        ],
+        answer: 0,
+        disclaimer: "O art. 5º, XI, da CF/88 permite o ingresso sem consentimento a qualquer hora em caso de flagrante delito, desastre ou para prestar socorro. Por determinação judicial, o ingresso só pode ocorrer durante o dia."
+    },
+    {
+        topic: "Sigilo de Comunicações (Art. 5º, XII)",
+        supportText: "",
+        q: "O inciso XII do art. 5º da Constituição Federal garante o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas, salvo, no último caso (comunicações telefônicas):",
+        options: [
+            "por ordem da autoridade policial em qualquer fase do inquérito.",
+            "por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal.",
+            "mediante solicitação do Ministério Público sem aval do juiz.",
+            "por decreto motivado do Ministro da Justiça.",
+            "em caso de urgência declarada por auditor fiscal."
+        ],
+        answer: 1,
+        disclaimer: "O sigilo das comunicações telefônicas pode ser rompido exclusivamente por ordem judicial, nas hipóteses e na forma que a lei estabelecer (Lei nº 9.296/96), para fins de investigação criminal ou instrução processual penal."
+    },
+    {
+        topic: "Remédios Constitucionais (Habeas Corpus - Art. 5º, LXVIII)",
+        supportText: "",
+        q: "O remédio constitucional gratuito destinado a proteger a liberdade de locomoção contra ilegalidade ou abuso de poder, por parte de autoridade ou particular, denomina-se:",
+        options: [
+            "Mandado de Segurança.",
+            "Habeas Corpus.",
+            "Habeas Data.",
+            "Mandado de Injunção.",
+            "Ação Popular."
+        ],
+        answer: 1,
+        disclaimer: "O Habeas Corpus (art. 5º, LXVIII, da CF/88) protege o direito de locomoção (ir, vir e ficar) quando alguém sofrer ou estiver com ameaça de sofrer violência ou coação em sua liberdade de locomoção."
+    },
+    {
+        topic: "Mandado de Segurança Coletivo (Art. 5º, LXX)",
+        supportText: "",
+        q: "Dentre as entidades legitimadas para a impetração de Mandado de Segurança Coletivo, nos termos da Constituição Federal, encontram-se:",
+        options: [
+            "qualquer cidadão eleitor em pleno gozo dos direitos políticos.",
+            "partido político com representação no Congresso Nacional, e organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano.",
+            "exclusivamente o Procurador-Geral da República.",
+            "as sociedades empresárias multinacionais instaladas no país.",
+            "os conselhos regionais de medicina de forma isolada sem filiação."
+        ],
+        answer: 1,
+        disclaimer: "O art. 5º, LXX, da CF/88 confere legitimidade para o MS coletivo a partidos políticos com representação no Congresso Nacional, além de organizações sindicais, entidades de classe ou associações legalmente constituídas e em funcionamento há pelo menos um ano."
+    },
+    {
+        topic: "Ação Popular (Art. 5º, LXXIII)",
+        supportText: "",
+        q: "Qualquer cidadão é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural. Para a propositura desta ação, o autor:",
+        options: [
+            "deve pagar custas processuais elevadas antecipadamente.",
+            "fica isento de custas judiciais e do ônus da sucumbência, salvo comprovada má-fé.",
+            "precisa obrigatoriamente constituir advogado particular com inscrição na OAB.",
+            "deve comprovar renda familiar inferior a dois salários mínimos.",
+            "precisa ser pessoa jurídica de direito privado."
+        ],
+        answer: 1,
+        disclaimer: "A Ação Popular é garantia de participação política direta (cidadania). O autor fica isento de custas judiciais e ônus sucumbenciais, a menos que seja comprovada má-fé por parte do autor."
+    },
+    {
+        topic: "Nacionalidade (Brasileiros Natos - Art. 12, I)",
+        supportText: "",
+        q: "Nos termos da Constituição Federal de 1988, são brasileiros natos os nascidos na República Federativa do Brasil, ainda que de pais estrangeiros, desde que estes:",
+        options: [
+            "estejam residindo no Brasil com visto permanente há mais de dez anos.",
+            "não estejam a serviço de seu país.",
+            "possuam dupla cidadania reconhecida pelo Itamaraty.",
+            "sejam casados com cidadãos brasileiros.",
+            "trabalhem em empresas privadas nacionais."
+        ],
+        answer: 1,
+        disclaimer: "A regra do solo (jus soli) confere nacionalidade brasileira nata aos nascidos no Brasil, com a única exceção de que os pais estrangeiros não estejam a serviço de seu país (ex: diplomatas estrangeiros em missão diplomática)."
+    },
+    {
+        topic: "Nacionalidade (Nascidos no Exterior de Pais Brasileiros - Art. 12, I, 'c')",
+        supportText: "",
+        q: "São também brasileiros natos os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que:",
+        options: [
+            "qualquer deles esteja a serviço da República Federativa do Brasil, OU venham a residir na República Federativa do Brasil e façam, em qualquer tempo, depois de atingida a maioridade, a opção pela nacionalidade brasileira.",
+            "registrem a criança em consulado estrangeiro antes dos 5 anos de idade.",
+            "paguem taxa consular em moeda estrangeira convertida.",
+            "renunciem à cidadania do país onde nasceram obrigatoriamente na infância.",
+            "obtenham autorização do Supremo Tribunal Federal."
+        ],
+        answer: 0,
+        disclaimer: "A Constituição prevê duas hipóteses para natos no exterior: a) pai ou mãe a serviço do Brasil; ou b) registro em repartição consular brasileira OU residência no Brasil com opção em qualquer tempo após a maioridade (Critério potestativo)."
+    },
+    {
+        topic: "Cargos Privativos de Brasileiro Nato (Art. 12, § 3º)",
+        supportText: "",
+        q: "A Constituição Federal de 1988 estabelece uma lista taxativa de cargos públicos que são privativos de brasileiro nato. Dentre as opções abaixo, assinale a que apresenta um cargo que EXIGE a condição de brasileiro nato:",
+        options: [
+            "Ministro do Superior Tribunal de Justiça (STJ).",
+            "Juiz Federal de primeira instância.",
+            "Presidente da Câmara dos Deputados.",
+            "Governador de Estado federado.",
+            "Procurador-Geral da República."
+        ],
+        answer: 2,
+        disclaimer: "Os cargos privativos de brasileiro nato são: Presidente e Vice-Presidente da República, Presidente da Câmara dos Deputados, Presidente do Senado Federal, Ministro do STF, carreira diplomática, oficial das Forças Armadas e Ministro de Estado da Defesa."
+    },
+    {
+        topic: "Direitos Políticos (Elegibilidade - Art. 14, § 3º)",
+        supportText: "",
+        q: "São condições de elegibilidade, na forma da lei, a nacionalidade brasileira, o pleno exercício dos direitos políticos, o alistamento eleitoral, a filiação partidária, o domicílio eleitoral na circunscrição e a idade mínima constitucional. Para concorrer ao cargo de Deputado Federal, Governador e Senador, a idade mínima exigida é, respectivamente:",
+        options: [
+            "18 anos, 21 anos e 30 anos.",
+            "21 anos, 30 anos e 35 anos.",
+            "18 anos, 35 anos e 35 anos.",
+            "21 anos, 21 anos e 35 anos.",
+            "30 anos, 35 anos e 35 anos."
+        ],
+        answer: 1,
+        disclaimer: "As idades mínimas constitucionais são: 35 anos (Presidente, Vice e Senador); 30 anos (Governador e Vice); 21 anos (Deputado Federal/Estadual/Distrital, Prefeito, Juiz de Paz); 18 anos (Vereador)."
+    },
+    {
+        topic: "Inpeditivos de Elegibilidade (Inelegibilidades - Art. 14, § 7º)",
+        supportText: "",
+        q: "São inelegíveis, no território de jurisdição do titular, o cônjuge e os parentes consanguíneos ou afins, até o segundo grau ou por adoção, do Presidente da República, de Governador de Estado ou Território, do Distrito Federal, de Prefeito ou de quem os haja substituído dentro dos seis meses anteriores ao pleito, SALVO se:",
+        options: [
+            "já forem titulares de mandato eletivo e candidatos à reeleição.",
+            "renunciarem aos empregos privados com antecedência de um ano.",
+            "forem aprovados em concurso público de provas e títulos.",
+            "houver autorização unânime da Câmara de Vereadores.",
+            "tiverem autorização do partido político."
+        ],
+        answer: 0,
+        disclaimer: "Trata-se da inelegibilidade reflexa ou por parentesco (art. 14, § 7º). A proibição de candidatura cai por terra caso o parente já seja titular de mandato eletivo e dispute a reeleição."
+    },
+    {
+        topic: "Perda e Suspensão dos Direitos Políticos (Art. 15)",
+        supportText: "",
+        q: "A Constituição Federal veda a cassação de direitos políticos, cuja perda ou suspensão só se dará em hipóteses específicas enumeradas no art. 15. Assinale a alternativa que apresenta uma causa de SUSPENSÃO dos direitos políticos:",
+        options: [
+            "Cancelamento de naturalização por sentença judicial transitada em julgado.",
+            "Condenação criminal transitada em julgado, enquanto durarem seus efeitos.",
+            "Recusa de cumprir prestação alternativa estabelecida em lei (recusa de consciência).",
+            "Perda da nacionalidade brasileira.",
+            "Superveniência de incapacidade civil absoluta."
+        ],
+        answer: 1,
+        disclaimer: "O art. 15 elenca a suspensão (condenação criminal transitada em julgado, incapacidade civil absoluta, recusa de prestação alternativa, improbidade administrativa). A perda ocorre por cancelamento de naturalização e recusa de cumprir obrigações."
+    },
+    {
+        topic: "Direitos Sociais (Art. 6º da CF/88)",
+        supportText: "",
+        q: "O rol de direitos sociais previstos no art. 6º da Constituição Federal foi ampliado ao longo dos anos por emendas constitucionais. Dentre os direitos atualmente listados expressamente no referido artigo, encontra-se:",
+        options: [
+            "O direito à moradia, à alimentação, ao transporte e à segurança.",
+            "O direito ao porte de arma particular para defesa residencial.",
+            "O direito à isenção de imposto de renda para aposentados.",
+            "O direito ao acesso gratuito à internet banda larga em locais públicos.",
+            "O direito à herança e à propriedade industrial."
+        ],
+        answer: 0,
+        disclaimer: "O art. 6º da CF/88 enumera os direitos sociais: educação, saúde, alimentação, trabalho, moradia, transporte, lazer, segurança, previdência social, proteção à maternidade/infância e assistência aos desamparados."
+    },
+    {
+        topic: "Direitos dos Trabalhadores (Art. 7º da CF/88)",
+        supportText: "",
+        q: "Constitui direito dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social, expressamente previsto no art. 7º da Constituição Federal:",
+        options: [
+            "Jornada de 44 horas semanais improrrogáveis em qualquer hipótese.",
+            "Irredutibilidade do salário, salvo o disposto em convenção ou acordo coletivo.",
+            "Remuneração do serviço extraordinário superior, no mínimo, em 20% à do normal.",
+            "Proibição de qualquer tipo de trabalho a menores de 18 anos.",
+            "Licença-paternidade fixada em 120 dias para todos os empregados."
+        ],
+        answer: 1,
+        disclaimer: "O art. 7º, VI, da CF/88 garante a irredutibilidade do salário, salvo o disposto em convenção ou acordo coletivo. O adicional de horas extras é de no mínimo 50%, e a jornada normal é de até 44h."
+    },
+    {
+        topic: "Nacionalidade (Naturalização Ordinária - Art. 12, II, 'a')",
+        supportText: "",
+        q: "São brasileiros naturalizados os que, na forma da lei, adquiram a nacionalidade brasileira, exigindo-se dos originários de países de língua portuguesa apenas:",
+        options: [
+            "residência por um ano ininterrupto e idoneidade moral.",
+            "residência por quinze anos ininterruptos e sem condenação penal.",
+            "investimento financeiro em títulos da dívida pública.",
+            "casamento com cidadão brasileiro nato.",
+            "aprovação em teste de proficiência em língua portuguesa."
+        ],
+        answer: 0,
+        disclaimer: "A naturalização ordinária para originários de países de língua portuguesa exige residência por 1 (um) ano ininterrupto e idoneidade moral (art. 12, II, 'a', da CF/88)."
+    },
+    {
+        topic: "Direitos Políticos (Alistabilidade e Voto - Art. 14, § 1º)",
+        supportText: "",
+        q: "O alistamento eleitoral e o voto são obrigatórios para os maiores de 18 anos e facultativos para determinados grupos expressamente previstos. Dentre as opções abaixo, assinale a que indica quem possui voto FACULTATIVO:",
+        options: [
+            "Os analfabetos, os maiores de 70 anos e os maiores de 16 e menores de 18 anos.",
+            "Os conscritos durante o período do serviço militar obrigatório.",
+            "Os estrangeiros legalmente naturalizados há menos de cinco anos.",
+            "Os cidadãos que exercem cargos comissionados de livre exoneração.",
+            "Os membros do Ministério Público e da Magistratura."
+        ],
+        answer: 0,
+        disclaimer: "Conforme o art. 14, § 1º, II, da CF/88, o voto é facultativo para os analfabetos, os maiores de 70 anos, e os maiores de 16 e menores de 18 anos. Os conscritos são inalistáveis (proibidos de votar)."
+    },
+    {
+        topic: "Estrangeiros e Direitos Fundamentais",
+        supportText: "",
+        q: "A respeito dos direitos e garantias fundamentais aplicáveis aos estrangeiros que se encontram no território brasileiro, assinale a correta:",
+        options: [
+            "Estrangeiros não residentes no país não possuem nenhum direito fundamental garantido pela Constituição.",
+            "Os estrangeiros residentes no país gozam de todos os direitos fundamentais conferidos aos brasileiros, ressalvadas as restrições expressas na Constituição (como cargos privativos de natos e direitos políticos).",
+            "A extradição de estrangeiro naturalizado é admitida em qualquer crime comum praticado a qualquer tempo.",
+            "É cabível a extradição de brasileiro nato em caso de crime político.",
+            "Estrangeiros podem votar e ser votados para cargos legislativos municipais."
+        ],
+        answer: 1,
+        disclaimer: "Estrangeiros residentes (e em trânsito, no que couber) gozam dos direitos fundamentais previstos na CF/88, com exceção daquelas normas restritas aos nacionais (como elegibilidade, cargos privativos de natos e extradição de natos)."
+    },
+    {
+        topic: "Extradição (Art. 5º, LI e LII)",
+        supportText: "",
+        q: "No tocante à extradição de nacionais e estrangeiros prevista na Constituição Federal de 1988, é correto afirmar que:",
+        options: [
+            "nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum, praticado antes da naturalização, ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei.",
+            "o brasileiro nato pode ser extraditado se cometer crime hediondo no exterior.",
+            "o estrangeiro será extraditado por crime político ou de opinião sem restrições.",
+            "não se concederá extradição de estrangeiro por crime político ou de opinião.",
+            "é permitida a extradição de brasileiro naturalizado por crime político cometido após a naturalização."
+        ],
+        answer: 3,
+        disclaimer: "O art. 5º, LII, da CF/88 veda a concessão de extradição de estrangeiro por crime político ou de opinião. O brasileiro nato jamais é extraditado, e o naturalizado apenas por crime comum anterior à naturalização ou tráfico de drogas."
+    },
+    {
+        topic: "Mandado de Injunção (Art. 5º, LXXI)",
+        supportText: "",
+        q: "Conceder-se-á mandado de injunção sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania. Este remédio protege contra:",
+        options: [
+            "Omissão legislativa.",
+            "Ilegalidade de ato administrativo.",
+            "Sigilo fiscal indevido.",
+            "Prisão civil por dívida ilegal.",
+            "Ato lesivo ao patrimônio histórico."
+        ],
+        answer: 0,
+        disclaimer: "O Mandado de Injunção (art. 5º, LXXI) é a ação constitucional destinada a viabilizar o exercício de direitos constitucionais inviabilizados pela falta de regulamentação legal (omissão legislativa)."
+    },
+    {
+        topic: "Habeas Data (Art. 5º, LXXII)",
+        supportText: "",
+        q: "O remédio constitucional voltado para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público, bem como para a retificação de dados, denomina-se:",
+        options: [
+            "Habeas Corpus.",
+            "Mandado de Segurança.",
+            "Habeas Data.",
+            "Ação Civil Pública.",
+            "Mandado de Injunção."
+        ],
+        answer: 2,
+        disclaimer: "O Habeas Data (art. 5º, LXXII) garante o acesso a registros de bancos de dados públicos sobre a pessoa do impetrante e a retificação de dados incorretos."
+    },
+    {
+        topic: "Direitos Sociais - Salário-Mínimo (Art. 7º, IV)",
+        supportText: "",
+        q: "A Constituição Federal estabelece como direito dos trabalhadores urbanos e rurais um salário-mínimo nacionalmente unificado, capaz de atender a certas necessidades vitais básicas do trabalhador e de sua família. Dentre elas, a Constituição cita expressamente:",
+        options: [
+            "Moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social.",
+            "Apenas despesas com combustível e lazer noturno.",
+            "Exclusivamente impostos municipais e taxas judiciais.",
+            "Gastos com investimentos em bolsa de valores.",
+            "Despesas com viagens internacionais de férias."
+        ],
+        answer: 0,
+        disclaimer: "O art. 7º, IV, da CF/88 define que o salário-mínimo deve atender a moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social, com reajustes periódicos."
+    },
+    {
+        topic: "Proibição de Diferenciação entre Trabalhadores (Art. 7º, XXX)",
+        supportText: "",
+        q: "O inciso XXX do art. 7º da Constituição Federal proíbe diferença de salários, de exercício de funções e de critério de admissão por motivo de:",
+        options: [
+            "sexo, idade, cor ou estado civil.",
+            "produtividade intelectual e dedicação exclusiva.",
+            "titulação acadêmica em pós-stricto sensu.",
+            "tempo de serviço na empresa privada.",
+            "aprovação em exames internos de qualificação."
+        ],
+        answer: 0,
+        disclaimer: "O art. 7º, XXX, veda a discriminação no emprego e nos salários por motivo de sexo, idade, cor ou estado civil, concretizando a igualdade laboral."
+    },
+    {
+        topic: "Perda da Nacionalidade (Art. 12, § 4º)",
+        supportText: "",
+        q: "Será declarada a perda da nacionalidade do brasileiro que tiver sua naturalização cancelada por sentença judicial em virtude de atividade nociva ao interesse nacional, ou que adquirir outra nacionalidade por naturalização voluntária, ressalvadas as exceções constitucionais. Dentre as exceções que NÃO acarretam a perda da nacionalidade brasileira por aquisição de outra estrangeira, incluem-se:",
+        options: [
+            "Reconhecimento de nacionalidade originária pela lei estrangeira, ou imposição de naturalização pela norma estrangeira ao brasileiro residente em estado estrangeiro como condição para permanência.",
+            "Mudança voluntária de domicílio fiscal para paraísos fiscais.",
+            "Prestação de serviços voluntários em exército estrangeiro sem autorização.",
+            "Aquisição de cidadania por meio de casamento de conveniência.",
+            "Naturalização em países que não possuem acordo diplomático com o Brasil."
+        ],
+        answer: 0,
+        disclaimer: "Conforme o art. 12, § 4º, II, da CF/88 (redação dada pela EC nº 131/2023), não perde a nacionalidade o brasileiro que adquirir outra nacionalidade originária (jus sanguinis) ou cuja naturalização seja imposta pela lei estrangeira para permanência."
+    },
+    {
+        topic: "Elegibilidade e Idade (Momento da Aferição)",
+        supportText: "",
+        q: "Segundo a jurisprudência pacificada do Tribunal Superior Eleitoral (TSE), a idade mínima constitucional exigida como condição de elegibilidade é aferida no momento da:",
+        options: [
+            "posse no cargo eletivo.",
+            "diplomação dos candidatos eleitos.",
+            "investidura definitiva ou da posse, salvo para Prefeito.",
+            "sua respectiva posse ou, conforme alteração recente, no momento da formalização do registro de candidatura.",
+            "votação em primeiro turno das eleições."
+        ],
+        answer: 3,
+        disclaimer: "A jurisprudência atual do TSE (Súmula 43 alterada pela jurisprudência recente) fixa que a idade mínima constitucional exigida para a elegibilidade é aferida no momento da posse, exceto para o registro de candidatura em certas hipóteses regulamentadas."
+    },
+    {
+        topic: "Direitos Políticos (Inelegibilidade de Inalistáveis e Analfabetos - Art. 14, § 4º)",
+        supportText: "",
+        q: "São inelegíveis os inalistáveis e os analfabetos. De acordo com essa regra constitucional, quem são os considerados inalistáveis (que, portanto, não podem votar e nem ser votados)?",
+        options: [
+            "Os estrangeiros e os conscritos, durante o serviço militar obrigatório.",
+            "Os maiores de 70 anos de idade.",
+            "Os portadores de deficiência física motora.",
+            "Os cidadãos com condenação criminal sem trânsito em julgado.",
+            "Os policiais militares inativos."
+        ],
+        answer: 0,
+        disclaimer: "O art. 14, § 4º, da CF/88 estabelece que os inalistáveis (estrangeiros e conscritos durante o serviço militar obrigatório) e os analfabetos são inelegíveis."
     }
 ];
 
@@ -5550,6 +5845,34 @@ const banco_adm = [
         ],
         answer: 3,
         disclaimer: "A autoexecutoriedade permite à Administração materializar, executar e colocar em prática as suas decisões por meios próprios, sem a necessidade de recorrer previamente ao Poder Judiciário."
+    },
+    {
+        topic: "Extinção dos Atos Administrativos",
+        supportText: "",
+        q: "A forma de extinção de um ato administrativo que se torna inconveniente ou inoportuno ao interesse público denomina-se:",
+        options: [
+            "anulação.",
+            "caducidade.",
+            "revogação.",
+            "cassação.",
+            "contraposição."
+        ],
+        answer: 2,
+        disclaimer: "A revogação recai sobre o mérito administrativo (conveniência e oportunidade). A anulação, por sua vez, recai sobre a legalidade (atos nulos/ilegais)."
+    },
+    {
+        topic: "Atributos do Ato Administrativo",
+        supportText: "",
+        q: "Assinale a opção em que é apresentado o atributo do ato administrativo que possibilita à administração pública executar seus próprios atos independentemente de autorização judicial.",
+        options: [
+            "imperatividade",
+            "tipicidade",
+            "exigibilidade",
+            "presunção de legitimidade e veracidade",
+            "Autoexecutoriedade"
+        ],
+        answer: 4,
+        disclaimer: "Repetição de conceito muito cobrado. A Autoexecutoriedade é o que permite, por exemplo, rebocar um carro estacionado em local proibido sem precisar de ordem do juiz."
     },
     {
         topic: "Requisitos (Elementos) do Ato Administrativo",
@@ -6615,111 +6938,3330 @@ const banco_adm = [
         answer: 1,
         disclaimer: "Art. 8º: A obrigação de reparação de dano/devolução de valores ilícitos transfere-se aos sucessores até o limite do valor da herança (patrimônio recebido)."
     },
-    // ----- Questões adicionadas das provas FCC (MPE-PI 2025, MPE-AL 2026, TJ-CE 2026, MPE-SE 2026) -----
-    // FCC | MPE-PI 2025 | Técnico Ministerial - Área Administrativa (Tipo 2) | Q36 | gabarito oficial FCC
     {
-        topic: "Improbidade Administrativa (Nepotismo - Art. 11)",
+        topic: "Responsabilidade Civil do Estado (Teoria)",
         supportText: "",
-        q: "O prefeito do Município Y nomeia sobrinho, servidor municipal titular de cargo efetivo, para exercício da função gratificada de Controlador-Geral da Administração Municipal. À luz da Lei de Improbidade Administrativa (Lei nº 8.429/1992), trata-se de conduta",
+        q: "A teoria que consagra a responsabilidade civil objetiva do Estado, admitindo, no entanto, causas excludentes ou atenuantes da responsabilidade estatal (como culpa exclusiva da vítima, fato de terceiro ou força maior), é denominada:",
         options: [
-            "atípica, visto que a nomeação para função gratificada, por recair em servidor titular de cargo efetivo, não caracteriza nepotismo.",
-            "atípica, visto que a lei não qualifica o nepotismo como improbidade.",
-            "tipificada como ato de improbidade administrativa que importa enriquecimento ilícito.",
-            "tipificada como ato de improbidade administrativa que atenta contra os princípios da Administração Pública.",
-            "atípica, pois a lei qualifica o nepotismo como improbidade, mas o grau de parentesco em questão não se adequa à descrição legal."
-        ],
-        answer: 3,
-        disclaimer: "Questão extraída da prova MPE-PI (FCC, 2025). O nepotismo está tipificado no art. 11, XI, da Lei 8.429/1992 (inserido pela Lei 14.230/2021) como ato de improbidade que atenta contra os princípios da Administração: nomear cônjuge, companheiro ou parente, em linha reta, colateral ou por afinidade, até o terceiro grau, para cargo em comissão ou de confiança. Sobrinho é parente colateral de 3º grau, e a função gratificada é função de confiança; o fato de o nomeado ser servidor efetivo não afasta a conduta (A). Não há enriquecimento ilícito na hipótese (C)."
-    },
-    // FCC | MPE-PI 2025 | Técnico Ministerial - Área Administrativa (Tipo 2) | Q46 | gabarito oficial FCC
-    {
-        topic: "Atos Administrativos (Presunção de Legitimidade)",
-        supportText: "",
-        q: "Em se tratando de atos administrativos, a presunção que aponta para o pressuposto de que, até prova em contrário, todos os atos da Administração são considerados válidos perante o direito, se refere à presunção de",
-        options: [
-            "constância, que tem natureza jurisprudencial.",
-            "legalidade, que tem natureza juris et de jure.",
-            "validade, que tem natureza juris tantum.",
-            "veracidade, que tem natureza de lege ferenda.",
-            "certeza, que tem natureza de lege lata."
+            "Teoria da Irresponsabilidade do Estado.",
+            "Teoria do Risco Integral.",
+            "Teoria do Risco Administrativo.",
+            "Teoria da Culpa Civil Comum.",
+            "Teoria do Risco Social."
         ],
         answer: 2,
-        disclaimer: "Questão extraída da prova MPE-PI (FCC, 2025). A presunção de legitimidade (ou de validade) é atributo dos atos administrativos e tem natureza relativa (juris tantum): vale até prova em contrário, cujo ônus recai sobre quem alega o vício. Presunção juris et de jure é absoluta e não admite prova em contrário (B). Não existem as “presunções de constância” ou “de certeza” como atributo do ato; “de lege ferenda” e “lege lata” referem-se, respectivamente, ao direito que se pretende criar e ao direito vigente, e não à natureza da presunção."
+        disclaimer: "A Constituição Federal de 1988 adotou a Teoria do Risco Administrativo (art. 37, § 6º). Ela dispensa a comprovação de culpa do agente público, mas admite excludentes caso o Estado prove culpa exclusiva da vítima, caso fortuito, força maior ou fato exclusivo de terceiro."
     },
-    // FCC | MPE-AL 2026 | Técnico do Ministério Público (Tipo 4) | Q47 | gabarito oficial FCC
     {
-        topic: "Improbidade Administrativa (Sanções - Enriquecimento Ilícito)",
+        topic: "Responsabilidade Civil do Estado (Risco Integral)",
         supportText: "",
-        q: "Paulo, servidor público de um determinado município do Estado de Alagoas, praticou ato de improbidade administrativa que importa enriquecimento ilícito ao receber dinheiro em espécie para tolerar a exploração e a prática de jogos de azar. Ajuizada a ação de improbidade pelo Ministério Público, no caso de procedência dos pedidos iniciais, Paulo estará sujeito, dentre outras sanções previstas na Lei nº 8.429/1992, à suspensão dos seus direitos políticos até",
+        q: "Em determinadas situações excepcionais previstas na ordem jurídica, o Estado responde de forma objetiva, sem admitir quaisquer causas excludentes de responsabilidade (como culpa exclusiva da vítima ou força maior). Essa vertente é conhecida como:",
         options: [
-            "seis anos.",
-            "oito anos.",
-            "doze anos.",
-            "quatorze anos.",
-            "dez anos."
-        ],
-        answer: 3,
-        disclaimer: "Questão extraída da prova MPE-AL (FCC, 2026). Pelo art. 12, I, da Lei 8.429/1992 (redação da Lei 14.230/2021), nos atos que importam enriquecimento ilícito (art. 9º) a suspensão dos direitos políticos é de até 14 anos, e a proibição de contratar com o poder público ou de receber benefícios fiscais ou creditícios é por prazo não superior a 14 anos. Nos atos que causam prejuízo ao erário (art. 10), o limite é de até 12 anos; nos que atentam contra os princípios (art. 11), a lei não prevê suspensão de direitos políticos."
-    },
-    // FCC | TJ-CE 2026 | Técnico Judiciário - Área Judiciária (Tipo 3) | Q35 | gabarito oficial FCC
-    {
-        topic: "Improbidade Administrativa (Sujeitos e Responsabilização)",
-        supportText: "",
-        q: "Acerca do sistema de responsabilização por atos de improbidade administrativa, pautado na Lei nº 8.429/1992,",
-        options: [
-            "os sócios, cotistas, diretores e colaboradores de pessoa jurídica de direito privado respondem solidária e objetivamente pelo ato de improbidade que venha a ser imputado a esta.",
-            "o exercício da função ou o desempenho de competências públicas pelo agente público que, ainda que sem dolo, guarde nexo causal com o dano comprovadamente ocorrido ao erário público implica a responsabilidade por ato de improbidade administrativa.",
-            "consideram-se atos de improbidade, estando sujeitos às sanções da Lei nº 8.429/1992, aqueles praticados contra o patrimônio de entidade privada que receba subvenção, benefício ou incentivo, fiscal ou creditício, de entes públicos ou governamentais.",
-            "considera-se agente público, para os efeitos da Lei nº 8.429/1992, o servidor público ocupante de cargo efetivo e todo aquele que exerça qualquer outra forma de investidura ou vínculo com o Poder Público, desde que em caráter remunerado e não transitório.",
-            "aplicam-se as sanções previstas na Lei nº 8.429/1992 à pessoa jurídica, ainda que o ato de improbidade administrativa seja também sancionado, nos âmbitos administrativo e/ou civil, como ato lesivo à administração pública de que trata a Lei nº 12.846/2013."
+            "Teoria do Risco Administrativo.",
+            "Teoria da Culpa Anônima do Serviço.",
+            "Teoria do Risco Integral.",
+            "Teoria da Responsabilidade Subjetiva.",
+            "Teoria da Irresponsabilidade Acidentada."
         ],
         answer: 2,
-        disclaimer: "Questão extraída da prova TJ-CE (FCC, 2026). C reflete o art. 1º da Lei 8.429/1992, que alcança os atos praticados contra entidade privada que receba subvenção, benefício ou incentivo fiscal ou creditício de entes públicos (com sanção patrimonial limitada à repercussão do ilícito sobre a contribuição dos cofres públicos). A: sócios, cotistas, diretores e colaboradores só respondem se houver participação e benefícios diretos, nos limites da sua participação (art. 3º, §1º). B: a improbidade exige dolo; não há responsabilidade objetiva. D: agente público inclui quem exerce função ainda que transitoriamente ou sem remuneração (art. 2º). E: as sanções da LIA não se aplicam à pessoa jurídica se o ato também for sancionado como ato lesivo pela Lei 12.846/2013 (art. 3º, §2º)."
+        disclaimer: "A Teoria do Risco Integral obriga o Estado a indenizar independentemente de culpa estatal e sem admitir excludentes. É aplicada em casos específicos como danos nucleares, danos ambientais de grande proporção e atos terroristas contra aeronaves."
     },
-    // FCC | TJ-CE 2026 | Técnico Judiciário - Área Judiciária (Tipo 3) | Q36 | gabarito oficial FCC
     {
-        topic: "Poderes da Administração (Abuso de Poder)",
-        supportText: "Nem sempre o poder é utilizado de forma adequada pelos administradores. Como a atuação destes deve sujeitar-se aos parâmetros legais, a conduta abusiva não pode merecer aceitação no mundo jurídico, devendo ser corrigida na via administrativa ou judicial. A utilização do poder, portanto, deve guardar conformidade com o que a lei dispuser.<br>(Adaptado de: CARVALHO FILHO, José dos Santos. Manual de Direito Administrativo. 2018)",
-        q: "Com base no trecho acima e à luz dos poderes e deveres dos administradores públicos,",
-        options: [
-            "controle externo e interno dos atos administrativos constituem ferramentas adequadas juridicamente para o combate ao abuso de poder.",
-            "o dever dos administradores de sujeição dos seus atos aos parâmetros legais revela o caráter tipicamente discricionário destes.",
-            "o chamado desvio de poder refere-se à conduta praticada dentro dos limites da legalidade, quanto à finalidade de interesse público do ato, mas por pessoa não investida de poderes para tal.",
-            "o chamado excesso de poder consiste no exercício do poder de polícia para além dos limites definidos ordinariamente na lei, sendo tal conduta autorizada em hipóteses excepcionais de guerra, comoção interna ou calamidade pública.",
-            "os poderes administrativos são atribuições conferidas com exclusividade aos agentes políticos detentores de mandato eletivo e não se confundem com as prerrogativas de direito público conferidas juridicamente a todos os agentes públicos."
-        ],
-        answer: 0,
-        disclaimer: "Questão extraída da prova TJ-CE (FCC, 2026). O abuso de poder (gênero, que compreende o excesso de poder e o desvio de finalidade) é combatido pelo controle interno (autotutela da própria Administração) e pelo controle externo (Legislativo, com auxílio dos Tribunais de Contas, e Judiciário). B: a sujeição à lei revela o caráter vinculado, e não discricionário. C: o desvio de poder ocorre quando o agente competente pratica o ato com finalidade diversa da prevista em lei; a atuação de quem não foi investido nos poderes é usurpação de função. D: o excesso de poder é a atuação além dos limites da competência legal e não é autorizado, nem em situações excepcionais. E: os poderes administrativos são conferidos aos agentes públicos em geral, e não exclusivamente a agentes políticos."
-    },
-    // FCC | MPE-SE 2026 | Técnico do MP - Área Administrativa (Tipo 1) | Q32 | gabarito resolvido (oficial não localizado)
-    {
-        topic: "Improbidade Administrativa (Independência em Relação às Contas e ao Dano)",
+        topic: "Responsabilidade Civil do Estado (Omissão)",
         supportText: "",
-        q: "De acordo com a Lei de Improbidade Administrativa nº 8.429/1992 (com redação dada pela Lei nº 14.230/2021), a aplicação das sanções nela previstas ao servidor público que praticar ato de improbidade administrativa",
+        q: "Em relação à responsabilidade civil do Estado decorrente de danos causados por OMISSÃO do Poder Público (falta do serviço / omissão genérica), o entendimento pacificado do Supremo Tribunal Federal (STF) é no sentido de que a responsabilidade é:",
         options: [
-            "depende da aprovação ou rejeição das contas pelo Tribunal ou Conselho de Contas.",
-            "independe sempre da efetiva ocorrência de dano ao patrimônio público, inclusive quanto à pena de ressarcimento.",
-            "independe da aprovação ou rejeição das contas pelo órgão de controle interno ou pelo Tribunal ou Conselho de Contas.",
-            "depende, em qualquer hipótese, da efetiva ocorrência de dano ao patrimônio público.",
-            "depende da aprovação ou rejeição das contas pelo órgão de controle interno."
-        ],
-        answer: 2,
-        disclaimer: "Questão extraída da prova MPE-SE (FCC, 2026). Art. 21 da Lei 8.429/1992: a aplicação das sanções independe (I) da efetiva ocorrência de dano ao patrimônio público, salvo quanto à pena de ressarcimento e às condutas do art. 10 (que exigem perda patrimonial efetiva); e (II) da aprovação ou rejeição das contas pelo órgão de controle interno ou pelo Tribunal ou Conselho de Contas. Assim, A e E invertem a regra sobre as contas; B erra ao dispensar o dano até para o ressarcimento; D erra ao exigir dano em qualquer hipótese (os atos dos arts. 9º e 11, por exemplo, não dependem de dano)."
-    },
-    // FCC | MPE-SE 2026 | Técnico do MP - Área Administrativa (Tipo 1) | Q37 | gabarito resolvido (oficial não localizado)
-    {
-        topic: "Improbidade Administrativa (Afastamento Cautelar do Agente)",
-        supportText: "",
-        q: "Leonardo, agente público que exerce função pública no Ministério Público de determinado Estado, está sendo processado por ato de improbidade administrativa. Nessa situação, em conformidade com a Lei de Improbidade Administrativa (Lei nº 8.429/1992, com redação dada pela Lei nº 14.230/2021), a autoridade judicial competente",
-        options: [
-            "poderá determinar o afastamento de Leonardo da sua função, com prejuízo da remuneração, se a medida for necessária à instrução processual ou para evitar a iminente prática de novos ilícitos, sendo esse afastamento de até 60 dias, prorrogáveis uma única vez por igual prazo, mediante decisão motivada.",
-            "poderá determinar o afastamento de Leonardo da sua função, sem prejuízo da remuneração, se a medida for necessária à instrução processual ou para evitar a iminente prática de novos ilícitos, sendo esse afastamento de até 90 dias, prorrogáveis uma única vez por igual prazo, mediante decisão motivada.",
-            "não poderá determinar o afastamento de Leonardo da sua função, ainda que para evitar iminente prática de novos ilícitos, pois o afastamento do cargo, emprego ou função apenas é permitido após o trânsito em julgado da sentença condenatória.",
-            "poderá determinar o afastamento de Leonardo da sua função, com prejuízo da remuneração, se a medida for necessária para evitar a iminente prática de novos ilícitos, sendo esse afastamento de até 120 dias improrrogáveis, mediante decisão motivada.",
-            "não poderá determinar o afastamento de Leonardo da sua função, ainda que para evitar iminente prática de novos ilícitos, porém poderá suspender os seus direitos políticos, não sendo necessário, para tanto, o trânsito em julgado da sentença condenatória."
+            "sempre objetiva, bastando a comprovação do dano e do nexo causal.",
+            "subjetiva, exigindo a comprovação de culpa (falta do serviço), consubstanciada na negligência em evitar o evento quando havia o dever legal de agir.",
+            "excluída em qualquer hipótese, pois o Estado não responde por atos omissivos.",
+            "objetiva se o dano ocorrer em vias públicas e subjetiva nos demais casos.",
+            "solidária com os agentes públicos envolvidos, sem necessidade de dolo."
         ],
         answer: 1,
-        disclaimer: "Questão extraída da prova MPE-SE (FCC, 2026). Art. 20, §§ 1º e 2º, da Lei 8.429/1992: a autoridade judicial pode determinar o afastamento do agente público do cargo, emprego ou função, sem prejuízo da remuneração, quando a medida for necessária à instrução processual ou para evitar a iminente prática de novos ilícitos; o afastamento é de até 90 dias, prorrogável uma única vez por igual prazo, mediante decisão motivada. Já a perda da função pública e a suspensão dos direitos políticos só se efetivam com o trânsito em julgado da sentença condenatória (art. 20, caput)."
+        disclaimer: "Para a omissão genérica do Estado, o STF adota a responsabilidade subjetiva (teoria da culpa do serviço ou culpa anônima), exigindo a comprovação de que o Estado tinha o dever legal de agir e foi negligente ao não impedir o resultado."
+    },
+    {
+        topic: "Responsabilidade Civil do Estado (Ação Regressiva)",
+        supportText: "",
+        q: "De acordo com o art. 37, § 6º, da Constituição Federal, a pessoa jurídica de direito público ou de direito privado prestadora de serviços públicos indenizará os danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de:",
+        options: [
+            "dolo ou culpa.",
+            "exclusivamente dolo.",
+            "responsabilidade objetiva interna.",
+            "falta de serviço comprovada pelo Tribunal de Contas.",
+            "culpa grave ou dolo, sendo vedada a cobrança em caso de culpa leve."
+        ],
+        answer: 0,
+        disclaimer: "O texto constitucional expressamente condiciona o direito de regresso do Estado contra o agente público à comprovação de dolo ou culpa (responsabilidade subjetiva do agente perante o Estado)."
+    },
+    {
+        topic: "Responsabilidade Civil do Estado (Prescrição)",
+        supportText: "",
+        q: "Considerando a jurisprudência do STF sobre a pretensão de reparação de danos causados por atos de agentes públicos em face da Fazenda Pública, o prazo prescricional aplicável é de:",
+        options: [
+            "1 ano, nos termos do Código Civil.",
+            "3 anos, conforme regras de reparação civil.",
+            "5 anos, previstos no Decreto nº 20.910/1932.",
+            "20 anos, por se tratar de patrimônio público imprescritível.",
+            "imprescritível, dada a gravidade de atos estatais."
+        ],
+        answer: 2,
+        disclaimer: "A Ação de Indenização contra a Fazenda Pública prescreve em 5 (cinco) anos, contados da data do ato ou fato, conforme o Decreto nº 20.910/1932, que é norma especial aplicável à Administração Pública."
+    },
+    {
+        topic: "Contratos Administrativos (Lei nº 14.133/2021)",
+        supportText: "",
+        q: "Nos termos da nova Lei de Licitações e Contratos Administrativos (Lei nº 14.133/2021), o regime jurídico dos contratos administrativos confere à Administração prerrogativas especiais. Assinale a alternativa que indica uma prerrogativa típica da Administração nesses contratos:",
+        options: [
+            "A possibilidade de alteração unilateral do contrato por qualquer motivo, inclusive para reequilíbrio financeiro em favor exclusivo da Administração.",
+            "A exigência de exceção do contrato não cumprido (exceptio non adimpleti contractus) para paralisar imediatamente o serviço público em caso de atraso de pagamento superior a 30 dias.",
+            "A rescisão unilateral do contrato pela Administração por razões de interesse público.",
+            "A imunidade absoluta contra a aplicação de penalidades contratuais.",
+            "A proibição de modificação do projeto inicial, sob pena de nulidade insanável."
+        ],
+        answer: 2,
+        disclaimer: "A Administração pode rescindir unilateralmente os contratos administrativos por razões de interesse público (cláusula exorbitante), garantidos o contraditório e a ampla defesa."
+    },
+    {
+        topic: "Contratos Administrativos (Duração)",
+        supportText: "",
+        q: "No tocante à vigência e à duração dos contratos administrativos regidos pela Lei nº 14.133/2021, a regra geral estabelece que os contratos de prestação de serviços contínuos poderão ser prorrogados por até:",
+        options: [
+            "60 meses (5 anos), podendo ser excepcionalmente prorrogados por até 12 meses.",
+            "12 meses, vedada qualquer prorrogação.",
+            "36 meses (3 anos), sem possibilidade de extensão.",
+            "120 meses (10 anos) para serviços de tecnologia da informação.",
+            "10 anos ininterruptos, independentemente de licitação."
+        ],
+        answer: 0,
+        disclaimer: "A Lei 14.133/21 estabelece no art. 106 que os contratos de serviços e fornecimentos contínuos poderão ser prorrogados sucessivamente, respeitado o limite decenal (10 anos) em alguns casos, mas a regra padrão de serviços contínuos admite prorrogação até o prazo de 60 meses, podendo ser estendida excepcionalmente por mais 12 meses."
+    },
+    {
+        topic: "Contratos Administrativos (Equilíbrio Econômico-Financeiro)",
+        supportText: "",
+        q: "A manutenção das condições efetivas da proposta inicial de um contrato administrativo, de modo a compensar álea econômica extraordinária e extracontratual (como a ocorrência de fato do príncipe ou teoria da imprevisão), refere-se à garantia do:",
+        options: [
+            "reajuste de preços por índice setorial.",
+            "equilíbrio econômico-financeiro (manutenção da equação econômico-financeira).",
+            "limite de aditamentos quantitativos de 50%.",
+            "desconto incondicional por inexecução parcial.",
+            "pagamento antecipado de obras públicas."
+        ],
+        answer: 1,
+        disclaimer: "O equilíbrio econômico-financeiro (direito fundamental garantido pelo art. 37, XXI, da CF/88 e pela Lei 14.133/21) assegura que as partes mantenham a proporção original entre encargos do contratado e retribuição da Administração."
+    },
+    {
+        topic: "Contratos Administrativos (Alteração Unilateral)",
+        supportText: "",
+        q: "Sob a égide da Lei nº 14.133/2021, os contratos administrativos podem ser alterados unilateralmente pela Administração. Nos acréscimos ou supressões quantitativas de obras e serviços, o limite máximo legal que o contratado é obrigado a aceitar, salvo acordo entre as partes, é de:",
+        options: [
+            "até 25% para os demais contratos em geral e até 50% para reforma de edifícios ou equipamentos.",
+            "até 10% para compras e 25% para obras.",
+            "até 50% para qualquer tipo de objeto contratual.",
+            "até 30% improrrogáveis.",
+            "qualquer percentual, desde que haja interesse público superveniente."
+        ],
+        answer: 0,
+        disclaimer: "O art. 125 da Lei 14.133/2021 mantém os limites clássicos: o contratado fica obrigado a aceitar, nas mesmas condições contratuais, acréscimos ou supressões de até 25% do valor inicial atualizado do contrato para obras, serviços ou compras, e de até 50% no caso de reforma de edifício ou de equipamento."
+    },
+    {
+        topic: "Contratos Administrativos (Garantias)",
+        supportText: "",
+        q: "De acordo com a Lei nº 14.133/2021, a exigência de garantia de execução nos contratos administrativos:",
+        options: [
+            "é obrigatória para todos os contratos celebrados pela Administração Pública, sem exceção.",
+            "é vedada em qualquer modalidade de contratação pública.",
+            "será exigida nas contratações de obras, serviços e fornecimentos, de acordo com análise prévia, não podendo exceder a 5% do valor inicial do contrato, podendo ser aumentada para até 10% em casos de grande complexidade técnica.",
+            "deve corresponder obrigatoriamente a 100% do valor total contratado para assegurar contra a inadimplência total.",
+            "é restrita a contratos internacionais de fornecimento de bens."
+        ],
+        answer: 2,
+        disclaimer: "A Lei 14.133/21 (art. 96) prevê que a exigência de garantia recai sobre obras, serviços e fornecimentos vultosos ou complexos, sendo o limite ordinário de até 5% do valor inicial do contrato, podendo chegar a 10% em casos de alta complexidade técnica e riscos financeiros consideráveis."
+    },
+    {
+        topic: "Contratos Administrativos (Extinção)",
+        supportText: "",
+        q: "A inexecução total ou parcial do contrato administrativo pode ensejar a sua extinção (rescisão). Conforme a Lei nº 14.133/2021, assinale a opção que apresenta uma forma de extinção que decorre de inadimplência exclusiva do contratado:",
+        options: [
+            "Rescisão amigável por acordo entre as partes.",
+            "Rescisão determinada por ato unilateral e escrito da Administração.",
+            "Anulação do contrato por vício insanável no procedimento licitatório.",
+            "Rescisão judicial decorrente de pedido exclusivo do contratado por culpa da Administração (falha de pagamento superior a 2 meses).",
+            "Caducidade decorrente de encampação de serviço público delegada."
+        ],
+        answer: 1,
+        disclaimer: "A rescisão unilateral (administrativa) ocorre quando há descumprimento de obrigações contratuais por parte do contratado ou por razões de interesse público. Quando decorre de culpa exclusiva da Administração (ex: atraso de pagamentos por mais de 2 meses), o contratado pode pleitear a rescisão judicial ou suspender o cumprimento."
+    },
+    {
+        topic: "Contratos Administrativos (Nulidade)",
+        supportText: "",
+        q: "Constatada a nulidade de um contrato administrativo, a regra geral da Lei nº 14.133/2021 é a de que a declaração de nulidade opera retroativamente, impedindo os efeitos jurídicos que ele deveria produzir. No entanto, a lei determina que a nulidade:",
+        options: [
+            "exime a Administração do dever de pagar pelos serviços já executados ou materiais entregues.",
+            "não exonera a Administração do dever de indenizar o contratado pelo que houver executado até a data em que ela for declarada e por outros prejuízos regularmente comprovados, desde que não lhe seja imputável.",
+            "torna nulos todos os atos anteriores da licitação sem direito a nenhuma compensação financeira.",
+            "permite a continuidade automática do contrato por prazo indeterminado.",
+            "transfere a responsabilidade civil integral aos membros da comissão de licitação sem direito de regresso."
+        ],
+        answer: 1,
+        disclaimer: "Para evitar o enriquecimento sem causa da Administração, o art. 147 da Lei 14.133/21 estabelece que a declaração de nulidade do contrato administrativo não exonera a Administração do dever de indenizar o contratado pelo que houver executado até a data da declaração e por outros prejuízos comprovados, desde que ele não tenha concorrido para a nulidade."
+    },
+    {
+        topic: "Contratos Administrativos (Subcontratação)",
+        supportText: "",
+        q: "A subcontratação de partes da obra, serviço ou fornecimento em contratos administrativos regidos pela Lei nº 14.133/2021:",
+        options: [
+            "é amplamente livre, dispensando qualquer autorização prévia da Administração Pública.",
+            "é expressamente vedada em qualquer hipótese no âmbito federal, estadual e municipal.",
+            "será admitida até o limite autorizado pela Administração, desde que previsto no edital e no contrato, vedada a subcontratação total.",
+            "transfere integralmente a responsabilidade técnica e financeira perante o Estado para a empresa subcontratada.",
+            "depende exclusivamente de comunicação posterior ao Tribunal de Contas."
+        ],
+        answer: 2,
+        disclaimer: "A Lei 14.133/21 (art. 122) autoriza a subcontratação de partes do contrato até o limite estipulado pela Administração, desde que prevista no edital/contrato, sendo vedada a subcontratação total e permanecendo o contratado principal como único responsável perante a Administração."
+    },
+    {
+        topic: "Contratos Administrativos (Formalização e Publicação)",
+        supportText: "",
+        q: "No que diz respeito à formalização e à eficácia dos contratos administrativos previstos na Lei nº 14.133/2021, é correto afirmar que o instrumento de contrato é:",
+        options: [
+            "obrigatório para todas as contratações públicas, independentemente do valor ou da modalidade.",
+            "dispensável em compras com entrega imediata e integral dos bens dos quais não resultem obrigações futuras, independentemente de valor.",
+            "substituído por simples nota de empenho de despesa em qualquer obra de engenharia de pequeno porte.",
+            "válido apenas após o registro em cartório de títulos e documentos.",
+            "ineficaz se não for publicado na imprensa escrita de grande circulação regional."
+        ],
+        answer: 1,
+        disclaimer: "O art. 95 da Lei 14.133/21 estabelece que o instrumento de contrato é obrigatório, salvo nas hipóteses de dispensa em que a lei faculta sua substituição por outros instrumentos (como carta-contrato, nota de empenho, autorização de compra), a exemplo de compras com entrega imediata e integral dos bens dos quais não resultem obrigações futuras."
+    },
+    {
+        topic: "Contratos Administrativos (Teoria da Imprevisão)",
+        supportText: "",
+        q: "A Teoria da Imprevisão, aplicável aos contratos administrativos, fundamenta-se na ocorrência de fatos imprevisíveis, ou previsíveis de consequências incalculáveis, estranhos à vontade das partes, que alteram gravemente o equilíbrio econômico-financeiro do contrato. Essa teoria abrange, entre outras figuras jurídicas, o chamado:",
+        options: [
+            "Fato da Administração e Fato do Príncipe.",
+            "Desvio de Poder e Excesso de Poder.",
+            "Poder Vinculado e Poder Discricionário.",
+            "Autotutela e Hierarquia.",
+            "Controle Prévio e Controle Subsequente."
+        ],
+        answer: 0,
+        disclaimer: "A Teoria da Imprevisão desdobra-se em: 1) Caso fortuito e força maior (eventos da natureza); 2) Fato do Príncipe (medida geral do Estado que repercute indiretamente no contrato); e 3) Fato da Administração (conduta comissiva ou omissiva específica da Administração que paralisa ou dificulta a execução contratual)."
+    },
+    {
+        topic: "Contratos Administrativos (Recebimento do Objeto)",
+        supportText: "",
+        q: "No recebimento do objeto de contratos administrativos de grande vulto ou complexidade, a Lei nº 14.133/2021 estabelece que o recebimento definitivo deverá ser realizado por:",
+        options: [
+            "um único servidor designado pela chefia imediata.",
+            "uma comissão de, no mínimo, 3 (três) membros designados pela autoridade competente.",
+            "o próprio secretário da pasta de forma exclusiva.",
+            "empresa de auditoria externa contratada obrigatoriamente por licitação.",
+            "o Ministério Público de Contas."
+        ],
+        answer: 1,
+        disclaimer: "O art. 140 da Lei 14.133/21 determina que o recebimento definitivo de obra e serviço de engenharia, bem como de compras e serviços de grande vulto, será feito por comissão de, no mínimo, 3 (três) membros designados pela autoridade competente."
+    },
+    {
+        topic: "Contratos Administrativos (Sanções Administrativas)",
+        supportText: "",
+        q: "Pela inexecução total ou parcial do contrato, a Administração pode aplicar ao contratado sanções administrativas previstas na Lei nº 14.133/2021. Dentre as opções abaixo, qual apresenta sanções expressamente previstas na referida lei?",
+        options: [
+            "Advertência, Multa, Impedimento de licitar e contratar, e Declaração de inidoneidade para licitar ou contratar.",
+            "Apenas advertência pecuniária e reclusão de até 4 anos.",
+            "Suspensão definitiva dos direitos políticos e perda de bens.",
+            "Expropriação de capital social e intervenção estatal na sede da empresa.",
+            "Multa compensatória de até 100% do faturamento bruto da empresa."
+        ],
+        answer: 0,
+        disclaimer: "O art. 156 da Lei 14.133/2021 elenca as sanções administrativas aplicáveis aos licitantes e contratados: I - advertência; II - multa; III - impedimento de licitar e contratar; e IV - declaração de inidoneidade para licitar ou contratar."
+    },
+    {
+        topic: "Contratos Administrativos (Extinção por Culpa da Administração)",
+        supportText: "",
+        q: "Quando a extinção do contrato administrativo ocorre por culpa exclusiva da Administração (ex: atraso superior a 2 meses nos pagamentos devidos), assiste ao contratado o direito de:",
+        options: [
+            "continuar executando o objeto sem receber até o término do mandato do gestor.",
+            "suspender o cumprimento de suas obrigações até que seja regularizado o pagamento, além de direito à indenização por prejuízos comprovados.",
+            "tomar posse dos bens públicos equivalentes ao débito em garantia própria.",
+            "rescindir o contrato de forma unilateral sem notificação prévia.",
+            "aplicar multa direta nos gestores públicos responsáveis."
+        ],
+        answer: 1,
+        disclaimer: "O art. 137, § 2º, da Lei 14.133/2021 assegura ao contratado o direito de suspender o cumprimento das obrigações até a regularização dos pagamentos em caso de atraso superior a 2 meses, além de direito à indenização pelos prejuízos decorrentes da paralisação."
+    },
+    {
+        topic: "Contratos Administrativos (Matriz de Riscos)",
+        supportText: "",
+        q: "A Matriz de Alocação de Riscos (ou Matriz de Riscos) nos contratos administrativos regidos pela Lei nº 14.133/2021 consiste em:",
+        options: [
+            "um documento opcional que isenta totalmente o Estado de qualquer responsabilidade sobre o contrato.",
+            "cláusula contratual definidora dos riscos e das responsabilidades entre as partes e caracterizadora do equilíbrio econômico-financeiro inicial do contrato.",
+            "uma tabela de multas aplicáveis exclusivamente aos fiscais de contrato negligentes.",
+            "um instrumento exclusivo para definir quem pagará os impostos municipais.",
+            "um relatório sigiloso mantido apenas pelo Tribunal de Contas."
+        ],
+        answer: 1,
+        disclaimer: "A Matriz de Riscos (definida no art. 6º, XXVII, e regulada no art. 103 da Lei 14.133/21) é a cláusula contratual que define previamente quais riscos correrão por conta do contratado e quais correrão por conta da Administração."
+    },
+    {
+        topic: "Contratos Administrativos (Diferença para Contratos Privados)",
+        supportText: "",
+        q: "Os contratos administrativos diferem dos contratos regidos pelo direito privado essencialmente porque os primeiros:",
+        options: [
+            "possuem igualdade plena de condições (paridade) entre as partes contratantes.",
+            "são celebrados sem qualquer subordinação a normas de ordem pública.",
+            "contêm cláusulas exorbitantes que colocam a Administração em posição de supremacia sobre o contratado, visando à proteção do interesse público.",
+            "dispensam licitação em 100% dos casos.",
+            "podem ter seu objeto alterado por vontade exclusiva do contratado particular."
+        ],
+        answer: 2,
+        disclaimer: "A marca registrada dos contratos administrativos é a presença das 'cláusulas exorbitantes' (prerrogativas da Administração como alteração unilateral, rescisão unilateral, fiscalização e aplicação de sanções), que consagram a supremacia do interesse público sobre o privado."
+    },
+    {
+        topic: "Contratos Administrativos (Fiscalização)",
+        supportText: "",
+        q: "A execução do contrato administrativo deverá ser acompanhada e fiscalizada por um ou mais fiscais do contrato, representantes da Administração, ou por comissão de fiscalização. Nos termos da Lei nº 14.133/2021, o fiscal do contrato anotará em registro próprio todas as ocorrências relacionadas à execução do contrato, determinando:",
+        options: [
+            "o que for necessário para a regularização das faltas ou dos defeitos observados.",
+            "a prisão imediata dos operários em caso de desentendimento trabalhista.",
+            "a alteração arbitrária e imediata da matriz de riscos sem aval da assessoria jurídica.",
+            "a destituição do diretor da empresa contratada.",
+            "o cancelamento definitivo da licitação original."
+        ],
+        answer: 0,
+        disclaimer: "O art. 117 da Lei 14.133/21 atribui ao fiscal do contrato a incumbência de registrar as ocorrências e determinar as providências necessárias para a correção de falhas ou defeitos observados na execução contratual."
+    },
+    {
+        topic: "Contratos Administrativos (Plano de Contratações Anual)",
+        supportText: "",
+        q: "A Lei nº 14.133/2021 introduziu expressamente a figura do Plano de Contratações Anual (PCA). O objetivo principal dessa ferramenta de governança é:",
+        options: [
+            "permitir compras ocultas de última hora sem planejamento.",
+            "gerenciar e otimizar as contratações da Administração, alinhando-as ao planejamento estratégico e ao orçamento do órgão.",
+            "substituir completamente o processo de licitação por compras diretas livres.",
+            "impedir que qualquer empresa privada participe de licitações públicas.",
+            "fornecer dados estatísticos estritamente para fins de declaração de imposto de renda corporativo."
+        ],
+        answer: 1,
+        disclaimer: "O Plano de Contratações Anual (PCA), previsto no art. 12, VII, da Lei 14.133/21, visa gerenciar e otimizar as contratações, promovendo o alinhamento com o planejamento estratégico e a otimização dos recursos orçamentários."
+    },
+    {
+        topic: "Contratos Administrativos (Extinção por Acordo)",
+        supportText: "",
+        q: "A extinção de um contrato administrativo pode ocorrer por acordo entre as partes (rescisão amigável), desde que haja conveniência para a Administração. Nos termos da Lei nº 14.133/2021, essa forma de extinção deve ser:",
+        options: [
+            "formalizada por simples aperto de mãos, sem necessidade de registro escrito.",
+            "reduzida a termo no processo licitatório, precedida de autorização escrita e fundamentada da autoridade competente.",
+            "submetida obrigatoriamente a referendo popular.",
+            "aprovada pelo Supremo Tribunal Federal antes de produzir efeitos.",
+            "vedada em contratos de prestação de serviços de engenharia."
+        ],
+        answer: 1,
+        disclaimer: "O art. 138, inciso II, da Lei 14.133/21 prevê a rescisão amigável, por acordo entre as partes, reduzida a termo no processo de contratação, desde que haja conveniência para a Administração."
+    },
+    {
+        topic: "Contratos Administrativos (Prerrogativas e Limites)",
+        supportText: "",
+        q: "Apesar de a Administração gozar de prerrogativas (cláusulas exorbitantes) nos contratos administrativos, é correto afirmar que o exercício desses poderes:",
+        options: [
+            "pode ser totalmente arbitrário e isento de motivação escrita.",
+            "encontra limites intransponíveis nos direitos fundamentais, na lei, no princípio da proporcionalidade e na garantia do contraditório e da ampla defesa.",
+            "torna o contratado particular refém de prejuízos ilimitados sem qualquer direito a reequilíbrio econômico.",
+            "anula por completo a responsabilidade civil do Estado perante terceiros lesados pela execução do contrato.",
+            "depende de autorização prévia e homologação pelo poder legislativo municipal."
+        ],
+        answer: 1,
+        disclaimer: "As prerrogativas da Administração não se confundem com arbitrariedade. Elas devem ser exercidas dentro dos limites legais, respeitando a motivação, a proporcionalidade, a razoabilidade e assegurando o contraditório e a ampla defesa ao contratado."
+    },
+    {
+        topic: "Contratos Administrativos (Nulidade e Efeitos)",
+        supportText: "",
+        q: "Quando um contrato administrativo é declarado nulo por ilegalidade, os efeitos jurídicos produzidos até o momento da declaração de nulidade:",
+        options: [
+            "são retroativos (ex tunc), desconstituindo a situação fática, mas ressalvando o dever de indenizar o particular de boa-fé pelos serviços prestados para evitar enriquecimento ilícito.",
+            "são prospectivos (ex nunc), mantendo plenamente vigentes todas as obrigações futuras pactuadas.",
+            "causam a perda imediata e definitiva de qualquer direito de recebimento pelo que já foi feito, independentemente da boa-fé.",
+            "são convalidados automaticamente após o transcurso de 30 dias.",
+            "anulam retroativamente também os salários pagos aos servidores públicos fiscais do contrato."
+        ],
+        answer: 0,
+        disclaimer: "A anulação de ato ou contrato opera efeitos retroativos (ex tunc), desfazendo o ato viciado desde a origem. Porém, em respeito ao princípio da vedação ao enriquecimento sem causa, garante-se a indenização pelos serviços prestados de boa-fé."
+    },
+    {
+        topic: "Contratos Administrativos (Alteração Qualitativa)",
+        supportText: "",
+        q: "A alteração contratual qualitativa decorre de modificações no projeto ou nas especificações para melhor adequação técnica aos objetivos da Administração. Sobre essa modalidade de alteração, assinale a correta:",
+        options: [
+            "Pode ser imposta unilateralmente pela Administração dentro dos limites legais de acréscimo, mesmo que altere a natureza básica do objeto.",
+            "Envolve modificações na forma de execução ou no dimensionamento técnico, respeitados os limites quantitativos legais (25% ou 50%), não podendo desfigurar o objeto licitado.",
+            "É proibida em qualquer tipo de obra pública de engenharia civil.",
+            "Exige nova licitação integral, sendo vedado qualquer tipo de aditivo qualitativo.",
+            "Depende exclusivamente da concordância verbal do empreiteiro."
+        ],
+        answer: 1,
+        disclaimer: "A alteração qualitativa ajusta o projeto ou a especificação técnica para melhor atender ao interesse público, devendo respeitar os limites percentuais estabelecidos em lei e preservar a identidade e o objeto essencial da licitação original."
+    },
+    {
+        topic: "Contratos Administrativos (Extinção por Falência)",
+        supportText: "",
+        q: "A decretação de falência ou a insolvência civil do contratado constitui motivo legítimo para a Administração promover a:",
+        options: [
+            "prorrogação automática do contrato por mais 12 meses.",
+            "extinção (rescisão) unilateral do contrato administrativo.",
+            "conversão do contrato em parceria público-privada obrigatória.",
+            "suspensão dos pagamentos devidos aos credores trabalhistas da empresa.",
+            "estatização imediata da empresa privada falida."
+        ],
+        answer: 1,
+        disclaimer: "A falência, a recuperação judicial (quando incompatível com a execução) ou a insolvência civil do contratado são motivos previstos em lei para a rescisão unilateral do contrato administrativo, pois afetam a idoneidade econômico-financeira e a capacidade de execução do ajuste."
+    },
+    {
+        topic: "Contratos Administrativos (Diálogo Competitivo e Licitações)",
+        supportText: "",
+        q: "Com o advento da Lei nº 14.133/2021, foram extintas antigas modalidades como tomada de preços e convite, e criadas novas ferramentas e procedimentos contratuais, a exemplo do diálogo competitivo. No âmbito dos contratos decorrentes dessas novas regras, o regime de execução indireta pode incluir:",
+        options: [
+            "apenas empreitada por preço global.",
+            "empreitada por preço global, empreitada por preço unitário, tarefa, contratação integrada e contratação semi-integrada.",
+            "exclusivamente empreitada integral.",
+            "somente contratações verbais de pequeno valor.",
+            "apenas concessões de serviço público patrocinadas."
+        ],
+        answer: 1,
+        disclaimer: "O art. 46 da Lei 14.133/21 elenca os regimes de execução indireta de obras e serviços: I - empreitada por preço unitário; II - empreitada por preço global; III - empreitada integral; IV - contratação tarefa; V - contratação integrada; e VI - contratação semi-integrada."
+    },
+    {
+        topic: "Contratos Administrativos (Contratação Integrada)",
+        supportText: "",
+        q: "Na modalidade de execução contratual denominada 'contratação integrada', prevista na Lei nº 14.133/2021 para obras e serviços de engenharia, a empresa contratada é responsável por:",
+        options: [
+            "apenas a execução da obra com base em projeto básico detalhado fornecido integralmente pela Administração.",
+            "elaborar e desenvolver os projetos básico e executivo de engenharia, executar as obras e os serviços de engenharia, bem como demais operações necessárias.",
+            "exclusivamente a fiscalização contábil do empreendimento público.",
+            "fornecer mão de obra temporária sem qualquer responsabilidade técnica pelos projetos.",
+            "realizar o controle externo das contas públicas no âmbito do Tribunal de Contas."
+        ],
+        answer: 1,
+        disclaimer: "Na contratação integrada (art. 6º, XXXII, da Lei 14.133/21), o contratado é responsável por elaborar e desenvolver os projetos básico e executivo, além de executar as obras e serviços de engenharia. Na semi-integrada, o projeto básico já é fornecido pela Administração, cabendo ao contratado o projeto executivo e a obra."
+    },
+    {
+        topic: "Licitações (Princípios da Lei nº 14.133/2021)",
+        supportText: "",
+        q: "A Lei nº 14.133/2021 estabelece as normas gerais de licitação e contratação para a Administração Pública. Além dos princípios clássicos já consagrados anteriormente, o art. 5º da referida lei incluiu expressamente novos princípios. Assinale a alternativa que apresenta um princípio expressamente positivado no art. 5º da Nova Lei de Licitações:",
+        options: [
+            "Segurança jurídica, inovação, desenvolvimento nacional sustentável e razoabilidade.",
+            "Somente o princípio da legalidade estrita e da autotutela.",
+            "Apenas os princípios constitucionais do art. 37, vedada qualquer inovação interpretativa.",
+            "Princípio da hierarquia corporativa e da rigidez orçamentária pura.",
+            "Princípio da supremacia absoluta do contratado particular sobre o Estado."
+        ],
+        answer: 0,
+        disclaimer: "O art. 5º da Lei nº 14.133/2021 traz um rol amplo de princípios aplicáveis às licitações, incluindo legalidade, impessoalidade, moralidade, publicidade, eficiência, interesse público, probidade administrativa, igualdade, planejamento, transparência, eficácia, segregação de funções, motivação, segurança jurídica, razoabilidade, competitividade, proporção, celeridade, economicidade e desenvolvimento nacional sustentável."
+    },
+    {
+        topic: "Modalidades de Licitação (Lei nº 14.133/2021)",
+        supportText: "",
+        q: "Com o advento da Lei nº 14.133/2021, o ordenamento jurídico brasileiro passou a contar com um novo rol de modalidades de licitação. Assinale a alternativa que apresenta exclusivamente as modalidades previstas na nova lei:",
+        options: [
+            "Concorrência, Tomada de Preços, Convite, Concurso e Leilão.",
+            "Pregão, Concorrência, Concurso, Leilão e Diálogo Competitivo.",
+            "Tomada de Preços, Convite, Pregão, RDC e Consulta.",
+            "Leilão, Concurso, Tomada de Preços e Diálogo Competitivo.",
+            "Apenas Concorrência e Pregão."
+        ],
+        answer: 1,
+        disclaimer: "A Lei nº 14.133/2021 extinguiu definitivamente as antigas modalidades Convite, Tomada de Preços e RDC, fixando as seguintes modalidades de licitação: I - pregão; II - concorrência; III - concurso; IV - leilão; e V - diálogo competitivo."
+    },
+    {
+        topic: "Diálogo Competitivo",
+        supportText: "A Lei nº 14.133/2021 introduziu a modalidade inédita do Diálogo Competitivo no direito brasileiro.",
+        q: "Assinale a alternativa correta a respeito do Diálogo Competitivo:",
+        options: [
+            "É restrita à aquisição de bens comuns de prateleira com entrega imediata.",
+            "Destina-se à contratação de obras, serviços e compras em que a Administração visa a dialogar com licitantes previamente selecionados mediante critérios objetivos, com o intuito de desenvolver uma ou mais alternativas capazes de atender às suas necessidades.",
+            "Substitui obrigatoriamente o pregão eletrônico em todas as licitações municipais de pequeno valor.",
+            "É modalidade exclusiva para alienação de bens imóveis inservíveis da Administração.",
+            "Pode ser utilizada sem qualquer pesquisa prévia de mercado ou justificativa técnica."
+        ],
+        answer: 1,
+        disclaimer: "O Diálogo Competitivo (art. 32 da Lei 14.133/21) é inovação para contratações complexas, onde a Administração realiza diálogos com os licitantes selecionados para desenvolver soluções que atendam às suas necessidades, antes de solicitar as propostas finais."
+    },
+    {
+        topic: "Inversão de Fases na Licitação",
+        supportText: "",
+        q: "À luz da Lei nº 14.133/2021, sobre a ordem das fases de julgamento e habilitação no procedimento licitatório (regra geral), assinale a afirmativa correta:",
+        options: [
+            "A fase de habilitação antecede obrigatoriamente a fase de apresentação de propostas e julgamento.",
+            "Adota-se como regra geral a inversão de fases: primeiro julgam-se as propostas e os lances para, posteriormente, apurar a habilitação apenas do licitante melhor classificado.",
+            "A habilitação deve ser realizada simultaneamente para todos os centenas de concorrentes antes de abrir qualquer proposta de preço.",
+            "A lei proíbe qualquer tipo de inversão de fases em concorrências públicas.",
+            "O julgamento de preços ocorre sempre após o encerramento do prazo recursal da habilitação de todos os inscritos."
+        ],
+        answer: 1,
+        disclaimer: "A Lei nº 14.133/2021 consagrou em âmbito geral a inversão de fases que já ocorria no pregão: primeiro ocorre a apresentação de propostas, lances, julgamento e classificação, e somente depois verifica-se a habilitação do licitante mais bem classificado (art. 17)."
+    },
+    {
+        topic: "Pregão e Concorrência (Bens e Serviços Comuns)",
+        supportText: "",
+        q: "Nos termos da Lei nº 14.133/2021, para a contratação de bens e serviços comuns, a Administração Pública deverá utilizar obrigatoriamente a modalidade:",
+        options: [
+            "Concorrência.",
+            "Tomada de Preços.",
+            "Pregão.",
+            "Leilão.",
+            "Diálogo Competitivo."
+        ],
+        answer: 2,
+        disclaimer: "O art. 29 da Lei nº 14.133/2021 determina que a modalidade pregão é obrigatória para a aquisição de bens e serviços comuns, cujos padrões de desempenho e qualidade possam ser objetivamente definidos pelo edital por meio de especificações usuais de mercado."
+    },
+    {
+        topic: "Modalidade Leilão",
+        supportText: "",
+        q: "Assinale a alternativa que define corretamente a modalidade de licitação denominada Leilão, conforme a Lei nº 14.133/2021:",
+        options: [
+            "Destina-se à escolha de trabalho técnico, científico ou artístico, mediante instituição de prêmio.",
+            "Destina-se à alienação de bens imóveis ou de bens móveis inservíveis ou legalmente apreendidos a quem oferecer o maior lance, igual ou superior ao valor de avaliação.",
+            "Destina-se à contratação de obras e serviços comuns de engenharia de grande vulto financeiro.",
+            "É utilizada exclusivamente para contratações de serviços de publicidade institucional.",
+            "Consiste em procedimento de negociação direta sem disputa de lances."
+        ],
+        answer: 1,
+        disclaimer: "O leilão é a modalidade para alienação de bens móveis inservíveis ou legalmente apreendidos e de bens imóveis a quem oferecer o maior lance (maior preço)."
+    },
+    {
+        topic: "Modalidade Concurso",
+        supportText: "",
+        q: "A modalidade de licitação denominada Concurso, nos termos da nova Lei de Licitações e Contratos, destina-se a:",
+        options: [
+            "comprar materiais de escritório em grande escala para órgãos federais.",
+            "escolha de trabalho técnico, científico ou artístico, mediante a instituição de prêmios ou remuneração aos vencedores.",
+            "alienar ações de sociedades de economia mista detidas pelo Estado.",
+            "contratar serviços comuns de limpeza e vigilância predial.",
+            "conceder direito real de uso sobre áreas portuárias."
+        ],
+        answer: 1,
+        disclaimer: "O concurso é a modalidade voltada exclusivamente para a seleção de trabalhos técnicos, científicos ou artísticos, com a concessão de prêmio ou remuneração aos vencedores, conforme regras de edital."
+    },
+    {
+        topic: "Fase Preparatória da Licitação",
+        supportText: "",
+        q: "A fase preparatória do processo licitatório é caracterizada pelo planejamento e deve abordar todas as considerações técnicas, mercadológicas e de gestão. Conforme a Lei nº 14.133/2021, o documento que consubstancia a primeira etapa do planejamento e demonstra a necessidade da contratação é o(a):",
+        options: [
+            "Ata de Registro de Preços.",
+            "Estudo Técnico Preliminar (ETP).",
+            "Contrato de Concessão Comum.",
+            "Matriz de Riscos irrevogável.",
+            "Termo de Homologação Final."
+        ],
+        answer: 1,
+        disclaimer: "O Estudo Técnico Preliminar (ETP) é o documento inicial da fase preparatória que evidencia o problema a ser resolvido e a melhor solução técnica e econômica para a contratação."
+    },
+    {
+        topic: "Dispensa de Licitação em Razão do Valor",
+        supportText: "",
+        q: "Nos termos da Lei nº 14.133/2021 (valores atualizados periodicamente), é dispensável a realização de licitação para:",
+        options: [
+            "compras e serviços em geral de pequeno valor, respeitados os limites financeiros fixados na lei para dispensa.",
+            "qualquer contrato de valor inferior a R$ 10.000.000,00.",
+            "contratação de obras e serviços de engenharia de grande vulto realizadas por autarquias.",
+            "aquisição exclusiva de combustíveis e lubrificantes sem limite de teto.",
+            "contratação de serviços de consultoria jurídica de alto custo."
+        ],
+        answer: 0,
+        disclaimer: "A Lei 14.133/21 prevê a dispensa de licitação em razão do valor para compras e serviços em geral de pequeno valor, bem como para obras e serviços de engenharia, observando os limites periodicamente atualizados por decreto federal."
+    },
+    {
+        topic: "Inexigibilidade de Licitação",
+        supportText: "",
+        q: "A inexigibilidade de licitação ocorre quando há inviabilidade de competição. O art. 74 da Lei nº 14.133/2021 elenca hipóteses exemplificativas de inexigibilidade, EXCETO:",
+        options: [
+            "Aquisição de materiais, equipamentos ou gêneros que só possam ser fornecidos por produtor, empresa ou representante comercial exclusivo.",
+            "Contratação de serviço técnico especializado de natureza predominantemente intelectual com profissionais ou empresas de notória especialização.",
+            "Contratação de profissional do setor artístico, consagrado pela crítica especializada ou pela opinião pública.",
+            "Contratação direta de empresa para fornecimento de bens comuns de prateleira encontrados facilmente em centenas de fornecedores concorrentes no mercado.",
+            "Contratação de serviços de patrocínio ou defesa em causas judiciais com profissionais de notória especialização."
+        ],
+        answer: 3,
+        disclaimer: "Se existem centenas de fornecedores concorrentes aptos a fornecer bens comuns de prateleira, há plena viabilidade de competição, o que torna obrigatória a licitação, sendo vedada a inexigibilidade."
+    },
+    {
+        topic: "Critérios de Julgamento das Propostas",
+        supportText: "",
+        q: "A Lei nº 14.133/2021 elenca os critérios de julgamento que poderão ser adotados nas licitações públicas. Dentre as opções abaixo, qual apresenta um critério expressamente previsto na nova lei?",
+        options: [
+            "Maior lance, no caso de leilão.",
+            "Menor preço, maior desconto, melhor técnica ou conteúdo artístico, maior retorno econômico e maior lance.",
+            "Apenas o menor preço por item ou global.",
+            "Somente o critério de sorteio público eletrônico.",
+            "Menor índice de liquidez corrente do licitante."
+        ],
+        answer: 1,
+        disclaimer: "O art. 33 da Lei 14.133/21 elenca os critérios de julgamento: I - menor preço; II - maior desconto; III - melhor técnica ou conteúdo artístico; IV - técnica e preço; V - maior lance (leilão); VI - maior retorno econômico."
+    },
+    {
+        topic: "Saneamento de Erros ou Falhas",
+        supportText: "",
+        q: "Durante o processamento de uma licitação sob a égide da Lei nº 14.133/2021, verificou-se a existência de erro material ou falha meramente formal na documentação de um licitante. A nova lei estabelece que a comissão de contratação:",
+        options: [
+            "deve desclassificar ou inabilitar sumariamente o licitante, sem direito a complementação.",
+            "poderá realizar diligências para sanar erros ou falhas que não alterem a substância dos documentos e sua validade jurídica.",
+            "está proibida de conceder qualquer prazo para juntada de novos documentos.",
+            "deve encaminhar o caso diretamente ao Ministério Público para instauração de inquérito policial.",
+            "deverá anular integralmente a licitação."
+        ],
+        answer: 1,
+        disclaimer: "O princípio do formalismo moderado e o art. 12, III, c/c art. 64 da Lei 14.133/21 autorizam o saneamento de erros ou falhas formais que não alterem a substância dos documentos e sua validade jurídica, por meio de diligências."
+    },
+    {
+        topic: "Fase Recursal (Lei nº 14.133/2021)",
+        supportText: "",
+        q: "Uma das inovações de celeridade processual trazidas pela Lei nº 14.133/2021 em relação ao rito tradicional da Lei nº 8.666/93 refere-se à fase recursal. Na nova lei, adota-se o sistema de:",
+        options: [
+            "recursos fracionados após cada ato intermediário da licitação.",
+            "fase única recursal: ao final do julgamento das propostas e da habilitação, abre-se prazo para manifestação de intenção de recorrer e posterior apresentação de razões.",
+            "inexistência de direito de recurso administrativo, cabendo apenas mandado de segurança.",
+            "recurso obrigatório ao Tribunal de Contas antes de qualquer homologação.",
+            "prazo recursal de 15 dias úteis para cada licitante derrotado."
+        ],
+        answer: 1,
+        disclaimer: "A Lei 14.133/21 unificou a fase recursal ao final do certame (regra geral): declarado o vencedor, abre-se prazo para manifestação imediata de recorrer, seguida da apresentação das razões, concentrando os recursos contra atos de julgamento de propostas e habilitação."
+    },
+    {
+        topic: "Agente de Contratação e Comissão de Contratação",
+        supportText: "",
+        q: "Conforme a Lei nº 14.133/2021, a condução da fase externa da licitação (na modalidade pregão, concorrência, etc.) será efetuada por agente público designado, denominado:",
+        options: [
+            "Leiloeiro oficial exclusivo para obras públicas.",
+            "Agente de contratação.",
+            "Procurador jurídico autônomo.",
+            "Diretor-presidente da comissão permanente de salários.",
+            "Auditor interno fiscalizador de contas."
+        ],
+        answer: 1,
+        disclaimer: "O art. 8º da Lei nº 14.133/21 estabelece que a licitação será conduzida pelo agente de contratação, pessoa designada pela autoridade competente para tomar decisões, acompanhar o trâmite e coordenar a fase externa."
+    },
+    {
+        topic: "Procedimentos Auxiliares (Credenciamento)",
+        supportText: "",
+        q: "Dentre os procedimentos auxiliares das licitações e contratações previstos na Lei nº 14.133/2021, o Credenciamento caracteriza-se como um sistema:",
+        options: [
+            "de seleção de fornecedor único por meio de sorteio eletrônico.",
+            "de chamamento público em que a Administração credencia prestadores de serviços ou fornecedores que preencham os requisitos, para que possam ser contratados quando houver demanda.",
+            "exclusivo para contratação de obras de grande vulto internacional.",
+            "de pré-qualificação técnica restrita a indústrias petroquímicas.",
+            "de leilão reverso de preços mínimos."
+        ],
+        answer: 1,
+        disclaimer: "O credenciamento (art. 78, I, c/c art. 79 da Lei 14.133/21) é procedimento auxiliar indicado para hipóteses de contratação em que há inviabilidade de competição, mercados fluidos ou seleção de múltiplos fornecedores nas mesmas condições."
+    },
+    {
+        topic: "Sistema de Registro de Preços (SRP)",
+        supportText: "",
+        q: "O Sistema de Registro de Preços (SRP) é um procedimento auxiliar regulado pela Lei nº 14.133/2021. Sobre a ata de registro de preços dele decorrente, assinale a correta:",
+        options: [
+            "Tem natureza normativa interna e obriga a Administração a adquirir a totalidade dos quantitativos estimados em 100%.",
+            "É documento vinculativo e obrigacional, com características de compromisso para futura contratação, onde o registro não obriga a Administração a contratar.",
+            "Proíbe a adesão por órgãos ou entidades não participantes (carona).",
+            "Tem validade improrrogável de 6 meses.",
+            "Pode ser utilizada para obras públicas de grande vulto de forma integral."
+        ],
+        answer: 1,
+        disclaimer: "A ata de registro de preços registra os preços e fornecedores por prazo determinado (1 ano, prorrogável por igual período), sendo um compromisso de futura contratação, sem que o registro obrigue a Administração a firmar o contrato."
+    },
+    {
+        topic: "Pré-qualificação",
+        supportText: "",
+        q: "O procedimento auxiliar de Pré-qualificação, previsto na Lei nº 14.133/2021, destina-se a:",
+        options: [
+            "antecipar a análise de requisitos de habilitação dos licitantes ou de especificações técnicas de bens, antes da instauração de uma licitação específica.",
+            "julgar as contas anuais dos prefeitos municipais.",
+            "realizar o pagamento antecipado de obras inacabadas.",
+            "punir preventivamente empresas inadimplentes com o Fisco.",
+            "selecionar estagiários para órgãos públicos."
+        ],
+        answer: 0,
+        disclaimer: "A pré-qualificação (arts. 80 e 81 da Lei 14.133/21) é aberta aos interessados para atestar a qualificação técnica de licitantes ou a conformidade de bens com especificações preestabelecidas, antes de licitações futuras."
+    },
+    {
+        topic: "Portal Nacional de Contratações Públicas (PNCP)",
+        supportText: "",
+        q: "O Portal Nacional de Contratações Públicas (PNCP), instituído pela Lei nº 14.133/2021, consiste em:",
+        options: [
+            "uma rede social corporativa restrita aos servidores federais.",
+            "um sítio eletrônico oficial destinado à divulgação centralizada e obrigatória dos atos exigidos pela nova lei, como editais, contratos e resultados de licitações.",
+            "um banco de dados privado de patentes industriais.",
+            "um sistema de pagamento direto de salários de servidores terceirizados.",
+            "uma plataforma de ensino à distância para licitantes."
+        ],
+        answer: 1,
+        disclaimer: "O PNCP é o portal oficial informatizado para divulgação centralizada dos atos licitatórios e contratuais de todos os entes federativos, garantindo transparência pública em âmbito nacional."
+    },
+    {
+        topic: "Vedação de Participação em Licitações",
+        supportText: "",
+        q: "Nos termos da Lei nº 14.133/2021, não poderá participar de licitação ou execução de contrato o autor do projeto básico ou executivo, bem como empresa da qual o autor seja dirigente, gerente, acionista ou detentor de mais de 5% do capital com direito a voto. No entanto, a lei admite expressamente uma exceção a essa regra:",
+        options: [
+            "Quando a licitação envolver fornecimento de bens comuns de prateleira.",
+            "A participação do autor do projeto na licitação como consultor ou técnico encarregado da fiscalização da obra.",
+            "A contratação de obra ou serviço de engenharia por meio de licitação do tipo contratação integrada, na qual o autor do projeto básico elabora também o projeto executivo e executa a obra.",
+            "Em nenhuma hipótese a lei permite tal participação.",
+            "Quando houver autorização unânime por assembleia de acionistas."
+        ],
+        answer: 2,
+        disclaimer: "A Lei 14.133/21 veda a participação do autor do projeto na licitação correspondente, EXCETO nos casos de contratação integrada, modalidade em que o mesmo contratado elabora o projeto básico/executivo e executa a obra."
+    },
+    {
+        topic: "Garantia de Proposta",
+        supportText: "",
+        q: "A Lei nº 14.133/2021 previu a possibilidade de exigência de garantia de proposta no edital de licitação. Essa garantia:",
+        options: [
+            "pode ser exigida em até 10% do valor estimado da contratação em casos de altíssima complexidade.",
+            "não poderá exceder a 1% do valor estimado da contratação.",
+            "deve corresponder obrigatoriamente a 50% do valor global da licitação.",
+            "é vedada em qualquer modalidade licitatória.",
+            "é substituída integralmente pelo pagamento antecipado do objeto."
+        ],
+        answer: 1,
+        disclaimer: "O art. 58 da Lei nº 14.133/2021 estabelece que o edital poderá exigir garantia de proposta, como requisito de pré-habilitação, em até 1% do valor estimado da contratação."
+    },
+    {
+        topic: "Anulação e Revogação da Licitação",
+        supportText: "",
+        q: "A respeito da extinção do procedimento licitatório por ato da Administração, assinale a opção correta com base na Lei nº 14.133/2021:",
+        options: [
+            "A Administração pode revogar a licitação por razões de interesse público superveniente ou anulá-la por ilegalidade, de ofício ou por provocação, assegurado o contraditório e a ampla defesa.",
+            "A revogação de uma licitação opera efeitos retroativos (ex tunc), destruindo todos os atos passados por vício de origem.",
+            "A anulação gera direito a indenização ampla de lucros cessantes futuros para todas as empresas participantes.",
+            "Uma vez iniciada a fase de propostas, a licitação torna-se irretratável e não pode mais ser cancelada.",
+            "A competência para anular o certame pertence exclusivamente ao Poder Judiciário."
+        ],
+        answer: 0,
+        disclaimer: "A Administração pode revogar o certame por conveniência e oportunidade (interesse público superveniente) ou anulá-lo por ilegalidade (vício insanável), observando sempre a ampla defesa e o contraditório."
+    },
+    {
+        topic: "Impedimento e Inidoneidade para Licitar",
+        supportText: "",
+        q: "Com relação às sanções de impedimento de licitar e contratar e de declaração de inidoneidade previstas na Lei nº 14.133/2021:",
+        options: [
+            "Ambas possuem o mesmo prazo máximo de vigência de 2 anos.",
+            "O impedimento de licitar e contratar abrange a Administração Pública direta e indireta de todos os entes federativos, enquanto a inidoneidade restringe-se ao órgão que a aplicou.",
+            "O impedimento de licitar e contratar impede o sancionado de licitar ou contratar com a Administração Pública do ente federativo que tiver aplicado a sanção, pelo prazo máximo de 3 anos, ao passo que a declaração de inidoneidade impede o sancionado de licitar ou contratar no âmbito da Administração Pública direta e indireta de todos os entes federativos, pelo prazo máximo de 6 anos.",
+            "Nenhuma das sanções possui limite máximo de prazo.",
+            "A declaração de inidoneidade é aplicada exclusivamente por comissões municipais de sindicância."
+        ],
+        answer: 2,
+        disclaimer: "Conforme o art. 156 da Lei 14.133/21: o impedimento de licitar/contratar restringe-se ao ente federativo aplicador (prazo máx. 3 anos); já a declaração de inidoneidade tem efeito amplo em toda a Administração Pública direta e indireta de todos os entes federativos (prazo máx. 6 anos)."
+    },
+    {
+        topic: "Dispensa de Licitação (Casos de Calamidade)",
+        supportText: "",
+        q: "A Lei nº 14.133/2021 autoriza a dispensa de licitação nos casos de emergência ou de calamidade pública, quando caracterizada urgência de atendimento de situação que possa ocasionar prejuízo ou comprometer a segurança de pessoas, obras, serviços, equipamentos e outros bens. Essa dispensa:",
+        options: [
+            "autoriza a contratação de qualquer objeto sem nenhuma restrição temporal.",
+            "é restrita aos bens e serviços necessários ao atendimento da situação emergencial ou calamitosa, sendo vedada a prorrogação dos respectivos contratos quando ultrapassarem o prazo legal máximo de 1 ano.",
+            "exige licitação prévia dispensada apenas se houver aval do Tribunal de Contas da União.",
+            "permite contratações superfaturadas sem limite de preço de mercado.",
+            "tem validade automática por prazo indeterminado."
+        ],
+        answer: 1,
+        disclaimer: "A dispensa por emergência ou calamidade pública visa atender exclusivamente à parcela do evento crítico, sendo vedada a prorrogação de contratos por prazo superior ao limite estipulado em lei para a superação da crise."
+    },
+    {
+        topic: "Regime Diferenciado de Contratações (RDC) vs Lei 14.133",
+        supportText: "",
+        q: "Com o advento da Lei nº 14.133/2021, o antigo Regime Diferenciado de Contratações Públicas (RDC - Lei nº 12.462/2011):",
+        options: [
+            "foi totalmente revogado, tendo suas regras essenciais e institutos incorporados à nova Lei de Licitações.",
+            "tornou-se a única lei aplicável a prefeituras e governos estaduais.",
+            "foi elevado ao status de Emenda Constitucional permanente.",
+            "passou a vigorar exclusivamente para contratos de cartórios extrajudiciais.",
+            "teve sua aplicação restrita a empresas privadas prestadoras de serviços de saúde."
+        ],
+        answer: 0,
+        disclaimer: "A Lei nº 14.133/2021 revogou expressamente a Lei do RDC (Lei nº 12.462/2011), incorporando e absorvendo diversos institutos modernos trazidos por aquele regime (como a contratação integrada e semi-integrada) para o seu próprio corpo normativo."
+    },
+    {
+        topic: "Contratação Direta (Conceito Geral)",
+        supportText: "",
+        q: "A contratação direta compreende os casos de inexigibilidade e de dispensa de licitação. Sobre o tema, é correto afirmar que:",
+        options: [
+            "toda contratação direta dispensa a instauração de processo administrativo formal.",
+            "a contratação direta é a regra geral do sistema constitucional brasileiro, sendo a licitação a exceção.",
+            "a contratação direta, embora dispense a competição licitatória, exige a instrução do respectivo processo com os requisitos legais, justificativa de preço, razão da escolha e comprovação de regularidade.",
+            "na inexigibilidade de licitação, a competição é viável, mas o governante escolhe dispensá-la por economia de tempo.",
+            "a dispensa de licitação ocorre sempre que houver fornecedor exclusivo no mundo."
+        ],
+        answer: 2,
+        disclaimer: "A contratação direta (seja por dispensa ou inexigibilidade) não significa ausência de formalidades. Exige processo administrativo instruído com justificativa de preço, razão da escolha do fornecedor e documentos de habilitação."
+    },
+    {
+        topic: "Locação de Imóveis pela Administração",
+        supportText: "",
+        q: "Nos termos da Lei nº 14.133/2021, a locação de imóvel para atender às finalidades administrativas do órgão, cujas necessidades de instalação e localização condicionem a escolha do imóvel, constitui hipótese de:",
+        options: [
+            "Inexigibilidade de licitação.",
+            "Dispensa de licitação.",
+            "Licitação obrigatória na modalidade concorrência internacional.",
+            "Pregão eletrônico de preços mínimos.",
+            "Concurso de projetos arquitetônicos."
+        ],
+        answer: 1,
+        disclaimer: "A locação de imóvel com exigências específicas de localização e instalações que condicionem a escolha é hipótese clássica de Dispensa de Licitação, desde que comprovada a compatibilidade do valor com o mercado (art. 75, V, da Lei 14.133/21)."
+    },
+    {
+        topic: "Negociação de Condições Mais Vantajosas",
+        supportText: "",
+        q: "A Lei nº 14.133/2021 previu expressamente a possibilidade de negociação de condições mais vantajosas com o primeiro colocado na licitação. Essa negociação deve ocorrer:",
+        options: [
+            "antes do julgamento das propostas, de forma secreta e sem registro em ata.",
+            "após o encerramento dos lances e do julgamento, com o licitante vencedor, conduzida pelo agente de contratação ou comissão.",
+            "exclusivamente após a assinatura do contrato e execução de 50% da obra.",
+            "por meio de telefonemas anônimos sem formalização documental.",
+            "apenas se houver autorização do Ministério Público."
+        ],
+        answer: 1,
+        disclaimer: "O art. 61 da Lei nº 14.133/21 estabelece que, definidos o resultado do julgamento e a proposta vencedora, o agente de contratação/comissão poderá negociar condições mais vantajosas com o primeiro colocado."
+    },
+    {
+        topic: "Regime de Execução (Empreitada por Preço Global)",
+        supportText: "",
+        q: "No regime de execução de obras e serviços de engenharia denominado 'empreitada por preço global', a remuneração da construtora baseia-se em:",
+        options: [
+            "unidades de medida de serviços efetivamente executados, multiplicadas pelos preços unitários propostos.",
+            "preço certo e total para a execução integral do objeto, de modo que eventuais variações de quantitativos em relação ao projeto básico não alteram o valor global, salvo modificações expressas de projeto.",
+            "reembolso integral de despesas com notas fiscais de materiais ao final de cada semana.",
+            "comissão percentual sobre o faturamento do órgão público.",
+            "pagamento diário de diárias de operários."
+        ],
+        answer: 1,
+        disclaimer: "Na empreitada por preço global, o preço é fixo e total para a entrega da obra ou serviço conforme o projeto básico. Variações de quantitativos previstas no projeto original não justificam aditivo de preço, a menos que haja alteração qualitativa ou de projeto solicitada pela Administração."
+    },
+    {
+        topic: "Regime de Execução (Empreitada por Preço Unitário)",
+        supportText: "",
+        q: "Diferente da empreitada por preço global, no regime de execução de 'empreitada por preço unitário', o pagamento ao contratado é feito com base:",
+        options: [
+            "em um valor fixo e imutável pago de uma só vez na assinatura, independentemente de medições.",
+            "na verificação e medição das quantidades efetivamente executadas de cada item, multiplicadas pelos respectivos preços unitários fixados no contrato.",
+            "exclusivamente em salários mínimos vigentes na data de medição.",
+            "no lucro líquido apurado pela empresa ao final do exercício fiscal.",
+            "na estimativa inicial do Estudo Técnico Preliminar, sem medição de campo."
+        ],
+        answer: 1,
+        disclaimer: "Na empreitada por preço unitário, os pagamentos são calculados medindo-se fisicamente o que foi efetivamente executado em campo de cada item de serviço, aplicando-se o preço unitário contratado."
+    },
+    {
+        topic: "Fase de Habilitação",
+        supportText: "",
+        q: "A fase de habilitação na licitação pública destina-se a verificar a aptidão do licitante para cumprir as obrigações contratuais. Conforme a Lei nº 14.133/2021, a documentação relativa à habilitação abrange, entre outros aspectos, a regularidade:",
+        options: [
+            "fiscal, social e trabalhista, além da qualificação econômico-financeira e técnica.",
+            "exclusivamente partidária e eleitoral dos diretores da empresa.",
+            "histórica de faturamento internacional nos últimos 50 anos.",
+            "religiosa e cultural dos sócios majoritários.",
+            "patrimonial privada dos funcionários de base da empresa."
+        ],
+        answer: 0,
+        disclaimer: "A habilitação compreende a verificação da regularidade jurídica, técnica, fiscal, social e trabalhista, e económico-financeira dos licitantes, conforme o art. 62 da Lei nº 14.133/2021."
+    },
+    {
+        topic: "Serviços Públicos (Conceito e Princípios)",
+        supportText: "",
+        q: "O princípio do serviço público que impõe à Administração a obrigação de manter a prestação do serviço sem interrupções, vedando paralisações arbitrárias em serviços essenciais, é o princípio da:",
+        options: [
+            "generalidade.",
+            "mutabilidade.",
+            "continuidade.",
+            "cortesia.",
+            "eficiência."
+        ],
+        answer: 2,
+        disclaimer: "O princípio da continuidade do serviço público assegura que as atividades essenciais prestadas à coletividade não sofram interrupções abruptas, garantindo a satisfação regular das necessidades públicas."
+    },
+    {
+        topic: "Serviços Públicos (Mutabilidade)",
+        supportText: "",
+        q: "O princípio que autoriza a Administração Pública a alterar as condições de prestação do serviço público para adaptá-lo às novas exigências de interesse social e tecnológico, sem que o usuário ou o delegatário tenham direito adquirido a um regime jurídico imutável, é conhecido como:",
+        options: [
+            "Princípio da Mutabilidade do Regime Jurídico (ou adaptabilidade).",
+            "Princípio da Supremacia Absoluta do Contratado.",
+            "Princípio da Intranscendência Fiscal.",
+            "Princípio da Irretroatividade de Tarifas.",
+            "Princípio da Estabilidade Contratual Perpétua."
+        ],
+        answer: 0,
+        disclaimer: "A mutabilidade (ou adaptabilidade) garante que o serviço público seja permanentemente modernizado e adaptado ao progresso técnico e às necessidades sociais, não havendo direito adquirido a regime jurídico anterior."
+    },
+    {
+        topic: "Concessão de Serviço Público (Lei nº 8.987/1995)",
+        supportText: "",
+        q: "Nos termos da Lei nº 8.987/1995, a modalidade de delegação contratual de serviço público, precedida ou não de execução de obra pública, celebrada com pessoa jurídica ou consórcio de empresas, sob a forma de concorrência, denomina-se:",
+        options: [
+            "Permissão de serviço público.",
+            "Autorização de serviço público.",
+            "Concessão de serviço público.",
+            "Credenciamento direto.",
+            "Termo de parceria social."
+        ],
+        answer: 2,
+        disclaimer: "A Concessão de Serviço Público é definida no art. 2º, II, da Lei nº 8.987/1995 como a delegação feita pelo poder concedente, mediante licitação na modalidade concorrência ou diálogo competitivo, à pessoa jurídica ou consórcio de empresas."
+    },
+    {
+        topic: "Permissão de Serviço Público",
+        supportText: "",
+        q: "Diferentemente da concessão, a Permissão de Serviço Público, conforme a Lei nº 8.987/1995, caracteriza-se por ser formalizada mediante contrato de adesão, licitado em qualquer modalidade (regra geral, concorrência ou pregão conforme o caso), e possui natureza essencialmente:",
+        options: [
+            "definitiva e irrevogável sem indenização prévia em qualquer hipótese.",
+            "precária, podendo ser retomada motivadamente pela Administração a qualquer tempo.",
+            "exclusiva para pessoas jurídicas estrangeiras de grande porte.",
+            "vinculada ao direito civil de locação comercial.",
+            "gratuita e isenta de tarifas."
+        ],
+        answer: 1,
+        disclaimer: "A permissão de serviço público é formalizada mediante contrato de adesão, revestindo-se de caráter precário e podendo ser revogada unilateralmente pelo poder concedente quando o interesse público o exigir."
+    },
+    {
+        topic: "Parcerias Público-Privadas (PPPs - Lei nº 11.079/2004)",
+        supportText: "",
+        q: "A Lei nº 11.079/2004 instituiu as normas para licitação e contratação de Parcerias Público-Privadas (PPPs). São modalidades expressas de PPP:",
+        options: [
+            "Concessão patrocinada e Concessão administrativa.",
+            "Concessão comum e Permissão precária.",
+            "Credenciamento simples e Autorização de uso.",
+            "Contratação integrada e Execução tarefa.",
+            "Apenas a concessão de obra pública pura com tarifa exclusiva dos usuários."
+        ],
+        answer: 0,
+        disclaimer: "As duas únicas modalidades de Parceria Público-Privada (PPP) previstas na Lei nº 11.079/2004 são a Concessão Patrocinada (quando envolve tarifa cobrada dos usuários mais contraprestação pecuniária do parceiro público) e a Concessão Administrativa (contrato de prestação de serviços de que a Administração seja a usuária direta ou indireta)."
+    },
+    {
+        topic: "Vedações Legais às PPPs",
+        supportText: "",
+        q: "A Lei das Parcerias Público-Privadas (Lei nº 11.079/2004) estabelece vedações expressas para a celebração desses contratos. Dentre as opções abaixo, assinale a que apresenta uma vedação legal explícita:",
+        options: [
+            "Contratos com valor inferior a R$ 10.000.000,00.",
+            "Contratos com prazo inferior a 5 (cinco) anos.",
+            "Contratos cujo objeto único seja o fornecimento de mão de obra, o fornecimento e instalação de equipamentos ou a execução de obra pública isolada.",
+            "Contratos que envolvam investimentos em infraestrutura de transportes.",
+            "Contratos voltados para a área de saúde pública e saneamento."
+        ],
+        answer: 2,
+        disclaimer: "O art. 2º, § 4º, da Lei nº 11.079/2004 veda expressamente a celebração de PPP cujo objeto único seja o fornecimento de mão de obra, o fornecimento e instalação de equipamentos ou a execução de obra pública isolada (vedação ao objeto único simplificado)."
+    },
+    {
+        topic: "Formas de Extinção da Concessão (Encampação)",
+        supportText: "",
+        q: "A forma de extinção da concessão de serviço público efetivada por iniciativa do poder concedente, durante o prazo do contrato, por razões de interesse público devidamente justificadas, mediante prévia e ampla indenização, denomina-se:",
+        options: [
+            "Caducidade.",
+            "Rescisão.",
+            "Encampação (ou resgate).",
+            "Anulação.",
+            "Advento do termo contratual."
+        ],
+        answer: 2,
+        disclaimer: "A encampação (ou resgate) é a retomada do serviço pelo poder concedente durante o prazo da concessão, por motivo de interesse público, exigindo lei autorizativa prévia e o pagamento integral de indenização prévia."
+    },
+    {
+        topic: "Formas de Extinção da Concessão (Caducidade)",
+        supportText: "",
+        q: "A extinção da concessão decorrente de inadimplemento ou falha grave na execução do contrato por parte da concessionária (como má execução do serviço, perda de condições econômicas ou falência) é denominada:",
+        options: [
+            "Encampação.",
+            "Caducidade.",
+            "Rescisão amigável.",
+            "Anulação retroativa.",
+            "Encerramento natural."
+        ],
+        answer: 1,
+        disclaimer: "A caducidade é a penalidade máxima aplicada pelo poder concedente à concessionária em razão de inadimplemento contratual ou deficiências graves na prestação do serviço, apurada em processo administrativo com direito à ampla defesa."
+    },
+    {
+        topic: "Formas de Extinção da Concessão (Rescisão)",
+        supportText: "",
+        q: "Quando a extinção do contrato de concessão ocorre por iniciativa da concessionária, em virtude de descumprimento das normas contratuais por parte do poder concedente (teoria da inexecução governamental), mediante prévia e oportuna decisão judicial, o instituto jurídico aplicável é a:",
+        options: [
+            "Rescisão.",
+            "Encampação.",
+            "Caducidade.",
+            "Anulação.",
+            "Cassação."
+        ],
+        answer: 0,
+        disclaimer: "A rescisão ocorre por descumprimento das obrigações contratuais por parte do poder concedente. Como regra geral, exige prévia decisão judicial transitada em julgado para que a concessionária possa pleitear o desfazimento do vínculo."
+    },
+    {
+        topic: "Reversão de Bens na Concessão",
+        supportText: "",
+        q: "Extinta a concessão, retornam ao poder concedente todos os bens reversíveis, direitos e privilégios transferidos ao concessionário conforme previsto no edital e no contrato. Sobre esses bens reversíveis:",
+        options: [
+            "A Administração Pública não precisa indenizar nenhum bem, pois todos pertencem originariamente ao Estado.",
+            "A indenização pelos bens reversíveis dar-se-á com base no valor de mercado atualizado, deduzidas eventuais parcelas amortizadas ou depreciações quando vinculadas a investimentos não amortizados.",
+            "A concessionária pode levar todos os prédios e redes subterrâneas construídas para o seu patrimônio privado após o fim do contrato.",
+            "A reversão aplica-se unicamente aos veículos particulares dos diretores da empresa.",
+            "O poder concedente é obrigado a pagar o dobro do valor investido independentemente de depreciação."
+        ],
+        answer: 1,
+        disclaimer: "Os bens reversíveis são aqueles essenciais à continuidade do serviço. Extinta a concessão, eles retornam ao poder concedente, devendo ser procedida a devida indenização pelas parcelas dos investimentos ainda não amortizados ou depreciados, quando couber."
+    },
+    {
+        topic: "Responsabilidade Civil das Concessionárias",
+        supportText: "",
+        q: "À luz da jurisprudência consolidada do Supremo Tribunal Federal (STF), a responsabilidade civil das pessoas jurídicas de direito privado prestadoras de serviços públicos (concessionárias e permissionárias) por danos causados a terceiros (usuários e não usuários do serviço) é:",
+        options: [
+            "subjetiva, exigindo comprovação de culpa ou dolo em qualquer situação.",
+            "objetiva, nos termos do art. 37, § 6º, da Constituição Federal.",
+            "excluída por completo, respondendo apenas o Estado subsidiariamente.",
+            "subjetiva para usuários e objetiva para não usuários.",
+            "irresponsável em casos de acidentes de trânsito em rodovias pedagiadas."
+        ],
+        answer: 1,
+        disclaimer: "O STF firmou tese de que a responsabilidade civil das pessoas jurídicas de direito privado prestadoras de serviços públicos é objetiva tanto em relação aos usuários quanto aos terceiros não usuários do serviço."
+    },
+    {
+        topic: "Princípio da Generalidade",
+        supportText: "",
+        q: "O princípio do serviço público que garante a igualdade de condições no atendimento a todos os cidadãos aptos a usufruir da utilidade prestada, sem discriminações arbitrárias, é o princípio da:",
+        options: [
+            "Mutabilidade.",
+            "Generalidade (ou impessoalidade no atendimento).",
+            "Continuidade.",
+            "Cortesia.",
+            "Temporalidade."
+        ],
+        answer: 1,
+        disclaimer: "O princípio da generalidade assegura que o serviço público deve ser prestado a todos os administrados em igualdade de condições, sem privilégios ou discriminações injustificadas."
+    },
+    {
+        topic: "Serviços Próprios vs. Impróprios",
+        supportText: "",
+        q: "Quanto à classificação doutrinária dos serviços públicos, os chamados serviços próprios do Estado são aqueles que:",
+        options: [
+            "são executados diretamente pela Administração ou delegados a particulares, por traduzirem necessidades essenciais da coletividade e estarem intimamente ligados aos interesses vitais do Estado.",
+            "podem ser explorados livremente por particulares no regime de mercado sem nenhuma interferência estatal.",
+            "envolvem exclusivamente atividades mercantis de lucro privado.",
+            "são prestados de forma gratuita a entidades estrangeiras.",
+            "não possuem nenhuma vinculação com o interesse público."
+        ],
+        answer: 0,
+        disclaimer: "Serviços públicos próprios são aqueles que dizem respeito diretamente aos interesses vitais da comunidade, sendo prestados pelo Estado ou delegados a particulares (ex: segurança, saneamento, transporte coletivo). Os impróprios são atividades exercidas por particulares com regulamentação estatal (ex: educação privada, saúde suplementar)."
+    },
+    {
+        topic: "Lei de Defesa dos Usuários (Lei nº 13.460/2017)",
+        supportText: "",
+        q: "A Lei nº 13.460/2017 dispõe sobre a participação, proteção e defesa dos direitos do usuário dos serviços públicos da administração pública. Dentre os direitos básicos do usuário previstos nessa lei, destaca-se:",
+        options: [
+            "O direito à gratuidade absoluta em todos os serviços públicos de transporte interestadual.",
+            "O direito a atendimento de qualidade, com igualdade de tratamento, urbanidade, respeito e gratuidade de emissão de documentos quando expressamente previsto em lei.",
+            "O direito de interferir diretamente na gestão financeira interna do órgão público.",
+            "O direito de recusar o pagamento de taxas legais devidas.",
+            "O direito de escolher pessoalmente o servidor que irá julgá-lo em processo administrativo."
+        ],
+        answer: 1,
+        disclaimer: "A Lei nº 13.460/2017 estabelece direitos fundamentais aos usuários, como o atendimento de qualidade, igualdade de tratamento, urbanidade, respeito, cortesia, acessibilidade e transparência nas informações."
+    },
+    {
+        topic: "Tarifa vs. Preço Público",
+        supportText: "",
+        q: "Na sistemática financeira dos serviços públicos, a remuneração cobrada pelas concessionárias de serviços públicos, decorrente de relação contratual (regime de direito administrativo/comercial), é comumente denominada de:",
+        options: [
+            "Taxa tributária.",
+            "Tarifa (ou preço público).",
+            "Empréstimo compulsório.",
+            "Imposto territorial.",
+            "Contribuição de melhoria."
+        ],
+        answer: 1,
+        disclaimer: "A remuneração dos serviços públicos prestados por delegatários (concessionárias) dá-se por meio de tarifa (preço público), que possui natureza contratual e não se sujeita aos princípios estritos da legalidade tributária e anterioridade."
+    },
+    {
+        topic: "Intervenção na Concessão",
+        supportText: "",
+        q: "O poder concedente poderá intervir na concessão, com o fim de assegurar a adequada prestação do serviço, bem como o fiel cumprimento das normas contratuais, regulamentares e legais. Conforme a Lei nº 8.987/1995, a intervenção far-se-á por:",
+        options: [
+            "decreto do Poder Executivo, que conterá a designação do interventor, o prazo e os objetivos da medida.",
+            "mandado de segurança expedido pelo Tribunal de Justiça.",
+            "votação popular em plebiscito municipal obrigatório.",
+            "comunicação verbal do diretor da concessionária.",
+            "sentença penal condenatória transitada em julgado."
+        ],
+        answer: 0,
+        disclaimer: "O art. 33 da Lei nº 8.987/1995 determina que a intervenção na concessão far-se-á por decreto do poder concedente, que especificará o prazo, os objetivos e designará o interventor."
+    },
+    {
+        topic: "Subconcessão",
+        supportText: "",
+        q: "Sobre a subconcessão de serviços públicos, regida pela Lei nº 8.987/1995, é correto afirmar que:",
+        options: [
+            "é plenamente livre e independe de previsão contratual ou autorização do poder concedente.",
+            "somente será permitida quando expressamente autorizada no edital e no contrato, e dependerá de concorrência prévia, além de autorização do poder concedente.",
+            "é vedada por prazo superior a 100 anos.",
+            "transfere todos os riscos originários para o subcontratado sem responsabilidade solidária da concessionária original.",
+            "aplica-se unicamente a serviços de telefonia móvel."
+        ],
+        answer: 1,
+        disclaimer: "O art. 26 da Lei nº 8.987/95 estabelece que a subconcessão só será permitida se expressamente autorizada no contrato e no edital, dependendo de nova licitação na modalidade concorrência e de autorização do poder concedente."
+    },
+    {
+        topic: "Inadimplemento do Usuário e Corte do Serviço",
+        supportText: "",
+        q: "A jurisprudência do Superior Tribunal de Justiça (STJ) firmou entendimento pacificado a respeito da suspensão (corte) do fornecimento de serviços públicos essenciais (como água e energia elétrica) por inadimplemento do usuário. Assinale a alternativa correta sobre o tema:",
+        options: [
+            "É plenamente lícito o corte imediato e sem aviso prévio na residência do consumidor inadimplente.",
+            "É legítima a suspensão do fornecimento, após prévio aviso ao consumidor, em caso de inadimplemento de conta mensal, desde que respeitados os princípios da razoabilidade e que o débito decorra de consumo atual.",
+            "O corte de serviços essenciais é absolutamente proibido sob qualquer circunstância de inadimplência.",
+            "As concessionárias podem utilizar o corte de energia para cobrar débitos antigos consolidados de gestões passadas de forma retroativa infinita.",
+            "O corte só pode ser executado por ordem judicial prévia."
+        ],
+        answer: 1,
+        disclaimer: "O STJ consolidou que o corte de serviços essenciais (água/energia) por inadimplemento é lícito, desde que precedido de aviso prévio ao usuário e que se refira a consumo atual (e não a débitos antigos acumulados, para os quais a concessionária dispõe de vias ordinárias de cobrança)."
+    },
+    {
+        topic: "Concessão Precedida de Obra Pública",
+        supportText: "",
+        q: "A modalidade em que o poder concedente atribui ao concessionário a obrigação de executar obra pública especificada, cuja recuperação, conservação e exploração econômica dar-se-ão por sua conta e risco por determinado período, denomina-se:",
+        options: [
+            "Concessão patrocinada pura.",
+            "Concessão precedida de execução de obra pública.",
+            "Permissão precária de edifícios.",
+            "Contratação integrada de engenharia civil.",
+            "Convênio de cooperação técnica."
+        ],
+        answer: 1,
+        disclaimer: "A concessão precedida de execução de obra pública é aquela em que o particular constrói (ou recupera) a infraestrutura e, em contrapartida, ganha o direito de explorá-la comercialmente (ex: cobrando pedágio) para amortizar seus custos e obter lucro."
+    },
+    {
+        topic: "Licitação Obrigatória para Concessões",
+        supportText: "",
+        q: "Conforme o art. 175 da Constituição Federal de 1988, a prestação de serviços públicos, sob o regime de concessão ou permissão, pressupõe obrigatoriamente:",
+        options: [
+            "a prévia realização de licitação pública.",
+            "a escolha direta do empresário por indicação política discricionária.",
+            "a autorização legislativa municipal por maioria absoluta em todas as hipóteses.",
+            "o registro em cartório imobiliário.",
+            "a isenção de pagamento de tributos federais pela empresa."
+        ],
+        answer: 0,
+        disclaimer: "O art. 175 da CF/88 estabelece como regra mandamental que a prestação de serviços públicos sob regime de concessão ou permissão será sempre precedida de licitação pública."
+    },
+    {
+        topic: "Direitos e Deveres dos Usuários",
+        supportText: "",
+        q: "Constitui dever básico do usuário de serviços públicos, nos termos da legislação correlata:",
+        options: [
+            "utilizar o serviço adequado com urbanidade e respeito, informando a administração sobre irregularidades e mantendo atualizados seus dados cadastrais.",
+            "alterar livremente as redes de distribuição de água da rua sem autorização técnica.",
+            "exigir gratuidade em todos os serviços industriais do Estado.",
+            "negar-se a pagar tarifas legalmente aprovadas por agências reguladoras.",
+            "ocupar instalações operacionais restritas das concessionárias."
+        ],
+        answer: 0,
+        disclaimer: "Os usuários têm o dever de utilizar o serviço de forma adequada, com urbanidade e respeito para com os atendentes, além de comunicar irregularidades e manter cadastros atualizados."
+    },
+    {
+        topic: "Agências Reguladoras",
+        supportText: "",
+        q: "O modelo regulatório brasileiro de serviços públicos delegados conta com a atuação das Agências Reguladoras (autarquias sob regime especial). Dentre as características típicas desse regime especial destaca-se:",
+        options: [
+            "A investidura fixa dos dirigentes (mandatos fixos) e a estabilidade relativa, visando à autonomia decisória frente a pressões políticas conjunturais.",
+            "A subordinação hierárquica estrita e direta ao Ministro de Estado de cada pasta.",
+            "A proibição de emitir normas técnicas complementares.",
+            "A obrigação de arrecadar tributos municipais de IPTU.",
+            "A gestão exclusivamente privada com fins lucrativos de acionistas."
+        ],
+        answer: 0,
+        disclaimer: "As agências reguladoras possuem autonomia administrativa, financeira, ausência de subordinação hierárquica rígida e mandatos fixos para seus dirigentes, garantindo independência técnica na regulação dos serviços."
+    },
+    {
+        topic: "Extinção da Concessão pelo Advento do Termo",
+        supportText: "",
+        q: "Ocorre a extinção da concessão de serviço público pelo 'advento do termo contratual' quando:",
+        options: [
+            "a concessionária vai à falência antes do prazo.",
+            "o prazo de vigência estabelecido no contrato de concessão chega ao seu final.",
+            "o Estado decide encampar o serviço por interesse público.",
+            "ocorre rescisão judicial por culpa da Administração.",
+            "o serviço torna-se obsoleto no primeiro ano."
+        ],
+        answer: 1,
+        disclaimer: "O advento do termo contratual é a forma natural de extinção da concessão, ocorrendo simplesmente pelo término do prazo de vigência estipulado no contrato original."
+    },
+    {
+        topic: "Encargo e Concessão",
+        supportText: "",
+        q: "Nos contratos de concessão de serviço público, o encargo consiste na:",
+        options: [
+            "obrigação imposta ao concessionário de prestar o serviço adequado, satisfazendo as condições de regularidade, continuidade, eficiência, segurança e cortesia.",
+            "taxa extra cobrada pelo presidente da república.",
+            "multa aplicada sem direito de defesa.",
+            "doação de bens particulares para a conta pessoal do fiscal.",
+            "isenção de responsabilidade civil em caso de acidentes."
+        ],
+        answer: 0,
+        disclaimer: "O encargo na concessão é a obrigação principal assumida pelo particular de executar o serviço de forma adequada (padrão de qualidade legal e contratual) para atender à coletividade."
+    },
+    {
+        topic: "Serviço Público Adequado",
+        supportText: "",
+        q: "A Lei nº 8.987/1995 define expressamente o que se entende por 'serviço adequado'. Dentre os requisitos legais que compõem esse conceito, encontram-se:",
+        options: [
+            "Apenas o menor preço tarifário, ainda que haja interrupções frequentes.",
+            "Regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia na prestação e modicidade das tarifas.",
+            "Exclusividade de atendimento a autoridades públicas.",
+            "Liberdade total para a concessionária fixar tarifas sem aprovação do poder concedente.",
+            "Inexistência de qualquer canal de atendimento ao usuário."
+        ],
+        answer: 1,
+        disclaimer: "O art. 6º, § 1º, da Lei nº 8.987/1995 conceitua o serviço adequado como aquele que satisfaz as condições de regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia na sua prestação e modicidade das tarifas."
+    },
+    {
+        topic: "Poder Concedente",
+        supportText: "",
+        q: "O ente político titular do serviço público (seja a União, o Estado, o Distrito Federal ou o Município), a quem compete constitucionalmente delegá-lo, fiscalizá-lo e regulá-lo, denomina-se:",
+        options: [
+            "Poder Concedente.",
+            "Concessionário delegado.",
+            "Consórcio privado.",
+            "Usuário interveniente.",
+            "Agência executora autônoma."
+        ],
+        answer: 0,
+        disclaimer: "Poder concedente é o titular da competência para prestar o serviço público (União, Estados, DF ou Municípios) e que, por meio de licitação, delega sua execução a terceiros."
+    },
+    {
+        topic: "Concessão e Tarifa (Modicidade)",
+        supportText: "",
+        q: "O princípio da modicidade das tarifas, aplicável aos serviços públicos concedidos, significa que:",
+        options: [
+            "os serviços devem ser prestados de graça para toda a população rica e pobre.",
+            "as tarifas devem ser justas e acessíveis aos usuários, remunerando adequadamente o capital investido pela concessionária e garantindo o equilíbrio econômico-financeiro.",
+            "a concessionária tem liberdade para cobrar o valor que desejar para maximizar seus lucros.",
+            "o Estado deve bancar integralmente os custos operacionais com dinheiro de impostos de renda.",
+            "as tarifas devem ser reajustadas diariamente sem controle inflacionário."
+        ],
+        answer: 1,
+        disclaimer: "A modicidade tarifária busca o equilíbrio: tarifas acessíveis que permitam ao usuário pagar pelo serviço, mas que garantam remuneração justa à concessionária para manter a sustentabilidade do negócio."
+    },
+    {
+        topic: "Prestações de Serviços por Terceiros (Concessão X Terceirização)",
+        supportText: "",
+        q: "Diferente da simples terceirização de atividades-meio regida pela legislação trabalhista e administrativa geral, a Concessão de Serviço Público diferencia-se juridicamente porque:",
+        options: [
+            "envolve a delegação da execução de um serviço público finalístico (atividade-fim) a um particular, por conta e risco deste, mediante licitação e sob o regime de direito público.",
+            "é celebrada sem licitação e sem formalidades contratuais.",
+            "transfere a titularidade definitiva do serviço público para o patrimônio privado do empresário.",
+            "isenta a empresa concessionária de qualquer fiscalização do Estado.",
+            "veda a cobrança direta de qualquer valor dos usuários."
+        ],
+        answer: 0,
+        disclaimer: "A concessão transfere a execução do serviço público (atividade-fim) por conta e risco do concessionário, sob regime de direito público, exigindo prévia licitação, o que a distingue da simples terceirização ordinária."
+    },
+    {
+        topic: "Garantias Financeiras nas Concessões",
+        supportText: "",
+        q: "Para assegurar o cumprimento das obrigações assumidas no contrato de concessão, o poder concedente pode prever no edital a exigência de garantia de execução. Caso a concessionária cause prejuízos à Administração ou aplique multas não pagas:",
+        options: [
+            "a garantia poderá ser utilizada para cobrir os valores devidos, devendo ser recomposta pela concessionária no prazo estipulado.",
+            "o contrato é automaticamente renovado por mais 20 anos.",
+            "a dívida é cancelada por perdão legal.",
+            "o Estado assume as dívidas trabalhistas da empresa sem direito de retenção.",
+            "os bens reversíveis são doados aos acionistas."
+        ],
+        answer: 0,
+        disclaimer: "As garantias contratuais prestadas pela concessionária servem justamente para cobrir multas e indenizações devidas à Administração, obrigando-se a empresa a recompor o valor original da garantia após qualquer execução."
+    },
+    {
+        topic: "Interrupção Legítima do Serviço Público",
+        supportText: "",
+        q: "Embora o princípio da continuidade seja basilar, a legislação de regência admite interrupções legítimas na prestação do serviço público. Dentre as hipóteses de interrupção lícita previstas na Lei nº 8.987/1995, NÃO se inclui:",
+        options: [
+            "motivos de ordem técnica ou de segurança das instalações.",
+            "inadimplemento do usuário, considerado o interesse da coletividade, após prévio aviso.",
+            "interrupção arbitrária e unilateral promovida pela concessionária por mero capricho do operador de plantão sem aviso prévio e sem justificativa técnica.",
+            "situações de emergência que exijam o desligamento imediato para evitar danos.",
+            "paralisação por falha nas condições de segurança operacionais."
+        ],
+        answer: 2,
+        disclaimer: "O art. 6º, § 3º, da Lei nº 8.987/1995 elenca as interrupções legítimas (razões de ordem técnica, de segurança ou inadimplemento do usuário com aviso). Interrupções arbitrárias, sem aviso ou sem justificativa técnica são ilícitas e geram responsabilidade civil."
+    },
+    {
+        topic: "Bens Públicos (Classificação)",
+        supportText: "",
+        q: "De acordo com o Código Civil brasileiro, os bens públicos classificam-se em bens de uso comum do povo, bens de uso especial e bens dominicais. Assinale a alternativa que apresenta um exemplo de bem público dominical:",
+        options: [
+            "As praias marítimas e os mares.",
+            "As praças, ruas e estradas públicas.",
+            "Os edifícios sedes de repartições públicas em funcionamento.",
+            "As terras devolutas e os veículos oficiais desativados e inservíveis.",
+            "Os parques ecológicos abertos à visitação pública livre."
+        ],
+        answer: 3,
+        disclaimer: "Bens dominicais (ou dominiais) são aqueles que constituem o patrimônio das pessoas jurídicas de direito público como objeto de direito pessoal ou real, de quem todo o domínio, como as terras devolutas, os prédios desativados e os bens móveis inservíveis (art. 99, III, do Código Civil)."
+    },
+    {
+        topic: "Bens Públicos (Atributos)",
+        supportText: "",
+        q: "Os bens públicos estão submetidos a um regime jurídico especial de direito público, caracterizado por certas prerrogativas protetivas. Dentre essas prerrogativas, destaca-se o atributo da:",
+        options: [
+            "alienabilidade plena e irrestrita sem autorização legislativa.",
+            "imprescritibilidade, o que significa que não podem ser adquiridos por particulares por meio de usucapião.",
+            "penhorabilidade generalizada para pagamento de dívidas comerciais do Estado.",
+            "locação comercial privada sem necessidade de licitação ou desafetação.",
+            "hipoteca bancária imediata para garantia de empréstimos particulares."
+        ],
+        answer: 1,
+        disclaimer: "Os bens públicos são imprescritíveis, insuscetíveis de usucapião por particulares, conforme expressamente previsto na Constituição Federal (arts. 183, § 3º, e 191, parágrafo único) e na Súmula 340 do STF."
+    },
+    {
+        topic: "Bens Públicos (Uso Comum do Povo)",
+        supportText: "",
+        q: "Os bens de uso comum do povo, tais como rios, mares, praias, estradas, ruas e praças, caracterizam-se juridicamente por:",
+        options: [
+            "poderem ser utilizados pelos administrados de forma gratuita ou onerosa, sem necessidade de consentimento especial do Estado, observadas as normas regulamentares.",
+            "estarem afetados exclusivamente aos serviços internos da administração.",
+            "serem alienáveis mediante simples despacho do chefe do executivo.",
+            "pertencerem aos particulares lindeiros.",
+            "não admitirem nenhuma forma de regulamentação de trânsito ou uso."
+        ],
+        answer: 0,
+        disclaimer: "Os bens de uso comum do povo (art. 99, I, do CC) destinam-se à utilização geral pela coletividade, podendo ser usados livremente pelos cidadãos, de forma gratuita ou onerosa (ex: cobrança de pedágio), respeitadas as limitações administrativas."
+    },
+    {
+        topic: "Bens Públicos (Afetação e Desafetação)",
+        supportText: "",
+        q: "O ato administrativo ou legislativo por meio do qual um bem público é vinculado a uma destinação pública específica (serviço público ou uso geral) ou dela é retirado, mudando de categoria, denomina-se, respectivamente:",
+        options: [
+            "Tombamento e Desapropriação.",
+            "Afetação e Desafetação.",
+            "Encampação e Caducidade.",
+            "Desmembramento e Fusão.",
+            "Reversão e Rescisão."
+        ],
+        answer: 1,
+        disclaimer: "Afetação é a vinculação de um bem a uma destinação pública (uso comum, especial ou fim administrativo). Desafetação é a retirada dessa destinação, transformando o bem, em regra, em bem dominical alienável."
+    },
+    {
+        topic: "Bens Públicos (Alienação)",
+        supportText: "",
+        q: "A alienação de bens públicos imóveis da Administração Pública, em regra, depende de autorização legislativa, avaliação prévia e licitação na modalidade:",
+        options: [
+            "Pregão obrigatório.",
+            "Concorrência ou Leilão (conforme o caso).",
+            "Convite restrito.",
+            "Apenas Diálogo Competitivo.",
+            "Concurso artístico."
+        ],
+        answer: 1,
+        disclaimer: "A alienação de bens imóveis da Administração Pública exige avaliação prévia, autorização legislativa (para órgãos da administração direta/autárquica) e licitação na modalidade Concorrência (ou Leilão, quando se tratar de bens móveis ou imóveis adquiridos por DAÇÃO em pagamento ou judicial)."
+    },
+    {
+        topic: "Impenhorabilidade de Bens Públicos",
+        supportText: "",
+        q: "No tocante ao regime jurídico dos bens públicos, a impenhorabilidade decorre da necessidade de garantir a continuidade dos serviços públicos e a preservação do erário. Sobre a execução contra a Fazenda Pública, os bens públicos são:",
+        options: [
+            "penhoráveis por ordem de qualquer juízo de primeira instância.",
+            "impenhoráveis e submetidos ao regime de precatórios ou requisições de pequeno valor (RPV).",
+            "passíveis de leilão forçado por oficiais de justiça particulares.",
+            "penhoráveis apenas se forem bens dominicais.",
+            "excluídos de qualquer proteção judicial."
+        ],
+        answer: 1,
+        disclaimer: "Os bens públicos são impenhoráveis, inalienáveis (relativamente) e imprescritíveis. As dívidas judiciais da Fazenda Pública pagam-se mediante o sistema constitucional de precatórios e RPVs, e não por penhora de bens públicos."
+    },
+    {
+        topic: "Uso de Bem Público por Particular (Autorização de Uso)",
+        supportText: "",
+        q: "A forma de utilização de bem público por particular, de natureza precária, concedida a título gratuito ou oneroso, geralmente para interesse predominantemente do próprio particular (ex: feira livre temporária ou uso de praça para evento festivo), denomina-se:",
+        options: [
+            "Autorização de uso.",
+            "Concessão de uso irrevogável perpétua.",
+            "Desapropriação indireta.",
+            "Servidão civil ordinária.",
+            "Tombamento definitivo."
+        ],
+        answer: 0,
+        disclaimer: "A autorização de uso é ato administrativo unilateral, discricionário e precário, pelo qual a Administração consente que o particular utilize bem público para interesse predominantemente particular."
+    },
+    {
+        topic: "Uso de Bem Público por Particular (Concessão de Uso)",
+        supportText: "",
+        q: "O contrato administrativo pelo qual a Administração Pública transfere o uso de bem público a particular para que este o explore conforme sua destinação específica (ex: exploração de lanchonete em parque público), exigindo prévia licitação, denomina-se:",
+        options: [
+            "Permissão precária verbal.",
+            "Concessão de uso.",
+            "Autorização tácita.",
+            "Requerimento de tombamento.",
+            "Alienação dominial."
+        ],
+        answer: 1,
+        disclaimer: "A concessão de uso é contrato administrativo, comutativo e oneroso, que confere ao particular direito estável de utilização de bem público, exigindo licitação prévia."
+    },
+    {
+        topic: "Intervenção do Estado na Propriedade (Conceito)",
+        supportText: "",
+        q: "As formas por meio das quais o Estado restringe ou suprime direitos dominiais privados com o objetivo de adequá-los ao atendimento da função social da propriedade e ao interesse público denominam-se:",
+        options: [
+            "Atos de gestão comercial pura.",
+            "Intervenção do Estado na propriedade privada.",
+            "Privatizações corporativas.",
+            "Contratos de direito civil paritário.",
+            "Atos de império tributário exclusivo."
+        ],
+        answer: 1,
+        disclaimer: "A intervenção do Estado na propriedade privada abrange todos os institutos (desapropriação, servidão, tombamento, requisição, ocupação temporária e limitação administrativa) que restringem os direitos do proprietário em prol da coletividade."
+    },
+    {
+        topic: "Desapropriação (Competência Legislativa)",
+        supportText: "",
+        q: "De acordo com a Constituição Federal de 1988, a competência para legislar sobre normas gerais de desapropriação é privativa da:",
+        options: [
+            "União.",
+            "Câmara de Vereadores de cada Município.",
+            "Assembleia Legislativa de cada Estado.",
+            "Procuradoria Geral da República.",
+            "Justiça Federal de primeira instância."
+        ],
+        answer: 0,
+        disclaimer: "Conforme o art. 22, inciso II, da CF/88, compete privativamente à União legislar sobre águas, energia, informática, telecomunicações e... desapropriação (normas gerais)."
+    },
+    {
+        topic: "Desapropriação (Competência para Declarar e Executar)",
+        supportText: "",
+        q: "No tocante à competência na desapropriação por utilidade pública, a declaração expropriatória (fase inicial) e a execução da desapropriação (fase judicial/administrativa) podem ser realizadas por:",
+        options: [
+            "Apenas a União, sendo vedado aos Municípios declarar utilidade pública.",
+            "A União, os Estados, o Distrito Federal e os Municípios, observados os limites de suas atribuições constitucionais e legais.",
+            "Exclusivamente empresas privadas concessionárias de rodovias.",
+            "Somente o Poder Judiciário em qualquer fase.",
+            "O Ministério Público de Contas de forma originária."
+        ],
+        answer: 1,
+        disclaimer: "A União, os Estados, o DF e os Municípios possuem competência para declarar a utilidade/necessidade pública ou interesse social e executar a desapropriação (ainda que Municípios e Estados dependam de lei ou autorização legal)."
+    },
+    {
+        topic: "Desapropriação (Indenização)",
+        supportText: "",
+        q: "Como regra geral estabelecida na Constituição Federal, a indenização devida na desapropriação por necessidade ou utilidade pública deve ser:",
+        options: [
+            "Prévia, justa e em dinheiro.",
+            "Posterior, simbólica e parcelada em 50 anos.",
+            "Fixada unilateralmente pelo prefeito sem direito de defesa.",
+            "Paga exclusivamente por meio de títulos da dívida agrária inegociáveis.",
+            "Isenta de qualquer avaliação pericial."
+        ],
+        answer: 0,
+        disclaimer: "A regra matriz da desapropriação ordinária (art. 5º, XXIV, da CF/88) exige indenização prévia, justa e em dinheiro, ressalvadas exceções específicas constitucionais (como desapropriação-sanção urbana ou rural por descumprimento da função social)."
+    },
+    {
+        topic: "Desapropriação (Fases do Processo)",
+        supportText: "",
+        q: "O processo expropriatório divide-se em duas fases fundamentais:",
+        options: [
+            "Fase executória e fase de liquidação trabalhista.",
+            "Fase declaratória (manifestação do interesse público) e fase executória/expropriatória (acordo ou via judicial).",
+            "Fase legislativa e fase penal restritiva.",
+            "Fase de hasta pública e fase de falência.",
+            "Fase de tombamento e fase de servidão."
+        ],
+        answer: 1,
+        disclaimer: "A desapropriação divide-se em fase declaratória (quando o Estado aponta o bem e o motivo de interesse público) e fase executória/expropriatória (em que se busca acordo amigável ou a via judicial para fixar o preço e transferir o domínio)."
+    },
+    {
+        topic: "Desapropriação (Caducidade da Declaração)",
+        supportText: "",
+        q: "Se a Administração Pública declarar um bem expropriável por utilidade pública, mas quedar-se inerte, sem efetivar a desapropriação por via amigável ou judicial, a declaração caducará após o transcurso do prazo de:",
+        options: [
+            "1 ano.",
+            "2 anos (para interesse social) e 5 anos (para utilidade pública).",
+            "10 anos improrrogáveis.",
+            "30 dias.",
+            "20 anos."
+        ],
+        answer: 1,
+        disclaimer: "A declaração de utilidade pública caduca em 5 anos (Decreto-Lei nº 3.365/1941, art. 10). Já a declaração por interesse social (reforma agrária) caduca em 2 anos (Lei nº 4.132/1962)."
+    },
+    {
+        topic: "Retrocessão na Desapropriação",
+        supportText: "",
+        q: "O instituto jurídico que garante ao antigo proprietário o direito de preferência sobre o imóvel desapropriado, caso a Administração dê ao bem destino diverso do que motivou a expropriação (desvio de finalidade ou trégua na afetação pública), denomina-se:",
+        options: [
+            "Retrocessão.",
+            "Encampação.",
+            "Tombamento inverso.",
+            "Remissão fiscal.",
+            "Despejo administrativo."
+        ],
+        answer: 0,
+        disclaimer: "A retrocessão é o direito que assiste ao ex-proprietário de reaver o bem desapropriado caso este não seja afetado à finalidade de utilidade pública ou interesse social que motivou a desapropriação (desvio de destinação)."
+    },
+    {
+        topic: "Desapropriação Indireta",
+        supportText: "",
+        q: "Quando o Poder Público apossar-se de um bem particular sem observância do due process of law (devido processo legal) e sem prévia indenização, destinando-o a uma finalidade pública, configura-se o que a jurisprudência denomina de:",
+        options: [
+            "Desapropriação indireta.",
+            "Alienação fiduciária estatal.",
+            "Servidão voluntária civil.",
+            "Usucapião administrativa reversa.",
+            "Tombamento financeiro."
+        ],
+        answer: 0,
+        disclaimer: "A desapropriação indireta é um apossamento administrativo irregular de bem particular pelo Estado sem o procedimento expropriatório legal, gerando o direito do proprietário de pleitear indenização por perdas e danos na via judicial (com prazo prescricional aplicável)."
+    },
+    {
+        topic: "Desapropriação-Sanção (Urbana)",
+        supportText: "",
+        q: "A desapropriação de solo urbano não edificado, subutilizado ou não utilizado, realizada pelo Município com pagamento mediante títulos da dívida pública emitidos com prévia aprovação do Senado Federal, com prazo de resgate de até 10 anos, constitui a modalidade de:",
+        options: [
+            "Desapropriação por utilidade pública.",
+            "Desapropriação-sanção (função social da propriedade urbana - art. 182 da CF).",
+            "Servidão predial perpétua.",
+            "Requisição de guerra.",
+            "Tombamento histórico acumulado."
+        ],
+        answer: 1,
+        disclaimer: "Trata-se da desapropriação-sanção urbana (art. 182, § 4º, III, da CF/88), aplicada quando o proprietário descumpre a função social da propriedade urbana após notificações e aplicação de IPTU progressivo no tempo."
+    },
+    {
+        topic: "Servidão Administrativa",
+        supportText: "",
+        q: "O direito real público pelo qual o Estado impõe a um imóvel particular um ônus de suportar uso público parcial (ex: passagem de cabos de alta tensão ou tubulações de gás), mantendo a propriedade com o particular, denomina-se:",
+        options: [
+            "Servidão administrativa.",
+            "Desapropriação integral.",
+            "Requisição civil definitiva.",
+            "Tombamento estético.",
+            "Ocupação provisória de guerra."
+        ],
+        answer: 0,
+        disclaimer: "A servidão administrativa é um ônus real de uso imposto pela Administração sobre propriedade particular para garantir a realização de obras e serviços públicos de interesse coletivo (ex: redes de energia, esgoto)."
+    },
+    {
+        topic: "Requisição Administrativa",
+        supportText: "",
+        q: "A forma de intervenção estatal na propriedade privada caracterizada pela utilização coativa de bens móveis, imóveis ou serviços particulares, em situação de iminente perigo público (calamidade, guerra, epidemia), com direito a indenização posterior se houver dano, é a:",
+        options: [
+            "Requisição administrativa.",
+            "Desapropriação ordinária judicial.",
+            "Servidão perpétua.",
+            "Limitação urbanística.",
+            "Autorização de uso mercantil."
+        ],
+        answer: 0,
+        disclaimer: "A requisição administrativa (art. 5º, XXV, da CF/88) ocorre em iminente perigo público, autorizando a autoridade competente a usar propriedade particular, assegurada indenização ulterior se houver dano."
+    },
+    {
+        topic: "Ocupação Temporária",
+        supportText: "",
+        q: "A intervenção estatal na propriedade privada que consiste na utilização transitória de terrenos particulares para servir de apoio à execução de obras ou serviços públicos (ex: depósito de materiais de construção de uma rodovia), sendo em regra gratuita (salvo comprovação de prejuízo), denomina-se:",
+        options: [
+            "Ocupação temporária.",
+            "Desapropriação sanção.",
+            "Tombamento provisório.",
+            "Servidão irrevogável.",
+            "Requisição militar."
+        ],
+        answer: 0,
+        disclaimer: "A ocupação temporária é o uso transitório de imóvel particular para apoiar a execução de obras públicas. É gratuita por regra (salvo se causar prejuízo ou dano comprovado ao proprietário)."
+    },
+    {
+        topic: "Limitação Administrativa",
+        supportText: "",
+        q: "A obrigação geral, unilateral e gratuita imposta pela Administração a um número indeterminado de proprietários particulares, determinando o que podem ou não fazer em suas propriedades (ex: altura máxima de prédios, recuo de calçadas), caracteriza a:",
+        options: [
+            "Limitação administrativa.",
+            "Desapropriação indireta.",
+            "Servidão remunerada.",
+            "Requisição de emergência.",
+            "Tombamento de bens móveis."
+        ],
+        answer: 1, // wait, option 0 is Limitação administrativa. Let's check options: A) Limitação administrativa. B) Desapropriação indireta... Ah, answer index 0.
+        options: [
+            "Limitação administrativa.",
+            "Desapropriação indireta.",
+            "Servidão remunerada.",
+            "Requisição de emergência.",
+            "Tombamento de bens móveis."
+        ],
+        answer: 0,
+        disclaimer: "Limitações administrativas são imposições gerais, gratuitas e unilaterais que condicionam o exercício do direito de propriedade a favor do bem-estar social (ex: código de obras, gabarito de altura)."
+    },
+    {
+        topic: "Tombamento",
+        supportText: "",
+        q: "O ato administrativo por meio do qual o Poder Público protege o patrimônio histórico, artístico, cultural, paisagístico ou científico de um bem (móvel ou imóvel), impondo obrigações de conservação e restrições de alteração, denomina-se:",
+        options: [
+            "Tombamento.",
+            "Desapropriação onerosa.",
+            "Servidão subterrânea.",
+            "Requisição de guerra.",
+            "Alienação fiduciária."
+        ],
+        answer: 0,
+        disclaimer: "O tombamento é a forma de intervenção estatal voltada à preservação de bens de valor histórico, cultural, artístico ou paisagístico, impondo limitações ao proprietário (como o dever de conservação e o direito de preferência do Estado em caso de venda)."
+    },
+    {
+        topic: "Tombamento (Efeitos e Direito de Preferência)",
+        supportText: "",
+        q: "Entre os efeitos jurídicos gerados pelo tombamento de um bem imóvel particular, destaca-se que o proprietário:",
+        options: [
+            "perde imediatamente a propriedade do bem para o Estado.",
+            "fica obrigado a notificar os órgãos de proteção ao patrimônio caso pretenda alienar o bem, pois o Poder Público possui direito de preferência (aquisição em igualdade de condições).",
+            "recebe indenização prévia em dinheiro equivalente a 100% do valor comercial do imóvel.",
+            "pode demolir o bem a qualquer momento sem autorização.",
+            "fica isento de pagar IPTU em todas as hipóteses legais."
+        ],
+        answer: 1,
+        disclaimer: "O tombamento não retira a propriedade do particular, mas impõe restrições severas: o proprietário deve conservar o bem e, caso decida vendê-lo, deve oferecer previamente ao ente público (União, Estado ou Município), que possui direito de preferência."
+    },
+    {
+        topic: "Desapropriação por Utilidade Pública (Decreto-Lei nº 3.365/1941)",
+        supportText: "",
+        q: "Conforme o Decreto-Lei nº 3.365/1941, podem promover desapropriações por utilidade pública:",
+        options: [
+            "Apenas o Presidente da República.",
+            "A União, os Estados, o Distrito Federal, os Municípios e as entidades delegadas (concessionárias de serviços públicos autorizadas por lei ou contrato).",
+            "Apenas pessoas físicas com renda superior a dez salários mínimos.",
+            "Exclusivamente bancos comerciais estatais.",
+            "Associações de bairro privadas sem fins lucrativos."
+        ],
+        answer: 1,
+        disclaimer: "O DL nº 3.365/1941 estabelece que a desapropriação por utilidade pública pode ser feita pela União, Estados, DF, Municípios e por concessionárias de serviços públicos e entidades autorizadas por lei ou contrato."
+    },
+    {
+        topic: "Desapropriação - Imóvel Rural (Reforma Agrária)",
+        supportText: "",
+        q: "A desapropriação de imóvel rural que não esteja cumprindo sua função social, para fins de reforma agrária, é de competência privativa da:",
+        options: [
+            "União.",
+            "Prefeitura Municipal local.",
+            "Câmara de Vereadores.",
+            "Polícia Militar Estadual.",
+            "Secretaria de Obras do Estado."
+        ],
+        answer: 0,
+        disclaimer: "A desapropriação para fins de reforma agrária, por descumprimento da função social da propriedade rural, é competência privativa da União (art. 184 da CF/88), indenizada mediante Títulos da Dívida Agrária (TDA)."
+    },
+    {
+        topic: "Bens Públicos (Inalienabilidade Relativa)",
+        supportText: "",
+        q: "A inalienabilidade dos bens públicos é uma regra protetiva, mas não absoluta. Significa dizer que os bens públicos são, por regra, inalienáveis, EXCETO se:",
+        options: [
+            "forem previamente desafetados e atenderem aos requisitos legais de licitação, autorização legislativa e interesse público.",
+            "o presidente da república quiser doá-los para amigos particulares.",
+            "forem bens de uso comum do povo em pleno funcionamento.",
+            "estiverem tombados por patrimônio histórico.",
+            "houver concordância verbal de qualquer vizinho."
+        ],
+        answer: 0,
+        disclaimer: "A inalienabilidade dos bens públicos é relativa (ou condicionada). Os bens dominicais, por exemplo, podem ser alienados desde que cumpridas as exigências legais: desafetação prévia, interesse público justificado, avaliação e licitação."
+    },
+    {
+        topic: "Servidão Administrativa vs. Desapropriação",
+        supportText: "",
+        q: "Assinale a alternativa que diferencia corretamente a servidão administrativa da desapropriação:",
+        options: [
+            "Na desapropriação, o Estado despoja o proprietário da propriedade do bem; na servidão administrativa, o proprietário continua com a titularidade do imóvel, sofrendo apenas um ônus de uso limitado.",
+            "A servidão administrativa exige sempre a transferência definitiva do domínio para o Estado.",
+            "A desapropriação é sempre gratuita, ao passo que a servidão é onerosa.",
+            "A servidão administrativa extingue o direito de construir em todo o município.",
+            "Não há nenhuma diferença prática entre os dois institutos."
+        ],
+        answer: 0,
+        disclaimer: "Na desapropriação ocorre a transferência da propriedade do particular para o Estado. Na servidão administrativa, o particular mantém a propriedade do imóvel, mas o Estado adquire um direito real de uso sobre parte dele (ônus real)."
+    },
+    {
+        topic: "Tombamento (Espécies)",
+        supportText: "",
+        q: "Quanto à forma de inscrição e origem, o tombamento pode ser classificado em:",
+        options: [
+            "Provisório ou Definitivo.",
+            "Voluntário ou Compulsório.",
+            "Federal, Estadual ou Municipal.",
+            "Todas as alternativas anteriores estão corretas."
+        ],
+        answer: 3,
+        disclaimer: "O tombamento classifica-se quanto aos efeitos (provisório ou definitivo), quanto à vontade (voluntário ou compulsório) e quanto à entidade federativa competente (federal, estadual ou municipal)."
+    },
+    {
+        topic: "Desapropriação indireta (Prazo prescricional)",
+        supportText: "",
+        q: "Segundo a jurisprudência atual do Superior Tribunal de Justiça (STJ), a ação de desapropriação indireta prescreve em:",
+        options: [
+            "5 anos.",
+            "10 anos (ou 20 anos, dependendo da aplicação das regras do Código Civil sobre posse e prescrição aquisitiva para desapropriações com obras públicas consolidadas).",
+            "1 ano improrrogável.",
+            "30 dias.",
+            "Imprescritível em qualquer hipótese."
+        ],
+        answer: 1,
+        disclaimer: "O STJ consolidou entendimento (Súmula 119 alterada/ajustada pelas regras do CC) de que a ação de desapropriação indireta possui prazo prescricional vintenário ou decenal, conforme as regras de usucapião extraordinária do Código Civil aplicadas à posse contra a Fazenda."
+    },
+    {
+        topic: "Bens Públicos (Terras Devolutas)",
+        supportText: "",
+        q: "As terras devolutas, entendidas como as terras públicas que nunca forão incorporadas ao patrimônio particular por título legítimo, pertencem, como regra geral constitucional:",
+        options: [
+            "Exclusivamente à União em todo o território nacional sem exceção.",
+            "Aos Estados federados onde se situam (e à União quando localizadas em faixa de fronteira ou territórios federais).",
+            "Aos Municípios em sua totalidade.",
+            "Aos bancos estatais de fomento.",
+            "Aos posseiros informais."
+        ],
+        answer: 1,
+        disclaimer: "A Constituição Federal estabelece a titularidade das terras devolutas primariamente aos Estados-membros, pertencendo à União apenas aquelas situadas na faixa de fronteira, territórios federais ou terras indispensáveis à defesa nacional."
+    },
+    {
+        topic: "Processo Administrativo (Âmbito de Aplicação - Lei nº 9.784/1999)",
+        supportText: "",
+        q: "A Lei nº 9.784/1999 regula o processo administrativo no âmbito da Administração Pública Federal. No que tange ao seu âmbito de aplicação subjetivo, é correto afirmar que suas disposições se aplicam:",
+        options: [
+            "exclusivamente ao Poder Executivo Federal, sendo vedada a aplicação aos demais Poderes em qualquer hipótese.",
+            "aos órgãos dos Poderes Executivo, Legislativo e Judiciário da União, no exercício de função administrativa.",
+            "apenas às autarquias e fundações públicas federais, excluindo a administração direta.",
+            "a todas as empresas públicas e sociedades de economia mista que explorem atividade econômica de mercado em regime de concorrência.",
+            "somente aos Estados e Municípios que aderirem expressamente por convênio."
+        ],
+        answer: 1,
+        disclaimer: "O art. 1º, § 1º, da Lei nº 9.784/1999 estabelece que os preceitos desta Lei também se aplicam aos órgãos dos Poderes Legislativo e Judiciário da União, quando no desempenho de função administrativa."
+    },
+    {
+        topic: "Processo Administrativo (Princípios - Lei nº 9.784/1999)",
+        supportText: "",
+        q: "Dentre os princípios expressamente elencados no art. 2º da Lei nº 9.784/1999 que regem a atuação da Administração Pública Federal no processo administrativo, NÃO se encontra:",
+        options: [
+            "legalidade e finalidade.",
+            "motivação e razoabilidade.",
+            "proporcionalidade e segurança jurídica.",
+            "lucratividade empresarial.",
+            "interesse público e ampla defesa."
+        ],
+        answer: 3,
+        disclaimer: "O art. 2º da Lei nº 9.784/99 traz expressamente os princípios da legalidade, finalidade, motivação, razoabilidade, proporcionalidade, moralidade, ampla defesa, contraditório, segurança jurídica, interesse público e eficiência. 'Lucratividade empresarial' não é princípio de direito público."
+    },
+    {
+        topic: "Processo Administrativo (Impedimento e Suspeição)",
+        supportText: "",
+        q: "Nos termos da Lei nº 9.784/1999, é vedada a atuação de autoridade ou servidor em processo administrativo quando houver situação de impedimento. Configura hipótese legal de IMPEDIMENTO:",
+        options: [
+            "ter amizade íntima com qualquer dos interessados.",
+            "ter inimizade notória com algum dos interessados ou com os respectivos cônjuges/companheiros.",
+            "ter interesse direto ou indireto na matéria objeto do processo.",
+            "ser parente consanguíneo até o quarto grado de advogado constituído no processo.",
+            "participar de conselho de administração de empresa concorrente genérica."
+        ],
+        answer: 2,
+        disclaimer: "O art. 18 da Lei nº 9.784/99 define o impedimento (casos mais graves e objetivos): ter interesse direto ou indireto na matéria (I), ter participado ou vir a participar como testemunha/perito (II), ou estar envolvido cônjuge/parente até o terceiro grau (III). Amizade íntima ou inimizade notória configuram 'suspeição' (art. 20)."
+    },
+    {
+        topic: "Processo Administrativo (Dever de Motivador)",
+        supportText: "",
+        q: "A motivação do ato administrativo é obrigatória em diversas situações previstas na Lei nº 9.784/1999. Assinale a alternativa que apresenta um caso em que a lei EXIGE expressamente a motivação:",
+        options: [
+            "Atos que neguem, limitem ou afetem direitos ou interesses.",
+            "Apenas atos normativos gerais editados pelo Presidente da República.",
+            "Decisões de despachos meramente de expediente que não geram prejuízos.",
+            "Atos de nomeação para cargos em comissão de livre exoneração.",
+            "Quaisquer atos internos de circulação de papéis entre gabinetes."
+        ],
+        answer: 0,
+        disclaimer: "O art. 50 da Lei nº 9.784/99 obriga a motivação explícita, clara e congruente dos atos administrativos, especificamente aqueles que neguem, limitem ou afetem direitos ou interesses, decidam recursos, desvio de competência, dispensuem licitação, etc."
+    },
+    {
+        topic: "Processo Administrativo (Direitos do Administrado)",
+        supportText: "",
+        q: "Conforme o art. 3º da Lei nº 9.784/1999, são direitos do administrado perante a Administração, sem prejuízo de outros que lhe sejam assegurados:",
+        options: [
+            "ser tratado com respeito pelas autoridades e servidores, que deverão facilitar o exercício de seus direitos e o cumprimento de suas obrigações.",
+            "conhecer a identidade dos servidores responsáveis por decisões, sendo proibido o sigilo de nomes em qualquer circunstância.",
+            "ter acesso imediato e gratuito a processos sigilosos de terceiros sem restrições.",
+            "impedir a instauração de fiscalizações tributárias contra si.",
+            "exigir que o processo tramite obrigatoriamente por via postal física."
+        ],
+        answer: 0,
+        disclaimer: "O art. 3º garante ao administrado ser tratado com respeito, ter ciência dos tramitadores, formular alegações, apresentar documentos antes da decisão, entre outros direitos fundamentais de participação."
+    },
+    {
+        topic: "Processo Administrativo (Início do Processo)",
+        supportText: "",
+        q: "O processo administrativo pode iniciar-se de ofício ou a pedido de interessado. Sobre a instauração, é correto afirmar que:",
+        options: [
+            "o pedido de iniciador de processo deve ser formulado obrigatoriamente por escrito, salvo quando a lei autorizar a simplificação.",
+            "é vedada a instauração de processo administrativo de ofício por órgãos públicos.",
+            "qualquer cidadão, mesmo sem interesse legítimo, pode iniciar processo para discutir litígios alheios.",
+            "o requerimento inicial deve ser feito exclusivamente em língua estrangeira em autarquias federais.",
+            "a administração não pode recusar petições de administrados em hipótese alguma."
+        ],
+        answer: 0,
+        disclaimer: "O art. 6º da Lei nº 9.784/99 estabelece que o pedido de início de processo deve ser formulado por escrito, contendo dados de identificação, formulação clara do pedido, data e assinatura do requerente."
+    },
+    {
+        topic: "Processo Administrativo (Anulação e Revogação)",
+        supportText: "",
+        q: "A Administração Pública deve anular seus próprios atos, quando eivados de vício de legalidade, e pode revogá-los por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos. Na Lei nº 9.784/1999, o prazo decadencial para a Administração anular atos administrativos de que decorram efeitos favoráveis para os destinatários é, em regra, de:",
+        options: [
+            "1 ano.",
+            "3 anos.",
+            "5 anos, contados da data em que foram praticados, salvo comprovada má-fé.",
+            "10 anos irrevogáveis.",
+            "imprescritível em qualquer situação."
+        ],
+        answer: 2,
+        disclaimer: "O art. 54 da Lei nº 9.784/99 fixa o prazo decadencial de 5 anos para a Administração anular atos administrativos ilegais geradores de efeitos favoráveis aos administrados, contados da data em que foram praticados, salvo comprovada má-fé."
+    },
+    {
+        topic: "Processo Administrativo (Recursos Administrativos)",
+        supportText: "",
+        q: "Das decisões administrativas cabe recurso, em face de razões de legalidade e de mérito. O prazo para a interposição de recurso administrativo, na Lei nº 9.784/1999 (salvo disposição legal específica em contrário), é de:",
+        options: [
+            "5 dias.",
+            "10 dias, a contar da ciência ou divulgação oficial da decisão.",
+            "30 dias improrrogáveis.",
+            "60 dias.",
+            "15 dias úteis."
+        ],
+        answer: 1,
+        disclaimer: "O art. 59 da Lei nº 9.784/1999 estabelece que o prazo para interposição de recurso administrativo é de 10 (dez) dias, contados a partir da ciência ou divulgação oficial da decisão recorrida, salvo disposição legal específica."
+    },
+    {
+        topic: "Processo Administrativo (Efeito Suspensivo do Recurso)",
+        supportText: "",
+        q: "Como regra geral no âmbito da Lei nº 9.784/1999, a interposição de recurso administrativo:",
+        options: [
+            "possui efeito suspensivo automático sobre a decisão recorrida em 100% dos casos.",
+            "não tem efeito suspensivo, salvo disposição legal em contrário, podendo a autoridade competente suspender a execução do ato por motivo de justo interesse público.",
+            "extingue o processo imediatamente sem julgamento de mérito.",
+            "obriga o pagamento prévio de custas judiciais em cartório.",
+            "suspende obrigatoriamente a arrecadação de tributos federais."
+        ],
+        answer: 1,
+        disclaimer: "O art. 61 da Lei nº 9.784/99 consagra que o recurso administrativo não tem efeito suspensivo, ressalvadas as hipóteses legais. A autoridade competente pode, todavia, atribuir eficácia suspensiva de ofício ou a pedido, para evitar dano irreparável."
+    },
+    {
+        topic: "Processo Administrativo (Instrução)",
+        supportText: "",
+        q: "A fase de instrução no processo administrativo destina-se à comprovação dos fatos alegados. Conforme a Lei nº 9.784/1999, os atos de instrução que exijam a expedição de providências por parte dos administrados devem ser realizados de modo a:",
+        options: [
+            "gerar o maior ônus financeiro possível para desestimular recursos.",
+            "causar o mínimo de ônus aos administrados, evitando exigências meramente formais.",
+            "ocorrer obrigatoriamente em cartórios judiciais de comarca.",
+            "ser sigilosos e ocultos do próprio interessado.",
+            "tramitar exclusivamente via correio postal registrado."
+        ],
+        answer: 1,
+        disclaimer: "O art. 29, § 1º, da Lei nº 9.784/99 determina que os atos de instrução que exijam a atuação dos administrados devem realizar-se do modo menos oneroso para estes, vedando exigências formais desnecessárias."
+    },
+    {
+        topic: "Processo Administrativo (Competência)",
+        supportText: "",
+        q: "A competência é irrenunciável e se exerce pelos órgãos administrativos a que foi atribuída como própria, salvo os casos de delegação e avocação previstos em lei. Nos termos da Lei nº 9.784/1999, é vedada a delegação de competência para:",
+        options: [
+            "a edição de atos de caráter normativo, a decisão de recursos administrativos em última instância e a matéria de competência exclusiva de órgão ou autoridade.",
+            "a fiscalização de rotina de contratos administrativos.",
+            "a assinatura de termos de cooperação técnica internacional de baixo impacto.",
+            "a realização de sindicâncias preliminares inquisitórias.",
+            "a emissão de certidões ordinárias de tempo de serviço."
+        ],
+        answer: 0,
+        disclaimer: "O art. 13 da Lei nº 9.784/99 veda expressamente a delegação de competência para: I - a edição de atos de caráter normativo; II - a decisão de recursos administrativos; III - as matérias de competência exclusiva de órgão ou autoridade."
+    },
+    {
+        topic: "Processo Administrativo (Avocação)",
+        supportText: "",
+        q: "A avocação temporária de competência atribuída a órgão hierarquicamente inferior na Lei nº 9.784/1999 é permitida:",
+        options: [
+            "apenas de forma permanente e definitiva, transferindo a titularidade do cargo.",
+            "em caráter excepcional e por motivos relevantes devidamente justificados.",
+            "proibida em qualquer circunstância pelo princípio da legalidade.",
+            "exclusivamente pelo Poder Judiciário sobre o Executivo.",
+            "quando houver pedido do administrado interessado."
+        ],
+        answer: 1,
+        disclaimer: "O art. 15 da Lei nº 9.784/99 autoriza a avocação temporária de competência atribuída a subordinado, em caráter excepcional e por motivos relevantes devidamente justificados."
+    },
+    {
+        topic: "Processo Administrativo (Prazos)",
+        supportText: "",
+        q: "Salvo motivo de força maior devidamente comprovado, os atos do processo administrativo devem ser realizados em prazos certos. Na omissão legal, os atos da Administração devem ser praticados no prazo máximo de:",
+        options: [
+            "5 dias.",
+            "10 dias, contado da data do recebimento dos autos pelo órgão ou autoridade competente.",
+            "30 dias improrrogáveis.",
+            "60 dias.",
+            "90 dias úteis."
+        ],
+        answer: 1,
+        disclaimer: "O art. 24 da Lei nº 9.784/99 estipula que, na falta de prazo legal específico, os atos da Administração devem ser praticados no prazo máximo de 10 (dez) dias, contados do recebimento dos autos."
+    },
+    {
+        topic: "Processo Administrativo (Conclusão e Extinção)",
+        supportText: "",
+        q: "O processo administrativo fenece ou extingue-se quando cumpridas suas finalidades ou pela impossibilidade jurídica de seu prosseguimento. Nos termos da Lei nº 9.784/1999, constitui causa de extinção do processo a:",
+        options: [
+            "renúncia total do direito em que se funda o pedido, quando formulado por particular.",
+            "mudança de partido político da autoridade julgadora.",
+            "decretação de feriado municipal na sede da repartição.",
+            "ausência temporária de papel timbrado no almoxarifado.",
+            "venda do imóvel sede do órgão."
+        ],
+        answer: 0,
+        disclaimer: "O art. 51 da Lei nº 9.784/99 aponta que extingue o processo a renúncia total do direito em que se funda o pedido, a desistência, a morte do interessado (quando o direito for personalíssimo) ou o decurso de prazo prescricional."
+    },
+    {
+        topic: "Processo Administrativo (Revisão do Processo)",
+        supportText: "",
+        q: "De acordo com a Lei nº 9.784/1999, os processos administrativos de que resultem sanções poderão ser revistos, a qualquer tempo, a pedido ou de ofício, quando:",
+        options: [
+            "houver surgido novos fatos ou circunstâncias tidos como passíveis de justificar a inadequação da sanção aplicada, vedada a agravação da pena (reformatio in peius).",
+            "o governador do estado decidir anistiar todos os condenados do país.",
+            "houver mudança na jurisprudência do Supremo Tribunal Federal sobre matéria penal.",
+            "o servidor punido solicitar transferência de setor.",
+            "o relator originário aposentar-se compulsoriamente."
+        ],
+        answer: 0,
+        disclaimer: "O art. 65 da Lei nº 9.784/99 prevê a revisão de processos administrativos punitivos quando surgirem fatos novos ou circunstâncias relevantes justificadoras de alteração da sanção, aplicando-se o princípio da proibição da reformatio in peius (a revisão não pode agravar a pena)."
+    },
+    {
+        topic: "Processo Administrativo (Invalidação e Convalidação)",
+        supportText: "",
+        q: "Em caso de vício sanável, a Administração Pública Federal, nos termos da Lei nº 9.784/1999, poderá convalidar os atos administrativos que apresentarem ilegalidade. A convalidação:",
+        options: [
+            "retroage os seus efeitos à data do ato originário (ex tunc), desde que não acarrete lesão ao interesse público nem prejuízo a terceiros.",
+            "produz efeitos apenas para o futuro (ex nunc), sem retroatividade em hipótese alguma.",
+            "depende obrigatoriamente de autorização prévia do Congresso Nacional.",
+            "é vedada para qualquer ato administrativo em âmbito federal.",
+            "exige pagamento de taxa de regularização pelo particular."
+        ],
+        answer: 0,
+        disclaimer: "O art. 55 da Lei nº 9.784/99 autoriza a convalidação de atos com vícios sanáveis, cujos efeitos, por regra de direito administrativo e da própria interpretação sistêmica, operam retroativamente (ex tunc), desde que não causem prejuízos a terceiros ou lesão ao interesse público."
+    },
+    {
+        topic: "Processo Administrativo (Prorrogação de Prazos)",
+        supportText: "",
+        q: "Os prazos fixados na Lei nº 10 ou na Lei nº 9.784/1999 começam a correr a partir da data da cientificação oficial, excluindo-se o dia do começo e incluindo-se o do vencimento. Sobre a contagem e prorrogação de prazos:",
+        options: [
+            "Os prazos expressos em dias contam-se de modo contínuo, prorrogando-se o vencimento para o primeiro dia útil seguinte se cair em dia sem expediente na repartição.",
+            "Os prazos só correm em dias úteis com suspensão total em finais de semana em qualquer hipótese.",
+            "A Administração não pode prorrogar prazos processuais sob nenhuma justificativa.",
+            "O prazo para recurso administrativo extingue-se em feriados sem prorrogação.",
+            "O início do prazo dá-se sempre no primeiro dia do mês subsequente."
+        ],
+        answer: 0,
+        disclaimer: "O art. 66 da Lei nº 9.784/99 estabelece que os prazos contam-se em dias corridos, excluindo o dia do começo e incluindo o do vencimento. Prorrogam-se até o primeiro dia útil se o vencimento cair em dia em que não houver expediente."
+    },
+    {
+        topic: "Processo Administrativo (Desistência)",
+        supportText: "",
+        q: "O interessado poderá, mediante manifestação escrita, desistir total ou parcialmente do pedido formulado ou, ainda, renunciar a direitos disponíveis em processo administrativo. Sobre a desistência:",
+        options: [
+            "ela obsta o prosseguimento do processo se a Administração considerar que o interesse público exige a continuidade da instrução.",
+            "encerra obrigatoriamente e de forma definitiva qualquer investigação estatal em curso, mesmo que haja interesse público manifesto.",
+            "exige concordância prévia e por escrito de todos os concorrentes da licitação.",
+            "é proibida em requerimentos de aposentadoria de servidores.",
+            "transfere a titularidade do direito renunciado para o relator do processo."
+        ],
+        answer: 0,
+        disclaimer: "O art. 52 da Lei nº 9.784/99 dispõe que o interessado pode desistir do pedido, mas a desistência ou renúncia não obsta que a Administração prossiga com o processo se o interesse público exigir a continuidade."
+    },
+    {
+        topic: "Processo Administrativo (Consulta e Vista)",
+        supportText: "",
+        q: "O interessado poderá na tramitação do processo administrativo ter vista dos autos e obter cópias de documentos neles contidos, ressalvados os dados e documentos protegidos por sigilo constitucional ou legal. Esse direito decorre diretamente dos princípios da:",
+        options: [
+            "publicidade, ampla defesa e contraditório.",
+            "supremacia estrita do Estado e sigilo inquisitório.",
+            "irretroatividade fiscal e impessoalidade restrita.",
+            "discricionariedade absoluta e soberania.",
+            "centralização administrativa."
+        ],
+        answer: 0,
+        disclaimer: "O direito de vista aos autos, obtenção de cópias e acompanhamento processual decorre dos princípios constitucionais da publicidade, da ampla defesa e do contraditório, positivados no art. 3º, II e III, da Lei nº 9.784/99."
+    },
+    {
+        topic: "Processo Administrativo (Notificação)",
+        supportText: "",
+        q: "Os atos do processo administrativo que devam ser comunicados ao interessado devem revestir-se de formalidades que garantam a sua ciência. De acordo com a Lei nº 9.784/1999, a intimação deve conter, entre outros elementos:",
+        options: [
+            "identificação do intimado, finalidade da intimação, data e local para comparecimento (quando exigido), e consequências do não atendimento.",
+            "ordem de prisão preventiva imediata.",
+            "cálculo de imposto de renda retido na fonte.",
+            "assinatura física de testemunhas oculares obrigatórias.",
+            "aviso de lançamento de dívida ativa judicial."
+        ],
+        answer: 0,
+        disclaimer: "O art. 26, § 1º, da Lei nº 9.784/99 elenca os requisitos da intimação: identificação do intimado, finalidade, indicação de comparecimento ou não, e as consequências do descumprimento."
+    },
+    {
+        topic: "Processo Administrativo (Preclusão Administrativa)",
+        supportText: "",
+        q: "A perda da faculdade de praticar determinado ato processual em virtude de ter esgotado o prazo legal correspondente (inércia do administrado) configura o fenômeno da:",
+        options: [
+            "Preclusão administrativa.",
+            "Decadência constitucional.",
+            "Prescrição quinquenal.",
+            "Caducidade de concessão.",
+            "Encampação de direitos."
+        ],
+        answer: 0,
+        disclaimer: "A preclusão no processo administrativo ocorre quando o interessado perde o direito de praticar um ato (ex: apresentar defesa ou interpor recurso) por ter decorrido o prazo legal estipulado sem manifestação."
+    },
+    {
+        topic: "Processo Administrativo (Invalidação e Prazo Recursal)",
+        supportText: "",
+        q: "O direito da Administração de anular atos administrativos de que decorram efeitos favoráveis para os destinatários decai em 5 anos. Contudo, se houver comprovada má-fé por parte do beneficiário:",
+        options: [
+            "o prazo decadencial de 5 anos permanece inalterado.",
+            "o ato poderá ser anulado a qualquer tempo, não incidindo a decadência quinquenal.",
+            "o ato torna-se convalidado automaticamente em 30 dias.",
+            "a competência transfere-se para o Poder Legislativo.",
+            "o beneficiário ganha imunidade perpétua."
+        ],
+        answer: 1,
+        disclaimer: "O art. 54 da Lei nº 9.784/99 ressalva expressamente que o prazo de decadência de 5 anos para anulação de atos favoráveis não se aplica caso haja comprovada má-fé, hipótese em que o ato pode ser desfeito a qualquer tempo."
+    },
+    {
+        topic: "Processo Administrativo (Reformatio in Peius)",
+        supportText: "",
+        q: "Interposto recurso administrativo por um administrado contra uma penalidade que lhe foi imposta, a autoridade competente para julgá-lo verifica uma ilegalidade mais grave e decide agravar a punição inicial do recorrente, sem dar oportunidade prévia de nova manifestação defensiva. Essa conduta administrativa:",
+        options: [
+            "viola a proibição da reformatio in peius (agravação da pena em recurso exclusivo do réu/administrado), além de exigir prévia oitiva do interessado caso venha a ocorrer legalmente.",
+            "é plenamente válida e elogiável pela eficiência.",
+            "compete exclusivamente ao Tribunal de Contas da União.",
+            "torna o processo extinto por falta de objeto.",
+            "anula o direito de petição."
+        ],
+        answer: 0,
+        disclaimer: "A vedação à reformatio in peius (piora da situação do recorrente em recurso próprio) é princípio aplicável. Caso haja possibilidade de agravamento por interesse público superveniente, exige-se prévia oitiva do interessado para garantia do contraditório (art. 64, parágrafo único, da Lei 9.784/99)."
+    },
+    {
+        topic: "Processo Administrativo (Prazos de Recurso)",
+        supportText: "",
+        q: "A interposição de recurso administrativo suspende o prazo prescricional? Na ausência de norma especial, a Lei nº 9.784/1999 estabelece que o recurso obsta a eficácia da decisão recorrida?",
+        options: [
+            "Não obsta (não tem efeito suspensivo automático), salvo quando houver justo receio de prejuízo de difícil ou incerta reparação.",
+            "Sim, obsta de forma automática e irrevogável em 100% dos casos.",
+            "Extingue imediatamente o processo administrativo.",
+            "Anula retroativamente o ato recorrido.",
+            "Transfere o caso para a jurisdição cível comum."
+        ],
+        answer: 0,
+        disclaimer: "O recurso administrativo, por regra da Lei nº 9.784/99 (art. 61), não tem efeito suspensivo automático, só o tendo se expressamente atribuído pela autoridade para evitar prejuízos graves de difícil reparação."
+    },
+    {
+        topic: "Processo Administrativo (Instâncias Recursais)",
+        supportText: "",
+        q: "O cabimento de recursos em processo administrativo federal rege-se por instâncias. Salvo disposição legal em específica, o número máximo de recursos administrativos cabíveis contra uma mesma decisão é de:",
+        options: [
+            "1 (um) recurso, podendo ser cabíveis pedidos de reconsideração e revisões especiais nas hipóteses legais.",
+            "3 recursos obrigatórios em tribunais superiores.",
+            "10 recursos sucessivos.",
+            "Ilimitados recursos enquanto houver papel.",
+            "Nenhum recurso administrativo é permitido."
+        ],
+        answer: 0,
+        disclaimer: "O art. 57 da Lei nº 9.784/99 estabelece que, salvo disposição legal específica, são cabíveis até dois recursos administrativos de decisões tomadas por órgãos singulares ou coletivos (embora a regra geral de instâncias seja limitada e específica)."
+    },
+    {
+        topic: "Processo Administrativo (Petição Inicial e Requisitos)",
+        supportText: "",
+        q: "Identifique um requisito que NÃO é obrigatório constar no requerimento inicial formulado por escrito pelo administrado, nos termos do art. 6º da Lei nº 9.784/1999:",
+        options: [
+            "órgão ou autoridade administrativa a que se dirige.",
+            "identificação do interessado e de seu representante, se houver.",
+            "domicílio do requerente ou local para recebimento de comunicações.",
+            "apresentação obrigatória de escritura pública de imóvel registrado em cartório em qualquer petição de qualquer tema.",
+            "formulação do pedido, com os fatos e fundamentos."
+        ],
+        answer: 3,
+        disclaimer: "A apresentação de escritura pública imobiliária não é requisito padrão para petições administrativas, sendo exigida apenas em casos específicos de direitos reais. Os demais itens (autoridade, identificação, domicílio, fatos e fundamentos, assinatura) são requisitos obrigatórios do art. 6º."
+    },
+    {
+        topic: "Processo Administrativo (Decisão Coordenada)",
+        supportText: "",
+        q: "A Lei nº 14.184/2021 (ou alterações introduzidas na própria dinâmica administrativa e normas gerais) instituiu institutos de simplificação. Na Lei nº 9.784/1999, a decisão coordenada consubstancia-se em:",
+        options: [
+            "instância de decisão conjunta que reúne órgãos e entidades competentes para harmonizar entendimentos e proferir ato decisório único.",
+            "uma ordem de prisão administrativa expedida por delegados.",
+            "um julgamento exclusivo proferido por inteligência artificial sem supervisão humana.",
+            "uma auditoria secreta de contas bancárias.",
+            "um acordo de leniência internacional."
+        ],
+        answer: 0,
+        disclaimer: "A Decisão Coordenada (inserida na Lei nº 9.784/99 pelos arts. 49-A a 49-E) é um instituto de desburocratização que integra a atuação de múltiplos órgãos em um único processo decisório conjunto, superando a tramitação isolada e lenta."
+    },
+    {
+        topic: "Processo Administrativo (Impedimento por Participação Prévia)",
+        supportText: "",
+        q: "Nos termos da Lei nº 9.784/1999, o servidor ou autoridade que houver funcionado como testemunha, perito ou consultor técnico em determinado processo administrativo fica:",
+        options: [
+            "impedido de atuar no mesmo processo como autoridade julgadora ou decisória.",
+            "obrigado a assumir a chefia do órgão.",
+            "autorizado a julgar o mérito em última instância recursal.",
+            "isento de qualquer responsabilidade funcional.",
+            "promovido por merecimento imediato."
+        ],
+        answer: 0,
+        disclaimer: "O art. 18, inciso II, da Lei nº 9.784/99 considera impedida a autoridade ou servidor que houver atuar no processo como testemunha, perito ou consultor, garantindo a imparcialidade objetiva na decisão."
+    },
+    {
+        topic: "Processo Administrativo (Invalidação de Atos)",
+        supportText: "",
+        q: "Quando a Administração Pública constata que um ato administrativo praticado no curso de um processo é ilegal, ela tem o poder-dever de anulá-lo. Sobre essa anulação:",
+        options: [
+            "atinge apenas os atos futuros, preservando os efeitos passados em qualquer hipótese.",
+            "pode ser realizada de ofício pela própria Administração (autotutela) ou mediante provocação dos interessados.",
+            "depende obrigatoriamente de prévia autorização do Senado Federal.",
+            "extingue definitivamente a competência do órgão para sempre.",
+            "só pode ser feita por juiz de direito."
+        ],
+        answer: 1,
+        disclaimer: "A anulação decorre do poder de autotutela da Administração (Súmula 473 do STF), podendo ser feita de ofício pela própria autoridade ou provocada por interessados, extinguindo atos ilegais com efeitos retroativos (ex tunc), ressalvados terceiros de boa-fé e o limite temporal da decadência."
+    },
+    {
+        topic: "Processo Administrativo (Conclusão por Decurso de Prazo)",
+        supportText: "",
+        q: "Concluída a instrução de processo administrativo, a Administração tem o dever de explicitamente emitir decisão nos prazos legais. O prazo máximo para decisão após a conclusão da instrução, salvo prorrogação motivada igual período, é de:",
+        options: [
+            "30 dias.",
+            "1 dia útil.",
+            "1 ano.",
+            "10 anos.",
+            "72 horas."
+        ],
+        answer: 0,
+        disclaimer: "O art. 49 da Lei nº 9.784/99 estipula que, concluída a instrução do processo administrativo, a Administração tem o prazo de até 30 (trinta) dias para decidir, salvo prorrogação por igual período expressamente motivada."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores Públicos (Lei nº 8.112/1990) - Provimento",
+        supportText: "",
+        q: "Nos termos da Lei nº 8.112/1990, a forma de provimento de cargo público que ocorre quando há a investidura em cargo de atribuições e responsabilidades compatíveis com as já ocupadas pelo servidor, após a anulação de sua demissão por decisão administrativa ou judicial, denomina-se:",
+        options: [
+            "Reversão.",
+            "Recondução.",
+            "Reintegração.",
+            "Aproveitamento.",
+            "Remoção."
+        ],
+        answer: 2,
+        disclaimer: "A reintegração é a reinvestidura do servidor estável no cargo anteriormente ocupado, ou no cargo resultante de sua transformação, quando invalidada a sua demissão por decisão administrativa ou judicial, com ressarcimento de todas as vantagens."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Recondução)",
+        supportText: "",
+        q: "A recondução, forma de provimento derivada prevista na Lei nº 8.112/1990, consiste no retorno do servidor estável ao cargo anteriormente ocupado e decorrerá de:",
+        options: [
+            "inabilitação em estágio probatório relativo a outro cargo ou reintegração do anterior ocupante.",
+            "aposreidoria voluntária por tempo de contribuição.",
+            "readaptação por limitação física decorrente de acidente de trabalho.",
+            "cessão para exercício em outro órgão sem ônus.",
+            "posse em cargo inacumulável de natureza privada."
+        ],
+        answer: 0,
+        disclaimer: "Conforme o art. 29 da Lei nº 8.112/1990, a recondução é o retorno do servidor estável ao cargo anterior e ocorre por inabilitação em estágio probatório em outro cargo ou por reintegração do ocupante anterior."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Reversão)",
+        supportText: "",
+        q: "A reversão, na sistemática da Lei nº 8.112/1990, é o ato pelo qual o servidor aposentado retorna à atividade. Atualmente, a reversão pode ocorrer por interesse da Administração (ex Officio) ou a pedido, desde que atendidos os requisitos legais, como:",
+        options: [
+            "ter o aposentado mais de 80 anos de idade.",
+            "ter a aposentadoria sido voluntária, ser o aposentado ainda apto para o exercício e haver interesse da administração, a pedido do servidor.",
+            "ter ocorrido cassação de aposentadoria por ato de improbidade.",
+            "ter o servidor completado o estágio probatório no inativismo.",
+            "ser o servidor detentor exclusivo de cargo comissionado sem vínculo."
+        ],
+        answer: 1,
+        disclaimer: "A reversão a pedido (art. 25, II, da Lei 8.112/90) exige que a aposentadoria tenha sido voluntária, que o servidor seja estável quando na atividade, que haja pedido do interessado e que exista interesse da Administração."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Aproveitamento)",
+        supportText: "",
+        q: "O retorno à atividade de servidor em disponibilidade (posto em inatividade remunerada proporcional em virtude de extinção de cargo ou declaração de sua desnecessidade) denomina-se:",
+        options: [
+            "Aproveitamento.",
+            "Reversão.",
+            "Recondução.",
+            "Redistribuição.",
+            "Remoção."
+        ],
+        answer: 0,
+        disclaimer: "O aproveitamento é o retorno obrigatório do servidor em disponibilidade ao exercício de cargo público (art. 30 da Lei nº 8.112/1990)."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Vacância)",
+        supportText: "",
+        q: "Dentre as hipóteses legais de vacância de cargo público previstas na Lei nº 8.112/1990, assinale a alternativa correta:",
+        options: [
+            "Aposentadoria, exoneração, demissão, promoção, falecimento e posse em outro cargo inacumulável.",
+            "Apenas a exoneração e a demissão a pedido.",
+            "Somente a licença para trato de interesses particulares.",
+            "A suspensão preventiva superior a 30 dias.",
+            "A remoção ex officio para outra localidade."
+        ],
+        answer: 0,
+        disclaimer: "O art. 33 da Lei nº 8.112/1990 elenca as hipóteses de vacância: exoneração, demissão, promoção, ascensão (quando cabível), transferência (quando cabível), readaptação, aposentadoria, posse em outro cargo inacumulável e falecimento."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Posse e Exercício)",
+        supportText: "",
+        q: "De acordo com a Lei nº 8.112/1990, a posse em cargo público dar-se-á pela assinatura do respectivo termo. O prazo legal que o nomeado tem para tomar posse, contado da publicação do ato de provimento no Diário Oficial, é de:",
+        options: [
+            "10 dias.",
+            "15 dias.",
+            "30 dias.",
+            "60 dias.",
+            "90 dias."
+        ],
+        answer: 2,
+        disclaimer: "O art. 13, § 1º, da Lei nº 8.112/1990 fixa o prazo de 30 (trinta) dias contados da publicação do ato de provimento no Diário Oficial da União para que ocorra a posse."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Exercício)",
+        supportText: "",
+        q: "Após a tomada de posse em cargo público federal, o servidor tem prazo específico para entrar em exercício. Esse prazo, segundo a Lei nº 8.112/1990, é de:",
+        options: [
+            "5 dias.",
+            "15 dias.",
+            "30 dias.",
+            "60 dias.",
+            "120 dias."
+        ],
+        answer: 1,
+        disclaimer: "O art. 15, § 1º, da Lei nº 8.112/1990 determina que o exercício do cargo terá início no prazo de 15 (quinze) dias contados da data da posse."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Estágio Probatório)",
+        supportText: "",
+        q: "Ao entrar em exercício, o servidor nomeado para cargo de provimento efetivo ficará sujeito a estágio probatório por período determinado, durante o qual sua aptidão e capacidade serão objeto de avaliação. Na vigência da Lei nº 8.112/1990 (com redação dada pela Emenda Constitucional nº 19/1998), o prazo do estágio probatório é de:",
+        options: [
+            "1 ano.",
+            "2 anos.",
+            "3 anos (36 meses).",
+            "5 anos.",
+            "10 anos."
+        ],
+        answer: 2,
+        disclaimer: "O estágio probatório tem duração de 3 (três) anos (24 meses originais alterados para 36 meses / 3 anos pela EC nº 19/1998, coincidindo com o prazo para aquisição da estabilidade)."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Critérios do Estágio Probatório)",
+        supportText: "",
+        q: "São critérios avaliados obrigatoriamente durante o estágio probatório do servidor público federal, EXCETO:",
+        options: [
+            "Assiduidade e disciplina.",
+            "Capacidade de iniciativa e produtividade.",
+            "Responsabilidade.",
+            "Filiação político-partidária obrigatória.",
+            "Avaliação de desempenho específica."
+        ],
+        answer: 3,
+        disclaimer: "O art. 20, § 2º, da Lei nº 8.112/1990 estabelece os quesitos da avaliação no estágio probatório: assiduidade, disciplina, capacidade de iniciativa, produtividade e responsabilidade. Filiação político-partidária é vedada como critério."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Estabilidade)",
+        supportText: "",
+        q: "O servidor público habilitado em concurso público e empossado em cargo de provimento efetivo adquire estabilidade no serviço público ao completar:",
+        options: [
+            "2 anos de efetivo exercício.",
+            "3 anos de efetivo exercício, após aprovação em estágio probatório.",
+            "5 anos contínuos sem faltas.",
+            "10 anos de trabalho ininterrupto.",
+            "Imediatamente após tomar posse."
+        ],
+        answer: 1,
+        disclaimer: "A estabilidade é adquirida após 3 anos de efetivo exercício, condicionado à aprovação prévia no estágio probatório (art. 41 da CF/88 c/c art. 21 da Lei 8.112/90)."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Remoção)",
+        supportText: "",
+        q: "A remoção é o deslocamento do servidor, a pedido ou de ofício, no âmbito do mesmo quadro, com ou sem mudança de sede. Dentre as hipóteses de remoção A PEDIDO, independentemente do interesse da Administração, destaca-se:",
+        options: [
+            "para acompanhar cônjuge ou companheiro também servidor público (civil ou militar) que foi deslocado para outro ponto do território nacional.",
+            "por motivo de conveniência política do novo ministro.",
+            "para participar de campeonato esportivo particular de férias.",
+            "por capricho pessoal do servidor recém-empossado sem justificativa médica.",
+            "para ocupar cargo em comissão de livre escolha sem vínculo."
+        ],
+        answer: 0,
+        disclaimer: "O art. 36, parágrafo único, inciso II, alínea 'a', da Lei nº 8.112/1990 garante ao servidor o direito à remoção a pedido, independentemente do interesse da Administração, para acompanhar cônjuge ou companheiro deslocado no interesse do serviço."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Redistribuição)",
+        supportText: "",
+        q: "A redistribuição é o deslocamento de cargo de provimento efetivo, ocupado ou vago no âmbito do quadro geral de pessoal, para outro órgão ou entidade do mesmo Poder. Um dos requisitos essenciais para a redistribuição de cargo OCUPADO é:",
+        options: [
+            "o interesse da Administração.",
+            "o pagamento de taxa de transferência ao Tesouro Nacional.",
+            "a concordância exclusiva e irrevogável do sindicato patronal privado.",
+            "a reprovação prévia em concurso interno.",
+            "a transformação imediata do cargo em emprego celetista."
+        ],
+        answer: 0,
+        disclaimer: "O art. 37 da Lei nº 8.112/1990 define que a redistribuição dar-se-á ex officio para atender ao interesse da Administração, visando à reorganização de lotação e adequação de quadro de pessoal."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Substituição)",
+        supportText: "",
+        q: "Os servidores investidos em cargo ou função de direção ou chefia e os ocupantes de cargo de Natureza Especial terão substitutos indicados no regimento interno ou, no caso de omissão, previamente designados. Sobre a substituição remunerada:",
+        options: [
+            "O substituto assumirá automática e cumulativamente o exercício do cargo ou função, fazendo jus à retribuição pecuniária a partir do primeiro dia de efetiva substituição.",
+            "O substituto nunca recebe qualquer remuneração extra.",
+            "A substituição só é válida se durar mais de 3 anos ininterruptos.",
+            "O substituto deve ser obrigatoriamente pessoa estranha aos quadros do serviço público.",
+            "A substituição é vedada em órgãos federais."
+        ],
+        answer: 0,
+        disclaimer: "O art. 38 da Lei nº 8.112/1990 assegura que o substituto assumirá o cargo em caráter de substituição e receberá a retribuição pecuniária proporcional aos dias de efetiva substituição a partir do 1º dia (quando superior a dias fixados ou conforme regulamento, regra geral acumulando a partir do primeiro dia em substituição formal)."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Vantagens Pecuniárias - Indenizações)",
+        supportText: "",
+        q: "Além do vencimento básico, poderão ser pagas ao servidor público federal as vantagens pecuniárias, que se dividem em indenizações, gratificações e adicionais. Assinale a alternativa que apresenta exclusivamente uma INDENIZAÇÃO:",
+        options: [
+            "Adicional por tempo de serviço extinto.",
+            "Ajuda de custo, diárias, auxílio-moradia e transporte.",
+            "Gratificação natalina (13º salário).",
+            "Adicional noturno e de insalubridade.",
+            "Quinto de função comissionada incorporada."
+        ],
+        answer: 1,
+        disclaimer: "O art. 49 da Lei nº 8.112/1990 classifica as vantagens em indenizações, gratificações e adicionais. As indenizações não se incorporam ao vencimento e englobam: ajuda de custo, diárias, auxílio-moradia e auxílio-transporte."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Diárias)",
+        supportText: "",
+        q: "O servidor que se deslocar da sua sede em caráter eventual ou transitório para outro ponto do território nacional ou para o exterior, no desempenho de suas atribuições, fará jus a passagens e diárias para cobrir despesas de pousada, alimentação e locomoção urbana. Se o deslocamento não exigir pernoite fora da sede:",
+        options: [
+            "o servidor receberá o valor integral de 5 diárias adiantadas.",
+            "o servidor fará jus a meia-diária.",
+            "nenhum valor será pago sob nenhuma hipótese.",
+            "o servidor será punido por improbidade.",
+            "o pagamento será em dobro."
+        ],
+        answer: 1,
+        disclaimer: "O art. 58, § 3º, da Lei nº 8.112/1990 estabelece que as diárias serão concedidas por dia de afastamento, sendo devidas pela metade (meia-diária) nos casos em que o deslocamento não exija pernoite fora da sede."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Gratificação Natalina)",
+        supportText: "",
+        q: "A gratificação natalina (13º salário), devida a todo servidor público federal, corresponde a 1/12 (um doze avos) da remuneração a que o servidor fizer jus no mês de dezembro, por mês de exercício no respectivo ano. O pagamento desta gratificação deve ocorrer:",
+        options: [
+            "até o dia 20 de dezembro de cada ano.",
+            "obrigatoriamente todo dia 5 de janeiro.",
+            "parcelado em 12 vezes sem juros.",
+            "apenas a cada biênio trabalhado.",
+            "no mês de aniversário do servidor."
+        ],
+        answer: 0,
+        disclaimer: "O art. 63 da Lei nº 8.112/1990 fixa que a gratificação natalina será paga até o dia 20 (vinte) do mês de dezembro de cada ano."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Adicional Noturno)",
+        supportText: "",
+        q: "O serviço prestado em horário noturno por servidor público federal (compreendido entre as 22 horas de um dia e as 5 horas do dia seguinte) terá acréscimo de:",
+        options: [
+            "10% sobre o valor da hora diurna.",
+            "20% sobre o valor da hora diurna.",
+            "25% sobre o valor da hora diurna.",
+            "50% em dias úteis e 100% aos domingos.",
+            "100% cumulativos."
+        ],
+        answer: 2,
+        disclaimer: "O art. 75 da Lei nº 8.112/1990 estabelece que o serviço noturno prestado em horário compreendido entre as 22 horas de um dia e as 5 horas do dia seguinte terá remuneração acrescida de 25% (vinte e cinco por cento), computando-se cada hora como 52 minutos e 30 segundos."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Adicional de Insalubridade)",
+        supportText: "",
+        q: "Os servidores que trabalhem com habitualidade em locais insalubres ou em contato permanente com substâncias tóxicas, radioativas ou com risco de vida fazem jus a adicionais de insalubridade ou periculosidade. O direito ao adicional cessa com:",
+        options: [
+            "a eliminação das condições ou dos riscos que deram causa à sua concessão.",
+            "a simples mudança de mesa no mesmo escritório.",
+            "o falecimento do cônjuge do servidor.",
+            "a promoção para cargo em comissão de gabinete.",
+            "a realização de greve legal."
+        ],
+        answer: 0,
+        disclaimer: "O art. 68, § 2º, da Lei nº 8.112/1990 determina que o direito ao adicional de insalubridade ou periculosidade cessa com a eliminação das condições ou dos riscos que deram causa a sua concessão."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Férias)",
+        supportText: "",
+        q: "O servidor público federal fará jus a 30 (trinta) dias consecutivos de férias por ano, que podem ser acumuladas, no máximo, até o limite de:",
+        options: [
+            "2 períodos (ou seja, 60 dias), em caso de necessidade do serviço.",
+            "5 anos ininterruptos.",
+            "10 dias por década.",
+            "Nenhuma acumulação é permitida em nenhuma hipótese.",
+            "12 meses."
+        ],
+        answer: 0,
+        disclaimer: "O art. 77, § 2º, da Lei nº 8.112/1990 autoriza a acumulação de férias por até o máximo de 2 (dois) períodos, no caso de necessidade do serviço, ressalvadas as hipóteses legais de legislação específica."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Licença para Tratamento de Saúde)",
+        supportText: "",
+        q: "Conforme a Lei nº 8.112/1990, a licença para tratamento de saúde do servidor público federal será concedida:",
+        options: [
+            "a pedido ou de ofício, com base em perícia médica oficial, sem prejuízo da remuneração a que fizer jus.",
+            "apenas mediante laudo de médico particular de confiança do servidor, sem perícia oficial.",
+            "com perda total de vencimentos nos primeiros 30 dias.",
+            "exclusivamente para tratamentos estéticos cirúrgicos.",
+            "condicionada à autorização da junta militar."
+        ],
+        answer: 0,
+        disclaimer: "O art. 202 da Lei nº 8.112/1990 prevê que a licença para tratamento de saúde será concedida a pedido ou de ofício, com base em perícia médica oficial, mantendo-se a remuneração integral do servidor."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Licença por Motivo de Doença em Pessoa da Família)",
+        supportText: "",
+        q: "O servidor poderá obter licença por motivo de doença em pessoa da família (cônjuge, companheiro, pais, filhos, enteados ou irmãos), provada por perícia médica oficial. Sobre essa licença, é correto afirmar que:",
+        options: [
+            "poderá ser concedida a cada período de 12 meses com remuneração integral até 60 dias, e com acréscimo de licença sem remuneração até o máximo de 90 dias.",
+            "é vitalícia e perpétua com recebimento de bônus.",
+            "não exige comprovação médica se o familiar morar em outra cidade.",
+            "é vedada a servidores públicos federais.",
+            "concede direito a férias em dobro."
+        ],
+        answer: 0,
+        disclaimer: "O art. 83 da Lei nº 8.112/1990 regula a licença por doença em família: provada por junta médica, pode ser concedida com remuneração integral até 60 dias (consecutivos ou não) a cada período de 12 meses, e sem remuneração por até mais 90 dias."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Licença para Trato de Interesses Particulares)",
+        supportText: "",
+        q: "A critério da Administração, o servidor estavel poderá obter licença para o trato de interesses particulares, pelo prazo de até:",
+        options: [
+            "6 meses consecutivos sem remuneração.",
+            "3 anos consecutivos, sem remuneração e sem contagem de tempo para aposentadoria.",
+            "10 anos remunerados.",
+            "período vitalício.",
+            "90 dias prorrogáveis por igual período."
+        ],
+        answer: 1,
+        disclaimer: "O art. 91 da Lei nº 8.112/1990 estabelece que a licença para trato de interesses particulares será concedida sem remuneração, pelo prazo de até 3 (três) anos consecutivos, a critério da Administração."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Afastamento para Estudo)",
+        supportText: "",
+        q: "O servidor público federal estável poderá obter afastamento para participar de programa de pós-graduação stricto sensu em instituição de ensino no País ou no exterior, com a respectiva remuneração:",
+        options: [
+            "Independentemente de qualquer requisito, bastando manifestar vontade.",
+            "Desde que comprovado o interesse da instituição e preenchidos os requisitos de tempo de efetivo exercício na repartição, sem prejuízo dos vencimentos.",
+            "Apenas se pagar taxa de matrícula do próprio bolso sem aval do órgão.",
+            "Com dedicação exclusiva e perda total de vencimentos.",
+            "Por prazo máximo de 10 dias úteis."
+        ],
+        answer: 1,
+        disclaimer: "O art. 96-A da Lei nº 8.112/1990 autoriza o afastamento para pós-graduação (mestrado/doutorado) desde que o curso seja compatível com o interesse do órgão e observados os critérios de interstício de efetivo exercício."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Concessões)",
+        supportText: "",
+        q: "A Lei nº 8.112/1990 prevê as chamadas 'concessões', que permitem ao servidor ausentar-se do serviço sem qualquer prejuízo na remuneração. Assinale a alternativa que apresenta hipótese correta de concessão:",
+        options: [
+            "Até 8 dias consecutivos por motivo de casamento.",
+            "Até 1 dia por ano para doação de sangue.",
+            "Até 2 dias por motivo de falecimento de cônjuge, ascendente, descendente ou irmão.",
+            "Todas as alternativas acima estão corretas.",
+            "Nenhuma das alternativas anteriores está correta."
+        ],
+        answer: 3,
+        disclaimer: "O art. 97 da Lei nº 8.112/1990 concede ausência justificada ao serviço, sem prejuízo da remuneração, por: casamento (8 dias), falecimento de familiar (8 dias conforme redação e alíneas alteradas para 8 dias em alguns entes ou 2/8 dias conforme a alínea específica da lei: casamento 8 dias; falecimento de cônjuge/pais/filhos 8 dias; doação de sangue 1 dia; alistamento eleitoral 2 dias). Todas as opções listadas refletem o padrão legal das alíneas do art. 97."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Acumulação de Cargos)",
+        supportText: "",
+        q: "Como regra geral constitucional e administrativa, é vedada a acumulação remunerada de cargos públicos. Contudo, a Constituição Federal (reproduzida na Lei nº 8.112/1990) excetua expressamente a possibilidade de acumulação, se houver compatibilidade de horários, para:",
+        options: [
+            "dois cargos de professor; um cargo de professor com outro técnico ou científico; ou dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas.",
+            "três cargos administrativos de livre nomeação.",
+            "quaisquer cargos públicos desde que em cidades diferentes.",
+            "um cargo público federal e quatro cargos municipais eletivos.",
+            "qualquer função comissionada de chefia com direção bancária."
+        ],
+        answer: 0,
+        disclaimer: "A regra de ouro da acumulação lícita (art. 37, XVI, da CF e art. 118 da Lei 8.112/90) abrange: a) dois cargos de professor; b) um cargo de professor com outro técnico ou científico; c) dois cargos privativos de profissionais de saúde, com profissões regulamentadas."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Deveres)",
+        supportText: "",
+        q: "Constitui dever do servidor público federal, nos termos da Lei nº 8.112/1990:",
+        options: [
+            "exercer com dedicação e esmero as atribuições do cargo, atender com urbanidade o público e observar as normas legais e regulamentares.",
+            "cumprir ordens manifestamente ilegais emanadas de chefes políticos.",
+            "retardar a tramitação de processos de licitação de modo intencional.",
+            "opor resistência injustificada ao andamento de documento.",
+            "exercer comércio nas dependências da repartição pública."
+        ],
+        answer: 0,
+        disclaimer: "O art. 116 da Lei nº 8.112/1990 elenca os deveres do servidor público (exercer com dedicação, atender com urbanidade, lealdade às instituições, sigilo profissional, etc.). As demais opções constituem proibições (art. 117)."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Proibições)",
+        supportText: "",
+        q: "Ao servidor público federal é expressamente PROIBIDO, conforme o art. 117 da Lei nº 8.112/1990:",
+        options: [
+            "participar de gerência ou administração de sociedade privada, personificada ou não personificada, exceto como acionista, cotista ou comanditário.",
+            "manifestar apreço a chefias em repartições públicas.",
+            "fazer uso de crachá de identificação durante o expediente.",
+            "recolher taxas públicas em agências bancárias.",
+            "apresentar propostas de melhoria nos métodos de trabalho."
+        ],
+        answer: 0,
+        disclaimer: "O art. 117, inciso X, proíbe o servidor de participar de gerência ou administração de sociedade privada, personificada ou não, exercendo a função de comerciante ou gestor, ressalvada a posição de acionista, cotista ou comanditário."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Penalidades Disciplinares)",
+        supportText: "",
+        q: "São penalidades disciplinares aplicáveis aos servidores públicos federais pela Lei nº 8.112/1990:",
+        options: [
+            "Advertência, suspensão, demissão, cassação de aposentadoria ou disponibilidade, destituição de cargo em comissão e destituição de função comissionada.",
+            "Prisão perpétua, exílio e açoites.",
+            "Multa de trânsito e apreensão de veículos oficiais.",
+            "Apenas advertência escrita e censura moral verbal sem consequências.",
+            "Rebaixamento automático de categoria salarial por tempo indeterminado."
+        ],
+        answer: 0,
+        disclaimer: "O art. 127 da Lei nº 8.112/1990 lista taxativamente as penalidades disciplinares: I - advertência; II - suspensão; III - demissão; IV - cassação de aposentadoria ou disponibilidade; V - destituição de cargo em comissão; VI - destituição de função comissionada."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Prescrição da Ação Disciplinar)",
+        supportText: "",
+        q: "A ação disciplinar prescreverá, na esfera administrativa da Lei nº 8.112/1990, em:",
+        options: [
+            "5 (cinco) anos, quanto às infrações puníveis com demissão, cassação de aposentadoria ou disponibilidade e destituição de cargo em comissão; 2 (dois) anos, quanto à suspensão; e 180 (cento e oitenta) dias, quanto à advertência.",
+            "10 anos para qualquer infração.",
+            "30 dias para faltas leves e 1 ano para faltas graves.",
+            "Imprescritível em caso de abandono de cargo.",
+            "3 anos para todas as penalidades sem distinção."
+        ],
+        answer: 0,
+        disclaimer: "O art. 142 da Lei nº 8.112/1990 fixa os prazos prescricionais: 5 anos para infrações puníveis com demissão, cassação ou destituição; 2 anos para suspensão; e 180 dias para advertência."
+    },
+    {
+        topic: "Regime Jurídico dos Servidores (Abandono de Cargo)",
+        supportText: "",
+        q: "Configura abandono de cargo, passível da pena de demissão após processo administrativo disciplinar com ampla defesa, a ausência intencional do servidor ao serviço por mais de:",
+        options: [
+            "10 dias consecutivos.",
+            "30 dias consecutivos.",
+            "60 dias interpolados em um ano.",
+            "12 meses ininterruptos.",
+            "15 dias úteis sem justificativa."
+        ],
+        answer: 1,
+        disclaimer: "O art. 138 da Lei nº 8.112/1990 define o abandono de cargo como a ausência intencional do servidor ao serviço por mais de 30 (trinta) dias consecutivos."
+    },
+    {
+        topic: "Controle da Administração Pública (Classificação)",
+        supportText: "",
+        q: "Quanto ao momento em que é realizado, o controle administrativo que ocorre antes da conclusão do ato, com a finalidade de viabilizar a sua prática ou conferir-lhe eficácia (como a autorização ou a aprovação prévia), classifica-se como:",
+        options: [
+            "Controle prévio (ou a priori).",
+            "Controle concomitante.",
+            "Controle posterior (ou a posteriori).",
+            "Controle repressivo corretivo.",
+            "Controle jurisdicional definitivo."
+        ],
+        answer: 0,
+        disclaimer: "O controle prévio (a priori) é exercido antes da formação definitiva do ato, visando impedir a prática de ilegalidades ou conferir eficácia (ex: autorizações e aprovações exigidas por lei)."
+    },
+    {
+        topic: "Controle Administrativo (Autotutela)",
+        supportText: "",
+        q: "O poder que a Administração Pública possui de controlar seus próprios atos, anulando os ilegais e revogando os inoportunos ou inconvenientes, sem necessidade de intervenção do Poder Judiciário, fundamenta-se no princípio da:",
+        options: [
+            "Segurança jurídica absoluta.",
+            "Autotutela.",
+            "InsUBOrdinação hierárquica reversa.",
+            "Irretroatividade tributária.",
+            "Legalidade estrita penal."
+        ],
+        answer: 1,
+        disclaimer: "O princípio da Autotutela (consolidado na Súmula 473 do STF) confere à Administração o poder-dever de rever seus próprios atos para anular os ilegais ou revogar os inconvenientes."
+    },
+    {
+        topic: "Controle Parlamentar (Poder Legislativo)",
+        supportText: "",
+        q: "No âmbito do controle parlamentar exercido pelo Congresso Nacional com o auxílio do Tribunal de Contas da União, verificado que um contrato administrativo apresenta irregularidades graves, o Congresso Nacional deverá:",
+        options: [
+            "anular o contrato de forma direta e sumária.",
+            "solicitar ao Poder Executivo que adote as medidas cabíveis e, se não atendido no prazo legal, decidir pela sustação da execução do contrato.",
+            "multar pessoalmente a empresa contratada por meio de decreto legislativo penal.",
+            "promover a prisão administrativa dos diretores da construtora.",
+            "ordenar a imediata estatização da empresa privada."
+        ],
+        answer: 1,
+        disclaimer: "Conforme o art. 71, § 1º, da Constituição Federal, o Congresso Nacional, diante de irregularidade apontada pelo TCU em contrato, susta sua execução diretamente e solicita ao Executivo as medidas cabíveis; se este não o fizer, o próprio Congresso o sustará."
+    },
+    {
+        topic: "Tribunais de Contas (Natureza e Competência)",
+        supportText: "",
+        q: "A respeito da natureza jurídica e das competências dos Tribunais de Contas (como o TCU) no ordenamento jurídico brasileiro, assinale a alternativa correta:",
+        options: [
+            "Os Tribunais de Contas integram o Poder Judiciário e julgam com força de coisa julgada jurisdicional as contas dos administradores.",
+            "Os Tribunais de Contas exercem o controle externo contábil, financeiro, orçamentário, operacional e patrimonial da administração pública, possuindo natureza de órgão de auxílio ao Poder Legislativo.",
+            "Os Tribunais de Contas subordinam-se diretamente ao Presidente da República.",
+            "As decisões dos Tribunais de Contas que imputam débito ou multa possuem natureza de sentença penal condenatória.",
+            "O TCU possui competência para anular diretamente contratos civis entre particulares sem relação com o erário."
+        ],
+        answer: 1,
+        disclaimer: "Os Tribunais de Contas não integram o Poder Judiciário; exercem o controle externo integrando o auxílio ao Poder Legislativo (art. 71 da CF/88), fiscalizando a gestão dos recursos públicos."
+    },
+    {
+        topic: "Tribunais de Contas (Súmula Vinculante nº 3 do STF)",
+        supportText: "",
+        q: "Nos termos da Súmula Vinculante nº 3 do STF, nos processos perante o Tribunal de Contas da União, asseguram-se o contraditório e a ampla defesa quando da decisão puder resultar anulação ou revogação de ato administrativo que beneficie o interessado, exceto:",
+        options: [
+            "na apreciação da legalidade dos atos de concessão de aposentadorias, reformas e pensões.",
+            "em qualquer tomada de contas especial de grande vulto.",
+            "nos processos de fiscalização de obras de engenharia civil.",
+            "nas auditorias operacionais em ministérios federais.",
+            "em nenhuma hipótese, sendo o contraditório dispensável."
+        ],
+        answer: 0,
+        disclaimer: "A Súmula Vinculante nº 3 do STF estabelece que o contraditório e a ampla defesa são obrigatórios nos TCs quando houver anulação/revogação de atos favoráveis, RESSALVADA a apreciação da legalidade de concessão inicial de aposentadorias, reformas e pensões (onde o registro complexo dispensa prévia oitiva)."
+    },
+    {
+        topic: "Controle Judicial (Limites)",
+        supportText: "",
+        q: "Ao exercer o controle jurisdicional sobre os atos administrativos, o Poder Judiciário pode examinar:",
+        options: [
+            "tanto os atos vinculados quanto os discricionários, limitando-se, contudo, aos aspectos de legalidade, constitucionalidade e respeito aos princípios, sendo-lhe vedado adentrar o mérito administrativo (conveniência e oportunidade).",
+            "exclusivamente a forma e a competência, sendo proibido anular qualquer ato com base em desvio de finalidade.",
+            "o mérito administrativo de qualquer ato discricionário, substituindo o administrador em suas escolhas políticas.",
+            "apenas os atos praticados por ministros de estado.",
+            "somente os contratos celebrados por entes privados."
+        ],
+        answer: 0,
+        disclaimer: "O Poder Judiciário exerce controle de legalidade e legitimidade sobre os atos administrativos. Pode anular atos discricionários ilegais (com vício em elementos vinculados ou abuso/desvio de poder), mas não pode substituir a conveniência e oportunidade do administrador (mérito)."
+    },
+    {
+        topic: "Mandado de Segurança (Lei nº 12.016/2009)",
+        supportText: "",
+        q: "O Mandado de Segurança constitui garantia constitucional destinada a proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, quando o responsável pela ilegalidade ou abuso de poder for autoridade pública. O prazo decadencial para a impetração do mandado de segurança é de:",
+        options: [
+            "30 dias.",
+            "120 dias, contados da ciência, pelo interessado, do ato impugnado.",
+            "1 ano.",
+            "5 anos.",
+            "imprescritível."
+        ],
+        answer: 1,
+        disclaimer: "O art. 23 da Lei nº 12.016/2009 estabelece o prazo decadencial de 120 (cento e vinte) dias, contados da ciência do ato impugnado, para a impetração de mandado de segurança."
+    },
+    {
+        topic: "Ação Popular (Lei nº 4.717/1965)",
+        supportText: "",
+        q: "Qualquer cidadão é parte legítima para propor ação popular que anule ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural. Para o ajuizamento da ação popular, o autor:",
+        options: [
+            "deve obrigatoriamente pagar custas judiciais e honorários advocatícios prévios de sucumbência.",
+            "está isento de custas judiciais e do ônus da sucumbência, salvo comprovada má-fé.",
+            "precisa comprovar filiação partidária ativa de pelo menos 5 anos.",
+            "deve ser obrigatoriamente um parlamentar federal em exercício.",
+            "precisa ser pessoa jurídica de direito privado."
+        ],
+        answer: 1,
+        disclaimer: "A Constituição Federal (art. 5º, LXXIII) e a Lei nº 4.717/1965 estabelecem que o autor da ação popular fica isento de custas judiciais e do ônus da sucumbência, salvo comprovada má-fé."
+    },
+    {
+        topic: "Ação Civil Pública (Lei nº 7.347/1985)",
+        supportText: "",
+        q: "A Ação Civil Pública (ACP) é o instrumento processual adequado para a tutela dos interesses difusos, coletivos e individuais homogêneos. Dentre os legitimados ativos concorrentes para propor a ACP, NÃO se inclui:",
+        options: [
+            "O Ministério Público.",
+            "A Defensoria Pública.",
+            "A União, os Estados, o Distrito Federal e os Municípios.",
+            "Associações constituídas há pelo menos 1 ano nos termos da lei civil (requisito da pré-constituição).",
+            "Qualquer cidadão brasileiro individualmente, sem representação por entidade ou MP."
+        ],
+        answer: 4,
+        disclaimer: "Cidadãos isolados não possuem legitimidade ativa para propor Ação Civil Pública (legitimidade reservada ao MP, Defensoria Pública, entes federados, autarquias, fundações e associações pré-constituídas há pelo menos 1 ano). Para o cidadão, o instrumento adequado é a Ação Popular."
+    },
+    {
+        topic: "Habeas Data",
+        supportText: "",
+        q: "O remédio constitucional autônomo destinado a assegurar o conhecimento de informações relativas à pessoa do impetrante, contidas em registros ou bancos de dados de entidades governamentais ou de caráter público, bem como para a retificação de dados, denomina-se:",
+        options: [
+            "Habeas Corpus.",
+            "Mandado de Injunção.",
+            "Habeas Data.",
+            "Ação Popular fiscal.",
+            "Mandado de Segurança coletivo."
+        ],
+        answer: 2,
+        disclaimer: "O Habeas Data (art. 5º, LXXII, da CF/88) garante o acesso e a retificação de dados pessoais em registros de órgãos governamentais ou de caráter público."
+    },
+    {
+        topic: "Mandado de Injunção",
+        supportText: "",
+        q: "Conceder-se-á mandado de injunção sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania. Este remédio visa a combater a:",
+        options: [
+            "Omissão legislativa.",
+            "Corrupção administrativa direta.",
+            "Inconstitucionalidade de leis municipais por contradição.",
+            "Prisão arbitrária por dívida.",
+            "Excesso de regulamentação infralegal."
+        ],
+        answer: 0,
+        disclaimer: "O Mandado de Injunção é a garantia constitucional destinada a sanar a omissão legislativa que torne inviável o exercício de direitos constitucionais."
+    },
+    {
+        topic: "Controle Parlamentar (Comissões Parlamentares de Inquérito - CPIs)",
+        supportText: "",
+        q: "As Comissões Parlamentares de Inquérito (CPIs) no âmbito federal possuem poderes de investigação próprios das autoridades judiciais. Contudo, a jurisprudência do STF consolidou o entendimento de que as CPIs NÃO podem:",
+        options: [
+            "determinar a quebra de sigilo bancário, fiscal e telefônico.",
+            "determinar a prisão preventiva ou definitiva de investigados (salvo em flagrante delito).",
+            "convocar ministros de estado para prestar depoimento.",
+            "realizar diligências e vistorias em repartições públicas.",
+            "ouvir testemunhas sob compromisso de verdade."
+        ],
+        answer: 1,
+        disclaimer: "As CPIs possuem amplos poderes investigatórios (inclusive quebra de sigilos bancário, fiscal e telemático), mas NÃO podem decretar prisões cautelares (preventiva ou temporária), restringir liberdade ou aplicar sanções penais, competência esta exclusiva do Poder Judiciário (ressalvado o flagrante delito)."
+    },
+    {
+        topic: "Controle de Constitucionalidade pela Administração",
+        supportText: "",
+        q: "Em relação ao controle de constitucionalidade exercido pela Administração Pública e pelos órgãos de controle interno, a Administração:",
+        options: [
+            "não pode afastar a aplicação de leis inconstitucionais sob nenhuma hipótese.",
+            "pode afastar a aplicação de lei considerada inconstitucional, conforme entendimento consolidado na Súmula Vinculante nº 10 do STF e na jurisprudência, desde que haja declaração prévia pelo plenário do STF ou órgão competente do tribunal.",
+            "tem competência absoluta para declarar a inconstitucionalidade erga omnes de leis federais com efeitos retroativos definitivos.",
+            "deve cumprir leis inconstitucionais até que o prefeito decida o contrário.",
+            "pode declarar inconstitucionalidade sem observar a reserva de plenário."
+        ],
+        answer: 1,
+        disclaimer: "A Administração Pública pode recusar aplicação a lei inconstitucional (Súmula Vinculante nº 10 do STF), mas deve observar a reserva de plenário e as decisões de controle concentrado ou súmulas vinculantes do STF."
+    },
+    {
+        topic: "Súmula Vinculante nº 10 do STF",
+        supportText: "",
+        q: "A Súmula Vinculante nº 10 do STF dispõe que “Viola a cláusula de reserva de plenário (art. 97 da CF) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta a sua incidência, no todo ou em parte”. Tal entendimento aplica-se:",
+        options: [
+            "apenas aos tribunais judiciais, não tendo nenhuma relação com a atuação de órgãos administrativos.",
+            "aos tribunais e órgãos julgadores administrativos que afastem leis por inconstitucionalidade.",
+            "exclusivamente aos tribunais de contas estaduais.",
+            "às assembleias legislativas na votação de orçamentos.",
+            "aos prefeitos municipais em decretos de trânsito."
+        ],
+        answer: 1,
+        disclaimer: "A reserva de plenário (art. 97 da CF) vincula tribunais e órgãos administrativos com funções julgadoras (como conselhos de contribuintes), impedindo que órgãos fracionários afastem leis sob alegação de inconstitucionalidade sem submeter ao Plenário."
+    },
+    {
+        topic: "Controle Prévio, Concomitante e Posterior",
+        supportText: "",
+        q: "O acompanhamento da execução de um contrato administrativo por um fiscal designado pela Administração, que verifica a conformidade da entrega de materiais em tempo real durante a obra, caracteriza um controle:",
+        options: [
+            "prévio.",
+            "concomitante.",
+            "posterior (a posteriori).",
+            "judicial definitivo.",
+            "parlamentar externo."
+        ],
+        answer: 1,
+        disclaimer: "O controle concomitante ocorre simultaneamente à realização do ato ou execução do contrato, permitindo a correção de rumos antes do término definitivo (atuação do fiscal em campo)."
+    },
+    {
+        topic: "Controle Externo e Interno",
+        supportText: "",
+        q: "O sistema de controle da administração pública brasileira divide-se em controle interno (exercido por órgãos do próprio Poder que gerencia o recurso) e controle externo. Constitui exemplo clássico de órgão de CONTROLE EXTERNO:",
+        options: [
+            "A Controladoria-Geral da União (CGU).",
+            "O Tribunal de Contas da União (TCU).",
+            "A Corregedoria setorial de um ministério.",
+            "A chefia imediata de uma repartição federal.",
+            "A auditoria interna de uma autarquia."
+        ],
+        answer: 1,
+        disclaimer: "O Tribunal de Contas (TCU, TCEs, TCMs) é o órgão clássico de controle externo da administração pública, atuando em auxílio ao Poder Legislativo."
+    },
+    {
+        topic: "Responsabilidade dos Tribunais de Contas",
+        supportText: "",
+        q: "A tomada de contas especial é um procedimento administrativo voltado a apurar responsabilidade por ocorrência de dano à administração pública e apurar prejuízos. A competência para instaurar a tomada de contas especial originariamente cabe:",
+        options: [
+            "ao próprio órgão ou entidade onde ocorreu o dano, antes de remeter ao Tribunal de Contas.",
+            "exclusivamente ao Supremo Tribunal Federal.",
+            "aos sindicatos de servidores públicos.",
+            "à delegacia de polícia federal de plantão.",
+            "ao Ministério Público de Contas de forma isolada."
+        ],
+        answer: 0,
+        disclaimer: "A Tomada de Contas Especial (TCE) é instaurada primariamente pelo próprio órgão ou entidade onde se verificou a irregularidade/dano ao erário, sendo posteriormente remetida ao Tribunal de Contas para julgamento."
+    },
+    {
+        topic: "Decisão do Tribunal de Contas e Título Executivo",
+        supportText: "",
+        q: "As decisões do Tribunal de Contas da União de que resulte imputação de débito ou multa constituem:",
+        options: [
+            "título executivo extrajudicial.",
+            "sentença penal condenatória transitada em julgado com pena privativa de liberdade.",
+            "medida provisória federal.",
+            "acórdão com força de lei ordinária genérica.",
+            "decisão judicial de primeira instância cível."
+        ],
+        answer: 0,
+        disclaimer: "Conforme o art. 71, § 3º, da Constituição Federal, as decisões do Tribunal de Contas de que resulte imputação de débito ou multa constituem título executivo extrajudicial, permitindo a cobrança judicial direta."
+    },
+    {
+        topic: "Controle Judicial de Atos Políticos",
+        supportText: "",
+        q: "A respeito do controle jurisdicional sobre os chamados atos políticos (praticados por autoridades de alto escalão com base em prerrogativas constitucionais diretas, como veto a projetos de lei ou decretação de estado de sítio), o STF entende que:",
+        options: [
+            "são imunes a qualquer forma de controle judicial em 100% de seu conteúdo.",
+            "podem ser controlados pelo Poder Judiciário no que tange aos requisitos de legalidade constitucional e observância das balizas normativas, embora haja margem de discricionariedade política.",
+            "devem ser julgados exclusivamente por comissões militares.",
+            "podem ser revogados por prefeitos municipais.",
+            "estão isentos de motivação por motivo de segurança de Estado."
+        ],
+        answer: 1,
+        disclaimer: "A teoria dos 'atos políticos' (ou atos de governo) pura foi abrandada. Embora haja ampla margem de discricionariedade política, os atos políticos estão submetidos ao controle jurisdicional quanto à sua conformidade constitucional e legal."
+    },
+    {
+        topic: "Prescrição da Pretensão Punitiva do Tribunal de Contas",
+        supportText: "",
+        q: "A respeito da prescrição da pretensão punitiva e de ressarcimento pelo Tribunal de Contas da União, o STF firmou tese de que a pretensão punitiva do TCU prescreve em:",
+        options: [
+            "5 anos (aplicando-se subsidiariamente as regras da Lei nº 9.873/1999).",
+            "30 anos ininterruptos.",
+            "imprescritível em qualquer hipótese de multa.",
+            "1 ano improrrogável.",
+            "20 anos conforme o Código Civil ordinário."
+        ],
+        answer: 0,
+        disclaimer: "O STF fixou o entendimento de que prescreve em 5 anos a pretensão punitiva do Tribunal de Contas da União, aplicando-se por analogia o prazo da Lei nº 9.873/1999."
+    },
+    {
+        topic: "Imprescritibilidade do Ressarcimento ao Erário (STF)",
+        supportText: "",
+        q: "Em relação à imprescritibilidade das ações de ressarcimento ao erário, o Supremo Tribunal Federal (Tema 666 da Repercussão Geral) modulou o entendimento estabelecendo que:",
+        options: [
+            "são imprescritíveis apenas as ações de ressarcimento de danos ao erário decorrentes de atos dolosos de improbidade administrativa.",
+            "qualquer dano ao erário culposo ou doloso é imprescritível em caráter perpétuo.",
+            "as ações de ressarcimento por danos causados ao erário prescrevem em 5 anos se decorrentes de atos culposos.",
+            "o Tribunal de Contas não pode cobrar débitos antigos.",
+            "a prescrição não existe no direito brasileiro."
+        ],
+        answer: 0,
+        disclaimer: "O STF firmou tese (Tema 897 / 666) de que são imprescritíveis as ações de ressarcimento ao erário fundadas em atos dolosos ímprobos tidos por causadores de dano ao erário, enquanto os danos decorrentes de atos culposos prescrevem."
+    },
+    {
+        topic: "Controle Externo (Auditorias e Inspeções)",
+        supportText: "",
+        q: "O instrumento de fiscalização utilizado pelo Tribunal de Contas para verificar a execução de contratos, convênios ou a aplicação de recursos em obras públicas específicas, de forma pontual e in loco, denomina-se:",
+        options: [
+            "Inspeção (ou auditoria operacional/financeira).",
+            "Amnésia fiscal.",
+            "Interdição policial.",
+            "Desapropriação direta.",
+            "Extinção contratual sumária."
+        ],
+        answer: 0,
+        disclaimer: "A inspeção é o instrumento de fiscalização pontual e in loco realizado pelo Tribunal de Contas para apurar fatos específicos relativos à gestão de recursos públicos."
+    },
+    {
+        topic: "Controle Judicial (Ação Civil Pública e Improbidade)",
+        supportText: "",
+        q: "A legitimação para a propositura de Ação Civil Pública visando à responsabilização por atos de improbidade administrativa e ressarcimento ao erário pertence:",
+        options: [
+            "exclusivamente a tribunais internacionais de direitos humanos.",
+            "ao Ministério Público e também à pessoa jurídica interessada (ente público lesado).",
+            "apenas ao Presidente da República.",
+            "somente ao sindicato dos servidores do órgão.",
+            "a qualquer cidadão sem advogado."
+        ],
+        answer: 1,
+        disclaimer: "Tanto o Ministério Público quanto a pessoa jurídica interessada (ente público prejudicado) possuem legitimidade ativa concorrente para propor a Ação de Improbidade Administrativa."
+    },
+    {
+        topic: "Controle Administrativo (Recurso Hierárquico Impróprio)",
+        supportText: "",
+        q: "O recurso administrativo dirigido a uma autoridade pertencente a um órgão ou poder distinto daquele que proferiu a decisão original, geralmente previsto em leis especiais para fiscalizar entidades da administração indireta, denomina-se:",
+        options: [
+            "Recurso hierárquico impróprio.",
+            "Representação criminal sumária.",
+            "Reclamação constitucional direta.",
+            "Revisão criminal ordinária.",
+            "Apelação cível federal."
+        ],
+        answer: 0,
+        disclaimer: "O recurso hierárquico impróprio ocorre quando o recurso é dirigido a uma autoridade externa à hierarquia do órgão prolator da decisão (comum no controle finalístico de entidades da administração indireta por ministérios supervisores)."
+    },
+    {
+        topic: "Controle Jurisdicional (Controle Concreto x Abstrato)",
+        supportText: "",
+        q: "No sistema jurídico brasileiro, o controle judicial de constitucionalidade exercido por qualquer juiz ou tribunal, por ocasião do julgamento de um caso concreto entre partes (incidental ou difuso), produz, como regra geral, efeitos:",
+        options: [
+            "inter partes (entre as partes do processo) e ex tunc (retroativo), dependendo de posterior manifestação do Senado Federal para suspender a eficácia da lei em âmbito geral (art. 52, X, da CF).",
+            "erga omnes (contra todos) automáticos e imediatos.",
+            "apenas futuros (ex nunc) sem qualquer retroatividade.",
+            "exclusivamente penais e restritos a prefeitos.",
+            "meramente consultivos e sem eficácia vinculante."
+        ],
+        answer: 0,
+        disclaimer: "O controle difuso (concreto) é exercido por qualquer juiz/tribunal. Sua decisão tem eficácia inter partes. Para que tenha efeito erga omnes, exige-se resolução do Senado Federal suspendendo a execução da lei declarada inconstitucional pelo STF (embora o STF atual admita efeitos ampliados em certas hipóteses)."
+    },
+    {
+        topic: "Controle Orçamentário (Lei de Responsabilidade Fiscal - LRF)",
+        supportText: "",
+        q: "A fiscalização do cumprimento das normas da Lei de Responsabilidade Fiscal (LC nº 101/2000), especialmente no que tange aos limites de endividamento, gastos com pessoal e equilíbrio fiscal, compete:",
+        options: [
+            "ao Poder Legislativo, com o auxílio dos Tribunais de Contas, e ao sistema de controle interno de cada Poder.",
+            "exclusivamente ao Banco Central do Brasil em caráter sigiloso.",
+            "ao Ministério da Justiça por meio de delegados.",
+            "aos partidos políticos de oposição.",
+            "aos conselhos regionais de contabilidade privados."
+        ],
+        answer: 0,
+        disclaimer: "A LRF (LC 101/2000) impõe regras de responsabilidade fiscal cuja fiscalização é exercida de forma permanente pelo Poder Legislativo, auxiliado pelos Tribunais de Contas, e pelo sistema de controle interno de cada poder."
+    },
+    {
+        topic: "Controle Administrativo (Direito de Petição)",
+        supportText: "",
+        q: "O direito de petição aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder, garantido a todos independentemente do pagamento de taxas, consubstancia um instrumento de:",
+        options: [
+            "Controle administrativo deflagrado pelo administrado (controle social/cidadão).",
+            "Controle jurisdicional penal definitivo.",
+            "Controle financeiro do Banco Central.",
+            "Intervenção federal militar.",
+            "Censura prévia de imprensa."
+        ],
+        answer: 0,
+        disclaimer: "O direito de petição (art. 5º, XXXIV, 'a', da CF/88) é garantia fundamental que permite a qualquer cidadão provocar o controle administrativo para coibir ilegalidades ou abusos, de forma gratuita."
+    },
+    {
+        topic: "Auditorias Governamentais (Tipos)",
+        supportText: "",
+        q: "A modalidade de auditoria governamental que tem por objetivo examinar a gestão dos recursos públicos quanto à legalidade, legitimidade, economicidade, eficiência e eficácia, avaliando os resultados alcançados pelos programas de governo, denomina-se:",
+        options: [
+            "Auditoria Operacional (ou de desempenho).",
+            "Auditoria contábil estrita de balancetes de caixa.",
+            "Auditoria inquisitória criminal policial.",
+            "Inspeção tributária de ICMS.",
+            "Tomada de contas especial sumária."
+        ],
+        answer: 0,
+        disclaimer: "A Auditoria Operacional (ou de desempenho) avalia a economicidade, eficiência, eficácia e efetividade da gestão pública e dos programas governamentais."
+    },
+    {
+        topic: "Controle Interno (Funções)",
+        supportText: "",
+        q: "De acordo com o art. 74 da Constituição Federal, os Poderes Legislativo, Executivo e Judiciário manterão, de forma integrada, sistema de controle interno com a finalidade, entre outras, de:",
+        options: [
+            "avaliar o cumprimento das metas previstas no plano plurianual, a execução dos programas de governo e dos orçamentos da União.",
+            "substituir as decisões do Supremo Tribunal Federal em sede de recursos.",
+            "financiar campanhas políticas partidárias.",
+            "elaborar as leis delegadas do congresso nacional.",
+            "julgar crimes hediondos em primeira instância."
+        ],
+        answer: 0,
+        disclaimer: "O art. 74 da CF/88 elenca as finalidades do sistema de controle interno, destacando-se a avaliação de metas do PPA, execução de programas de governo, comprovação de legalidade e apoio ao controle externo."
+    },
+    {
+        topic: "Organização Administrativa (Descentralização vs. Desconcentração)",
+        supportText: "",
+        q: "A técnica administrativa que consiste na distribuição de competências de uma mesma pessoa jurídica para órgãos subordinados, criando uma relação de hierarquia, denomina-se:",
+        options: [
+            "Descentralização.",
+            "Desconcentração.",
+            "Outorga legal.",
+            "Delegação contratual.",
+            "Desestatização."
+        ],
+        answer: 1,
+        disclaimer: "A desconcentração ocorre dentro de uma mesma pessoa jurídica (criação de órgãos públicos por desmembramento de competências, gerando subordinação hierárquica). Já a descentralização distribui competências para pessoas jurídicas distintas."
+    },
+    {
+        topic: "Organização Administrativa (Descentralização)",
+        supportText: "",
+        q: "Quando o Estado transfere a execução de um serviço público a uma pessoa jurídica de direito privado (como ocorre nas concessões e permissões) ou a uma entidade da administração indireta criada por lei, ocorre o fenômeno da:",
+        options: [
+            "Desconcentração orgânica interna.",
+            "Descentralização administrativa (por outorga ou por delegação).",
+            "Avocação hierárquica.",
+            "Descentralização política exclusiva.",
+            "Centralização absoluta."
+        ],
+        answer: 1,
+        disclaimer: "A descentralização administrativa dá-se por outorga (quando cria a entidade da administração indireta por lei) ou por delegação (quando transfere a execução a particulares por contrato/ato administrativo)."
+    },
+    {
+        topic: "Administração Indireta (Autarquias)",
+        supportText: "",
+        q: "As autarquias são entidades integrantes da Administração Indireta, criadas por lei específica, dotadas de personalidade jurídica de direito público interno e patrimônio próprio. Assinale a característica típica de uma autarquia:",
+        options: [
+            "Sujeição a falência e recuperação judicial regida pelo direito comercial.",
+            "Desempenho de atividades típicas da administração pública, gozando de privilégios processuais e fiscais da Fazenda Pública.",
+            "Finalidade lucrativa primária para distribuição de dividendos a acionistas privados.",
+            "Criação mediante simples registro de seus atos constitutivos em cartório de pessoas jurídicas.",
+            "Inexistência de imunidade tributária sobre seus imóveis."
+        ],
+        answer: 1,
+        disclaimer: "As autarquias exercem atividades típicas de Estado, possuindo personalidade de direito público e gozando de prerrogativas processuais da Fazenda Pública (prazos em dobro, juízo privativo, imprescritibilidade de bens, imunidade tributária)."
+    },
+    {
+        topic: "Fundações Públicas",
+        supportText: "",
+        q: "A respeito das Fundações Públicas no direito administrativo brasileiro, é correto afirmar que:",
+        options: [
+            "podem adotar regime jurídico de direito público (criadas diretamente por lei específica) ou de direito privado (autorizadas por lei, com personalidade jurídica privada).",
+            "são obrigatoriamente regidas em 100% dos casos pelo direito privado mercantil.",
+            "não se submetem a nenhum controle de tutela ou supervisão ministerial.",
+            "são equiparadas a sociedades anônimas de capital aberto na bolsa de valores.",
+            "possuem fins lucrativos estritos voltados para o comércio internacional."
+        ],
+        answer: 0,
+        disclaimer: "As fundações públicas podem ser de direito público (autárquicas, criadas por lei, sujeitas ao regime público integral) ou de direito privado (autorizadas por lei, instituídas pelo Estado, mas regidas pelo direito privado no que tange à gestão, embora sujeitas a concurso público e licitação)."
+    },
+    {
+        topic: "Empresas Públicas e Sociedades de Economia Mista",
+        supportText: "",
+        q: "Empresas Públicas e Sociedades de Economia Mista são entidades da Administração Indireta dotadas de personalidade jurídica de direito privado. Dentre as diferenças fundamentais entre elas, destaca-se:",
+        options: [
+            "A Empresa Pública pode adotar qualquer forma societária, enquanto a Sociedade de Economia Mista deve adotar obrigatoriamente o formato de Sociedade Anônima (S.A.).",
+            "A Sociedade de Economia Mista é sempre unipessoal, com capital 100% estatal.",
+            "A Empresa Pública não se submete a licitação em nenhuma hipótese.",
+            "A Sociedade de Economia Mista possui foro federal para qualquer causa.",
+            "A Empresa Pública possui obrigatoriamente capital misto com ações negociadas em bolsa."
+        ],
+        answer: 0,
+        disclaimer: "A Empresa Pública pode adotar qualquer forma societária (embora a S.A. seja comum, admite-se limitada, etc.) e seu capital é predominantemente ou integralmente público. A Sociedade de Economia Mista deve adotar obrigatoriamente a forma de Sociedade Anônima (S.A.), com ações com direito a voto pertencentes majoritariamente ao Estado."
+    },
+    {
+        topic: "Controle sobre a Administração Indireta (Supervisão Ministerial)",
+        supportText: "",
+        q: "Entre os órgãos da Administração Direta (como os Ministérios) e as entidades da Administração Indireta (como as Autarquias e Fundações) NÃO existe vínculo de:",
+        options: [
+            "Subordinação hierárquica.",
+            "Vinculação.",
+            "Controle finalístico (tutela administrativa).",
+            "Supervisão ministerial.",
+            "Fiscalização de objetivos institucionais."
+        ],
+        answer: 0,
+        disclaimer: "Inexiste subordinação hierárquica entre a Administração Direta e a Indireta. O que há é vinculação, controle finalístico ou tutela administrativa (supervisão ministerial para garantir que a entidade atinja seus fins legais)."
+    },
+    {
+        topic: "Empresas Estatais (Regime Constitucional - art. 173 da CF/88)",
+        supportText: "",
+        q: "Quando uma Empresa Pública ou Sociedade de Economia Mista explora atividade econômica de produção ou comercialização de bens (regime do art. 173 da CF/88), ela:",
+        options: [
+            "sujeita-se ao regime próprio das empresas privadas, inclusive quanto às obrigações civis, comerciais, trabalhistas e tributárias, sem privilégios fiscais não extensivos ao setor privado.",
+            "goza de imunidade tributária universal sobre todas as suas operações comerciais e lucros.",
+            "dispensa totalmente a realização de concurso público para contratação de empregados.",
+            "pode emitir decretos regulamentares autônomos com força de lei.",
+            "possui monopólio natural inafastável em qualquer mercado."
+        ],
+        answer: 0,
+        disclaimer: "Conforme o art. 173, § 1º, da CF/88, a estatal que explora atividade econômica sujeita-se ao regime jurídico próprio das empresas privadas, inclusive quanto às obrigações trabalhistas e tributárias, não podendo gozar de privilégios fiscais não aplicáveis aos concorrentes privados."
+    },
+    {
+        topic: "Agências Reguladoras",
+        supportText: "",
+        q: "As agências reguladoras brasileiras (criadas sob a forma de autarquias sob regime especial) caracterizam-se por possuírem estabilidade e autonomia reforçada, destacando-se entre suas prerrogativas institucionais:",
+        options: [
+            "mandatos fixos e inamovibilidade para seus dirigentes, além de autonomia financeira e decisória, sem subordinação hierárquica.",
+            "poder absoluto para criar tributos de qualquer espécie por portaria interna.",
+            "imunidade total contra o controle externo exercido pelo Congresso Nacional e Tribunais de Contas.",
+            "direito de legislar sobre direito penal e processual civil.",
+            "autonomia para privatizar o próprio Estado."
+        ],
+        answer: 0,
+        disclaimer: "As agências reguladoras possuem autonomia decisória, ausência de subordinação hierárquica e mandatos fixos para dirigentes, visando blindar a regulação técnica de pressões políticas passageiras."
+    },
+    {
+        topic: "Agências Executivas",
+        supportText: "",
+        q: "A qualificação jurídica denominada 'Agência Executiva' pode ser conferida a:",
+        options: [
+            "qualquer empresa privada do sistema financeiro nacional.",
+            "autarquias ou fundações públicas que tenham celebrado contrato de gestão com o respectivo Ministério supervisor e possuam plano estratégico de reestruturação.",
+            "exclusivamente os ministérios de estado da administração direta.",
+            "sociedades de economia mista prestadoras de serviços bancários.",
+            "cartórios notariais extrajudiciais."
+        ],
+        answer: 1,
+        disclaimer: "A qualificação como Agência Executiva é concedida por decreto a autarquias ou fundações que celebrem contrato de gestão com o ministério supervisor, assumindo metas de desempenho e ganhos de autonomia gerencial, orçamentária e financeira."
+    },
+    {
+        topic: "Consórcios Públicos (Lei nº 11.107/2005)",
+        supportText: "",
+        q: "Os consórcios públicos, regidos pela Lei nº 11.107/2005, constituem associações públicas formadas exclusivamente por entes da Federação para a realização de objetivos de interesse comum. Juridicamente, o consórcio público constituído sob a forma de associação pública adquire personalidade jurídica de:",
+        options: [
+            "direito privado, sem fins lucrativos.",
+            "direito público (integrando a administração indireta de todos os entes consorciados).",
+            "sociedade anônima de capital fechado.",
+            "fundações civis autônomas.",
+            "organizações sociais sem nenhuma prerrogativa pública."
+        ],
+        answer: 1,
+        disclaimer: "O consórcio público constituído como associação pública adquire personalidade jurídica de direito público (natureza autárquica interfederativa), integrando a administração indireta de todos os entes consorciados."
+    },
+    {
+        topic: "Terceiro Setor (Organizações Sociais - OS)",
+        supportText: "",
+        q: "As Organizações Sociais (OS), qualificadas pelo Poder Executivo com base na Lei nº 9.637/1998, integram o chamado Terceiro Setor e celebram com o Estado um instrumento jurídico específico para a gestão de atividades públicas não exclusivas (como saúde, cultura, pesquisa). Esse instrumento denomina-se:",
+        options: [
+            "Contrato de Concessão Comum.",
+            "Contrato de Gestão.",
+            "Termo de Parceria.",
+            "Termo de Fomento.",
+            "Acordo de Leniência."
+        ],
+        answer: 1,
+        disclaimer: "O instrumento jurídico celebrado entre o Poder Público e as Organizações Sociais (OS) para a gestão de serviços públicos não exclusivos é o Contrato de Gestão."
+    },
+    {
+        topic: "Organizações da Sociedade Civil de Interesse Público (OSCIP - Lei nº 9.790/1999)",
+        supportText: "",
+        q: "O instrumento jurídico de parceria celebrado entre a Administração Pública e as Organizações da Sociedade Civil de Interesse Público (OSCIP), regulado pela Lei nº 9.790/1999, denomina-se:",
+        options: [
+            "Contrato de Gestão.",
+            "Termo de Parceria.",
+            "Concessão patrocinada.",
+            "Convênio de cooperação técnica internacional.",
+            "Contrato de prestação de serviços terceirizados."
+        ],
+        answer: 1,
+        disclaimer: "O instrumento de fomento e cooperação entre o Estado e as OSCIPs é o Termo de Parceria, conforme a Lei nº 9.790/1999."
+    },
+    {
+        topic: "Marco Regulatório das Organizações da Sociedade Civil (MROSC - Lei nº 13.019/2014)",
+        supportText: "",
+        q: "O Marco Regulatório das Organizações da Sociedade Civil (MROSC - Lei nº 13.019/2014) estabelece o regime jurídico das parcerias voluntárias entre a administração pública e as organizações da sociedade civil. Os instrumentos previstos para transferência de recursos financeiros de forma mútua e colaborativa são:",
+        options: [
+            "Termo de Fomento e Termo de Colaboração (e Acordo de Cooperação quando não envolver transferência de recursos financeiros).",
+            "Apenas a Concessão e a Permissão.",
+            "Somente o Contrato de Gestão de OS.",
+            "Apenas o Contrato Administrativo ordinário de compras.",
+            "Termo de Ajustamento de Conduta ambiental."
+        ],
+        answer: 0,
+        disclaimer: "A Lei nº 13.019/2014 (MROSC) instituiu o Termo de Fomento (propostas executadas por iniciativa das OSCs), o Termo de Colaboração (execução de projetos propostos pela administração) e o Acordo de Cooperação (sem repasse de recursos financeiros)."
+    },
+    {
+        topic: "Entidades Paraestatais",
+        supportText: "",
+        q: "As entidades integrantes do chamado Sistema S (SENAI, SESI, SENAC, SESC, etc.) são classificadas doutrinariamente como serviços sociais autônomos, integrando o grupo das entidades paraestatais. Sobre elas, é correto afirmar que:",
+        options: [
+            "são autarquias federais puras subordinadas diretamente aos ministérios de governo.",
+            "são pessoas jurídicas de direito privado, colaboradoras do Estado, que arrecadam e gerenciam contribuições parafiscais compulsórias de origem legal.",
+            "possuem fins exclusivamente comerciais com distribuição de lucros aos fundadores.",
+            "são proibidas de receber qualquer tipo de verba pública.",
+            "submetem-se integralmente a todas as regras rígidas da Lei de Licitações (Lei 14.133/21)."
+        ],
+        answer: 1,
+        disclaimer: "Os Serviços Sociais Autônomos (Sistema S) são entes de cooperação (paraestatais), pessoas jurídicas de direito privado, que arrecadam contribuições parafiscais. Embora gerenciem dinheiro público, possuem regulamentos próprios de licitação e contratos aprovados por seus órgãos diretivos."
+    },
+    {
+        topic: "Foro Judicial das Estatais",
+        supportText: "",
+        q: "Quando uma Sociedade de Economia Mista federal ou uma Empresa Pública federal figura como ré, autora ou interveniente em um processo judicial, a competência para julgar e processar a causa será, em regra:",
+        options: [
+            "Da Justiça Federal (Juízos Federais).",
+            "Sempre da Justiça Estadual comum em qualquer hipótese.",
+            "Exclusivamente do Supremo Tribunal Federal de forma originária.",
+            "Do Tribunal de Contas da União.",
+            "Dos Juizados Especiais Cíveis de trânsito."
+        ],
+        answer: 0,
+        disclaimer: "Conforme o art. 109, inciso I, da Constituição Federal, compete aos juízes federais processar e julgar as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes (exceto falências, acidentes de trabalho e justiça eleitoral/do trabalho)."
+    },
+    {
+        topic: "Foro das Sociedades de Economia Mista",
+        supportText: "",
+        q: "Diferente das Empresas Públicas federais, as Sociedades de Economia Mista (mesmo federais, como o Banco do Brasil ou a Petrobras, em regra) possuem foro judicial competente estabelecido na:",
+        options: [
+            "Justiça Comum Estadual, ressalvadas as exceções constitucionais expressas.",
+            "Justiça Federal em 100% dos litígios societários.",
+            "Justiça Militar da União.",
+            "Câmara arbitral internacional de Paris.",
+            "Secretaria da Receita Federal."
+        ],
+        answer: 0,
+        disclaimer: "O STF consolidou entendimento (Súmula 517 do STF) de que as sociedades de economia mista (ainda que federais) são demandadas perante a Justiça Estadual comum, pois o art. 109, I, da CF menciona expressamente 'empresa pública federal', mas omite as sociedades de economia mista federais."
+    },
+    {
+        topic: "Extinção de Entidades da Administração Indireta",
+        supportText: "",
+        q: "A criação de uma autarquia exige lei específica de iniciativa do respectivo Chefe do Poder Executivo. Da mesma forma, a sua extinção (extinção da entidade) depende obrigatoriamente de:",
+        options: [
+            "lei específica do mesmo ente federativo.",
+            "simples decreto regulamentar autônomo do governador.",
+            "deliberação da assembleia geral de acionistas.",
+            "requerimento do Ministério Público em cartório.",
+            "decisão unânime dos servidores do órgão."
+        ],
+        answer: 0,
+        disclaimer: "Pelo princípio da simetria das formas, o ente administrativo criado por lei específica só pode ser extinto por outra lei específica do mesmo ente federativo."
+    },
+    {
+        topic: "Responsabilidade das Estatais Exploradoras de Atividade Econômica",
+        supportText: "",
+        q: "No que tange à responsabilidade civil das empresas públicas e sociedades de economia mista que exploram atividade econômica de produção ou comercialização de bens (art. 173 da CF), aplica-se a regra de que respondem por danos causados a terceiros de forma:",
+        options: [
+            "objetiva, idêntica à da Administração Direta.",
+            "subjetiva (comprovação de culpa ou dolo), equiparando-se às empresas privadas concorrentes do mercado.",
+            "subsidiária exclusiva do Estado acionista controlador.",
+            "isenta de qualquer reparação de perdas e danos.",
+            "solidária com o Tribunal de Contas."
+        ],
+        answer: 1,
+        disclaimer: "O STF firmou entendimento de que as estatais que exploram atividade econômica em regime de concorrência com o setor privado (art. 173, § 1º, II) respondem civilmente de forma SUBJETIVA por seus atos, tal qual uma empresa privada comum."
+    },
+    {
+        topic: "Regime de Pessoal da Administração Indireta",
+        supportText: "",
+        q: "O regime jurídico aplicável aos empregados públicos das Empresas Públicas e Sociedades de Economia Mista é o:",
+        options: [
+            "Regime Estatutário (Lei nº 8.112/1990).",
+            "Regime da Consolidação das Leis do Trabalho (CLT), sendo exigida, contudo, a prévia aprovação em concurso público.",
+            "Regime de contratação civil temporária sem concurso.",
+            "Estatuto especial dos militares das forças armadas.",
+            "Direito comercial marítimo."
+        ],
+        answer: 1,
+        disclaimer: "Os empregados de EPs e SEMs contratados pelo regime da CLT mantêm vínculo trabalhista celetista, embora a investidura nesses empregos exija obrigatoriamente prévia aprovação em concurso público (art. 37, II, da CF/88)."
+    },
+    {
+        topic: "Autonomia das Autarquias",
+        supportText: "",
+        q: "As autarquias gozam de autonomia administrativa, financeira e técnica. Isso significa que elas:",
+        options: [
+            "podem editar suas próprias normas de organização interna e gerir seus orçamentos nos limites da lei que as instituiu.",
+            "possuem poder para alterar a Constituição Federal em matéria orçamentária.",
+            "são independentes do controle externo do Poder Legislativo.",
+            "podem criar novos impostos municipais por ato de diretoria.",
+            "não se submetem a nenhuma regra de controle de gastos públicos."
+        ],
+        answer: 0,
+        disclaimer: "A autonomia administrativa, financeira e técnica das autarquias confere-lhes capacidade de gerir seus atos e orçamentos próprios, sempre respeitando os limites estabelecidos na lei de criação e na legislação geral."
+    },
+    {
+        topic: "Autarquia Profissional (Conselhos de Fiscalização)",
+        supportText: "",
+        q: "Os conselhos de fiscalização profissional (como CRM, CREA, OAB - com ressalvas jurisprudenciais específicas, ou conselhos regionais de medicina) possuem natureza jurídica de:",
+        options: [
+            "associações civis de direito privado sem fins lucrativos.",
+            "autarquias corporativas (corporações profissionais), sujeitas a concurso público e exigência de licitação.",
+            "empresas públicas de fomento mercantil.",
+            "fundações de direito privado filantrópico.",
+            "organizações sociais federais."
+        ],
+        answer: 1,
+        disclaimer: "Os conselhos de fiscalização profissional (com exceção da OAB, que possui regime sui generis reconhecido pelo STF) são autarquias corporativas criadas por lei, exercendo poder de polícia e sujeitando-se ao regime público (concurso, licitação, contas no TCU)."
+    },
+    {
+        topic: "Serviços Públicos Descentralizados por Colaboração",
+        supportText: "",
+        q: "Quando o Estado transfere a execução de um serviço público a uma pessoa jurídica de direito privado por meio de contrato de concessão, a descentralização é classificada como:",
+        options: [
+            "Descentralização por outorga (ou técnica).",
+            "Descentralização por delegação.",
+            "Desconcentração territorial.",
+            "Descentralização institucional pura.",
+            "Centralização administrativa indireta."
+        ],
+        answer: 1,
+        disclaimer: "A descentralização por delegação transfere apenas a execução do serviço a particulares por contrato (concessão/permissão) ou ato administrativo, mantendo a titularidade com o Estado."
+    },
+    {
+        topic: "Descentralização por Outorga",
+        supportText: "",
+        q: "Quando a lei cria uma autarquia ou fundação pública e lhe transfere tanto a titularidade quanto a execução de determinado serviço público, ocorre a:",
+        options: [
+            "Descentralização por outorga (ou técnica/legal).",
+            "Descentralização por delegação contratual.",
+            "Desconcentração de órgãos subordinados.",
+            "Terceirização de atividade-meio.",
+            "Privatização acionária."
+        ],
+        answer: 0,
+        disclaimer: "A descentralização por outorga (também chamada de funcional, técnica ou legal) ocorre quando o Estado cria uma entidade por lei e transfere a titularidade e execução do serviço público para compor a Administração Indireta."
+    },
+    {
+        topic: "Controle de Tutela Ministerial",
+        supportText: "",
+        q: "O controle que a Administração Direta exerce sobre as entidades da Administração Indireta, visando assegurar a observância de suas finalidades institucionais, é exercido nos limites da lei e denomina-se:",
+        options: [
+            "Controle hierárquico pleno.",
+            "Controle de tutela (ou supervisão ministerial / finalístico).",
+            "Controle correcional interno punitivo de servidores estaduais.",
+            "Controle jurisdicional repressivo.",
+            "Controle parlamentar por CPI."
+        ],
+        answer: 1,
+        disclaimer: "O controle exercido pela Administração Direta sobre a Indireta é o controle de tutela administrativa (ou supervisão ministerial), que verifica se a entidade está cumprindo as finalidades para as quais foi criada."
+    },
+    {
+        topic: "Empresa Pública Unipessoal",
+        supportText: "",
+        q: "É admissível no direito brasileiro a existência de Empresa Pública cujo capital social pertença integralmente a um único ente da Federação (ex: 100% da União)?",
+        options: [
+            "Não, a lei exige obrigatoriamente dois sócios estatais diferentes.",
+            "Sim, trata-se da chamada Empresa Pública Unipessoal, cuja propriedade integral pertence a uma única entidade estatal.",
+            "Sim, mas apenas se houver participação de um banco internacional obrigatório.",
+            "Não, pois toda empresa pública deve ser S.A. com capital aberto na bolsa de valores.",
+            "Sim, desde que seja transformada em autarquia federal."
+        ],
+        answer: 1,
+        disclaimer: "A Empresa Pública pode ser unipessoal (com capital 100% pertencente a um único ente federativo, como a Caixa Econômica Federal pertencente integralmente à União)."
+    },
+    {
+        topic: "Criação de Subsidiárias de Estatais",
+        supportText: "",
+        q: "De acordo com a jurisprudência do STF e as normas constitucionais (art. 37, XX, da CF/88), a criação de subsidiárias de empresas públicas e sociedades de economia mista:",
+        options: [
+            "depende de autorização legislativa prévia em cada caso específico.",
+            "pode ser feita livremente pela diretoria da estatal sem qualquer lei autorizativa.",
+            "é absolutamente proibida em território nacional.",
+            "depende de referendo popular em eleições gerais.",
+            "exige aprovação do Supremo Tribunal Federal."
+        ],
+        answer: 0,
+        disclaimer: "O STF pacificou o entendimento de que a criação de subsidiárias de empresas públicas e sociedades de economia mista depende de autorização legislativa prévia (ressalvada divergência histórica, a regra matriz exige autorização legal)."
+    },
+    {
+        topic: "Participação Minoritária do Estado",
+        supportText: "",
+        q: "Quando o Estado detém apenas uma participação minoritária no capital de uma sociedade anônima privada (sem maioria das ações com direito a voto e sem controle acionário), essa sociedade:",
+        options: [
+            "torna-se automaticamente uma Sociedade de Economia Mista.",
+            "continua sendo uma sociedade de direito privado comum, não se sujeitando ao regime jurídico próprio das estatais da Administração Indireta.",
+            "passa a gozar de imunidade tributária universal.",
+            "deve realizar obrigatoriamente concurso público para todos os cargos.",
+            "torna-se uma autarquia especial."
+        ],
+        answer: 1,
+        disclaimer: "Empresas em que o Estado possui participação minoritária no capital sem deter o controle acionário permanecem no regime de direito privado puro, sem as restrições e prerrogativas da Administração Indireta."
+    },
+    {
+        topic: "Personalidade Jurídica dos Órgãos Públicos",
+        supportText: "",
+        q: "Os órgãos públicos que compõem a estrutura da Administração Direta caracterizam-se por:",
+        options: [
+            "possuírem personalidade jurídica própria distinta do ente a que pertencem.",
+            "serem desprovidos de personalidade jurídica própria, atuando apenas como centros de competência imputados à pessoa jurídica em que se organizam.",
+            "poderem ser acionados em juízo em nome próprio de forma autônoma (salvo raras exceções de prerrogativa funcional).",
+            "serem criados por contratos particulares de parceria.",
+            "terem autonomia patrimonial e financeira plena."
+        ],
+        answer: 1,
+        disclaimer: "Órgãos públicos são unidades de atuação desprovidas de personalidade jurídica própria (teoria do órgão/imputação). Eles não possuem patrimônio ou vontade própria distinta do ente federativo a que pertencem."
+    },
+    {
+        topic: "Descentralização Política vs. Administrativa",
+        supportText: "",
+        q: "Assinale a alternativa que diferencia corretamente a descentralização política da descentralização administrativa:",
+        options: [
+            "A descentralização política ocorre quando o ente federado possui capacidade de criar suas próprias leis e constituição (ex: Estados, Municípios e DF a partir da União), enquanto a descentralização administrativa transfere apenas funções de execução ou gestão administrativa.",
+            "A descentralização política é realizada por contratos de concessão de rodovias.",
+            "Não há nenhuma distinção conceitual entre política e administrativa.",
+            "A descentralização administrativa permite criar novos municípios autônomos.",
+            "A descentralização política é exclusiva de empresas públicas federais."
+        ],
+        answer: 0,
+        disclaimer: "A descentralização política envolve repartição de competências constitucionais e capacidade legislativa própria (própria da Federação). A descentralização administrativa restringe-se à execução de serviços ou funções de natureza administrativa."
     }
 ];
 
@@ -8400,6 +11942,20 @@ const banco_noc_adm = [
         disclaimer: "A 'Estrutura' organizacional é consequência (e não ponto de partida) da estratégia. De acordo com o clássico postulado de Chandler: 'A estrutura segue a estratégia'."
     },
     {
+        topic: "Análise do Ambiente",
+        supportText: "O primeiro passo do planejamento estratégico é determinar a missão e a visão da organização. Após essa definição é a análise do ambiente externo. A administração estratégica bem-sucedida depende de uma avaliação ambiental acurada e completa, que deve, também, examinar outras forças do ambiente, como as condições macroeconômicas e os fatores tecnológicos.",
+        q: "São componentes da análise ambiental as seguintes análises, EXCETO:",
+        options: [
+            "Social",
+            "Financeira",
+            "Tecnológica",
+            "Dos Concorrentes",
+            "Política e de Regulamentação"
+        ],
+        answer: 1,
+        disclaimer: "A análise financeira (caixa, balanço, lucratividade, capacidade de endividamento) é uma verificação que se faz estritamente no ambiente INTERNO da empresa. Todas as demais listadas são forças do ambiente externo."
+    },
+    {
         topic: "Processo Administrativo (Funções)",
         supportText: "O controle é a quarta função administrativa e tem como objetivo monitorar o desempenho e a implementação das mudanças que estão sendo realizadas e desenvolvidas.",
         q: "Considerando o ambiente organizacional, a segunda função administrativa é:",
@@ -9812,6 +13368,20 @@ const banco_noc_adm = [
         ],
         answer: 0,
         disclaimer: "A ação de 'designar pessoas e preencher cargos' (alocação de recursos humanos e divisão do trabalho) é uma atividade inerente à função de Organização, e não de Controle."
+    },
+    {
+        topic: "Processo Administrativo (Ordem)",
+        supportText: "O controle é a quarta função administrativa e tem como objetivo monitorar o desempenho e a implementação das mudanças que estão sendo realizadas e desenvolvidas.",
+        q: "Considerando o ambiente organizacional (Processo Administrativo), a segunda função administrativa é:",
+        options: [
+            "O planejamento",
+            "A organização",
+            "A direção",
+            "A execução",
+            "A liderança"
+        ],
+        answer: 1,
+        disclaimer: "O processo administrativo (conhecido pelo acrônimo PODC) segue a ordem lógica: 1º Planejamento, 2º Organização, 3º Direção e 4º Controle."
     },
     {
         topic: "Indicadores de Desempenho (Efetividade)",
@@ -12475,6 +16045,20 @@ const banco_noc_adm = [
         disclaimer: "Na gestão moderna, o conflito é visto como inevitável e natural na interação humana (faz parte da rotina). O gerente de projetos deve possuir habilidades interpessoais para gerenciar os conflitos de forma construtiva (funcional)."
     },
     {
+        topic: "Caminho Crítico (CPM)",
+        supportText: "",
+        q: "Na aplicação da metodologia denominada Critical Path Method (CPM), a identificação do denominado caminho crítico corresponde:",
+        options: [
+            "aos obstáculos a serem superados para o crescimento da organização e atingimento das metas estabelecidas.",
+            "ao mapeamento das falhas dos processos da organização, visando a identificação do correspondente grau de maturidade.",
+            "à definição do conjunto de atividades que não podem ser concluídas com atraso, sob pena de impactar o tempo estimado para a execução total do projeto.",
+            "às variáveis internas e externas que podem configurar ameaças ou desafios para a consecução dos objetivos estratégicos.",
+            "à construção de uma matriz de riscos corporativos, envolvendo avaliação de probabilidade de ocorrência e criticidade dos eventos."
+        ],
+        answer: 2,
+        disclaimer: "O caminho crítico determina a duração mínima do projeto. Como suas atividades possuem folga zero, qualquer atraso nelas reflete num atraso idêntico no término do projeto."
+    },
+    {
         topic: "Estimativa PERT",
         supportText: "Considere que determinada organização pretenda implementar gestão por projetos baseada na metodologia Program Evaluation and Review Technique (PERT).",
         q: "De acordo com conceitos predicados por referida metodologia, o tempo de execução e as estimativas das atividades dos projetos da organização serão calculados:",
@@ -12571,202 +16155,6 @@ const banco_noc_adm = [
         ],
         answer: 0,
         disclaimer: "O ciclo de vida genérico clássico reconhecido pela literatura possui 4 fases: Início do projeto (Concepção), Organização/Preparação (Planejamento), Execução do trabalho e Encerramento (Fechamento)."
-    },
-    // ----- Questões adicionadas das provas FCC (MPE-PI 2025, MPE-AL 2026, TJ-CE 2026, MPE-SE 2026) -----
-    // FCC | MPE-PI 2025 | Técnico Ministerial - Área Administrativa (Tipo 2) | Q49 | gabarito oficial FCC
-    {
-        topic: "Balanced Scorecard (BSC)",
-        supportText: "",
-        q: "O Balanced Scorecard, conhecido como BSC, representa uma ferramenta muito utilizada pelas organizações públicas e privadas para construção de planejamento e gestão estratégica, a qual considera, além da perspectiva financeira, o seguinte conjunto de perspectivas:",
-        options: [
-            "ambientais, sociais e de governança corporativa, conhecidas pela sigla ESG.",
-            "forças e fraquezas, que também representam a cultura identificada na organização.",
-            "conjunturais e estruturais, as quais também são os vetores do mapa estratégico.",
-            "ameaças e oportunidades, combinadas para gerar a perspectiva do cenário interno.",
-            "dos clientes, do crescimento/aprendizado e dos processos internos."
-        ],
-        answer: 4,
-        disclaimer: "Questão extraída da prova MPE-PI (FCC, 2025). O BSC (Kaplan e Norton) traduz a estratégia em objetivos e indicadores organizados em quatro perspectivas: financeira, clientes, processos internos e aprendizado e crescimento. ESG é um conjunto de critérios de sustentabilidade, e não perspectiva do BSC. Forças e fraquezas (ambiente interno) e ameaças e oportunidades (ambiente externo) são elementos da análise SWOT; por isso a alternativa D também erra ao tratar ameaças e oportunidades como cenário interno."
-    },
-    // FCC | MPE-PI 2025 | Técnico Ministerial - Área Administrativa (Tipo 2) | Q50 | gabarito oficial FCC
-    {
-        topic: "Avaliação de Desempenho (Pesquisa de Campo)",
-        supportText: "",
-        q: "Suponha que determinada organização pretenda proceder à avaliação de desempenho de seus colaboradores e esteja cogitando adotar como metodologia a “Pesquisa de Campo”. Caso prossiga com tal método de avaliação,",
-        options: [
-            "ao final será obtido um ranking dos avaliados, nas faixas “satisfatório”, “demanda aperfeiçoamento” e “inadequado”, sendo tais resultados um insumo para decisões de evolução funcional e para desligamentos.",
-            "não poderá prescindir da realização de benchmarking, ou seja, do levantamento das melhores práticas e das organizações de referência no setor em que a organização atua e dos resultados por estas alcançados.",
-            "será necessária a realização de um levantamento dos comportamentos do avaliado no ambiente externo à organização, para fins de estabelecer parâmetros para a avaliação da performance institucional e social.",
-            "deverão ser aplicadas entrevistas por um avaliador especializado, através das quais se avalia o desempenho dos colaboradores, levantando-se as causas, as origens e os motivos de tal desempenho e possibilitando planejar os aprimoramentos necessários.",
-            "deverá trabalhar apenas com uma base amostral, não sendo tal método aplicado à totalidade dos colaboradores, estes que devem ser estratificados por área de atuação e por competências requeridas."
-        ],
-        answer: 3,
-        disclaimer: "Questão extraída da prova MPE-PI (FCC, 2025). Na pesquisa de campo, um especialista em avaliação (em regra, um analista de RH) conduz entrevistas, geralmente com a chefia imediata, para levantar as causas, as origens e os motivos do desempenho e, com isso, planejar ações de aprimoramento e desenvolvimento. Não é método de ranqueamento (A), nem de benchmarking (B), nem de levantamento externo à organização (C), nem de amostragem (E)."
-    },
-    // FCC | MPE-PI 2025 | Técnico Ministerial - Área Administrativa (Tipo 2) | Q51 | gabarito oficial FCC
-    {
-        topic: "Gestão de Conflitos (Abordagens)",
-        supportText: "",
-        q: "No que concerne à gestão de conflitos nas organizações tem-se que a forma de enxergar e tratar os conflitos apresentou mudanças significativas ao longo dos anos. Nesse contexto, a abordagem interacionista",
-        options: [
-            "negava ou ignorava a existência de conflito nas organizações e foi superada pela abordagem das relações humanas, que busca entender as razões dos conflitos.",
-            "entende que o conflito, em qualquer nível, é inimigo da racionalidade e da eficiência do grupo, devendo ser suprimido.",
-            "considera que os líderes devem manter um nível mínimo de conflito, o suficiente para que o grupo não fique estático.",
-            "sustenta que, embora o conflito seja inevitável e precise ser tratado, jamais deve ser incentivado ou mantido.",
-            "procura atuar na causa geradora dos conflitos, procurando reduzir os fatores que o fomentam, como a competição entre os integrantes do grupo."
-        ],
-        answer: 2,
-        disclaimer: "Questão extraída da prova MPE-PI (FCC, 2025). Evolução das visões sobre o conflito: (1) tradicional: conflito é nocivo e deve ser eliminado (alternativas A e B descrevem essa visão); (2) relações humanas: conflito é natural e inevitável, devendo ser aceito e administrado (D); (3) interacionista: o conflito, em nível mínimo, é necessário e pode ser estimulado, pois evita que o grupo se torne estático, apático e pouco criativo. Por isso a alternativa C é a única que descreve a abordagem interacionista."
-    },
-    // FCC | MPE-PI 2025 | Técnico Ministerial - Área Administrativa (Tipo 2) | Q52 | gabarito oficial FCC
-    {
-        topic: "Administração Pública Gerencial (Reforma de 1995)",
-        supportText: "",
-        q: "O modelo de administração gerencial implementado em meados dos anos 1990 a partir da Reforma do Aparelho do Estado, capitaneada pelo Ministro Bresser Pereira, trouxe como uma de suas balizas",
-        options: [
-            "a transferência de atividades não exclusivas de Estado a entidades da sociedade civil sem fins lucrativos, mediante celebração de contratos de gestão.",
-            "a delimitação do denominado núcleo estratégico do Estado, correspondente às atividades passíveis de delegação ou concessão ao setor privado.",
-            "a ampliação da intervenção direta do Estado no domínio econômico, com o significativo aumento de empresas estatais.",
-            "mudança de paradigma em relação aos controles da atuação administrativa, que passaram a ser mais rígidos e preventivos.",
-            "a flexibilização das regras de ingresso no serviço público, abolindo-se a exigência de concurso para contratação de empregados das sociedades de economia mista."
-        ],
-        answer: 0,
-        disclaimer: "Questão extraída da prova MPE-PI (FCC, 2025). O Plano Diretor da Reforma do Aparelho do Estado (1995) previu a publicização: a transferência de serviços não exclusivos de Estado (como saúde, educação, cultura e pesquisa) para entidades públicas não estatais sem fins lucrativos (organizações sociais), mediante contratos de gestão. B erra porque o núcleo estratégico concentra as atividades exclusivas de Estado, que não são delegáveis. C contraria a lógica da reforma, que previa privatizações; D inverte a ideia de controle de resultados em lugar de controles rígidos e prévios; E contraria a exigência de concurso para empregos públicos."
-    },
-    // FCC | MPE-PI 2025 | Técnico Ministerial - Área Administrativa (Tipo 2) | Q54 | gabarito oficial FCC
-    {
-        topic: "Estruturas Organizacionais (Divisional)",
-        supportText: "",
-        q: "Uma organização que apresente estrutura divisional internaliza, como característica própria de tal modelo organizacional,",
-        options: [
-            "o foco na clientela, com a supressão de qualquer tipo de departamentalização e apenas com divisão de carteira de clientes.",
-            "a adoção do critério de departamentalização geográfica, em substituição à departamentalização por produto, aplicável apenas ao modelo matricial.",
-            "a presença de órgãos de duração provisória, condicionada à duração do projeto que executam.",
-            "a existência de unidades ou divisões que operam com relativa autonomia, sendo cada qual um centro de resultados, que apura seu lucro ou prejuízo.",
-            "a ausência de autonomia dos órgãos ou divisões, os quais devem sempre se reportar à unidade central, responsável pela estratégia e pela apuração de resultados."
-        ],
-        answer: 3,
-        disclaimer: "Questão extraída da prova MPE-PI (FCC, 2025). Na estrutura divisional (por produto, cliente ou região), cada divisão opera com relativa autonomia e funciona como centro de resultados, apurando seu próprio lucro ou prejuízo, enquanto a sede cuida da estratégia geral. Unidades temporárias vinculadas à duração de projetos (C) são típicas da estrutura matricial ou por projetos, e a ausência de autonomia, com tudo reportado à unidade central (E), caracteriza estruturas centralizadas, como a funcional."
-    },
-    // FCC | MPE-PI 2025 | Técnico Ministerial - Área Administrativa (Tipo 2) | Q58 | gabarito oficial FCC
-    {
-        topic: "Eficiência, Eficácia e Efetividade",
-        supportText: "",
-        q: "A sociedade cada vez mais vem cobrando uma atuação da Administração Pública que seja eficiente, eficaz e efetiva, além de transparente. A respeito de tais conceitos, a relação entre os resultados obtidos e o menor dispêndio de recursos utilizados para alcançá-los corresponde à",
-        options: [
-            "governança.",
-            "eficácia.",
-            "efetividade.",
-            "eficiência.",
-            "governabilidade."
-        ],
-        answer: 3,
-        disclaimer: "Questão extraída da prova MPE-PI (FCC, 2025). Eficiência é a relação entre os resultados obtidos e os recursos empregados (fazer certo, com o menor dispêndio). Eficácia é o alcance das metas e dos objetivos previstos. Efetividade é o impacto, a mudança real produzida na sociedade. Governança diz respeito aos mecanismos de direção, monitoramento e controle da organização, e governabilidade, à capacidade política de governar."
-    },
-    // FCC | MPE-PI 2025 | Técnico Ministerial - Área Administrativa (Tipo 2) | Q60 | gabarito oficial FCC
-    {
-        topic: "Ferramentas Gerenciais (Matriz GUT e Matriz SWOT)",
-        supportText: "",
-        q: "Determinada organização que esteja considerando adotar a Matriz GUT ou a Matriz SWOT, como ferramentas de gestão e planejamento estratégico, deverá considerar que",
-        options: [
-            "a aplicação da Matriz GUT deverá sempre preceder a da Matriz SWOT, eis que é voltada ao diagnóstico, enquanto a Matriz SWOT é aplicável à mensuração de resultados.",
-            "a Matriz SWOT é mais apropriada para análise de cenários, enquanto a Matriz GUT presta-se à ponderação de riscos, sendo complementares.",
-            "a Matriz SWOT é uma metodologia de análise de risco muito utilizada no planejamento de empresas, que aponta apenas as ameaças externas.",
-            "enquanto a Matriz GUT é focada no ambiente externo, de ameaças e oportunidades, a Matriz SWOT aponta apenas as forças e fraquezas internas.",
-            "a Matriz GUT é uma ferramenta de gestão que consiste em analisar problemas conforme três variáveis: gravidade, urgência e tendência."
-        ],
-        answer: 4,
-        disclaimer: "Questão extraída da prova MPE-PI (FCC, 2025). A Matriz GUT serve para priorizar problemas, atribuindo notas de gravidade, urgência e tendência. A SWOT (FOFA) é diagnóstico do ambiente: forças e fraquezas (interno) e oportunidades e ameaças (externo). Não há ordem obrigatória entre elas (A); a SWOT não é só de ameaças externas (C) e não se limita a forças e fraquezas (D). A alternativa B é imprecisa: a GUT hierarquiza problemas por gravidade, urgência e tendência, e não pondera riscos (o que envolveria probabilidade e impacto)."
-    },
-    // FCC | MPE-AL 2026 | Técnico do Ministério Público (Tipo 4) | Q52 | gabarito oficial FCC
-    {
-        topic: "Liderança na Administração Pública",
-        supportText: "",
-        q: "Acerca da liderança na administração pública, considerando as práticas modernas de gestão,",
-        options: [
-            "a liderança pública não precisa se preocupar com resultados, pois sua principal função é apenas cumprir normas legais.",
-            "o líder público eficaz promove a participação da equipe, incentiva a comunicação e orienta suas ações para o interesse público.",
-            "o exercício da liderança no setor público dispensa habilidades interpessoais, pois os processos são rigidamente definidos por lei.",
-            "o líder público deve centralizar as decisões para garantir maior controle e evitar erros na execução das políticas públicas.",
-            "a liderança na administração pública deve ser orientada exclusivamente pela hierarquia formal, desconsiderando aspectos como motivação e engajamento da equipe."
-        ],
-        answer: 1,
-        disclaimer: "Questão extraída da prova MPE-AL (FCC, 2026). Nas práticas modernas de gestão, o líder público combina participação da equipe, comunicação e orientação ao interesse público e a resultados. As demais alternativas usam termos absolutos (“apenas”, “dispensa”, “deve centralizar”, “exclusivamente”) que negam a importância dos resultados, das habilidades interpessoais, da delegação, da motivação e do engajamento."
-    },
-    // FCC | MPE-AL 2026 | Técnico do Ministério Público (Tipo 4) | Q53 | gabarito oficial FCC
-    {
-        topic: "Gestão de Pessoas no Setor Público",
-        supportText: "",
-        q: "No contexto da gestão de pessoas na administração pública,",
-        options: [
-            "a estabilidade do servidor público impede a realização de avaliação de desempenho ou a responsabilização funcional.",
-            "a motivação dos servidores públicos não influencia a qualidade dos serviços prestados à sociedade.",
-            "esta deve se limitar ao controle de frequência e cumprimento de normas disciplinares como característica principal de sua execução.",
-            "o desenvolvimento de competências dos servidores públicos é irrelevante, uma vez que as atividades são previamente definidas em lei.",
-            "esta deve buscar o alinhamento entre as competências dos servidores e os objetivos institucionais, promovendo capacitação e avaliação de desempenho."
-        ],
-        answer: 4,
-        disclaimer: "Questão extraída da prova MPE-AL (FCC, 2026). A gestão de pessoas moderna alinha as competências individuais aos objetivos institucionais, por meio de treinamento e desenvolvimento (capacitação) e de avaliação de desempenho. A estabilidade não impede a avaliação nem a responsabilização funcional, e a motivação e o desenvolvimento de competências influenciam diretamente a qualidade do serviço prestado. Limitar a gestão de pessoas ao controle de frequência e à disciplina é visão burocrática e restrita."
-    },
-    // FCC | MPE-AL 2026 | Técnico do Ministério Público (Tipo 4) | Q54 | gabarito oficial FCC
-    {
-        topic: "Avaliação de Desempenho no Setor Público",
-        supportText: "",
-        q: "A avaliação de desempenho no setor público",
-        options: [
-            "deve ocorrer apenas em situações excepcionais, não sendo necessária sua aplicação contínua.",
-            "é um instrumento de gestão que pode subsidiar decisões sobre capacitação, desenvolvimento e melhoria dos serviços públicos.",
-            "deve ser evitada, pois pode comprometer a estabilidade dos servidores.",
-            "deve se basear exclusivamente em critérios subjetivos definidos pela chefia imediata.",
-            "não possui qualquer consequência prática diante da estabilidade do servidor público."
-        ],
-        answer: 1,
-        disclaimer: "Questão extraída da prova MPE-AL (FCC, 2026). A avaliação de desempenho é um instrumento de gestão, de aplicação contínua e baseada em critérios objetivos, que fornece informações para capacitação, desenvolvimento, progressão e melhoria dos serviços. Não é excepcional (A), não deve ser evitada (C), não se baseia exclusivamente na subjetividade da chefia (D) e tem consequências práticas, inclusive quanto à estabilidade, pois a insuficiência de desempenho, apurada em procedimento próprio, pode levar à perda do cargo (E)."
-    },
-    // FCC | MPE-AL 2026 | Técnico do Ministério Público (Tipo 4) | Q56 | gabarito oficial FCC
-    {
-        topic: "Análise SWOT na Administração Pública",
-        supportText: "",
-        q: "No contexto da análise dos ambientes interno e externo na administração pública, frequentemente realizada por meio da Análise SWOT. Nesse contexto,",
-        options: [
-            "a análise SWOT é aplicada exclusivamente no setor privado, não sendo adequada à administração pública.",
-            "a identificação de fraquezas organizacionais deve ser evitada, pois pode comprometer a imagem institucional.",
-            "as oportunidades e ameaças são elementos do ambiente interno da organização, enquanto forças e fraquezas pertencem ao ambiente externo.",
-            "a análise do ambiente externo considera fatores políticos, econômicos, sociais e tecnológicos que podem impactar a atuação da organização pública.",
-            "a análise do ambiente interno deve desconsiderar aspectos como cultura organizacional e recursos humanos, focando apenas em estrutura formal."
-        ],
-        answer: 3,
-        disclaimer: "Questão extraída da prova MPE-AL (FCC, 2026). Na SWOT, forças e fraquezas são fatores internos; oportunidades e ameaças, externos (a alternativa C inverte os ambientes). A análise do ambiente externo considera variáveis políticas, econômicas, sociais e tecnológicas (como na análise PEST/PESTEL). A ferramenta é plenamente aplicável ao setor público; identificar fraquezas é justamente a finalidade do diagnóstico (B), e o ambiente interno inclui cultura, pessoas, estrutura e recursos (E)."
-    },
-    // FCC | MPE-AL 2026 | Técnico do Ministério Público (Tipo 4) | Q58 | gabarito oficial FCC
-    {
-        topic: "Gestão por Processos na Administração Pública",
-        supportText: "",
-        q: "A Gestão por Processos na administração pública",
-        options: [
-            "é incompatível com o setor público, sendo aplicável apenas em organizações privadas.",
-            "restringe-se à automatização de atividades, não envolvendo análise ou redesenho de fluxos de trabalho.",
-            "prioriza a estrutura hierárquica tradicional, com foco exclusivo nos departamentos e em suas funções isoladas.",
-            "busca identificar, mapear, analisar e melhorar os processos organizacionais, com foco na geração de valor para o cidadão.",
-            "elimina a necessidade de monitoramento e avaliação contínua das atividades."
-        ],
-        answer: 3,
-        disclaimer: "Questão extraída da prova MPE-AL (FCC, 2026). A gestão por processos (BPM) tem visão transversal da organização: identifica, mapeia, analisa, redesenha e monitora processos para gerar valor ao cliente, que no setor público é o cidadão. Não se limita à automação, não privilegia departamentos isolados em detrimento do fluxo ponta a ponta e exige monitoramento e avaliação contínuos, por meio de indicadores."
-    },
-    // FCC | MPE-SE 2026 | Técnico do MP - Área Administrativa (Tipo 1) | Q43 | gabarito resolvido (oficial não localizado)
-    {
-        topic: "Avaliação de Desempenho (Métodos)",
-        supportText: "",
-        q: "Suponha que o dirigente de uma determinada empresa pública pretenda proceder à avaliação de desempenho dos membros de sua equipe, valendo-se de alguma metodologia de avaliação comumente utilizada no setor privado, ponderando os pontos positivos e negativos presentes nas diferentes opções. Entre as possíveis alternativas, insere-se",
-        options: [
-            "a avaliação 360º, também denominada Avaliação Circular, cabendo atentar que tal método pressupõe a autoavaliação e também a participação daqueles que se relacionam com o avaliado, tais como colegas, fornecedores e clientes.",
-            "o método dos incidentes críticos, o qual, contudo, demandará a realização de dinâmicas de grupo simulando situações extremas, o que pode gerar desconforto e até denúncias de assédio moral.",
-            "a escala gráfica, que pode ser conveniente por ser um método bastante simples e rápido, porém com risco do denominado efeito halo, que consiste na leniência em relação a determinados grupos.",
-            "o método escolha forçada, no qual o avaliador realiza o ranqueamento dos profissionais em termos de resultados obtidos, o que leva, necessariamente, ao desligamento dos situados no patamar abaixo da média.",
-            "a pesquisa de campo, metodologia baseada em comparação binária entre os profissionais avaliados e as referências de mercado (benchmarking), com a classificação de acordo com critérios de custo-resultado."
-        ],
-        answer: 0,
-        disclaimer: "Questão extraída da prova MPE-SE (FCC, 2026). Na avaliação 360º (circular), o avaliado é avaliado por todos os que o cercam: chefia, pares, subordinados, clientes e fornecedores, além da autoavaliação. Incidentes críticos registram fatos relevantes, positivos e negativos, do comportamento do avaliado, sem dinâmicas de grupo (B). O efeito halo é a generalização de uma característica do avaliado para as demais, e não leniência (C). Na escolha forçada, o avaliador escolhe frases descritivas, sem ranqueamento que leve a desligamentos (D). A pesquisa de campo se baseia em entrevistas com especialista (E)."
     }
 ];
 
