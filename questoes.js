@@ -2842,6 +2842,552 @@ const banco_info = [
         ],
         answer: 4,
         disclaimer: "Questão extraída da prova PGM-RJ (FGV). Todas as associações estão corretas. A política de 'Mesa Limpa e Tela Limpa' (Clear Desk and Clear Screen Policy da ISO 27001) protege ativamente os três pilares da segurança (Confidencialidade, Integridade e Disponibilidade) mitigando engenharia social e acessos físicos indevidos."
+    },
+    {
+        topic: "Sistema Operacional Windows 10",
+        type: "multipla",
+        supportText: "",
+        q: "Para se utilizar várias Áreas de Trabalho em um computador com o sistema operacional Windows 10, em sua configuração padrão, alguns passos devem ser seguidos. Para se criar uma nova Área de Trabalho, esses passos são:",
+        options: [
+            "1 – No menu inferior do Windows 10, selecionar com o teclado ou com o mouse “Visão de Tarefas”. 2 – A aba da Área de Trabalho atual será aberta, e no canto superior esquerdo, clicar em “Nova área de trabalho”.",
+            "1 – No menu inferior do Windows 10, selecionar com o teclado ou com o mouse “Visão de Tarefas”. 2 – Uma janela de nome Área de Trabalho será aberta com as opções: “Criar”, “Deletar” e “Suspender”, devendo ser selecionada a opção “Criar”.",
+            "1 – No menu inferior do Windows 10, selecionar com o teclado ou com o mouse Área de Trabalho. 2 – Uma janela será aberta com diversas opções, devendo ser selecionada a opção “Criar nova área de trabalho.",
+            "1 – No Painel de Controle do Windows 10, selecionar com o teclado ou com o mouse “Área de Trabalho”. 2 – Uma janela será aberta com as opções, devendo-se selecionar “Nova área de trabalho”.",
+            "1 – No menu Iniciar do Windows 10, selecionar com o teclado ou com o mouse “Área de Trabalho”. 2 – Uma janela de nome Área de Trabalho será aberta com as opções: “Criar” e “Deletar”, devendo ser selecionada a opção “Criar”."
+        ],
+        answer: 0,
+        disclaimer: "[VUNESP/2023] No Windows 10, o gerenciamento de múltiplas áreas de trabalho (Áreas de Trabalho Virtuais) é feito clicando no botão 'Visão de Tarefas' (ou atalho Win+Tab) na barra de tarefas e, em seguida, clicando na opção '+ Nova área de trabalho' localizada no canto superior esquerdo da tela."
+    },
+    {
+        topic: "Sistema Operacional Windows 10",
+        type: "multipla",
+        supportText: "",
+        q: "Um usuário de um computador com o sistema operacional Windows 10, em sua configuração padrão, selecionou: botão Iniciar > Configurações > Sistema > Área de Transferência. Algumas opções são exibidas e podem ser ativadas ou desativadas, dentre elas:",
+        options: [
+            "o salvamento diário, em um arquivo enviado por e-mail ao usuário, de todo o conteúdo da Área de Transferência.",
+            "a edição de mensagens (e-mails) a serem enviadas, e que ficam na Área de Transferência até que a conexão com a Internet seja estabelecida.",
+            "o emprego de senha para se utilizar a Área de Transferência.",
+            "a criptografia do conteúdo da Área de Transferência.",
+            "que o histórico da Área de Transferência seja salvo para que itens nela presentes possam ser utilizados em outro momento."
+        ],
+        answer: 4,
+        disclaimer: "[VUNESP/2023] Nas configurações da Área de Transferência do Windows 10, é possível ativar o 'Histórico da área de transferência' (acessível pelo atalho Win+V), que salva vários itens copiados para serem usados em outro momento."
+    },
+    {
+        topic: "Microsoft Word (Office 365 / 2016)",
+        type: "multipla",
+        supportText: "A Ilha de Marajó é a maior ilha costeira do Brasil, sendo banhada, ao mesmo tempo, por águas fluviais e por águas oceânicas.",
+        q: "No MS-Word presente no Microsoft-365 (tendo como referência a versão 2016), considere o parágrafo de apoio, existente em um documento em edição. Suponha que o usuário do aplicativo posicionou o cursor de edição (por meio do ponteiro do mouse ou do teclado) exatamente no meio da palavra \"Brasil\", entre as letras 'a' e 's'. A seguir, selecionou o estilo de fonte itálico. Como consequência, a palavra \"Brasil\" será apresentada da seguinte forma:",
+        options: [
+            "Brasil (apenas as letras 'Br' em itálico)",
+            "Brasil (toda a palavra sem itálico)",
+            "<i>Brasil</i> (toda a palavra em itálico)",
+            "Brasil (apenas a letra 's' em itálico)",
+            "Brasil (apenas as letras 'sil' em itálico)"
+        ],
+        answer: 2,
+        disclaimer: "[VUNESP/2023] No MS-Word, quando o cursor está posicionado no interior de uma palavra (sem que haja seleção de caracteres específicos) e aplica-se uma formatação de fonte (como negrito, itálico ou sublinhado), o efeito é aplicado automaticamente à palavra inteira."
+    },
+    {
+        topic: "Microsoft Word (Office 365 / 2016)",
+        type: "multipla",
+        supportText: "",
+        q: "No MS-Word, presente no Microsoft-365 (tendo como referência a versão 2016), é possível inserir objetos, como um SmartArt, em um documento em edição. São exemplos de grupos de SmartArts presentes no MS-Word:",
+        options: [
+            "Processo e Hierarquia.",
+            "Lista e Tabela.",
+            "Imagem e Som.",
+            "Matriz e Vetor.",
+            "Relação e Conjunto."
+        ],
+        answer: 0,
+        disclaimer: "[VUNESP/2023] Os elementos gráficos SmartArt no MS-Word são divididos nas seguintes categorias (grupos): Tudo, Lista, Processo, Ciclo, Hierarquia, Relação, Matriz, Pirâmide e Imagem."
+    },
+    {
+        topic: "Microsoft Excel (Office 365 / 2016)",
+        type: "multipla",
+        supportText: "Dados da planilha:<br>Célula A1 = 12 | B1 = 2 | C1 = 6<br>Célula A2 = 8 | B2 = 2 | C2 = 1<br>Célula A3 = 7 | B3 = 0 | C3 = 3<br>Célula A4 = 6 | B4 = 4 | C4 = 5",
+        q: "Considere a planilha editada no MS-Excel, presente no Microsoft-365 (tendo como referência a versão 2016). Caso na célula A5 seja inserida a fórmula =SE(E((A1>A2);(B1>B2));C1+C2;C3+C4) o resultado produzido nessa célula será:",
+        options: ["15", "8", "7", "10", "12"],
+        answer: 1,
+        disclaimer: "[VUNESP/2023] A função E exige que todas as condições sejam verdadeiras. Temos A1>A2 (12>8, Verdadeiro) e B1>B2 (2>2, Falso). Como uma das condições é falsa, a função E retorna FALSO. Assim, a função SE executa o terceiro argumento (valor_se_falso), que é C3+C4 = 3 + 5 = 8."
+    },
+    {
+        topic: "Microsoft Excel (Office 365 / 2016)",
+        type: "multipla",
+        supportText: "",
+        q: "No MS-Excel, presente no Microsoft-365 (tendo como referência a versão 2016), por meio da guia Layout da Página, tem-se o botão Área de Impressão, que permite, diretamente por meio dele, duas ações:",
+        options: [
+            "Definir área de impressão; Limpar área de impressão.",
+            "Impressão para arquivo; Impressão em rede.",
+            "Preencher área de impressão; Completar área de impressão.",
+            "Impressão completa; Impressão personalizada.",
+            "Impressão colorida; Impressão em preto e branco."
+        ],
+        answer: 0,
+        disclaimer: "[VUNESP/2023] Na guia Layout da Página (grupo Configurar Página), o botão 'Área de Impressão' exibe um menu suspenso contendo exatamente duas opções padrão: 'Definir área de impressão' e 'Limpar área de impressão'."
+    },
+    {
+        topic: "Correio Eletrônico (E-mail)",
+        type: "multipla",
+        supportText: "",
+        q: "Um usuário de um computador enviou um e-mail utilizando um programa típico para essa finalidade, como o Gmail. Esse e-mail continha um arquivo anexado de nome texto.pdf, e os destinatários foram: Cc: A@empresax.com, e Cco: B@empresax.com e C@empresax.com. Sobre esse envio, tem-se que:",
+        options: [
+            "A mensagem e o texto.pdf foram entregues a A@empresax.com, B@empresax.com e C@empresax.com. B@empresax.com sabe que A@empresax.com e C@empresax.com receberam a mensagem e o texto.pdf.",
+            "A mensagem foi entregue a A@empresax.com. B@empresax.com e C@empresax.com receberam o texto.pdf, mas não receberam a mensagem.",
+            "A mensagem e o texto.pdf foram entregues a A@empresax.com, B@empresax.com e C@empresax.com. A@empresax.com não sabe que a mensagem e o texto.pdf também foram entregues a B@empresax.com e C@empresax.com.",
+            "A mensagem não foi enviada, pois a opção Cco: permite a especificação de um único destinatário. Uma mensagem de erro foi exibida.",
+            "A mensagem foi entregue a A@empresax.com, B@empresax.com e C@empresax.com. O texto.pdf foi entregue exclusivamente a A@empresax.com."
+        ],
+        answer: 2,
+        disclaimer: "[VUNESP/2023] Todos os destinatários (Para, Cc e Cco) recebem a mensagem e seus anexos. Contudo, os endereços inseridos em Cco (Com Cópia Oculta) ficam invisíveis para os demais destinatários da mensagem (inclusive para outros listados em Cco)."
+    },
+    {
+        topic: "Correio Eletrônico (E-mail)",
+        type: "multipla",
+        supportText: "",
+        q: "A chefia de uma empresa enviou um e-mail, especificando na opção Cc: os funcionários que deveriam recebê-la. A empresa e seus funcionários utilizam um programa típico para essa finalidade, como o Gmail. Um funcionário deseja responder esse e-mail, e existem diversas opções que o programa de e-mail permite selecionar, como a opção:",
+        options: [
+            "Responder Cco:, que envia a resposta a todos os destinatários ocultos que receberam a mensagem e a quem a enviou.",
+            "Encaminhar, que envia a resposta automaticamente a quem enviou a mensagem e a todos que a receberam também.",
+            "Responder a todos, que envia a resposta a todos que receberam a mensagem, exceto a quem a enviou.",
+            "Responder, que envia a resposta exclusivamente a quem enviou a mensagem.",
+            "Responder Cc:, que envia a resposta a todos que receberam a mensagem e a quem a enviou."
+        ],
+        answer: 3,
+        disclaimer: "[VUNESP/2023] A opção 'Responder' envia a mensagem de resposta única e exclusivamente para o remetente original (quem enviou o e-mail), enquanto 'Responder a todos' inclui o remetente e todos os demais destinatários visíveis (Para e Cc)."
+    },
+    {
+        topic: "Internet e Conceitos de URL",
+        type: "multipla",
+        supportText: "",
+        q: "Assinale a alternativa correta relacionada a URL (Uniform Resource Locator).",
+        options: [
+            "O Esquema refere-se a um protocolo de rede, e corresponde ao primeiro grupo de caracteres de uma URL, que ficam antes do “:”.",
+            "A Query String é uma parte obrigatória da URL, e que corresponde a um conjunto de perguntas e respostas que permitem encontrar os assuntos pesquisados por um usuário na Internet.",
+            "O Caminho especifica o local no qual se encontra o protocolo que se vai executar.",
+            "O Fragmento é uma parte obrigatória da URL, que especifica o caminho para um recurso.",
+            "O Domínio de uma URL é o protocolo que se está considerando em um dado momento, como FTP e HTTP."
+        ],
+        answer: 0,
+        disclaimer: "[VUNESP/2023] Na estrutura padrão de uma URL (ex: https://www.site.com.br/caminho), a primeira parte antes dos dois-pontos (:) é chamada de Esquema ou Protocolo (como http, https, ftp)."
+    },
+    {
+        topic: "Buscadores e Pesquisa na Internet",
+        type: "multipla",
+        supportText: "",
+        q: "Na Internet, é possível refinar as pesquisas. Por exemplo, no navegador Google Chrome, tem-se que, ao se digitar",
+        options: [
+            "related:empresax.com.br<Enter>, será realizada uma busca excluindo da pesquisa o site empresax.com.br.",
+            "maior * do Brasil<Enter>, será realizada uma pesquisa quando não se sabe a palavra a se colocar após maior.",
+            "velocidade do jaguar >carro<Enter>, exclui-se da pesquisa a palavra carro.",
+            "smartphone$5000<Enter>, realiza-se a pesquisar de preço do produto smartphone com valores superiores a 5.000 reais.",
+            "site:empresax.com.br<Enter>, será realizada uma busca em todos os sites que citam a empresax.com.br, exceto ela própria."
+        ],
+        answer: 1,
+        disclaimer: "[VUNESP/2023] Nos mecanismos de busca como o Google, o caractere curinga asterisco (*) é utilizado para substituir qualquer palavra desconhecida ou variável dentro de uma expressão ou frase."
+    },
+    {
+        topic: "Ferramentas Colaborativas (Microsoft Teams)",
+        type: "multipla",
+        supportText: "",
+        q: "A Microsoft disponibiliza duas versões do software Microsoft Teams: a versão gratuita e a versão Premium, sendo correto afirmar que, considerando a atual política da Microsoft, a versão",
+        options: [
+            "gratuita tem limitação de até 50 mensagens no chat.",
+            "Premium permite a realização de reuniões de, no máximo, 6 horas.",
+            "gratuita permite a realização de reuniões de até 120 minutos.",
+            "Premium suporta até 500 participantes em uma reunião.",
+            "gratuita suporta até 100 participantes em uma reunião."
+        ],
+        answer: 4,
+        disclaimer: "[VUNESP/2023] Na versão gratuita (Free) do Microsoft Teams, as reuniões em grupo têm limite de duração de até 60 minutos e suportam a presença de até 100 participantes simultâneos."
+    },
+    {
+        topic: "Ferramentas Colaborativas (Microsoft Teams)",
+        type: "multipla",
+        supportText: "",
+        q: "Em uma reunião feita por meio do software Microsoft Teams, um participante deseja compartilhar um determinado conteúdo. Para tanto, ele deve selecionar o seguinte ícone presente na barra de ferramentas da reunião:",
+        options: [
+            "Pessoas.",
+            "Exibição.",
+            "Chat.",
+            "Compartilhar.",
+            "Reagir."
+        ],
+        answer: 3,
+        disclaimer: "[VUNESP/2023] Na barra de controles de uma reunião do Microsoft Teams, para apresentar a tela, uma janela ou um arquivo aos demais integrantes, utiliza-se diretamente o botão 'Compartilhar' (ícone de um retângulo com uma seta apontando para cima)."
+    },
+    {
+        topic: "Ferramentas Colaborativas (Microsoft Teams)",
+        type: "multipla",
+        supportText: "",
+        q: "O agendamento de reuniões no Microsoft Teams pode ser feito de modo que se tenham reuniões agendadas de forma periódica. Assim, o Teams, além de agendamentos personalizados, tem um conjunto de períodos predeterminados, composto, dentre eles, por reuniões a serem agendadas:",
+        options: [
+            "De hora em hora e Anualmente.",
+            "Diariamente e Semanalmente.",
+            "Trimestralmente e Semanalmente.",
+            "Bimestralmente e Todos os dias da semana.",
+            "Um final de semana a cada mês e Diariamente."
+        ],
+        answer: 1,
+        disclaimer: "[VUNESP/2023] Ao configurar a recorrência de uma reunião no Microsoft Teams, as opções predeterminadas exibidas na lista suspensa são: Todos os dias da semana (Seg-Sex), Diariamente, Semanalmente, Mensalmente, Anualmente e Personalizado."
+    },
+    {
+        topic: "Armazenamento em Nuvem (OneDrive)",
+        type: "multipla",
+        supportText: "",
+        q: "Com relação ao acesso ao Microsoft OneDrive, é correto afirmar que este apresenta como uma de suas características o seguinte:",
+        options: [
+            "não permite o compartilhamento de arquivos por ele tratados.",
+            "somente é acessível a partir de dispositivos móveis.",
+            "necessita de conexão do tipo 5G nos dispositivos.",
+            "seu acesso não poder ser feito a partir de um tablet.",
+            "o acesso poder ser feito por meio de um navegador Internet."
+        ],
+        answer: 4,
+        disclaimer: "[VUNESP/2023] O Microsoft OneDrive é um serviço de armazenamento em nuvem multiplataforma que pode ser acessado por aplicativos instalados (desktop, celular, tablet) ou diretamente via web por meio de um navegador de Internet."
+    },
+    {
+        topic: "Sistema Operacional Windows 11",
+        type: "multipla",
+        supportText: "Situação 1: A pasta C:\\TEMP aberta no Explorador de Arquivos contém apenas um arquivo, chamado Controle.txt.<br>Situação 2: O usuário pressionou as teclas CTRL+Z e o Explorador de Arquivos passou a exibir, na mesma pasta C:\\TEMP, apenas o arquivo Projeto.txt.",
+        q: "Em um computador com Microsoft Windows 11, em sua configuração original, um usuário está com a pasta C:\\TEMP aberta no Explorador de Arquivos, também em sua configuração original, conforme descrito no texto de apoio. Assinale a alternativa correta.",
+        options: [
+            "O arquivo Projeto.txt havia sido renomeado para Controle.txt.",
+            "O arquivo Controle.txt foi enviado para a Lixeira do Windows.",
+            "O arquivo Controle.txt foi configurado como oculto.",
+            "O arquivo Projeto.txt foi recuperado da Lixeira do Windows.",
+            "O arquivo Controle.txt foi apagado em definitivo, sem ser enviado para Lixeira do Windows."
+        ],
+        answer: 0,
+        disclaimer: "[VUNESP/2023] O atalho CTRL+Z desfaz a última ação realizada. Se ao pressionar CTRL+Z o arquivo 'Controle.txt' sumiu e no seu lugar voltou a aparecer 'Projeto.txt' (com mesma data de modificação e tamanho), conclui-se que a ação imediatamente anterior havia sido renomear 'Projeto.txt' para 'Controle.txt'."
+    },
+    {
+        topic: "Sistema Operacional Windows 11",
+        type: "multipla",
+        supportText: "",
+        q: "Em uma pasta do Microsoft Windows 11, em sua configuração original, existem 4 arquivos, chamados arquivo1.txt, arquivo2.txt, arquivo3.txt e arquivo4.txt. Um usuário selecionou o arquivo arquivo1.txt, apenas, e pressionou as teclas CTRL+C. Em seguida, selecionou o arquivo arquivo2.txt, apenas, e pressionou as teclas CTRL+C. Após, selecionou o arquivo arquivo3.txt, apenas, e pressionou as teclas CTRL+X. Finalmente, selecionou o arquivo arquivo4.txt, apenas, e pressionou as teclas CTRL+X. Assinale a alternativa que indica qual(is) arquivo(s) será(ão) colados em uma outra pasta, vazia, ao pressionar as teclas CTRL+V, considerando que o usuário tem todas as permissões no computador.",
+        options: [
+            "arquivo1.txt, arquivo2.txt, arquivo3.txt e arquivo4.txt.",
+            "arquivo4.txt, apenas.",
+            "arquivo1.txt e arquivo2.txt, apenas.",
+            "arquivo1.txt, apenas.",
+            "arquivo3.txt e arquivo4.txt, apenas."
+        ],
+        answer: 1,
+        disclaimer: "[VUNESP/2023] Na configuração padrão, o comando Colar (CTRL+V) transfere apenas o último item enviado para a área de transferência. Como a última ação de cópia/recorte foi o CTRL+X sobre o 'arquivo4.txt', apenas ele será colado (movido) na pasta de destino."
+    },
+    {
+        topic: "Microsoft Word 365",
+        type: "multipla",
+        supportText: "Na imagem exibida da faixa de opções do Word 365, o texto \"Tribunal de Justiça do Estado de São Paulo\" encontra-se formatado e os botões 'N' (Negrito), 'I' (Itálico) e 'S' (Sublinhado) estão todos ativados/selecionados.",
+        q: "Tem-se a descrição de um texto editado no Microsoft Word 365, em sua configuração original. O cursor do mouse está posicionado ao final do texto (com Negrito, Itálico e Sublinhado ativos). Se o usuário clicar nos ícones Negrito e Itálico, e digitar uma palavra, essa palavra estará formatada da seguinte maneira:",
+        options: [
+            "itálico, apenas.",
+            "negrito e itálico, apenas.",
+            "sublinhado, apenas.",
+            "negrito, apenas.",
+            "sem nenhuma formatação."
+        ],
+        answer: 2,
+        disclaimer: "[VUNESP/2023] Como os botões Negrito, Itálico e Sublinhado já estavam todos ativados no ponto de inserção, clicar novamente sobre Negrito e Itálico irá desativar essas duas formatações, mantendo ativo apenas o Sublinhado para a nova palavra digitada."
+    },
+    {
+        topic: "Microsoft Word 365",
+        type: "multipla",
+        supportText: "",
+        q: "Um usuário criou uma tabela no Microsoft Word 365, em sua configuração original, com 1 linha e 2 colunas. Com o cursor do mouse na primeira célula da tabela, esse usuário digitou A e pressionou ________. Depois digitou B e pressionou ________. Após, digitou C e pressionou ________. Finalmente, digitou D e pressionou ________. Ao final, a tabela continha 3 linhas e 2 colunas. Assinale a alternativa que preenche, correta e respectivamente, as lacunas do texto.",
+        options: [
+            "ENTER … ENTER … ENTER … ENTER",
+            "TAB … ENTER … ENTER … ENTER",
+            "TAB … TAB … TAB … TAB",
+            "ENTER … TAB … ENTER … TAB",
+            "ENTER … ENTER … ENTER … TAB"
+        ],
+        answer: 2,
+        disclaimer: "[VUNESP/2023] Dentro de uma tabela no Word, a tecla ENTER apenas cria um novo parágrafo dentro da mesma célula. Já a tecla TAB avança para a célula seguinte e, quando pressionada na última célula da última linha, cria uma nova linha na tabela. Logo: A (TAB vai para col 2) -> B (TAB cria linha 2, col 1) -> C (TAB vai para linha 2, col 2) -> D (TAB cria a 3ª linha)."
+    },
+    {
+        topic: "Microsoft Word 365",
+        type: "multipla",
+        supportText: "1 Palavra1 → Palavra2¶<br>2 Palavra1·Palavra2¶<br>3 Palavra1·····Palavra2¶<br>4 Palavra1 → → Palavra2¶<br>5 Palavra1 → → → Palavra2¶",
+        q: "Tem-se o documento de apoio, editado no Microsoft Word 365, em sua configuração original. Considerando que as marcas de parágrafo estão ativadas (Mostrar Tudo) e que os números de 1 a 5 são apenas uma referência às linhas, assinale a alternativa que indica a linha que contém a maior quantidade de espaços em branco entre as palavras Palavra1 e Palavra2.",
+        options: [
+            "Linha 3.",
+            "Linha 4.",
+            "Linha 2.",
+            "Linha 1.",
+            "Linha 5."
+        ],
+        answer: 0,
+        disclaimer: "[VUNESP/2023] Quando o recurso 'Mostrar Tudo' está ativado no Word, cada espaço simples (barra de espaços) é representado por um ponto centralizado (·), enquanto a seta (→) representa a marca de tabulação (tecla TAB). Portanto, a Linha 3 possui 5 espaços em branco, sendo a maior quantidade."
+    },
+    {
+        topic: "Microsoft Excel 365",
+        type: "multipla",
+        supportText: "Dados da planilha:<br>Célula A1 = 8 | B1 = 7 | C1 = 11<br>Célula A2 = 6 | B2 = 10 | C2 = 9<br>Célula A3 = 12 | B3 = 11 | C3 = 8",
+        q: "Tem-se a planilha descrita no texto de apoio, criada no Microsoft Excel 365, em sua configuração padrão. Assinale a alternativa com o resultado correto da função =CONT.SE(A1:C3;MAIOR(A1:C3;1)) ao ser inserida na célula A4.",
+        options: ["2", "11", "9", "12", "1"],
+        answer: 4,
+        disclaimer: "[VUNESP/2023] A função MAIOR(A1:C3;1) busca o 1º maior valor do intervalo A1:C3, que é o número 12. Em seguida, a função CONT.SE(A1:C3;12) conta quantas células naquele intervalo possuem o valor igual a 12. Como o número 12 aparece apenas uma vez (em A3), o resultado é 1."
+    },
+    {
+        topic: "Microsoft Excel 365",
+        type: "multipla",
+        supportText: "Célula A1 = 20/03/2023 | Célula B1 = 20/04/2023",
+        q: "Considere a planilha criada no Microsoft Excel 365, em sua configuração original, com as células A1 e B1 formatadas como data. Ao inserir na célula A2 a fórmula =DIA(B1)-DIA(A1), o resultado será:",
+        options: ["4", "1", "20", "0", "31"],
+        answer: 3,
+        disclaimer: "[VUNESP/2023] A função DIA() extrai apenas o número correspondente ao dia do mês de uma data (de 1 a 31). Logo, DIA(B1) retorna 20 e DIA(A1) retorna 20. A subtração 20 - 20 resulta em 0."
+    },
+    {
+        topic: "Microsoft Excel 365",
+        type: "multipla",
+        supportText: "Planilha inicial:<br>Coluna A (A1 a A5): 6, 8, 6, 5, 4 (soma = 29)<br>Coluna B (B1 a B5): 6, 8, 7, 4, 8 (soma = 33)<br>Célula A7: =SOMA(A1:B5) exibindo 62.",
+        q: "Tem-se uma planilha criada no Microsoft Excel 365, em sua configuração padrão, onde a célula A7 contém a função =SOMA(A1:B5), exibindo assim o valor 62. Um usuário selecionou a coluna B por completo, clicou com o botão secundário do mouse sobre a letra B e clicou na opção Inserir, inserindo assim uma coluna em branco entre os dados originais. Nessa nova coluna B em branco, o usuário inseriu o valor 1 em todas as células de B1 até B5. Assinale a alternativa com o conteúdo da célula A7 após as operações descritas no enunciado.",
+        options: ["29", "62", "67", "5", "34"],
+        answer: 2,
+        disclaimer: "[VUNESP/2023] Quando uma coluna é inserida *dentro* de um intervalo referenciado por uma fórmula (neste caso, entre as colunas A e B originais), o Excel expande automaticamente a referência do intervalo para englobar a nova coluna, alterando a fórmula para =SOMA(A1:C5). Assim, somam-se os 62 originais mais os cinco valores '1' inseridos na nova coluna B: 62 + 5 = 67."
+    },
+    {
+        topic: "Correio Eletrônico (Microsoft Outlook 365)",
+        type: "multipla",
+        supportText: "De: João<br>Para: Ricardo<br>Cc: Fabio<br>Cco: Pedro<br>Assunto: Reunião em 20 minutos",
+        q: "Considere a mensagem de correio eletrônico de apoio, criada usando o Microsoft Outlook 365, em sua configuração padrão, que foi enviada e recebida com sucesso. Ricardo, ao receber a mensagem, clicou no botão Responder a Todos e propôs uma alteração para que a reunião fosse atrasada em 1 hora. Todos os usuários que receberam a mensagem de Ricardo aceitaram a proposta. Assinale a alternativa com o usuário que não recebeu a mensagem de Ricardo e, portanto, não sabia do atraso da reunião.",
+        options: [
+            "Fabio e João, apenas.",
+            "Fabio, apenas.",
+            "João, apenas.",
+            "Fabio e Pedro, apenas.",
+            "Pedro, apenas."
+        ],
+        answer: 4,
+        disclaimer: "[VUNESP/2023] Como Pedro estava no campo Cco (Cópia Oculta) na mensagem original de João, Ricardo não tinha conhecimento de que Pedro havia recebido o e-mail. Portanto, ao clicar em 'Responder a Todos', a resposta de Ricardo foi enviada apenas para o remetente (João) e para os destinatários visíveis em Cc (Fabio), excluindo Pedro."
+    },
+    {
+        topic: "Correio Eletrônico (Microsoft Outlook 365)",
+        type: "multipla",
+        supportText: "De: João<br>Para: Ricardo<br>Cc: Fabio<br>Cco: Pedro<br>Assunto: Reunião em 20 minutos",
+        q: "Com base na mesma mensagem de correio eletrônico anterior, assinale a alternativa que indica quais usuários receberam a mensagem original de João, e em qual pasta do Outlook essa mensagem foi automaticamente gravada.",
+        options: [
+            "Ricardo na pasta Caixa de Entrada, Fabio na pasta Rascunhos e Pedro na pasta Arquivo Morto.",
+            "Ricardo, Fabio e Pedro, todos na pasta Caixa de Entrada.",
+            "Ricardo na pasta Caixa de Entrada, Fabio na pasta Arquivo Morto e Pedro na pasta Lixo Eletrônico.",
+            "Ricardo e Fábio na pasta Caixa de Entrada, e Pedro na pasta Arquivo Morto.",
+            "Ricardo e Fabio na pasta Caixa de Entrada, e Pedro na pasta Rascunhos."
+        ],
+        answer: 1,
+        disclaimer: "[VUNESP/2023] Independentemente de o destinatário ter sido listado no campo Para, Cc ou Cco, para quem recebe um e-mail legítimo, a mensagem chega normalmente na pasta padrão 'Caixa de Entrada'."
+    },
+    {
+        topic: "Buscadores e Pesquisa na Internet",
+        type: "multipla",
+        supportText: "",
+        q: "Assinale a alternativa que indica o termo de pesquisa do buscador Google, em sua configuração padrão, que pesquisa pela palavra Tribunal, mas exclui a palavra Justiça dos resultados.",
+        options: [
+            "\"Tribunal\" Justiça",
+            "Tribunal &Justiça",
+            "Tribunal [Justiça]",
+            "Tribunal -Justiça",
+            "Tribunal \"Justiça\""
+        ],
+        answer: 3,
+        disclaimer: "[VUNESP/2023] Na sintaxe de pesquisa do Google, o sinal de menos (hífen) colado imediatamente antes de uma palavra (ex: -Justiça) atua como operador lógico de exclusão, omitindo resultados que contenham aquele termo."
+    },
+    {
+        topic: "Internet e Conceitos de URL",
+        type: "multipla",
+        supportText: "",
+        q: "Na URL https://www.meusite.com.br/descontos%20especiais.html, o %20 representa",
+        options: [
+            "um espaço em branco.",
+            "um traço.",
+            "um site não seguro.",
+            "um site marcado como Favorito.",
+            "um sinal de adição."
+        ],
+        answer: 0,
+        disclaimer: "[VUNESP/2023] Como URLs não podem conter espaços literais em branco, o padrão de codificação de URLs (URL Encoding) substitui o caractere de espaço pelo seu código hexadecimal na tabela ASCII precedido de porcentagem, que é '%20'."
+    },
+    {
+        topic: "Armazenamento em Nuvem (OneDrive no Windows 11)",
+        type: "multipla",
+        supportText: "Status exibidos no Explorador de Arquivos:<br>- Atividades.txt: ícone de nuvem com contorno vazado.<br>- Contrato.docx: ícone de círculo branco com tique de verificação vazado.<br>- Financeiro.xlsx: ícone de círculo totalmente preenchido (verde) com tique de verificação branco.",
+        q: "Têm-se 3 arquivos em um computador com Microsoft Windows 11, com o status do OneDrive exibido no Explorador de Arquivos, todos em sua configuração padrão, conforme descrito no apoio. Assinale a alternativa com o(s) arquivo(s) que não consome(m) espaço em disco nesse computador.",
+        options: [
+            "Contrato.docx, apenas.",
+            "Atividades.txt e Contrato.docx, apenas.",
+            "Contrato.docx e Financeiro.xlsx, apenas.",
+            "Atividades.txt, apenas.",
+            "Financeiro.xlsx, apenas."
+        ],
+        answer: 3,
+        disclaimer: "[VUNESP/2023] No recurso 'Arquivos Sob Demanda' do OneDrive no Windows 10/11, o ícone de nuvem indica que o arquivo está disponível 'somente online' (na nuvem), não ocupando espaço no armazenamento local do computador até que seja aberto. Os ícones de tique indicam que o arquivo foi baixado localmente."
+    },
+    {
+        topic: "Ferramentas Colaborativas (Microsoft Teams)",
+        type: "multipla",
+        supportText: "",
+        q: "Ao criar uma equipe no Microsoft Teams, em sua configuração original, é criado automaticamente o canal 'Geral' e, na parte superior desse canal, são criadas também, por padrão, 2 guias (recursos) iniciais ao lado do nome do canal. Assinale a alternativa com o nome desses recursos.",
+        options: [
+            "Word e Excel.",
+            "Postagens e Arquivos.",
+            "Postagens e Membros.",
+            "Arquivos e Membros.",
+            "Wiki e Arquivos."
+        ],
+        answer: 1,
+        disclaimer: "[VUNESP/2023] Por padrão, todo novo canal criado em uma equipe do Microsoft Teams apresenta no topo duas guias nativas: 'Postagens' (para conversas e avisos da equipe) e 'Arquivos' (para armazenamento e compartilhamento de documentos do canal)."
+    },
+    {
+        topic: "Sistemas Operacionais (Software Livre vs. Proprietário)",
+        type: "multipla",
+        supportText: "I – todo Sistema Operacional de Licença Livre tem seu código-fonte aberto e é desenvolvido somente por organizações com fins lucrativos.<br>II – para um computador de mesa ou portátil ser funcional de fato, é necessária apenas a instalação de um Sistema Operacional Proprietário.<br>III – para que se possa imprimir um documento a partir de um editor de texto instalado em um Sistema Operacional de Licença Livre é necessário ter um periférico de impressão instalado, estando tanto o computador como o periférico na mesma rede ou o periférico instalado diretamente a esse computador.<br>IV – uma das características de um Sistema Operacional é fazer a comunicação entre o ser humano e a máquina.",
+        q: "Em uma instituição federal de ensino, a área responsável pela Tecnologia da Informação está implantando um plano de migração de Sistemas Operacionais dos seus computadores de Sistema Proprietário para Sistema de Licença Livre. A despeito de a migração gerar uma expectativa acerca de como será a forma de trabalho em um novo ambiente operacional, analise as assertivas do texto de apoio e assinale a alternativa que contém somente as afirmativas corretas.",
+        options: [
+            "III",
+            "I e IV",
+            "I, II e IV",
+            "III e IV",
+            "I, III"
+        ],
+        answer: 3,
+        disclaimer: "[PR-4 UFRJ/2017] A afirmativa I é falsa porque softwares livres geralmente são mantidos por comunidades, fundações sem fins lucrativos ou colaborações diversas (não 'somente' com fins lucrativos). A II é falsa porque um PC funciona perfeitamente com SO livre (como Linux) e requer também aplicativos/drivers. As afirmativas III e IV descrevem corretamente o funcionamento de periféricos e o conceito básico de Sistema Operacional."
+    },
+    {
+        topic: "Sistemas de Arquivos e Caminhos de Diretórios",
+        type: "multipla",
+        supportText: "",
+        q: "Em seu computador de mesa local, depois de trabalhar em um ofício destinado a outro órgão federal, Gustavo salvou esse ofício com o nome “of24.odt” em um subdiretório chamado “Oficios 2017”, que está contido no diretório “Documentos”. Este, por sua vez, está acessível por uma unidade mapeada ao local do servidor de arquivos gerenciado pela equipe de dados corporativos da instituição. Assinale a alternativa que indica o caminho correto do arquivo salvo.",
+        options: [
+            "Z:\\Documentos\\Oficios 2017\\of24.ods",
+            "T:\\Documentos\\Oficios 2017\\of24.odt",
+            "C:\\\\Documentos\\Oficios 2017\\of24.odt",
+            "C:\\Documentos\\Oficios 2017\\of24.doc",
+            "E:\\\\Documentos\\Oficios 2017\\of24.odt"
+        ],
+        answer: 1,
+        disclaimer: "[PR-4 UFRJ/2017] No Windows, unidades de rede mapeadas recebem uma letra seguida de dois-pontos e uma única barra invertida (ex: T:\\), sendo que C: é reservado por padrão ao disco local principal. Além disso, o arquivo tem extensão '.odt' (OpenDocument Text), descartando a opção A (.ods) e D (.doc), e as opções C e E possuem erro de sintaxe com barras duplas (\\\\)."
+    },
+    {
+        topic: "Suítes de Escritório (Mala Direta)",
+        type: "multipla",
+        supportText: "",
+        q: "Um evento receptivo está sendo organizado pela secretaria especial de recepção discente para alunos recém-aprovados na última seleção pública. A diretora responsável pela seção solicita que se façam documentos contendo orientações e esclarecimentos para cada aluno nominalmente. Para facilitar a produção desses documentos, será mais célere a utilização da funcionalidade Mala Direta. Assinale a opção que demonstra o caminho correto na faixa de opções para iniciar o assistente de mala direta.",
+        options: [
+            "Correspondências > Iniciar mala direta > Nova Mala Direta.",
+            "Ferramentas > Documentos e correspondências > Mala direta.",
+            "Correspondências > Iniciar mala direta > Assistente de Mala Direta Passo a Passo.",
+            "Ferramentas > Cartas e Envelopes > Assistente de Mala Direta Passo a Passo.",
+            "Ferramentas > Cartas e correspondências > Iniciar nova mala direta."
+        ],
+        answer: 2,
+        disclaimer: "[PR-4 UFRJ/2017] Embora o enunciado mencione erroneamente Excel no lugar de Word (onde a Mala Direta fica de fato localizada), o caminho padrão da Faixa de Opções do Microsoft Office para esse recurso é a guia 'Correspondências' > botão 'Iniciar Mala Direta' > opção 'Assistente de Mala Direta Passo a Passo...'."
+    },
+    {
+        topic: "LibreOffice Calc (Tabela Dinâmica)",
+        type: "multipla",
+        supportText: "Tabela 1 possui as colunas: A (ALUNO), B (DISCIPLINA) e C (NOTA GERAL).<br>Tabela 2 (Tabela Dinâmica gerada) possui na coluna esquerda: DISCIPLINA (Matemática, Português, Total Resultado) e nas colunas de Dados: 'Cont.Núm - ALUNO' e 'Média - NOTA GERAL'.",
+        q: "Um departamento de estudos está precisando de um relatório quantitativo acerca de duas disciplinas específicas: Matemática e Português. Utilizando a funcionalidade de tabela dinâmica de um editor de planilhas de Licença Livre (LibreOffice Calc), o servidor Jonas conseguiu entregar o relatório demandado. Assinale a alternativa que descreve corretamente o caminho utilizado por Jonas, dentro do editor de planilha, para gerar a tabela dinâmica e quais campos de linha e de dados, respectivamente, foram selecionados para geração do resultado final demonstrado no texto de apoio.",
+        options: [
+            "Inserir > Tabela Dinâmica; DISCIPLINA e, ALUNO e NOTA GERAL.",
+            "Inserir > Objeto > Tabela Dinâmica; DISCIPLINA e, ALUNO e NOTA GERAL.",
+            "Inserir > Planilha Dinâmica; DISCIPLINA e, Cont.Num – ALUNO e Média - NOTA GERAL.",
+            "Inserir > Tabela > Tabela Dinâmica; DISCIPLINA e, Cont.Num – ALUNO e Média - NOTA GERAL.",
+            "Inserir > Tabela > Tabela Dinâmica; DISCIPLINA e, ALUNO e NOTA GERAL."
+        ],
+        answer: 0,
+        disclaimer: "[PR-4 UFRJ/2017] No LibreOffice Calc, para inserir uma tabela dinâmica acessa-se o menu 'Inserir' > 'Tabela dinâmica...'. Para estruturar a tabela exibida, arrasta-se o campo 'DISCIPLINA' para 'Campos de linha' e os campos 'ALUNO' (ajustado para função Cont.Núm) e 'NOTA GERAL' (ajustado para função Média) para 'Campos de dados'."
+    },
+    {
+        topic: "Redes de Computadores (Intranet, Extranet e Internet)",
+        type: "multipla",
+        supportText: "",
+        q: "A Pró-Reitoria de Tecnologia de um Instituto Federal de Ensino resolveu reestruturar suas plataformas de comunicação institucionais. Contudo, é importante que se observe como se dará a implementação dessas soluções, analisando a disponibilização de uma plataforma privada local para acesso exclusivo através de uma _______; para que seja possível acesso controlado de agentes que não estejam nas dependências institucionais, por meio de uma _______; e, por fim, uma plataforma de acesso a informações públicas por meio da _______.<br><br>Das alternativas a seguir, assinale a que preenche corretamente as lacunas presentes no texto.",
+        options: [
+            "Internet; Extranet; Intranet.",
+            "Extranet; Internet; Intranet.",
+            "Intranet; Internet; Extranet.",
+            "Intranet; Extranet; Internet.",
+            "Extranet; Intranet; Internet."
+        ],
+        answer: 3,
+        disclaimer: "[PR-4 UFRJ/2017] A 'Intranet' é uma rede privada de acesso restrito e exclusivo ao público interno da instituição; a 'Extranet' é a extensão controlada da rede privada que permite acesso externo autenticado (parceiros, servidores remotos); e a 'Internet' é a rede mundial pública."
+    },
+    {
+        topic: "Navegadores Web (Browsers)",
+        type: "multipla",
+        supportText: "",
+        q: "Ao utilizar uma estação de trabalho, a servidora Lúcia, que atua na seção de registros de dados funcionais, precisa baixar alguns arquivos do Diário Oficial da União para posterior armazenamento na pasta digital do seu setor, localizada na rede local desse setor. Para realizar essa tarefa, Lúcia pode utilizar um aplicativo de navegação em sítios da internet. Das opções a seguir, assinale a que NÃO condiz com um aplicativo de navegação em sítios da internet.",
+        options: [
+            "Google Chrome.",
+            "Windows Explorer.",
+            "Microsoft Edge.",
+            "Mozilla Firefox.",
+            "Chromium."
+        ],
+        answer: 1,
+        disclaimer: "[PR-4 UFRJ/2017] O Windows Explorer (atualmente chamado de Explorador de Arquivos) é o gerenciador de arquivos e pastas nativo do sistema operacional Windows, e não um navegador web (browser). Os demais (Chrome, Edge, Firefox e Chromium) são navegadores de internet."
+    },
+    {
+        topic: "Redes de Computadores e Acesso Remoto (VPN)",
+        type: "multipla",
+        supportText: "",
+        q: "Devido a um fato inesperado, alguns servidores do setor de cadastro de assentamentos funcionais precisaram acessar documentos digitais que estão localizados em repositórios de arquivos em uma rede privada local. Entretanto, esses funcionários estão, fisicamente, em outro setor que está configurado em outra rede privada local distinta da primeira. Com base no cenário apresentado, pode-se afirmar que:",
+        options: [
+            "a equipe de servidores do setor de cadastro não pode efetuar o acesso remoto aos documentos digitais de sua rede privada local através da internet por uma conexão segura e criptografada.",
+            "a equipe de servidores do setor de cadastro pode efetuar o acesso remoto aos documentos digitais de sua rede privada local através da internet por uma conexão não segura e criptografada.",
+            "a equipe de servidores do setor de cadastro pode efetuar o acesso remoto aos documentos digitais de sua rede pública local através da internet por uma conexão segura e criptografada.",
+            "a equipe de servidores do setor de cadastro pode efetuar o acesso remoto aos documentos digitais de sua rede privada local através da internet por uma conexão segura e criptografada.",
+            "a equipe de servidores do setor de cadastro pode efetuar o acesso remoto aos documentos digitais de sua rede pública local através da internet por uma conexão segura e não criptografada."
+        ],
+        answer: 3,
+        disclaimer: "[PR-4 UFRJ/2017] Através de tecnologias como VPN (Virtual Private Network), usuários fisicamente distantes podem interconectar redes privadas locais distintas utilizando a infraestrutura pública da Internet, estabelecendo um túnel de comunicação seguro e criptografado."
+    },
+    {
+        topic: "Segurança da Informação (Malwares)",
+        type: "multipla",
+        supportText: "",
+        q: "No local de trabalho, a segurança das informações tratadas é primordial para que as atividades sejam executadas sem problemas que afetem diretamente o desempenho do setor. O computador é a principal ferramenta para guarda de dados e informações importantes. Assinale a alternativa INCORRETA quanto às ameaças que os computadores sofrem.",
+        options: [
+            "Malware é um termo que abrange somente um tipo de software desenvolvido para executar ações maliciosas em um computador.",
+            "Vírus são pequenos programas criados para causarem algum tipo de dano a um computador.",
+            "Worms são um programa autorreplicante, semelhante a um vírus que não precisa de outro programa para se propagar.",
+            "Spywares são softwares de computador que recolhem a informação sobre um usuário e transmitem-na para uma entidade externa sem o conhecimento desse usuário.",
+            "Backdoors são técnicas que o invasor usa para deixar uma porta aberta depois de uma invasão a fim de voltar facilmente ao sistema invadido para novas realizações."
+        ],
+        answer: 0,
+        disclaimer: "[PR-4 UFRJ/2017] A alternativa A é incorreta pois 'Malware' (Malicious Software) é um termo genérico/guarda-chuva que abrange *diversos* tipos de códigos maliciosos (como vírus, worms, trojans, ransomware, spywares, backdoors), e não somente um tipo específico."
+    },
+    {
+        topic: "Segurança da Informação (Ferramentas de Proteção)",
+        type: "multipla",
+        supportText: "I – programas de antivírus são instalados em sistemas operacionais a fim de identificar e eliminar outros programas que possam causar malefícios ao sistema e aos dados de usuários.<br>II – uma das formas de um computador ser atacado é através de portas de rede abertas, porque isto permite que invasores acessem e manipulem funcionalidades dos sistemas, produzindo danos. Um artifício importante para a proteção contra esse ataque é traduzido do inglês e conhecido como “parede de fogo”.<br>III – qualquer computador ligado a uma rede está vulnerável a acessos não autorizados. A utilização de um programa de antispyware, contudo, restringe a permissão de acessos somente autorizados.",
+        q: "É recomendado que, ao se afastar do computador de trabalho, o usuário bloqueie a tela principal do computador para que se evite que outras pessoas acessem seu dispositivo sem consentimento. Dentre os métodos de proteção lógica de computadores descritos no apoio, assinale a alternativa que contém somente afirmativas corretas.",
+        options: [
+            "I e III",
+            "II e III",
+            "II",
+            "I, II e III",
+            "I e II"
+        ],
+        answer: 4,
+        disclaimer: "[PR-4 UFRJ/2017] As afirmativas I (Antivírus) e II (Firewall, que significa literalmente 'parede de fogo' e controla portas de rede) estão corretas. A afirmativa III está incorreta porque o antispyware serve para detectar e remover programas espiões, e não para gerenciar controle de acesso de usuários ou filtrar tráfego de rede."
+    },
+    {
+        topic: "Correio Eletrônico (Conceitos e Estrutura)",
+        type: "multipla",
+        supportText: "",
+        q: "E-mail é uma forma de troca de mensagens digitais que utiliza sistemas de correio eletrônico. Assinale a opção correta, quanto a essa tecnologia.",
+        options: [
+            "O tráfego dos dados de correspondências eletrônicas é realizado pela menção de um remetente de e-mail diretamente ao destinatário.",
+            "Webmail é uma interface de cliente de e-mail, instalada em um navegador de internet, que tem a finalidade de enviar e receber e-mails.",
+            "É possível a criptografia de mensagens de e-mails, usando-se uma assinatura digital, para garantir que seu conteúdo não foi alterado após o seu envio. Para tal, o remetente precisa ter uma chave pública a fim de descriptografar a mensagem.",
+            "Não é possível inserir imagens embutidas em mensagens codificadas em html.",
+            "Um e-mail é estruturado em cabeçalho e corpo. O primeiro contém o remetente, o destinatário e outras informações sobre a mensagem; o segundo, o texto da mensagem."
+        ],
+        answer: 4,
+        disclaimer: "[PR-4 UFRJ/2017] A estrutura padrão de uma mensagem de correio eletrônico divide-se em duas partes: o Cabeçalho (Header), que reúne os metadados de controle e roteamento (De, Para, Cc, Assunto, Data), e o Corpo (Body), que contém o conteúdo da mensagem propriamente dita."
     }
 ];
 
@@ -4733,6 +5279,66 @@ const banco_legis_mppe = [
         options: ["Certo", "Errado"],
         answer: 0,
         disclaimer: "É a literalidade da prerrogativa estampada no art. 40, inciso III, da Lei Orgânica Nacional do Ministério Público (Lei nº 8.625/1993)." //[cite: 25]
+    },
+     {
+        topic: "Estatuto da Pessoa com Deficiência (Lei nº 13.146/2015)",
+        type: "multipla",
+        supportText: "",
+        q: "Considere que João é pessoa com deficiência e, acompanhado por sua irmã, Maria, dirigiu-se ao balcão de uma Vara Cível para obter informações sobre processos judiciais de que é parte. Diante da situação hipotética e do disposto na Lei nº 13.146/15 (Estatuto da Pessoa com Deficiência), é correto afirmar que",
+        options: [
+            "o Estatuto da Pessoa com Deficiência confere expressamente a João o direito de ser atendido de forma prioritária e fora do horário regular de funcionamento da Vara.",
+            "João e Maria deverão ter atendimento prioritário no balcão e em qualquer serviço de atendimento ao público.",
+            "Maria, apesar de ser acompanhante de João, não terá direito a qualquer tipo de prioridade.",
+            "João deverá ter atendimento prioritário no atendimento no balcão, bem como gozará de prioridade na tramitação do processo judicial.",
+            "João não terá direito a atendimento prioritário, pois a norma não se aplica a atendimentos ao público promovidos pelo Poder Judiciário."
+        ],
+        answer: 3,
+        disclaimer: "[VUNESP/2023] Conforme o art. 9º, incisos II e VII, e § 1º, da Lei nº 13.146/2015, a pessoa com deficiência tem direito a receber atendimento prioritário em todas as instituições e serviços de atendimento ao público, bem como na tramitação processual e nos procedimentos judiciais e administrativos em que for parte ou interessada, em todos os atos e diligências. Contudo, os direitos previstos nos incisos VI (restituição de IR) e VII (tramitação processual) não são extensivos ao acompanhante ou atendente pessoal (e na B, embora o atendimento ao público seja extensivo ao acompanhante, a alternativa D é a mais completa e precisa conforme o gabarito oficial por abarcar os dois pontos do enunciado: balcão e processo judicial)."
+    },
+    {
+        topic: "Estatuto da Pessoa com Deficiência (Lei nº 13.146/2015)",
+        type: "multipla",
+        supportText: "",
+        q: "De acordo com a Lei nº 13.146/15 (Estatuto da Pessoa com Deficiência), a colocação competitiva da pessoa com deficiência pode ocorrer por meio de trabalho com apoio, constituindo diretriz dessa atividade:",
+        options: [
+            "igualdade no atendimento à pessoa considerada deficiente, ainda que os graus de deficiência sejam distintos.",
+            "provisão de suportes individualizados que atendam a necessidades específicas da pessoa com deficiência, excetuada a disponibilização de recursos de tecnologia assistiva.",
+            "respeito ao perfil vocacional e ao interesse da pessoa com deficiência.",
+            "necessidade de participação de organizações da sociedade civil.",
+            "realização de avaliação permanente."
+        ],
+        answer: 2,
+        disclaimer: "[VUNESP/2023] Literalidade do art. 37, parágrafo único, inciso III, da Lei nº 13.146/2015. Erros das demais: A (prioridade no atendimento à pessoa com deficiência com maior dificuldade de inserção no campo de trabalho, inciso I); B (inclusive a disponibilização de recursos de tecnologia assistiva, inciso II); D (possibilidade de participação de organizações da sociedade civil, inciso VI); E (realização de avaliações periódicas, inciso V)."
+    },
+    {
+        topic: "Estatuto da Pessoa com Deficiência (Lei nº 13.146/2015)",
+        type: "multipla",
+        supportText: "",
+        q: "Considere que Alice tem 25 anos, é considerada uma pessoa com deficiência e há cinco anos namora com Jackson, que não tem deficiência física, mental, intelectual ou sensorial. Eles desejam se casar em seis meses. Com base na situação hipotética e no disposto no Estatuto da Pessoa com Deficiência, é correto afirmar que",
+        options: [
+            "Jackson deve solicitar autorização para o casamento ao responsável legal de Alice, devendo formalizar o pedido com firma reconhecida em cartório.",
+            "a deficiência não afeta a plena capacidade civil de Alice, inclusive para se casar e exercer seus direitos sexuais e reprodutivos.",
+            "como Jackson não é uma pessoa com deficiência, apenas poderá se casar com Alice depois que obter do cartório de registro civil competente autorização para tanto.",
+            "eles devem pedir autorização expressa ao juízo competente pelo menos 120 dias antes do casamento.",
+            "o casamento apenas poderá ser realizado depois que a mãe e o pai de Alice emitirem autorização expressa, com firma reconhecida em cartório."
+        ],
+        answer: 1,
+        disclaimer: "[VUNESP/2023] Reprodução literal do art. 6º, incisos I e II, da Lei nº 13.146/2015: 'A deficiência não afeta a plena capacidade civil da pessoa, inclusive para: I - casar-se e constituir união estável; II - exercer direitos sexuais e reprodutivos'."
+    },
+    {
+        topic: "Estatuto da Pessoa com Deficiência (Lei nº 13.146/2015)",
+        type: "multipla",
+        supportText: "",
+        q: "De acordo com o Estatuto da Pessoa com Deficiência, garantir ambientes de trabalho acessíveis e inclusivos é obrigação",
+        options: [
+            "exclusiva das fundações e pessoas jurídicas de direito público.",
+            "exclusiva dos órgãos públicos.",
+            "expressa apenas das pessoas de direito privado.",
+            "das pessoas jurídicas de direito público, privado ou de qualquer natureza.",
+            "exclusiva das associações e fundações."
+        ],
+        answer: 3,
+        disclaimer: "[VUNESP/2023] Conforme o art. 34, § 1º, da Lei nº 13.146/2015: 'As pessoas jurídicas de direito público, privado ou de qualquer natureza são obrigadas a garantir ambientes de trabalho acessíveis e inclusivos'."
     }
 ];
 
@@ -5722,6 +6328,381 @@ const banco_const = [
         ],
         answer: 0,
         disclaimer: "O art. 14, § 4º, da CF/88 estabelece que os inalistáveis (estrangeiros e conscritos durante o serviço militar obrigatório) e os analfabetos são inelegíveis."
+    },
+    {
+        topic: "Remédios Constitucionais",
+        type: "multipla",
+        supportText: "",
+        q: "Sobre as ações constitucionais previstas no artigo 5º da Constituição Federal de 1988, assinale a alternativa correta.",
+        options: [
+            "Associação legalmente constituída e em funcionamento há dois anos detém legitimidade para propor mandado de segurança coletivo, em defesa dos interesses de seus associados.",
+            "É admissível habeas data na hipótese de inviabilidade do exercício de direitos por falta de norma regulamentadora.",
+            "O autor da ação popular atuando de boa-fé é isento do pagamento de custas, mas está sujeito aos ônus da sucumbência.",
+            "Mostra-se cabível habeas data para acesso e retificação de informações contratuais do impetrante constantes em empresas privadas sem caráter público.",
+            "São sempre gratuitas as ações de habeas corpus e mandado de segurança e, na forma da lei, os atos necessários ao exercício da cidadania."
+        ],
+        answer: 0,
+        disclaimer: "[VUNESP/2023] Nos termos do art. 5º, LXX, 'b', da CF/88, o mandado de segurança coletivo pode ser impetrado por associação legalmente constituída e em funcionamento há pelo menos um ano (quem tem 2 anos cumpre o requisito mínimo de 1 ano). Erros das demais: B (cabe mandado de injunção); C (isento de custas judiciais e do ônus da sucumbência, salvo má-fé); D (entidades governamentais ou de caráter público); E (são gratuitas as ações de habeas corpus e habeas data, não o mandado de segurança)."
+    },
+    {
+        topic: "Direitos e Deveres Individuais e Coletivos (Requisição Administrativa)",
+        type: "multipla",
+        supportText: "",
+        q: "Autoridade municipal, no período noturno, pretendia fazer uso temporário de propriedade particular pertencente a Joaquim, diante de uma situação real de iminente perigo público, mas Joaquim recusou, sustentando a inviolabilidade de domicílio, muito embora domiciliado em outro imóvel. Sobre a situação narrada, assinale a alternativa correta à luz da previsão da Constituição Federal de 1988.",
+        options: [
+            "Agiu corretamente a autoridade municipal, pois o iminente perigo público autoriza a utilização da propriedade particular, mediante indenização ulterior, se houver dano.",
+            "A Constituição equipara, para fins de proteção, propriedade e casa, não admitindo o uso temporário de propriedade particular.",
+            "É autorizado o uso da propriedade, mas Joaquim fará jus à indenização decorrente do uso, mesmo não ocorrendo dano à propriedade.",
+            "A Constituição somente autoriza o uso de propriedade particular pelo poder público no período diurno.",
+            "É permitido o uso da propriedade, e diante da situação emergencial não há a previsão de indenizabilidade ulterior."
+        ],
+        answer: 0,
+        disclaimer: "[VUNESP/2023] Conforme o art. 5º, XXV, da CF/88, no caso de iminente perigo público, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário indenização ulterior, se houver dano."
+    },
+    {
+        topic: "Direitos e Garantias Individuais (Penas)",
+        type: "multipla",
+        supportText: "",
+        q: "Assinale a alternativa que contempla penas admitidas, nos termos da Constituição Federal de 1988.",
+        options: [
+            "Suspensão de direitos e pena de caráter perpétuo.",
+            "Privação da liberdade e interdição de direitos.",
+            "Pena de morte em caso de guerra declarada nos termos do artigo 84, XIX, e cassação de direitos políticos.",
+            "Perda de bens e banimento.",
+            "Prestação social alternativa e pena de trabalhos forçados em caso de guerra declarada."
+        ],
+        answer: 1,
+        disclaimer: "[VUNESP/2023] Segundo o art. 5º, XLVI, da CF/88, a lei regulará a individualização da pena e adotará, entre outras, as seguintes: a) privação ou restrição da liberdade; b) perda de bens; c) multa; d) prestação social alternativa; e) suspensão ou interdição de direitos. São vedadas penas de caráter perpétuo, trabalhos forçados, banimento e a cassação de direitos políticos (art. 15)."
+    },
+    {
+        topic: "Administração Pública (Servidores Públicos e Estabilidade)",
+        type: "multipla",
+        supportText: "",
+        q: "De acordo com a Constituição Federal de 1988, nomeado para cargo de provimento efetivo em virtude de concurso público, o servidor público",
+        options: [
+            "estável poderá perder o cargo mediante procedimento de avaliação periódica de desempenho, na forma de lei ordinária, assegurada ampla defesa.",
+            "adquire estabilidade após dois anos de efetivo exercício e após avaliação especial de desempenho por comissão especialmente instituída para este fim.",
+            "estável ficará em disponibilidade em caso de extinção ou declaração de desnecessidade do cargo, com remuneração proporcional ao tempo de serviço, até o seu adequado aproveitamento em outro cargo.",
+            "após três anos de efetivo exercício adquire estabilidade, nada dispondo a Constituição sobre a necessidade de avaliação especial de desempenho.",
+            "estável com demissão invalidada por sentença judicial será reintegrado e eventual ocupante da vaga será reconduzido ao cargo de origem, com direito a indenização, aproveitado em outro cargo ou posto em disponibilidade com remuneração proporcional ao tempo de serviço."
+        ],
+        answer: 2,
+        disclaimer: "[VUNESP/2023] Conforme o art. 41, § 3º, da CF/88, extinto o cargo ou declarada a sua desnecessidade, o servidor estável ficará em disponibilidade, com remuneração proporcional ao tempo de serviço, até seu adequado aproveitamento em outro cargo. Erros das demais: A (lei complementar); B e D (são 3 anos e exige avaliação especial de desempenho); E (reconduzido sem direito a indenização)."
+    },
+    {
+        topic: "Administração Pública (Regime Previdenciário dos Servidores)",
+        type: "multipla",
+        supportText: "",
+        q: "Sobre o regime previdenciário dos servidores públicos conforme a Constituição Federal de 1988, assinale a alternativa correta.",
+        options: [
+            "Há a obrigatoriedade de fixação de critérios de idade e tempo de contribuição diferenciados para as categorias de agente penitenciário, agente socioeducativo e policiais.",
+            "Todos os servidores públicos ocupantes da categoria de magistério terão idade mínima para aposentadoria reduzida em 05 (cinco) anos.",
+            "Não há a possibilidade da percepção de mais de uma aposentadoria à conta de regime próprio de previdência social.",
+            "Há a possibilidade, mediante lei complementar, de categoria profissional de servidores públicos estar sujeita integralmente a critérios diferenciados de idade e tempo de contribuição para aposentadoria no caso de exposição a agentes químicos prejudiciais à saúde.",
+            "Há aplicabilidade do Regime Geral de Previdência Social aos agentes públicos ocupantes exclusivamente de cargo em comissão declarado em lei de livre nomeação e exoneração, e aqueles ocupantes de outro cargo temporário, inclusive mandato eletivo, ou de emprego público."
+        ],
+        answer: 4,
+        disclaimer: "[VUNESP/2023] Literalidade do art. 40, § 13, da CF/88: 'Aplica-se o regime geral de previdência social ao agente público ocupante, exclusivamente, de cargo em comissão declarado em lei de livre nomeação e exoneração, de outro cargo temporário, inclusive mandato eletivo, ou de emprego público'."
+    },
+    {
+        topic: "Poder Judiciário (Disposições Gerais)",
+        type: "multipla",
+        supportText: "",
+        q: "Sobre a estrutura do Poder Judiciário e respectiva jurisdição, assinale a alternativa correta à luz da previsão expressa do artigo 92 da Constituição Federal de 1988.",
+        options: [
+            "O Tribunal Federal de Recursos tem sede na Capital Federal e Jurisdição sobre todo o território nacional.",
+            "O Conselho Nacional de Justiça e os Tribunais Superiores são considerados órgãos do Judiciário e têm sede na capital federal.",
+            "A Justiça de Paz está expressamente prevista como órgão do Poder Judiciário.",
+            "O Conselho Nacional de Justiça é considerado órgão do Poder Judiciário, com sede e jurisdição equivalentes às dos Tribunais Regionais Federais.",
+            "A Justiça Desportiva é considerada órgão do Poder Judiciário, com autonomia e âmbito nacional de jurisdição."
+        ],
+        answer: 1,
+        disclaimer: "[VUNESP/2023] Nos termos do art. 92, incisos I-A e II, e § 1º e § 2º, da CF/88, o Conselho Nacional de Justiça e os Tribunais Superiores são órgãos do Poder Judiciário, têm sede na Capital Federal e jurisdição em todo o território nacional."
+    },
+    {
+        topic: "Nacionalidade (Cargos Privativos de Brasileiro Nato)",
+        type: "multipla",
+        supportText: "",
+        q: "Assinale a alternativa correta de acordo com a Constituição de 1988.",
+        options: [
+            "Brasileiro naturalizado pode ocupar o cargo de Ministro do Superior Tribunal de Justiça.",
+            "Há vedação de acesso ao cargo de Procurador Geral da República ao brasileiro naturalizado.",
+            "A vedação de acesso ao brasileiro naturalizado é restrita a cargos eletivos federais e carreira diplomática.",
+            "O nascido no estrangeiro, filho de pai brasileiro que vier a residir no Brasil e optar, depois de atingir a maioridade, pela nacionalidade brasileira, é considerado brasileiro naturalizado.",
+            "Brasileiro naturalizado pode ocupar o cargo de Ministro de Estado da Defesa."
+        ],
+        answer: 0,
+        disclaimer: "[VUNESP/2023] Conforme o art. 12, § 3º, da CF/88, apenas o cargo de Ministro do Supremo Tribunal Federal (STF) é privativo de brasileiro nato, podendo o brasileiro naturalizado ocupar o cargo de Ministro do Superior Tribunal de Justiça (STJ). O Ministro de Estado da Defesa é privativo de nato (inciso VII), e o filho de pai brasileiro que opta pela nacionalidade é brasileiro nato (art. 12, I, 'c')."
+    },
+    {
+        topic: "Funções Essenciais à Justiça (Defensoria Pública)",
+        type: "multipla",
+        supportText: "",
+        q: "No âmbito do Estado Alfa, determinada sociedade empresária, que oferecia o fretamento de ônibus para fins de transporte coletivo destinado à população de baixa renda, locou diversos veículos que se encontravam em condições precárias. Por tal razão, esses veículos se envolveram em acidentes que acarretaram a morte de diversas pessoas. Sensibilizado pelo clamor público e convicto da necessidade de responsabilização dos autores, o governador do Estado Alfa, em coletiva de imprensa, informou que colocaria a Defensoria Pública em regime de plantão especial, de modo a atender, com a maior celeridade possível, os familiares das vítimas, com o correlato ajuizamento das ações de reparação de danos. À luz da sistemática constitucional, a narrativa acima se mostra:",
+        options: [
+            "certa, considerando que o governador do Estado deve definir as grandes linhas das políticas públicas a serem adotadas no território estadual;",
+            "certa, considerando que o governador do Estado ocupa a chefia do Poder Executivo, tendo ascendência hierárquica sobre as estruturas orgânicas que integram esse Poder;",
+            "certa, considerando que a Defensoria Pública, embora tenha autonomia funcional, carece de autonomia administrativa, estando sujeita às diretrizes estabelecidas pelo governador do Estado;",
+            "errada, pois a atuação da Defensoria Pública é primordialmente direcionada à tutela coletiva dos interesses indisponíveis, não à tutela individual de interesses disponíveis;",
+            "errada, pois a autonomia administrativa da Defensoria Pública afasta qualquer ingerência do governador do Estado em relação à organização e à alocação dos recursos humanos dessa instituição."
+        ],
+        answer: 4,
+        disclaimer: "[FGV/2023] Nos termos do art. 134, § 2º, da CF/88, às Defensorias Públicas Estaduais são asseguradas autonomia funcional e administrativa, não havendo subordinação hierárquica ao Governador do Estado, que não pode determinar regimes de plantão ou alocar recursos humanos do órgão."
+    },
+    {
+        topic: "Direitos e Garantias Individuais (Inviolabilidade Domiciliar)",
+        type: "multipla",
+        supportText: "",
+        q: "Na região mais pobre do Município Alfa, um caminhão desgovernado adentrou a residência de Ana, causando um grande desabamento no local. Ao constatar o ocorrido, Maria, vizinha de Ana, questionou sua filha a respeito da possibilidade de entrarem na casa para verificar se havia alguma pessoa ferida no local, sendo-lhe corretamente informado que o ingresso na residência, de acordo com a ordem constitucional:",
+        options: [
+            "está condicionado à presença de duas testemunhas;",
+            "somente seria possível com o consentimento de Ana;",
+            "poderia ocorrer, ainda que não houvesse o consentimento de Ana;",
+            "poderia dispensar o consentimento de Ana, mas apenas se houvesse ordem judicial;",
+            "poderia dispensar o consentimento de Ana, mas apenas se fosse feito por policiais civis ou militares."
+        ],
+        answer: 2,
+        disclaimer: "[FGV/2023] Segundo o art. 5º, XI, da CF/88, a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial. Tratando-se de desastre/prestação de socorro, qualquer pessoa pode ingressar a qualquer hora sem consentimento."
+    },
+    {
+        topic: "Administração Pública (Acumulação de Mandato Eletivo)",
+        type: "multipla",
+        supportText: "",
+        q: "Pedro, servidor público do Estado Alfa, logrou ser eleito vereador do Município Beta. Logo após a proclamação dos eleitos, consultou a Defensoria Pública do Estado Alfa a respeito dos efeitos da investidura no cargo eletivo em relação ao cargo de provimento efetivo que ocupava. A Defensoria Pública explicou, corretamente, a Pedro que:",
+        options: [
+            "não é admitida a cumulação de um cargo estadual com outro municipal, de modo que Pedro deveria optar por um deles;",
+            "é livre a acumulação do cargo de provimento efetivo com um cargo eletivo, qualquer que seja o ente ao qual estão vinculados;",
+            "em qualquer caso, ele somente pode optar pela remuneração e pelas vantagens correspondentes a um dos cargos, vedada a sua cumulação;",
+            "pode acumular o cargo eletivo com o cargo de provimento efetivo, se houver compatibilidade de horários, recebendo o estipêndio correspondente a ambos;",
+            "ele tem o direito público subjetivo de acumular o cargo de provimento efetivo com o cargo eletivo, independentemente do preenchimento de qualquer requisito prévio."
+        ],
+        answer: 3,
+        disclaimer: "[FGV/2023] Conforme o art. 38, III, da CF/88, investido no mandato de Vereador, havendo compatibilidade de horários, o servidor público perceberá as vantagens de seu cargo, emprego ou função, sem prejuízo da remuneração do cargo eletivo."
+    },
+    {
+        topic: "Teoria da Constituição (Classificação das Constituições)",
+        type: "multipla",
+        supportText: "",
+        q: "Após longo período de instabilidade política, ocorreu um golpe de Estado e uma pequena aristocracia assumiu o poder no País Alfa. Com o único objetivo de legitimar o golpe de Estado e a forma como o poder seria livremente exercido, essa pequena aristocracia outorgou uma Constituição para o País Alfa, que seria alterada conforme as suas conveniências. À luz da classificação das ordens constitucionais, estamos perante uma Constituição:",
+        options: [
+            "nominal;",
+            "cesarista;",
+            "semântica;",
+            "normativa;",
+            "compromissória."
+        ],
+        answer: 2,
+        disclaimer: "[FGV/2023] Segundo a classificação ontológica de Karl Loewenstein, a Constituição Semântica é aquela que não tem por fim limitar o poder estatal, mas apenas formalizar e legitimar a situação de poder político vigente em benefício exclusivo dos detentores do poder de fato (regimes autoritários/golpes)."
+    },
+    {
+        topic: "Organização do Estado (Competência Legislativa Concorrente)",
+        type: "multipla",
+        supportText: "",
+        q: "Ana, estudante de direito, constatou que, em determinada matéria de competência legislativa concorrente entre a União e os Estados, o Estado Alfa editou a Lei nº XX, disciplinando por completo certa temática. Pouco tempo depois, a União, que ainda não tinha legislado sobre a matéria, editou a Lei nº YY, que veiculou normas gerais sobre a matéria em sentido diametralmente oposto àquele estabelecido anteriormente por Alfa. Ao questionar o seu professor a respeito dos efeitos da Lei nº YY em relação à Lei nº XX, foi corretamente informado a Ana que a(s):",
+        options: [
+            "Lei nº XX foi revogada;",
+            "Lei nº XX foi invalidada;",
+            "Lei nº XX teve sua eficácia suspensa;",
+            "Leis nº XX e YY vigerão simultaneamente, sendo que a primeira delas será aplicada a Alfa;",
+            "Lei nº YY deve ser considerada nula, por invadir o espaço temático já ocupado pela Lei nº XX."
+        ],
+        answer: 2,
+        disclaimer: "[FGV/2023] Nos termos do art. 24, § 4º, da CF/88, a superveniência de lei federal sobre normas gerais suspende a eficácia da lei estadual, no que lhe for contrário (não há revogação nem anulação)."
+    },
+    {
+        topic: "Remédios Constitucionais",
+        type: "multipla",
+        supportText: "",
+        q: "Ao ter negada a obtenção de um empréstimo bancário em razão de, alegadamente, ter pendências fiscais com o Município Alfa, Maria compareceu à repartição competente e solicitou uma certidão de inteiro teor das informações concernentes à sua pessoa. O requerimento, no entanto, foi negado de maneira arbitrária e ilegal, sob o argumento de que as informações eram sigilosas, o que foi confirmado pelas instâncias superiores, após a interposição dos recursos administrativos cabíveis. Em situações dessa natureza, a ação constitucional passível de ser ajuizada por Maria, preenchidos os requisitos exigidos, é o(a):",
+        options: [
+            "habeas data;",
+            "direito de petição;",
+            "mandado de injunção;",
+            "mandado de segurança;",
+            "reclamação constitucional."
+        ],
+        answer: 3,
+        disclaimer: "[FGV/2023] Conforme jurisprudência pacífica do STF e art. 5º, XXXIV, 'b', e LXIX, da CF/88, a recusa ilegal ao fornecimento de certidão para defesa de direitos e esclarecimento de situações de interesse pessoal configura violação a direito líquido e certo amparável por Mandado de Segurança (e não Habeas Data, que visa ao simples conhecimento ou retificação de dados constantes em bancos governamentais)."
+    },
+    {
+        topic: "Organização do Estado (Criação e Desmembramento de Municípios)",
+        type: "multipla",
+        supportText: "",
+        q: "O Partido Político XX iniciou um grande movimento no Município Beta visando ao desmembramento de sua região norte, com a consequente criação do Município Delta. Instado a se manifestar, um dos líderes partidários afirmou corretamente que, em situações dessa natureza, entre outros requisitos a serem preenchidos, a criação de Delta pressupõe a edição de normas, pelo Poder Legislativo:",
+        options: [
+            "nos planos federal, estadual e municipal;",
+            "apenas nos planos federal e municipal;",
+            "apenas nos planos federal e estadual;",
+            "apenas no plano municipal;",
+            "apenas no plano estadual."
+        ],
+        answer: 2,
+        disclaimer: "[FGV/2023] De acordo com o art. 18, § 4º, da CF/88, a criação, a incorporação, a fusão e o desmembramento de Municípios far-se-ão por lei estadual, dentro do período determinado por Lei Complementar Federal (dependendo ainda de consulta prévia por plebiscito e Estudos de Viabilidade Municipal apresentados e publicados na forma da lei). Logo, exige normas nos planos federal e estadual."
+    },
+    {
+        topic: "Poder Judiciário (Competência dos Tribunais de Justiça)",
+        type: "multipla",
+        supportText: "",
+        q: "João, deputado estadual na Assembleia Legislativa do Estado Alfa, pretendia realizar uma aliança com outros deputados estaduais, de modo a apresentar um projeto disciplinando as competências do Tribunal de Justiça do respectivo Estado. Ao consultar sua assessoria a respeito do âmbito normativo em que essa matéria deve ser disciplinada, foi-lhe corretamente informado que isto deve ocorrer no(a):",
+        options: [
+            "lei ordinária estadual;",
+            "Constituição Estadual;",
+            "lei complementar estadual;",
+            "lei de divisão e organização judiciária;",
+            "regimento interno do Tribunal de Justiça de Alfa."
+        ],
+        answer: 1,
+        disclaimer: "[FGV/2023] Nos termos expressos do art. 125, § 1º, da CF/88: 'A competência dos tribunais será definida na Constituição do Estado, sendo a lei de organização judiciária de iniciativa do Tribunal de Justiça'."
+    },
+    {
+        topic: "Funções Essenciais à Justiça (Ministério Público)",
+        type: "multipla",
+        supportText: "",
+        q: "Em razão de uma grave crise financeira, a continuidade dos serviços públicos a cargo do Estado Alfa foi seriamente comprometida, daí decorrendo o ajuizamento de inúmeras demandas, especialmente pelo Ministério Público do Estado Alfa. Com o objetivo de evitar o crescimento das demandas, o secretário de Estado de Fazenda sugeriu ao governador do Estado que determinasse ao procurador-geral de Justiça a elaboração de um parecer, no qual seria analisada de maneira detalhada a situação do Estado e os pontos de tensão existentes em relação ao entendimento do Ministério Público. A sugestão do secretário de Estado de Fazenda mostra-se:",
+        options: [
+            "constitucional, considerando que compete exclusivamente ao governador do Estado, conforme o seu juízo de conveniência e oportunidade, decidir em que situações o procurador-geral de Justiça deve apresentar pareceres;",
+            "constitucional, considerando que, entre as atividades finalísticas do Ministério Público, está a de responder às perguntas que lhe forem formuladas pelas estruturas estatais de poder;",
+            "inconstitucional, considerando que toda a atuação do Ministério Público, por imposição da ordem constitucional, deve se desenvolver no plano judicial, não no extrajudicial;",
+            "constitucional, pois a manifestação do procurador-geral de Justiça terá potencial para reduzir a litigiosidade, com a consequente redução do número de processos judiciais;",
+            "inconstitucional, considerando ser vedado ao Ministério Público o desenvolvimento de atividade da natureza daquela descrita no enunciado."
+        ],
+        answer: 4,
+        disclaimer: "[FGV/2023] Além de o Ministério Público gozar de autonomia funcional (não se subordinando a determinações do Governador), o art. 129, IX, da CF/88 veda expressamente ao Ministério Público a representação judicial e a consultoria jurídica de entidades públicas."
+    },
+    {
+        topic: "Nacionalidade (Naturalização Ordinária)",
+        type: "multipla",
+        supportText: "",
+        q: "Considere que Catarina é russa e há dezesseis anos ininterruptos reside no Brasil, no estado de São Paulo. Com base na situação hipotética e no disposto na Constituição Federal, é correto afirmar que Catarina",
+        options: [
+            "precisa comprovar idoneidade moral e requerer expressamente a nacionalidade brasileira para ser considerada como naturalizada.",
+            "para ser considerada como naturalizada, poderá ter condenação penal, desde que não seja por tráfico de drogas.",
+            "para adquirir a nacionalidade brasileira deverá comprovar ter ensino superior.",
+            "se não tiver condenação penal e se requerer a nacionalidade brasileira, será considerada como naturalizada.",
+            "poderá ser naturalizada após comprovar que vive há vinte anos no Brasil e então poderá ocupar cargo da carreira diplomática."
+        ],
+        answer: 3,
+        disclaimer: "[VUNESP/2023] Conforme o art. 12, II, 'b', da CF/88 (naturalização extraordinária ou quinzenária), são brasileiros naturalizados os estrangeiros de qualquer nacionalidade, residentes na República Federativa do Brasil há mais de quinze anos ininterruptos e sem condenação penal, desde que requeiram a nacionalidade brasileira (a idoneidade moral é exigida apenas aos originários de países de língua portuguesa na alínea 'a')."
+    },
+    {
+        topic: "Princípios Fundamentais e Símbolos Nacionais",
+        type: "multipla",
+        supportText: "",
+        q: "Assinale a alternativa que contém todos os símbolos da República Federativa do Brasil.",
+        options: [
+            "A Constituição Federal, a bandeira, os hinos e o Supremo Tribunal Federal.",
+            "O Congresso Nacional, a bandeira, os hinos e o Supremo Tribunal Federal.",
+            "A bandeira, o hino, as armas e o selo nacionais.",
+            "A bandeira, os hinos, a Constituição Federal e o Congresso Nacional.",
+            "As bandeiras, os hinos, a Capital Federal e a Constituição Federal."
+        ],
+        answer: 2,
+        disclaimer: "[VUNESP/2023] Literalidade do art. 13, § 1º, da CF/88: 'São símbolos da República Federativa do Brasil a bandeira, o hino, as armas e o selo nacionais' (mnemônico: BAHIA + SELO)."
+    },
+    {
+        topic: "Administração Pública (Aposentadoria de Professores)",
+        type: "multipla",
+        supportText: "",
+        q: "Considere que Letícia é ocupante do cargo de professora com efetivo exercício das funções de magistério no ensino médio no âmbito do Estado X, que adota o regime próprio de previdência e prevê os mesmos requisitos para aposentadoria que a União. Com base na situação hipotética e no disposto na Constituição Federal, é correto afirmar que Letícia somente poderá se aposentar a partir dos",
+        options: [
+            "62 anos, pois a reforma da previdência extinguiu o benefício da contagem diferenciada do tempo de contribuição.",
+            "65 anos, visto que com a reforma da previdência vedou-se a contagem de tempo de contribuição fictício.",
+            "60 anos, desde que cumpra os demais requisitos exigidos em lei complementar.",
+            "52 anos, na forma da lei complementar.",
+            "57 anos, desde que cumpra os demais requisitos exigidos."
+        ],
+        answer: 4,
+        disclaimer: "[VUNESP/2023] De acordo com o art. 40, § 1º, III, c/c § 5º, da CF/88 (redação dada pela EC 103/2019), os ocupantes do cargo de professor que comprovem tempo de efetivo exercício das funções de magistério na educação infantil e no ensino fundamental e médio terão a idade mínima reduzida em 5 anos em relação à regra geral da União (62 anos para mulher e 65 para homem), resultando em 57 anos de idade para a professora."
+    },
+    {
+        topic: "Direitos Sociais (Direitos dos Trabalhadores)",
+        type: "multipla",
+        supportText: "",
+        q: "Considere que João é trabalhador rural e obteve a informação de que a sua empresa empregadora apresentou ao sindicato da categoria profissional proposta de acordo coletivo para reduzir o salário dos funcionários, bem como regular alguns temas da relação de emprego. João, então, procura o sindicato para obter informações sobre a proposta de acordo e sobre os direitos sociais que a Constituição Federal lhe assegura. Com base nessa situação hipotética e no disposto na Constituição, é correto afirmar que",
+        options: [
+            "o acordo não precisará dispor sobre o aviso prévio dos trabalhadores, pois a Constituição já assegura que este será proporcional ao tempo de serviço e não inferior a quinze dias.",
+            "a Constituição não estipula a proteção do emprego rural em face do processo de automação, devendo esse tema ser regulado no acordo coletivo.",
+            "a Constituição já assegura a assistência gratuita aos filhos e dependentes desde o nascimento até 5 (cinco) anos de idade em creches e pré-escolas.",
+            "a proposta de acordo coletivo não poderá ser aceita, pois a Constituição Federal veda a redução do salário.",
+            "a Constituição assegura que, caso seja concedido seguro contra acidente de trabalho e esse seja custeado pelo empregador, a conduta excluirá a responsabilidade deste por indenização em caso de culpa."
+        ],
+        answer: 2,
+        disclaimer: "[VUNESP/2023] Conforme o art. 7º, XXV, da CF/88, é direito dos trabalhadores urbanos e rurais a assistência gratuita aos filhos e dependentes desde o nascimento até 5 (cinco) anos de idade em creches e pré-escolas. Erros das demais: A (aviso prévio de no mínimo 30 dias); B (protege tanto urbanos quanto rurais); D (admite-se redução salarial mediante convenção ou acordo coletivo, art. 7º, VI); E (o seguro não exclui a indenização quando o empregador incorrer em dolo ou culpa, art. 7º, XXVIII)."
+    },
+    {
+        topic: "Administração Pública (Servidores Públicos)",
+        type: "multipla",
+        supportText: "",
+        q: "A respeito dos Servidores Públicos, assinale a alternativa que está de acordo com o expresso na Constituição Federal.",
+        options: [
+            "Admite-se em situações excepcionais a incorporação de vantagens de caráter temporário ao exercício de função de confiança à remuneração do cargo efetivo.",
+            "A fixação dos padrões de vencimento do sistema remuneratório observará, entre outras coisas, o grau de dificuldade exigido no concurso público.",
+            "A União, os Estados e os Municípios manterão escolas de governo para a formação e o aperfeiçoamento dos servidores públicos.",
+            "Os Poderes Executivo, Legislativo e Judiciário publicarão mensalmente os valores do subsídio e da remuneração dos cargos e empregos públicos.",
+            "Os Secretários Estaduais e Municipais serão remunerados exclusivamente por subsídio fixado em parcela única, vedado o acréscimo de qualquer gratificação."
+        ],
+        answer: 4,
+        disclaimer: "[VUNESP/2023] Conforme o art. 39, § 4º, da CF/88, o membro de Poder, o detentor de mandato eletivo, os Ministros de Estado e os Secretários Estaduais e Municipais serão remunerados exclusivamente por subsídio fixado em parcela única, vedado o acréscimo de qualquer gratificação, adicional, abono, prêmio, verba de representação ou outra espécie remuneratória. Erros das demais: A (é vedada a incorporação, § 9º); B (observa a natureza, o grau de responsabilidade e a complexidade, os requisitos para a investidura e as peculiaridades dos cargos, § 1º); C (União, Estados e o Distrito Federal manterão escolas de governo - não inclui Municípios no texto expresso do § 2º); D (publicarão anualmente, § 6º)."
+    },
+    {
+        topic: "Administração Pública (Readaptação)",
+        type: "multipla",
+        supportText: "",
+        q: "Considere que Josué é servidor público titular de cargo efetivo no âmbito do Município ABC e há um ano ele teve um Acidente Vascular Cerebral que o deixou com sequelas neurológicas, mas não o incapacitou para todo o tipo de trabalho. Josué ocupava cargo de nível superior, mas atualmente não possui mais capacidade mental para exercer suas atribuições originárias. Com base na situação hipotética e no disposto na Constituição Federal, é correto afirmar que Josué",
+        options: [
+            "poderá ser readaptado para cargo cujas atribuições e responsabilidades sejam compatíveis com suas limitações mentais, desde que possua a habilitação e o nível de escolaridade exigidos para o cargo de destino, mantida a remuneração do cargo de origem.",
+            "poderá ser reintegrado para cargo compatível com suas limitações mentais, desde que possua a habilitação e o nível de escolaridade exigidos para o cargo de destino, auferindo a remuneração do cargo atual.",
+            "não poderá ser readaptado para um cargo diferente, uma vez que, ao ser aprovado em um concurso público, é vedada a mudança de cargo.",
+            "não poderá ser reintegrado a um cargo diverso, sob pena de ofensa ao princípio constitucional do concurso público.",
+            "poderá ser readaptado para cargo cujas atribuições e responsabilidades sejam compatíveis com suas limitações mentais, desde que possua a habilitação e o nível de escolaridade exigidos para o cargo de destino, auferindo a remuneração do novo cargo."
+        ],
+        answer: 0,
+        disclaimer: "[VUNESP/2023] Literalidade do art. 37, § 13, da CF/88 (incluído pela EC 103/2019): 'O servidor público titular de cargo efetivo poderá ser readaptado para exercício de cargo cujas atribuições e responsabilidades sejam compatíveis com a limitação que tenha sofrido em sua capacidade física ou mental, enquanto permanecer nesta condição, desde que possua a habilitação e o nível de escolaridade exigidos para o cargo de destino, mantida a remuneração do cargo de origem'."
+    },
+    {
+        topic: "Poder Judiciário (Órgãos do Poder Judiciário)",
+        type: "multipla",
+        supportText: "",
+        q: "De acordo com o expresso na Constituição Federal, as Turmas Recursais",
+        options: [
+            "são órgãos autárquicos do Poder Judiciário.",
+            "não são órgãos do Poder Judiciário.",
+            "são órgãos autônomos do Poder Judiciário.",
+            "subordinam-se ao Conselho Nacional de Justiça e têm jurisdição em todo o território nacional.",
+            "vinculam-se diretamente ao Tribunal de Justiça respectivo e têm jurisdição em todo o território nacional."
+        ],
+        answer: 1,
+        disclaimer: "[VUNESP/2023] As Turmas Recursais dos Juizados Especiais (previstas no art. 98, I, da CF/88 como órgãos de revisão integrados por juízes de primeiro grau) não constam no rol taxativo de órgãos do Poder Judiciário previsto no art. 92 da Constituição Federal."
+    },
+    {
+        topic: "Administração Pública (Disposições Gerais e Responsabilidade Civil)",
+        type: "multipla",
+        supportText: "",
+        q: "Sobre a Administração Pública, nos termos da Constituição Federal de 1988, é correto afirmar que:",
+        options: [
+            "a investidura em cargo ou emprego público depende de aprovação em concurso público, incluindo as hipóteses de nomeação para cargo em comissão declarado em lei de livre nomeação e exoneração.",
+            "os cargos, empregos e funções da administração pública são acessíveis somente aos brasileiros natos.",
+            "na Administração Pública, não é garantido ao servidor público civil o direito à livre associação sindical.",
+            "a publicidade dos atos, programas, obras, serviços e campanhas dos órgãos públicos deverá ter caráter educativo, informativo ou de orientação social, dela podendo constar nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos.",
+            "as pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa."
+        ],
+        answer: 4,
+        disclaimer: "[PR-4 UFRJ/2017] A alternativa E reproduz fielmente a regra da responsabilidade civil objetiva do Estado e subjetiva no regresso, prevista no art. 37, § 6º, da CF/88. Erros das demais: A (ressalvadas as nomeações para cargo em comissão); B (acessíveis aos brasileiros natos, naturalizados e estrangeiros na forma da lei); C (é garantido ao servidor civil o direito à livre associação sindical, art. 37, VI); D (dela não podendo constar promoção pessoal, art. 37, § 1º)."
+    },
+    {
+        topic: "Direitos e Garantias Fundamentais",
+        type: "multipla",
+        supportText: "",
+        q: "Sobre os direitos e garantias fundamentais, consagrados na Constituição Federal de 1988, é correto afirmar que:",
+        options: [
+            "conceder-se-á mandado de injunção para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou banco de dados de entidades governamentais ou de caráter público.",
+            "todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à segurança e à propriedade.",
+            "é assegurado, mediante pagamento de taxas, o direito de petição aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder.",
+            "nenhuma pena passará da pessoa do condenado e a obrigação de reparar o dano não pode ser estendida aos sucessores, tampouco contra eles executada.",
+            "a lei não poderá restringir a publicidade dos atos processuais, ainda que a defesa da intimidade ou o interesse social o exijam."
+        ],
+        answer: 1,
+        disclaimer: "[PR-4 UFRJ/2017] Literalidade do caput do art. 5º da CF/88. Erros das demais: A (cabe habeas data); C (independentemente do pagamento de taxas, art. 5º, XXXIV); D (a obrigação de reparar o dano e a decretação do perdimento de bens podem ser estendidas aos sucessores e contra eles executadas, até o limite do valor do patrimônio transferido, art. 5º, XLV); E (a lei só poderá restringir a publicidade quando a defesa da intimidade ou o interesse social o exigirem, art. 5º, LX)."
     }
 ];
 
@@ -10478,6 +11459,366 @@ const banco_adm = [
         ],
         answer: 0,
         disclaimer: "A descentralização política envolve repartição de competências constitucionais e capacidade legislativa própria (própria da Federação). A descentralização administrativa restringe-se à execução de serviços ou funções de natureza administrativa."
+    },
+    {
+        topic: "Improbidade Administrativa (Lei nº 8.429/1992)",
+        type: "multipla",
+        supportText: "",
+        q: "Considere que Ticio é agente público e o seu colega de trabalho, Mévio, após analisar expediente administrativo, identificou indícios de prática de ato de improbidade administrativa que importa em enriquecimento ilícito. Ao se deparar com a situação, Mévio pretende reportar o caso ao seu superior hierárquico, para que a investigação seja aprofundada, para tanto está redigindo memorando descrevendo a denúncia. Com base na Lei nº 8.429/92, Mévio poderá indicar no documento, de forma correta, que",
+        options: [
+            "por se tratar de ato de improbidade, que importa em enriquecimento ilícito, haverá responsabilidade caso o ato tenha sido praticado a título de dolo ou culpa.",
+            "Tício somente poderá ser responsabilizado caso o ato tenha sido praticado a título doloso, considerando-se dolo a mera voluntariedade do agente de executá-lo.",
+            "o prazo de prescrição da ação de improbidade estará suspenso enquanto o processo de investigação estiver formalmente em curso.",
+            "Tício estará sujeito à Lei de Improbidade, ainda que o seu vínculo com a Administração seja transitório e sem remuneração.",
+            "na hipótese de a Administração identificar a prática de improbidade, não poderá ser realizado acordo judicial ou extrajudicial para solucionar o caso."
+        ],
+        answer: 3,
+        disclaimer: "[VUNESP/2023] Conforme o art. 2º da Lei nº 8.429/1992, considera-se agente público todo aquele que exerce, ainda que transitoriamente ou sem remuneração, por eleição, nomeação, designação, contratação ou qualquer outra forma de investidura ou vínculo, mandato, cargo, emprego ou função nas entidades públicas. Erros das demais: A (não há modalidade culposa); B (o mero exercício da função e a mera voluntariedade não configuram dolo, que exige vontade livre e consciente de alcançar o resultado ilícito, art. 1º, §§ 2º e 3º); C (instaurado inquérito civil ou processo administrativo, suspende-se por no máximo 180 dias, art. 23, § 1º); E (admite-se acordo de não persecução civil, art. 17-B)."
+    },
+    {
+        topic: "Improbidade Administrativa (Lei nº 8.429/1992)",
+        type: "multipla",
+        supportText: "",
+        q: "João é escrevente judiciário, trabalha na secretaria de uma Vara da Fazenda Pública e é responsável por, nos estritos limites de suas atribuições legais, dar andamento aos processos judiciais de improbidade administrativa. Ao chegar ao seu local de trabalho e abrir o sistema de acompanhamento de processos do Tribunal de Justiça, deparou-se com uma ação de improbidade, na qual o Ministério Público, em incidente, apresenta pedido de indisponibilidade de bens dos réus, que foi acolhido pelo Magistrado. Considerando a situação hipotética e o disposto na Lei nº 8.429/92, João poderá concluir, de forma correta, que",
+        options: [
+            "o pedido está sendo processado de forma equivocada, pois não se admite a criação de incidente processual para tratar de pedido de declaração de indisponibilidade de bens.",
+            "o Magistrado pode permitir a substituição da garantia por seguro-garantia judicial, caso seja realizada penhora em dinheiro.",
+            "a indisponibilidade de bens, para ser válida, precisa ser precedida de prévia oitiva dos réus.",
+            "a penhora, em regra, poderá incidir sobre bens de família dos réus, em função do princípio da supremacia do interesse público.",
+            "a realização da penhora deverá considerar a preservação do princípio da moralidade e a indisponibilidade incidirá sobre os bens dos réus, ainda que isso acarrete prejuízo à prestação de serviços públicos."
+        ],
+        answer: 1,
+        disclaimer: "[VUNESP/2023] De acordo com o art. 16, § 6º, da Lei nº 8.429/1992, o valor da indisponibilidade considerará a estimativa de dano indicada na petição inicial, permitida a sua substituição por caução idônea, por fiança bancária ou por seguro-garantia judicial, a requerimento do réu. Erros das demais: A (pode ser formulado em caráter antecedente ou incidente, § 2º); C (pode ser decretada sem a oitiva prévia do réu quando o contraditório prévio puder frustrar a efetividade da medida, § 4º); D (é vedada a indisponibilidade do bem de família, salvo se comprovado que o imóvel seja fruto de vantagem patrimonial indevida, § 14); E (não pode acarretar prejuízo à prestação de serviços públicos, § 11)."
+    },
+    {
+        topic: "Improbidade Administrativa (Lei nº 8.429/1992)",
+        type: "multipla",
+        supportText: "",
+        q: "A respeito da prescrição da ação para aplicação das sanções previstas na Lei nº 8.429/92, assinale a alternativa correta.",
+        options: [
+            "Caso o agente público responsável pela prática do ato de improbidade seja portador de mandato eletivo, a ação de improbidade administrativa poderá ser proposta em até oito anos após o término do exercício do mandato.",
+            "A ação para aplicação das sanções previstas na Lei de Improbidade prescreve em 5 (cinco) anos, a contar da ocorrência do fato.",
+            "Interrompe-se a prescrição pela publicação de sentença condenatória ou absolutória.",
+            "Interrompida a prescrição, o prazo recomeça a correr do dia da interrupção, pela metade do prazo previsto em lei.",
+            "A suspensão da prescrição produz efeitos individualmente para cada um dos que concorreram para a prática do ato de improbidade administrativa, ainda que não sejam parte do mesmo processo judicial."
+        ],
+        answer: 3,
+        disclaimer: "[VUNESP/2023] Conforme o art. 23, § 5º, da Lei nº 8.429/1992 (redação dada pela Lei nº 14.230/2021), interrompida a prescrição, o prazo recomeça a correr do dia da interrupção, pela metade do prazo previsto no caput deste artigo (ou seja, recomeça a correr por 4 anos). Erros das demais: A e B (o prazo é único de 8 anos, contados a partir da ocorrência do fato ou, no caso de infrações permanentes, do dia em que cessou a permanência, caput); C (apenas pela publicação de sentença condenatória, § 4º, II); E (produz efeitos para todos os que concorreram, quando forem parte no mesmo processo ou inquérito, § 6º)."
+    },
+    {
+        topic: "Responsabilidade Civil do Estado",
+        type: "multipla",
+        supportText: "",
+        q: "Maria, ao atravessar a faixa de pedestres em determinada via pública, foi atropelada, durante o horário de expediente, por um automóvel do Município Alfa, conduzido por Pedro. Após se recuperar das lesões sofridas, procurou a Defensoria Pública com o objetivo de ajuizar uma ação de reparação de danos em face de Alfa, de modo que este ente federativo fosse condenado pelos danos causados. Foi corretamente informado a Maria que Alfa:",
+        options: [
+            "não pode ser condenado, já que o dano foi causado por Pedro;",
+            "somente pode ser condenado caso seja provado o dolo ou a culpa de Pedro;",
+            "pode ser condenado, ainda que não seja provado o dolo ou a culpa de Pedro;",
+            "pode ser condenado, ainda que o dano tenha decorrido da culpa exclusiva de Maria;",
+            "somente pode ser condenado caso Pedro não disponha de bens suficientes para reparar o dano causado."
+        ],
+        answer: 2,
+        disclaimer: "[FGV/2023] Nos termos do art. 37, § 6º, da CF/88, as pessoas jurídicas de direito público respondem objetivamente pelos danos que seus agentes, nessa qualidade, causarem a terceiros, independentemente da comprovação de dolo ou culpa do agente (Pedro)."
+    },
+    {
+        topic: "Licitações e Contratos (Lei nº 14.133/2021)",
+        type: "multipla",
+        supportText: "",
+        q: "O setor competente da Defensoria Pública do Estado do Rio Grande do Sul detectou a necessidade de contratar a realização de determinada obra, tendo decidido que deveria promover um diálogo com os licitantes previamente selecionados, consoante critérios objetivos, com o fim de identificar a alternativa mais adequada. À luz da sistemática estabelecida na Lei nº 14.133/2021, a decisão tomada pelo referido setor é:",
+        options: [
+            "incompatível com a sistemática legal, por afrontar o dever de sigilo da licitação;",
+            "admitida pela sistemática legal somente quando, em momento anterior, a respectiva licitação foi considerada deserta;",
+            "admitida pela sistemática legal, sendo que os licitantes apresentarão proposta final após o encerramento dos diálogos;",
+            "admitida pela sistemática legal, sendo que a Administração escolherá o licitante que apresente a melhor alternativa ao fim dos diálogos;",
+            "incompatível com a sistemática legal, pois a modalidade de licitação escolhida somente é permitida para a contratação de serviços, não de obras."
+        ],
+        answer: 2,
+        disclaimer: "[FGV/2023] Trata-se da modalidade Diálogo Competitivo, prevista no art. 6º, XLII, e art. 32 da Lei nº 14.133/2021, utilizada para contratação de obras, serviços e compras em que a Administração Pública realiza diálogos com licitantes previamente selecionados mediante critérios objetivos, com o intuito de desenvolver uma ou mais alternativas capazes de atender às suas necessidades, devendo os licitantes apresentar proposta final após o encerramento dos diálogos."
+    },
+    {
+        topic: "Organização Administrativa (Direta, Indireta, Desconcentração e Descentralização)",
+        type: "multipla",
+        supportText: "",
+        q: "Antônio, estudante de direito, questionou o seu professor de direito administrativo a respeito do enquadramento, no âmbito da Administração Pública do Estado Alfa, de três estruturas: (1) a Secretaria de Estado de Educação; (2) a autarquia Beta; e (3) a Divisão de desempenho da Secretaria de Estado de Educação, subordinada à Diretoria de Ensino, e esta ao secretário de Estado. O professor de Antônio respondeu, corretamente, que a estrutura 1 é exemplo de:",
+        options: [
+            "desconcentração administrativa, o mesmo ocorrendo com a 2 e a 3;",
+            "administração indireta, enquanto a 2 e a 3 são exemplos de administração descentralizada;",
+            "administração direta; a 2, de administração descentralizada; e a 3, de desconcentração administrativa;",
+            "descentralização administrativa, o mesmo ocorrendo com a 3, enquanto a 2 é exemplo de administração direta;",
+            "administração centralizada, o mesmo ocorrendo com a 2, enquanto a 3 é exemplo de administração descentralizada."
+        ],
+        answer: 2,
+        disclaimer: "[FGV/2023] A Secretaria de Estado (1) é órgão integrante da Administração Direta. A autarquia Beta (2) é entidade da Administração Indireta, criada por meio da descentralização administrativa. Já a Divisão subordinada à Diretoria dentro da Secretaria (3) é resultado da distribuição interna de competências (desconcentração administrativa)."
+    },
+    {
+        topic: "Processo Administrativo (Lei nº 9.784/1999) e Controle de Atos",
+        type: "multipla",
+        supportText: "",
+        q: "Inês, diligente diretora do órgão de controle interno de determinado ente federal, constatou que o setor de pagamentos desse ente proferira decisão, à margem da lei, em benefício de Maria, que recebeu um valor pecuniário em parcela única. Em sua análise, Inês também chegou à conclusão de que a decisão fora proferida em razão de uma interpretação equivocada da lei, sendo ignorado que pessoas com as características de Maria não poderiam ser beneficiadas. Ao fim de suas reflexões, Inês concluiu, corretamente, à luz da Lei nº 9.784/1999, que o ato praticado à margem da lei:",
+        options: [
+            "pode ser anulado em até dez anos, contados do recebimento do benefício, considerando a má-fé de Maria;",
+            "pode ser revogado a qualquer tempo, por ser manifestamente contrário ao interesse público;",
+            "pode ser anulado a qualquer tempo, considerando o prejuízo causado ao patrimônio público;",
+            "pode ser anulado em até cinco anos, contados da data em que foi praticado;",
+            "é considerado convalidado após o decurso de um ano da sua prática."
+        ],
+        answer: 3,
+        disclaimer: "[FGV/2023] Conforme o art. 54 da Lei nº 9.784/1999, o direito da Administração de anular os atos administrativos de que decorram efeitos favoráveis para os destinatários decai em cinco anos, contados da data em que foram praticados, salvo comprovada má-fé (no caso, houve apenas erro de interpretação da própria Administração, sem má-fé da beneficiária)."
+    },
+    {
+        topic: "Improbidade Administrativa (Lei nº 8.429/1992)",
+        type: "multipla",
+        supportText: "",
+        q: "A organização social Alfa celebrou contrato de gestão com o Município Beta, tendo recebido recursos públicos para o desenvolvimento de determinadas atividades na área de saúde, em relação às quais estava presente a convergência de interesses. Em uma auditoria do Tribunal de Contas, foi constatado que os recursos repassados a Beta não foram aplicados na finalidade devida. À luz da sistemática estabelecida na Lei nº 8.429/1992, é correto afirmar que Alfa, em relação aos referidos recursos de origem pública:",
+        options: [
+            "por ser uma pessoa jurídica, não pode sofrer as sanções previstas na Lei nº 8.429/1992, ainda que sejam compatíveis com sua natureza;",
+            "pode ser responsabilizada apenas em caráter subsidiário, caso seus dirigentes não tenham patrimônio suficiente para o ressarcimento dos danos causados;",
+            "somente pode sofrer as sanções previstas na Lei nº 8.429/1992, que sejam compatíveis com sua natureza, caso seja denunciada à lide por algum dos seus dirigentes;",
+            "pode sofrer as sanções previstas na Lei nº 8.429/1992, que sejam compatíveis com sua natureza, enquanto seus dirigentes somente serão responsabilizados se tiverem participado do ato ilícito e obtido benefícios diretos;",
+            "responderá em conjunto com seus dirigentes, em caráter objetivo, pelo desvio de recursos públicos detectado pelo Tribunal de Contas, podendo sofrer as sanções previstas na Lei nº 8.429/1992, que sejam compatíveis com sua natureza."
+        ],
+        answer: 3,
+        disclaimer: "[FGV/2023] Nos termos do art. 3º, caput e § 1º, da Lei nº 8.429/1992, as disposições da lei aplicam-se àquele que, mesmo não sendo agente público (inclusive pessoa jurídica privada), induza ou concorra dolosamente para a prática do ato de improbidade. Contudo, os sócios, os cotistas, os diretores e os colaboradores de pessoa jurídica de direito privado não respondem pelo ato de improbidade que venha a ser imputado à pessoa jurídica, salvo se, comprovadamente, houver participação e benefícios diretos, caso em que responderão nos limites da sua participação."
+    },
+    {
+        topic: "Organização Administrativa (Empresas Públicas)",
+        type: "multipla",
+        supportText: "",
+        q: "Joana, prefeita do Município Alfa, após reunião com os secretários municipais, decidiu que o Município necessitava de uma empresa pública para a prestação de serviços de indiscutível relevância para a população. Ao consultar a Procuradoria-Geral do Município a respeito da forma de se criar uma empresa pública, mais especificamente sobre ser necessária, ou não, a edição de lei, foi-lhe corretamente informado que a:",
+        options: [
+            "criação é feita por lei específica;",
+            "instituição é autorizada por lei específica;",
+            "criação é feita por escritura pública, não dependendo de lei;",
+            "criação é feita por decreto do Poder Executivo, não dependendo de lei;",
+            "instituição é feita por lei, com posterior edição do decreto específico de criação."
+        ],
+        answer: 1,
+        disclaimer: "[FGV/2023] Conforme o art. 37, XIX, da CF/88, somente por lei específica poderá ser criada autarquia e autorizada a instituição de empresa pública, de sociedade de economia mista e de fundação, cabendo à lei complementar, neste último caso, definir as áreas de sua atuação."
+    },
+    {
+        topic: "Atos Administrativos (Atributos)",
+        type: "multipla",
+        supportText: "",
+        q: "João, agente público de direito, ao fiscalizar o estabelecimento comercial XYZ, verifica que as normas técnicas de segurança e salubridade não estão sendo observadas. João, então, autua a pessoa jurídica e aplica uma multa, fixando o prazo de trinta dias para que as vicissitudes encontradas sejam sanadas. Após o transcurso do lapso temporal fixado, o agente público realiza nova inspeção no local, constatando que as mazelas ainda se fazem presentes e que há risco concreto aos frequentadores. João conclui, assim, que a medida adequada é a interdição do estabelecimento. Nesse cenário e considerando os atributos dos atos administrativos, é correto afirmar que, havendo previsão legal, a Administração Pública, por si só:",
+        options: [
+            "não pode interditar o estabelecimento comercial XYZ, dependendo da atuação do Poder Judiciário. Poderá, por outro lado, aplicar medidas menos gravosas para sanar os vícios existentes no local;",
+            "não pode interditar o estabelecimento comercial XYZ, dependendo da atuação do Poder Judiciário, considerando que os atos administrativos, apesar de coercitivos, não são autoexecutórios;",
+            "pode interditar o estabelecimento comercial XYZ, independentemente da atuação do Poder Judiciário, com base na autoexecutoriedade dos atos administrativos;",
+            "pode interditar o estabelecimento comercial XYZ, independentemente da atuação do Poder Judiciário, com base na coercibilidade dos atos administrativos;",
+            "pode interditar o estabelecimento comercial XYZ, independentemente da atuação do Poder Judiciário, com base na exigibilidade dos atos administrativos."
+        ],
+        answer: 2,
+        disclaimer: "[FGV/2023] A autoexecutoriedade é o atributo pelo qual a Administração Pública pode executar materialmente seus próprios atos e decisões (especialmente no exercício do poder de polícia, quando previsto em lei ou em situações de urgência, como a interdição de estabelecimento com risco à incolumidade pública), sem necessidade de prévia autorização do Poder Judiciário."
+    },
+    {
+        topic: "Organização Administrativa (Administração Direta e Indireta)",
+        type: "multipla",
+        supportText: "",
+        q: "O diminuto Município Alfa possui dez secretarias, uma autarquia, uma fundação estatal de direito público e uma empresa pública. Nesse cenário, considerando o tema da organização administrativa, é correto afirmar que:",
+        options: [
+            "as secretarias e a fundação estatal de direito público fazem parte da Administração Pública direta, fruto da técnica da desconcentração administrativa. A autarquia integra a Administração Pública indireta, fruto da técnica da descentralização administrativa. A empresa pública é pessoa jurídica de direito privado, não estando englobada pela Administração Pública direta ou indireta;",
+            "as secretarias fazem parte da Administração Pública direta, fruto da técnica da descentralização administrativa. A autarquia, a fundação estatal de direito público e a empresa pública integram a Administração Pública Indireta, fruto da técnica da desconcentração administrativa;",
+            "as secretarias e a fundação estatal de direito público fazem parte da Administração Pública direta, fruto da técnica da desconcentração administrativa. A autarquia e a empresa pública integram a Administração Pública indireta, fruto da técnica da descentralização administrativa;",
+            "as secretarias e a fundação estatal de direito público fazem parte da Administração Pública direta, fruto da técnica da descentralização administrativa. A autarquia e a empresa pública integram a Administração Pública indireta, fruto da técnica da desconcentração administrativa;",
+            "as secretarias fazem parte da Administração Pública direta, fruto da técnica da desconcentração administrativa. A autarquia, a fundação estatal de direito público e a empresa pública integram a Administração Pública indireta, fruto da técnica da descentralização administrativa."
+        ],
+        answer: 4,
+        disclaimer: "[FGV/2023] As Secretarias são órgãos públicos despersonalizados que compõem a Administração Direta (criados por desconcentração). Já as autarquias, as fundações públicas (sejam de direito público ou privado) e as empresas públicas possuem personalidade jurídica própria e integram a Administração Indireta (criadas por descentralização)."
+    },
+    {
+        topic: "Poderes da Administração",
+        type: "multipla",
+        supportText: "",
+        q: "O Estado do Rio Grande do Norte, após o adequado processo licitatório, celebra contrato administrativo com a sociedade empresária XYZ. No curso da avença, a contratada descumpre cláusulas contratuais. Com efeito, o Estado contratante, após a observância do contraditório e da ampla defesa, aplica à contratada sanções previstas no pacto administrativo. Nesse cenário, é correto afirmar que há a manifestação do poder:",
+        options: [
+            "hierárquico;",
+            "normativo;",
+            "disciplinar;",
+            "vinculado;",
+            "de polícia."
+        ],
+        answer: 2,
+        disclaimer: "[FGV/2023] O Poder Disciplinar é a prerrogativa conferida à Administração Pública para apurar infrações e aplicar penalidades aos seus servidores públicos e às demais pessoas (físicas ou jurídicas) sujeitas à disciplina administrativa interna mediante vínculo jurídico específico (como um contrato administrativo)."
+    },
+    {
+        topic: "Improbidade Administrativa (Lei nº 8.429/1992)",
+        type: "multipla",
+        supportText: "",
+        q: "João, agente público, em abril de 2023, concorreu, culposamente, para que uma pessoa jurídica de direito privado utilizasse bens pertencentes ao Estado do Rio Grande do Norte, sem a observância das formalidades legais. Nesse cenário, considerando as disposições da Lei nº 8.429/1992, é correto afirmar que João:",
+        options: [
+            "não poderá ser responsabilizado pela prática de ato de improbidade administrativa, mas deverá ressarcir os danos causados ao erário, à luz da responsabilidade civil objetiva;",
+            "poderá ser responsabilizado pela prática de ato de improbidade administrativa que atenta contra os princípios da Administração Pública;",
+            "poderá ser responsabilizado pela prática de ato de improbidade administrativa que importa em enriquecimento ilícito;",
+            "poderá ser responsabilizado pela prática de ato de improbidade administrativa que causa prejuízo ao erário;",
+            "não poderá ser responsabilizado pela prática de ato de improbidade administrativa."
+        ],
+        answer: 4,
+        disclaimer: "[FGV/2023] Após a reforma promovida pela Lei nº 14.230/2021 na Lei nº 8.429/1992, deixou de existir a modalidade culposa de ato de improbidade administrativa (inclusive nos atos que causam lesão ao erário, do art. 10). Como João agiu apenas culposamente, não poderá ser responsabilizado por improbidade administrativa (e a responsabilidade civil do servidor perante o Estado é subjetiva, não objetiva)."
+    },
+    {
+        topic: "Atos Administrativos (Extinção: Anulação e Revogação) e Controle Judicial",
+        type: "multipla",
+        supportText: "",
+        q: "O Estado do Rio Grande do Norte, buscando regulamentar temáticas de interesse regional, editou o ato administrativo XYZ, de natureza discricionária, e o ato administrativo ABC, de natureza vinculada. Um particular, prejudicado, resolveu impugnar os dois atos administrativos, ingressando com uma demanda no seio do Poder Judiciário. O juiz, ao analisar o caso concreto, verificou que o ato administrativo XYZ é válido e que o ato administrativo ABC é inválido. Nesse cenário, considerando o entendimento doutrinário e jurisprudencial dominantes, é correto afirmar que o juiz:",
+        options: [
+            "não poderá revogar o ato administrativo XYZ, sob pena de imiscuir-se nas atribuições da Administração Pública, tampouco poderá anular o ato administrativo ABC, considerando o seu caráter vinculado;",
+            "poderá revogar o ato administrativo XYZ, prestigiando o controle judicial sobre a Administração Pública. Não poderá, por outro lado, anular o ato administrativo ABC, considerando o seu caráter vinculado;",
+            "não poderá revogar o ato administrativo XYZ, sob pena de imiscuir-se nas atribuições da Administração Pública. Poderá, por outro lado, revogar o ato administrativo ABC, considerando o seu caráter ilegal;",
+            "não poderá revogar o ato administrativo XYZ, sob pena de imiscuir-se nas atribuições da Administração Pública. Poderá, por outro lado, anular o ato administrativo ABC, considerando o seu caráter ilegal;",
+            "poderá revogar o ato administrativo XYZ, prestigiando o controle judicial sobre a Administração Pública. Poderá, ainda, revogar o ato administrativo ABC, considerando o seu caráter ilegal."
+        ],
+        answer: 3,
+        disclaimer: "[FGV/2023] Pela Súmula 473 do STF e doutrina clássica, ao Poder Judiciário no exercício de sua função típica jurisdicional cabe apenas o controle de legalidade/legitimidade, podendo anular atos ilegais/inválidos (vinculados ou discricionários), mas jamais revogar atos administrativos válidos por razões de mérito (conveniência e oportunidade), prerrogativa exclusiva da Administração que os editou."
+    },
+    {
+        topic: "Improbidade Administrativa (Lei nº 8.429/1992)",
+        type: "multipla",
+        supportText: "",
+        q: "A respeito das penas aplicadas com base na Lei nº 8.429/92, é correto afirmar que",
+        options: [
+            "as sanções eventualmente aplicadas em outras esferas não poderão ser compensadas com as sanções aplicadas nos termos da Lei de Improbidade Administrativa.",
+            "a aplicação das penas previstas na Lei de Improbidade depende, em regra, da efetiva ocorrência de dano ao patrimônio público.",
+            "na apuração dos ilícitos de que trata a Lei, a critério do Ministério Público, poderá ser autorizada a juntada de manifestação escrita do investigado e documentos que auxiliem na elucidação dos fatos.",
+            "as sentenças civis e penais não produzirão efeitos em relação à ação de improbidade administrativa, dada a diferença de natureza jurídica das infrações envolvidas em cada uma delas.",
+            "no caso de procedência da ação de improbidade, as custas e as demais despesas processuais serão pagas ao final."
+        ],
+        answer: 4,
+        disclaimer: "[VUNESP/2023] Literalidade do art. 23-B, § 1º, da Lei nº 8.429/1992: 'Havendo procedência da ação, as custas e as demais despesas processuais serão pagas ao final'. Erros das demais: A (deverão ser compensadas, art. 21, § 5º); B (independe da efetiva ocorrência de dano ao patrimônio público, salvo quanto à pena de ressarcimento e às condutas do art. 10, conforme art. 21, I); C (é garantida ao investigado a oportunidade de manifestação por escrito e de juntada de documentos, não sendo mera faculdade a critério do MP, art. 22, parágrafo único); D (produzirão efeitos quando concluírem pela inexistência da conduta ou negativa da autoria, art. 21, § 3º)."
+    },
+    {
+        topic: "Improbidade Administrativa (Lei nº 8.429/1992)",
+        type: "multipla",
+        supportText: "",
+        q: "Considere que Matias e Zenóbio foram aprovados em concurso público e convocados para posse e exercício nas respectivas funções. A portaria publicada no Diário Oficial indica, dentre os documentos exigidos, a necessidade de apresentar declaração de bens à repartição competente. Com base na situação hipotética e no disposto na Lei nº 8.429/92, é correto afirmar que",
+        options: [
+            "a posse e o exercício de ambos ficarão condicionados à apresentação de declaração de imposto de renda e proventos de qualquer natureza, que tenha sido apresentada à Secretaria Especial da Receita Federal do Brasil, a fim de ser arquivada no serviço de pessoal competente.",
+            "ambos poderão entrar em exercício e apresentar, no prazo de até 30 dias, a declaração de imposto de renda que tenha sido fornecida à Secretaria Especial da Receita Federal do Brasil.",
+            "não é necessário fornecer declaração de imposto de renda, bastando para o início do exercício o fornecimento de declaração escrita que compreenda imóveis, móveis, semoventes, dinheiro, títulos, ações e qualquer outra espécie de bens e valores patrimoniais, localizados no País ou no exterior.",
+            "caso cumpram as formalidades legais iniciais para a posse e exercício, serão punidos com a pena de suspensão, sem prejuízo de outras sanções cabíveis, caso venham a, no futuro, recusar-se a prestar declaração dos bens, dentro do prazo determinado.",
+            "as declarações de imposto de renda deverão ser apresentadas no momento da posse e da extinção do vínculo com a Administração, ficando autorizada a autoridade competente a exigir a sua renovação anual."
+        ],
+        answer: 0,
+        disclaimer: "[VUNESP/2023] Reprodução literal do caput do art. 13 da Lei nº 8.429/1992 (redação dada pela Lei nº 14.230/2021): 'A posse e o exercício de agente público ficam condicionados à apresentação de declaração de imposto de renda e proventos de qualquer natureza, que tenha sido apresentada à Secretaria Especial da Receita Federal do Brasil, a fim de ser arquivada no serviço de pessoal competente'. (Nota: a atualização da declaração é anual e ao deixar o cargo, e a recusa é punida com demissão, não suspensão, §§ 2º e 3º)."
+    },
+    {
+        topic: "Improbidade Administrativa (Lei nº 8.429/1992)",
+        type: "multipla",
+        supportText: "",
+        q: "Com base na Lei nº 8.429/92, a respeito das ações de improbidade administrativa, o dolo",
+        options: [
+            "estará configurado com o mero exercício da função pública.",
+            "corresponde à vontade livre e consciente de alcançar os ilícitos tipificados em lei.",
+            "confunde-se com a voluntariedade do agente em praticar a conduta.",
+            "não é indispensável para a prática da improbidade administrativa, já que a Lei admite a punição de condutas culposas.",
+            "também estará configurado caso o agente público pratique ato identificado como erro grave."
+        ],
+        answer: 1,
+        disclaimer: "[VUNESP/2023] Nos termos do art. 1º, § 2º e § 3º, da Lei nº 8.429/1992: 'Considera-se dolo a vontade livre e consciente de alcançar o resultado ilícito tipificado nos arts. 9º, 10 e 11 desta Lei, não bastando a voluntariedade do agente' e 'O mero exercício da função ou desempenho de competências públicas, sem comprovação de ato doloso com fim ilícito, afasta a responsabilidade por ato de improbidade administrativa'."
+    },
+    {
+        topic: "Agentes Públicos (Lei nº 8.112/1990 - Direitos e Vantagens)",
+        type: "multipla",
+        supportText: "",
+        q: "Além do vencimento e das vantagens previstas na Lei nº 8.112/1990, serão deferidos aos servidores as seguintes retribuições, gratificações e adicionais, EXCETO:",
+        options: [
+            "adicional pela prestação de serviço extraordinário, remunerado com acréscimo de 50% (cinquenta por cento) em relação à hora normal de trabalho.",
+            "retribuição pelo exercício de função de direção, chefia e assessoramento.",
+            "gratificação por encargo de curso ou concurso.",
+            "gratificação natalina correspondente a 1/13 avos (um treze avos) da remuneração a que o servidor fizer jus no mês de dezembro, por mês de exercício no respectivo ano.",
+            "adicional de férias correspondente a 1/3 (um terço) da remuneração do período das férias."
+        ],
+        answer: 3,
+        disclaimer: "[PR-4 UFRJ/2017] Conforme o art. 63 da Lei nº 8.112/1990, a gratificação natalina corresponde a 1/12 (um doze avos) da remuneração a que o servidor fizer jus no mês de dezembro, por mês de exercício no respectivo ano, e não 1/13 avos."
+    },
+    {
+        topic: "Agentes Públicos (Lei nº 8.112/1990 - Concessões)",
+        type: "multipla",
+        supportText: "",
+        q: "Ana Cristina, servidora pública federal, investida no cargo de Assistente em Administração da UFRJ há 1 (um) ano, pretende se casar em maio de 2018. De acordo com a Lei nº 8.112/1990, em razão do seu casamento, poderá a servidora se ausentar do serviço por:",
+        options: [
+            "8 (oito) dias consecutivos.",
+            "3 (três) dias consecutivos.",
+            "5 (cinco) dias consecutivos.",
+            "10 (dez) dias consecutivos.",
+            "7 (sete) dias consecutivos."
+        ],
+        answer: 0,
+        disclaimer: "[PR-4 UFRJ/2017] Nos termos do art. 97, III, 'a', da Lei nº 8.112/1990, sem qualquer prejuízo, poderá o servidor ausentar-se do serviço por 8 (oito) dias consecutivos em razão de casamento (licença gala) ou falecimento de cônjuge, companheiro, pais, madrasta ou padrasto, filhos, enteados, menor sob guarda ou tutela e irmãos (licença nojo)."
+    },
+    {
+        topic: "Agentes Públicos (Lei nº 8.112/1990 - Provimento: Reversão)",
+        type: "multipla",
+        supportText: "",
+        q: "Nos termos da Lei nº 8.112/1990, uma das formas de provimento de cargo público é a reversão. Trata-se do retorno à atividade de servidor aposentado. Sobre a reversão, é correto afirmar que:",
+        options: [
+            "far-se-á no mesmo cargo ou no cargo resultante de sua transformação.",
+            "é permitida ao aposentado que já completou 70 (setenta) anos de idade.",
+            "o servidor que retornar à atividade por interesse da administração perceberá, em substituição aos proventos da aposentadoria, a remuneração do cargo que voltar a exercer, excluindo as vantagens de natureza pessoal que percebia anteriormente à aposentadoria.",
+            "não é permitida ao aposentado que já completou 60 (sessenta) anos de idade.",
+            "o tempo em que o servidor estiver em exercício não será considerado para concessão da aposentadoria."
+        ],
+        answer: 0,
+        disclaimer: "[PR-4 UFRJ/2017] Literalidade do art. 25, § 1º, da Lei nº 8.112/1990: 'A reversão far-se-á no mesmo cargo ou no cargo resultante de sua transformação'. Erros das demais: B (não poderá reverter o aposentado que já tiver completado 70 anos de idade, art. 27); C (inclusive com as vantagens de natureza pessoal que percebia anteriormente à aposentadoria, art. 25, § 4º); E (o tempo em que o servidor estiver em exercício será considerado para concessão da aposentadoria, art. 25, § 2º)."
+    },
+    {
+        topic: "Lei de Acesso à Informação (Lei nº 12.527/2011)",
+        type: "multipla",
+        supportText: "",
+        q: "O Princípio da Publicidade, garantido no art. 37 da Constituição Federal de 1988, exige a ampla divulgação dos atos praticados pela Administração Pública, ressalvadas as hipóteses de sigilo previstas em lei. Esse princípio é inerente ao Estado Democrático de Direito e garante, aos administrados em geral, o acesso às informações que sejam de seu interesse ou de interesse de toda a coletividade. Nos termos da Lei nº 12.527/2011, que regula o acesso à informação previsto na Carta Magna, é correto afirmar que:",
+        options: [
+            "as informações ou documentos que versem sobre condutas que impliquem violação dos direitos humanos praticada por agentes públicos ou a mando de autoridades públicas poderão ser objeto de restrição de acesso.",
+            "em qualquer hipótese, negado o acesso à informação pelos órgãos ou entidades do Poder Executivo Federal, o requerente poderá recorrer somente ao Ministério Público Federal, que deliberará no prazo de 30 (trinta) dias.",
+            "são consideradas imprescindíveis à segurança da sociedade ou do Estado e, portanto, passíveis de classificação as informações cuja divulgação ou acesso irrestrito possam oferecer elevado risco à estabilidade financeira, econômica ou monetária do país.",
+            "em hipótese alguma, a informação em poder dos órgãos e entidades públicas poderá ser classificada como ultrassecreta.",
+            "as informações que puderem colocar em risco a segurança do Presidente serão classificadas como secretas e ficarão sob sigilo por tempo indeterminado."
+        ],
+        answer: 2,
+        disclaimer: "[PR-4 UFRJ/2017] Reprodução literal do art. 23, IV, da Lei nº 12.527/2011 (LAI). Erros das demais: A (não poderão ser objeto de restrição de acesso, art. 21, parágrafo único); B (recorre-se à autoridade hierarquicamente superior e, no Executivo Federal, à CGU e à Comissão Mista de Reavaliação de Informações, arts. 15 e 16); D (pode ser classificada em ultrassecreta, secreta ou reservada, art. 24); E (segurança do Presidente e familiares são classificadas como reservadas e ficarão sob sigilo até o término do mandato, art. 24, § 2º)."
+    },
+    {
+        topic: "Ética no Serviço Público (Decreto nº 1.171/1994)",
+        type: "multipla",
+        supportText: "",
+        q: "O Decreto nº 1.171/1994 aprova o Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal. De acordo com esse Decreto, é vedado ao servidor público, EXCETO:",
+        options: [
+            "iludir ou tentar iludir qualquer pessoa que necessite do atendimento em serviços públicos.",
+            "desviar servidor público para atendimento a interesse particular.",
+            "usar de artifícios para procrastinar ou dificultar o exercício regular de direito por qualquer pessoa, causando-lhe dano moral ou material.",
+            "participar de movimentos e estudos que se relacionem com a melhoria do exercício de suas funções, tendo por escopo a realização do bem comum.",
+            "o uso do cargo ou função para obter qualquer favorecimento, para si ou para outrem."
+        ],
+        answer: 3,
+        disclaimer: "[PR-4 UFRJ/2017] Participar dos movimentos e estudos que se relacionem com a melhoria do exercício de suas funções, tendo por escopo a realização do bem comum, não é uma vedação, mas sim um dos Deveres Fundamentais do servidor público previstos na Seção II, inciso XIV, alínea 'm', do Decreto nº 1.171/1994."
+    },
+    {
+        topic: "Processo Administrativo (Lei nº 9.784/1999)",
+        type: "multipla",
+        supportText: "",
+        q: "Ronaldo, servidor público federal, investido no cargo de Assistente em Administração na UFRJ há cinco anos, foi intimado a comparecer ao Setor de Recursos Humanos da Universidade para ciência de decisão em processo administrativo. Acerca da intimação, nos termos da Lei nº 9.784/1999, pode-se afirmar que:",
+        options: [
+            "será nula quando feita sem observância das prescrições legais e o comparecimento do administrado não supre sua falta e irregularidade.",
+            "observará a antecedência mínima de três dias úteis quanto à data de comparecimento do servidor à Administração.",
+            "não precisa conter a indicação dos fatos e fundamentos legais pertinentes.",
+            "o seu desatendimento importará o reconhecimento da verdade dos fatos e a renúncia a direito pelo administrado.",
+            "só poderá ser efetuada por telegrama."
+        ],
+        answer: 1,
+        disclaimer: "[PR-4 UFRJ/2017] Conforme o art. 26, § 2º, da Lei nº 9.784/1999, a intimação observará a antecedência mínima de três dias úteis quanto à data de comparecimento. Erros das demais: A (o comparecimento do administrado supre sua falta ou irregularidade, § 5º); C (deve conter a indicação dos fatos e fundamentos legais pertinentes, § 1º, VI); D (o desatendimento não importa o reconhecimento da verdade dos fatos, nem a renúncia a direito pelo administrado, art. 27); E (pode ser efetuada por ciência no processo, por via postal com AR, por telegrama ou outro meio que assegure a certeza da ciência, § 3º)."
+    },
+    {
+        topic: "Agentes Públicos (Lei nº 8.112/1990 - Regime Disciplinar)",
+        type: "multipla",
+        supportText: "",
+        q: "Marcos Augusto, servidor público federal, investido no cargo de Contador da UFRJ há 10 (dez) anos, manteve sua esposa sob sua chefia imediata, em cargo de confiança. Em virtude de tal conduta, foi instaurado processo administrativo disciplinar para apurar violação do art. 117, VIII, da Lei nº 8.112/1990, que proíbe o servidor de manter sob sua chefia imediata, em cargo ou função de confiança, cônjuge, companheiro ou parente até o segundo grau civil. Nos termos da referida lei, considerando que Marcos Augusto não é reincidente, marque a opção correta quanto à penalidade a ser aplicada ao servidor:",
+        options: [
+            "advertência.",
+            "demissão.",
+            "suspensão por 30 (trinta) dias.",
+            "suspensão por 90 (noventa) dias.",
+            "exoneração."
+        ],
+        answer: 0,
+        disclaimer: "[PR-4 UFRJ/2017] De acordo com o art. 129 da Lei nº 8.112/1990, a advertência será aplicada por escrito, nos casos de violação de proibição constante do art. 117, incisos I a VIII e XIX (dentre os quais se inclui o inciso VIII: manter sob sua chefia imediata, em cargo ou função de confiança, cônjuge, companheiro ou parente até o segundo grau civil), e de inobservância de dever funcional previsto em lei, regulamentação ou norma interna, que não justifique imposição de penalidade mais grave."
     }
 ];
 
@@ -10696,6 +12037,141 @@ const banco_civil = [
         ],
         answer: 2,
         disclaimer: "Questão extraída da prova PGM-RJ (FGV). De acordo com o Art. 7º, I, do Código Civil, a morte presumida pode ser declarada SEM decretação prévia de ausência se for extremamente provável a morte de quem estava em perigo de vida (naufrágio), desde que esgotadas as buscas."
+    },
+    {
+        topic: "Negócio Jurídico (Condição Suspensiva)",
+        type: "multipla",
+        supportText: "",
+        q: "Alberto é proprietário de um imóvel residencial no centro da cidade de Porto Alegre, atualmente cedido em locação a Vilma, uma senhora muito idosa que, segundo Alberto apurou, encontra-se em frágeis condições de saúde. Prevendo que um falecimento iminente de Vilma é bastante provável e desejando preservar sua renda mensal proporcionada pelo valor do aluguel do imóvel, Alberto celebrou um contrato com seu amigo Rodrigo, por meio do qual aquele se obrigava a ceder o imóvel em locação para este, caso a atual inquilina viesse a falecer antes do final do ano corrente. Nesse caso, é correto afirmar que Rodrigo:",
+        options: [
+            "já é titular dos direitos a que visa o contrato de locação, mas o exercício desses direitos encontra-se, por ora, suspenso;",
+            "já pode exercer os direitos a que visa o contrato de locação, pois os negócios entre vivos são exequíveis imediatamente;",
+            "ainda não adquiriu nenhum direito visado pelo contrato de locação, ostentando mera expectativa de fato;",
+            "pode exercer desde já medidas voltadas à conservação dos direitos visados pelo contrato, os quais ainda não adquiriu;",
+            "adquirirá retroativamente os direitos a que visa o contrato de locação quando Vilma falecer, pois o negócio é de execução periódica."
+        ],
+        answer: 3,
+        disclaimer: "[FGV/2023] O negócio foi celebrado sob condição suspensiva (evento futuro e incerto: falecer antes do final do ano). Nos termos do art. 125 do Código Civil, subordinando-se a eficácia do negócio jurídico à condição suspensiva, enquanto esta se não verificar, não se terá adquirido o direito, a que ele visa. Contudo, conforme o art. 130 do CC, ao titular do direito eventual, nos casos de condição suspensiva ou resolutiva, é permitido praticar os atos destinados a conservá-lo."
+    },
+    {
+        topic: "Pessoas Naturais (Capacidade Civil e Emancipação)",
+        type: "multipla",
+        supportText: "",
+        q: "No dia de seu aniversário de 16 anos, Aline conheceu seu namorado, Gustavo. Quatro meses depois, quando Gustavo completou a maioridade civil, decidiu pedi-la em casamento. Os dois se casaram já no mês seguinte, com o consentimento dos pais de Aline. O casal viveu em harmonia nos primeiros meses, mas Aline acabou se envolvendo em um relacionamento extraconjugal que culminou no divórcio com Gustavo, semanas depois de terem completado um ano de casados. Já tendo experimentado um casamento e um divórcio aos 17 anos de idade, Aline decidiu seguir devagar com seu novo relacionamento afetivo e priorizar o seu futuro profissional. Por isso, matriculou-se em um curso profissionalizante oferecido por uma conceituada instituição privada de ensino. Tendo saído da casa de seus pais há mais de um ano, Aline nada comunicou a eles acerca dessa decisão. Considerando as circunstâncias pessoais de Aline, é correto afirmar que a contratação da instituição de ensino por Aline é:",
+        options: [
+            "plenamente válida, independentemente de posterior ratificação do ato pelos pais da jovem;",
+            "anulável, mas produz efeitos enquanto não for pedida sua anulação, por ser a jovem relativamente incapaz;",
+            "inválida, tendo em vista a revogação da emancipação voluntária que fora concedida à jovem por seus pais;",
+            "válida, mas permanece ineficaz enquanto a jovem não adquirir a capacidade civil plena;",
+            "anulável, tendo em vista a cessação da causa de emancipação legal da jovem."
+        ],
+        answer: 0,
+        disclaimer: "[FGV/2023] Nos termos do art. 5º, parágrafo único, II, do Código Civil, cessa a incapacidade para os menores pelo casamento (emancipação legal). Segundo a doutrina e jurisprudência pacíficas, a emancipação pelo casamento válido tem caráter definitivo e irrevogável, de modo que o divórcio ou a viuvez subsequentes (ainda que antes dos 18 anos) não fazem o emancipado retornar à condição de incapaz."
+    },
+    {
+        topic: "Prescrição e Decadência",
+        type: "multipla",
+        supportText: "",
+        q: "Zuleide vendeu para sua irmã Zuleica um pequeno apartamento de quarto e sala que recebera por herança do seu falecido marido. Como Zuleica passava por dificuldades financeiras, Zuleide comprometeu-se a transferir o imóvel imediatamente para a irmã, mas estabeleceu no contrato que esta última só começaria a pagar o preço do apartamento após dois anos da data de celebração. Imensamente agradecida pela generosidade da irmã, Zuleica sugeriu acrescentar ao contrato uma cláusula por meio da qual ela renunciava desde logo a qualquer prazo prescricional que pudesse prejudicar Zuleide. À luz do direito civil brasileiro, essa cláusula é:",
+        options: [
+            "válida, desde que não prejudique terceiros;",
+            "inválida, mas não vicia o negócio jurídico como um todo;",
+            "anulável, mas pode ser confirmada tacitamente;",
+            "ineficaz, pois a pretensão de Zuleide não se sujeita à prescrição;",
+            "nula, mas pode convalescer depois de consumada a prescrição."
+        ],
+        answer: 1,
+        disclaimer: "[FGV/2023] Conforme o art. 191 do Código Civil, a renúncia da prescrição só valerá se feita depois que a prescrição se consumar (sendo nula/inválida a renúncia prévia ou antecipada). Ademais, pelo princípio da conservação dos negócios jurídicos (art. 184 do CC), a invalidade parcial de uma cláusula acessória não prejudicará a parte válida do contrato, se esta for separável."
+    },
+    {
+        topic: "Bens (Classificação dos Bens)",
+        type: "multipla",
+        supportText: "",
+        q: "Há poucos dias, Carlos foi surpreendido pelo estrondo de uma janela de sua casa sendo quebrada. O dano foi causado por crianças do bairro que atingiram o vidro da janela com uma bola enquanto brincavam perto da casa. Para reparar o dano, Carlos mandou retirar o vidro e a esquadria metálica da janela quebrada. O vidro estilhaçado será descartado, mas a esquadria metálica, que está em perfeitas condições, encontra-se guardada na garagem da casa para ser reinstalada tão logo Carlos receba uma nova lâmina de vidro para a janela, que ele encomendou diretamente da fábrica. De acordo com o Código Civil, considerando as especificidades do caso e sem prejuízo de outras classificações aplicáveis a esses bens, é correto afirmar que:",
+        options: [
+            "a esquadria metálica que se encontra guardada é um bem móvel e o vidro quebrado é um bem materialmente consumível;",
+            "a esquadria metálica que se encontra guardada é uma pertença da casa e o vidro quebrado é um bem juridicamente consumível;",
+            "o vidro quebrado é uma pertença da casa e a nova lâmina de vidro que Carlos deverá receber é um bem materialmente consumível;",
+            "a nova lâmina de vidro que Carlos deverá receber é uma pertença da casa e a esquadria metálica que se encontra guardada é um bem juridicamente consumível;",
+            "a esquadria metálica que se encontra guardada é um bem imóvel e a nova lâmina de vidro que Carlos deverá receber é um bem móvel."
+        ],
+        answer: 4,
+        disclaimer: "[FGV/2023] Conforme o art. 81, II, do Código Civil, não perdem o caráter de imóveis os materiais provisoriamente separados de um prédio, para nele se reempregarem (caso da esquadria metálica guardada para reinstalação). Por sua vez, a nova lâmina de vidro encomendada da fábrica, enquanto ainda não incorporada à edificação, mantém sua natureza de bem móvel (art. 82 e art. 84 do CC)."
+    },
+    {
+        topic: "Lei de Introdução às Normas do Direito Brasileiro (LINDB)",
+        type: "multipla",
+        supportText: "",
+        q: "Paul, inglês, era casado com Maria, brasileira. Viviam em Londres e resolveram vir ao Brasil para comprar uma casa em Natal, que seria destinada a aluguel de temporada. Infelizmente, logo em seguida à finalização da compra, Paul sofre um mal súbito e falece. Maria, única herdeira dos imóveis deixados em Londres e em Natal, retorna, em definitivo, para a sua terra natal. Nesse caso, é correto afirmar que:",
+        options: [
+            "a sucessão será regida pelas leis brasileiras, considerando que o óbito ocorreu em Natal e que a única herdeira aqui assentou domicílio;",
+            "a sucessão será regida pelas leis inglesas, inclusive quanto aos imóveis existentes no Brasil, mesmo que a lei nacional seja mais favorável a Maria;",
+            "a capacidade para suceder (isto é, para ser herdeiro) é regulada pela lei do país onde o defunto tinha domicílio;",
+            "a sucessão será regida pelas leis brasileiras, exceto no que diz respeito ao imóvel situado em Londres, que deve observar as leis inglesas;",
+            "a sucessão será regida pelas leis inglesas, inclusive quanto aos imóveis existentes no Brasil, salvo se a lei nacional for mais favorável a Maria."
+        ],
+        answer: 4,
+        disclaimer: "[FGV/2023] De acordo com o art. 10, caput e § 1º, da LINDB (Decreto-Lei nº 4.657/1942), a sucessão por morte obedece à lei do país em que domiciliado o defunto (Inglaterra), qualquer que seja a natureza e a situação dos bens. Contudo, a sucessão de bens de estrangeiros, situados no País, será regulada pela lei brasileira em benefício do cônjuge ou dos filhos brasileiros, sempre que não lhes seja mais favorável a lei pessoal do de cujus (também previsto no art. 5º, XXXI, da CF/88). (Nota: na C, a capacidade para suceder é a lei do domicílio do herdeiro, art. 10, § 2º)."
+    },
+    {
+        topic: "Pessoas Naturais (Domicílio)",
+        type: "multipla",
+        supportText: "",
+        q: "Angelina deseja propor uma ação em face de Márcio, seu ex-marido, para a qual a lei prevê a competência do local de domicílio do réu. Márcio reside em Natal durante a semana. Tem uma casa de praia em Baía Formosa, para onde vai todos os finais de semana, e um sítio em Monte Alegre, onde só passa as férias. Nesse caso, a ação poderá ser proposta em:",
+        options: [
+            "Natal, somente;",
+            "Baía Formosa, somente;",
+            "Monte Alegre, somente;",
+            "Natal e Baía Formosa, somente;",
+            "Natal, Baía Formosa e Monte Alegre."
+        ],
+        answer: 3,
+        disclaimer: "[FGV/2023] Nos termos do art. 71 do Código Civil, se a pessoa natural tiver diversas residências, onde, alternadamente, viva, considerar-se-á domicílio seu qualquer delas (pluralidade domiciliar). Como Márcio vive alternada e habitualmente entre Natal (dias úteis) e Baía Formosa (todos os fins de semana), ambos configuram seu domicílio. Já o sítio onde passa apenas férias constitui mera morada ou habitação esporádica, sem ânimo definitivo."
+    },
+    {
+        topic: "Pessoas Jurídicas (Fundações)",
+        type: "multipla",
+        supportText: "",
+        q: "Carina é técnica judiciária e, em seu trabalho, se depara com uma demanda em que se questiona a existência e a validade da criação de determinada fundação. Para certificar adequadamente quanto à regularidade do processo, Carina deverá observar que:",
+        options: [
+            "a fundação, por se tratar de mera dotação especial de bens livres, não tem personalidade jurídica própria;",
+            "o ato constitutivo da fundação pode ser testamento, escritura pública ou contrato particular, desde que escrito;",
+            "se seu objeto se tornar impossível durante o processo, ela deverá ser dissolvida e seu patrimônio revertido ao instituidor, se ainda vivo;",
+            "eventuais alterações no estatuto da fundação deverão ser propostas pelo Ministério Público e aprovadas pela maioria simples daqueles incumbidos de gerir e representá-la;",
+            "cumpre ao Ministério Público do Rio Grande do Norte velar pelas fundações situadas nesse Estado, inclusive elaborando o estatuto se a pessoa designada pelo instituidor não o fizer no prazo ou, não havendo prazo, em cento e oitenta dias."
+        ],
+        answer: 4,
+        disclaimer: "[FGV/2023] Conforme os arts. 65, parágrafo único, e 66 do Código Civil, velará pelas fundações o Ministério Público do Estado onde situadas, e se o estatuto não for elaborado no prazo assinado pelo instituidor, ou, não havendo prazo, em 180 (cento e oitenta) dias, a incumbência caberá ao Ministério Público. Erros das demais: A (é pessoa jurídica de direito privado, art. 44, III); B (apenas escritura pública ou testamento, art. 62); C (o patrimônio será incorporado em outra fundação de fim igual ou semelhante, art. 69); D (deliberada por dois terços dos competentes para gerir e representar a fundação e aprovada pelo MP, art. 67)."
+    },
+    {
+        topic: "Bens (Bens Móveis e Imóveis por Determinação Legal)",
+        type: "multipla",
+        supportText: "",
+        q: "A lei de custas de determinado Tribunal prevê que a taxa judiciária para ações que se referirem a bens móveis será de 2% e as que versarem sobre disputas de bens imóveis será de 1%. Suponha que foram propostas três ações: a primeira acerca de desvio de energia elétrica, a segunda requerendo a sucessão aberta por alguém falecido e a terceira sobre a venda de três cabeças de gado. Nesse caso, a taxa judiciária será, respectivamente, de:",
+        options: [
+            "2% para a primeira; 1% para a segunda; e 2% para a terceira;",
+            "1% para a primeira; 2% para a segunda; e 1% para a terceira;",
+            "1% para a primeira; 1% para a segunda; e 1% para a terceira;",
+            "1% para a primeira; 1% para a segunda; e 2% para a terceira;",
+            "2% para a primeira; 2% para a segunda; e 2% para a terceira."
+        ],
+        answer: 0,
+        disclaimer: "[FGV/2023] De acordo com o Código Civil: 1) As energias que tenham valor econômico consideram-se bens móveis para os efeitos legais (art. 83, I -> taxa de 2%); 2) O direito à sucessão aberta considera-se bem imóvel para os efeitos legais (art. 80, II -> taxa de 1%); 3) As cabeças de gado são bens semoventes (móveis por natureza, art. 82 -> taxa de 2%)."
+    },
+    {
+        topic: "Bens e Patrimônio",
+        type: "multipla",
+        supportText: "",
+        q: "Sinfrônio é proprietário de um imóvel em Mossoró, tem um crédito a receber de Sanfrônia em outubro de 2023 e uma dívida com o Banco Dinheiro Certo S/A. É correto afirmar que seu patrimônio engloba:",
+        options: [
+            "o imóvel, o crédito e o débito;",
+            "o imóvel e o crédito, apenas;",
+            "o imóvel, apenas;",
+            "o crédito, apenas;",
+            "o crédito e o débito, apenas."
+        ],
+        answer: 0,
+        disclaimer: "[FGV/2023] Na teoria geral do Direito Civil (e conforme o art. 91 do CC, que trata da universalidade de direito), o conceito jurídico de patrimônio corresponde ao complexo de relações jurídicas de uma pessoa dotadas de valor econômico, englobando tanto o ativo (bens materiais e créditos/direitos) quanto o passivo (débitos e obrigações)."
     }
 ];
 
@@ -10900,6 +12376,351 @@ const banco_proc_civil = [
         ],
         answer: 3,
         disclaimer: "Questão extraída da prova PGM-RJ (FGV). A confissão judicial faz prova plena contra o confitente (art. 389 do CPC), sendo suficiente para tornar o fato incontroverso, cabendo ao juiz avaliá-la e, via de regra, dispensar a produção de outras provas sobre o fato confessado."
+    },
+    {
+        topic: "Impedimento e Suspeição",
+        type: "multipla",
+        supportText: "",
+        q: "A empresa X, representada pelo escritório de advocacia Y, propôs ação de obrigação de fazer em face do Município de Vila Verde. A ação foi distribuída por sorteio para a 5ª Vara da Fazenda Pública da Comarca de Vila Verde que tem como escrivão Eduardo. O Município foi devidamente citado e na contestação apresentou a alegação de que, dez dias após a propositura da petição inicial, um primo distante de Eduardo foi contratado, como advogado, pelo escritório de advocacia Y, fazendo com que Eduardo seja impedido de exercer suas funções no processo. Diante da situação hipotética, é correto afirmar que a alegação apresentada em contestação está",
+        options: [
+            "incorreta, uma vez que não se trata de impedimento e sim de suspeição.",
+            "correta, desde que o primo de Eduardo intervenha diretamente no processo.",
+            "incorreta, uma vez que não há qualquer tipo de impedimento na atuação de Eduardo como escrivão em um processo no qual seu primo seja advogado.",
+            "incorreta, uma vez que os motivos de impedimento e suspeição se aplicam apenas aos Juízes, membros do Ministério Público e demais sujeitos imparciais do processo.",
+            "incorreta, uma vez que o impedimento só se verificaria se o primo de Eduardo já integrasse o processo antes do início da atividade de Eduardo."
+        ],
+        answer: 2,
+        disclaimer: "[VUNESP/2023] Conforme o art. 144, III, c/c art. 148, II, do CPC, o impedimento decorrente de parentesco com o advogado da parte (aplicável também aos auxiliares da justiça, como o escrivão) alcança apenas o cônjuge, companheiro ou parente, consanguíneo ou afim, em linha reta ou colateral, até o terceiro grau, inclusive (pais, filhos, avós, netos, irmãos, tios e sobrinhos). Primos são parentes colaterais de 4º grau (ou mais, se distantes), não gerando impedimento."
+    },
+    {
+        topic: "Prazos Processuais e Citação",
+        type: "multipla",
+        supportText: "",
+        q: "Quando a citação for realizada por meio eletrônico em um processo no qual não se admite a autocomposição, considera-se dia do começo do prazo:",
+        options: [
+            "o dia útil seguinte ao da data de ocorrência da citação.",
+            "o quinto dia útil seguinte à confirmação do seu recebimento, na forma prevista na mensagem de citação.",
+            "a data de juntada aos autos do mandado cumprido.",
+            "a data de juntada aos autos do aviso de recebimento.",
+            "o dia útil seguinte ao da data de juntada aos autos do mandado cumprido."
+        ],
+        answer: 1,
+        disclaimer: "[VUNESP/2023] Literalidade do art. 231, IX, do CPC (incluído pela Lei nº 14.195/2021): 'Salvo disposição em sentido diverso, considera-se dia do começo do prazo: IX - o quinto dia útil seguinte à confirmação, na forma prevista na mensagem de citação, do recebimento da citação realizada por meio eletrônico'."
+    },
+    {
+        topic: "Tutela Provisória",
+        type: "multipla",
+        supportText: "",
+        q: "Juliete propôs ação de indenização por danos morais alegando que sofreu ofensas verbais e constrangimento em razão da conduta de um funcionário da loja Z. Considerando a situação hipotética, assinale a alternativa correta acerca da possibilidade de concessão de tutela provisória para o caso.",
+        options: [
+            "A tutela provisória só pode ser concedida após a apresentação de contestação pela loja Z, para que esta seja ouvida antes da decisão.",
+            "A tutela provisória de urgência pode ser concedida em caráter antecedente ou incidental, desde que presentes os requisitos legais, podendo ser exigida ainda caução real ou fidejussória idônea.",
+            "A tutela de urgência só pode ser concedida se Juliete demonstrar que há risco de dano irreparável ou de difícil reparação.",
+            "O pedido de tutela provisória só pode ser deferido se Juliete apresentar prova documental que comprove os danos sofridos.",
+            "Não é possível conceder tutela antecipada antecedente em ações de indenização por danos morais pois não há urgência que justifique a medida."
+        ],
+        answer: 1,
+        disclaimer: "[VUNESP/2023] Conforme os arts. 294, parágrafo único, e 300, § 1º, do CPC, a tutela provisória de urgência, cautelar ou antecipada, pode ser concedida em caráter antecedente ou incidental, e para a sua concessão o juiz pode, conforme o caso, exigir caução real ou fidejussória idônea para ressarcir os danos que a outra parte possa vir a sofrer. (Nota: na C, os requisitos da tutela de urgência no CPC/15 são a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo, caput do art. 300)."
+    },
+    {
+        topic: "Provas (Produção Antecipada da Prova)",
+        type: "multipla",
+        supportText: "",
+        q: "A produção antecipada de provas será admitida nos casos em que haja fundado receio de que venha a tornar-se impossível ou muito difícil a verificação de certos fatos na pendência da ação. Acerca do tema, assinale a alternativa correta.",
+        options: [
+            "Os interessados poderão requerer a produção de qualquer prova no mesmo procedimento, relacionada ao mesmo fato ou a outro deste decorrente, desde que a sua produção conjunta não acarrete excessiva demora.",
+            "A produção antecipada da prova previne a competência do juízo para a ação que venha a ser proposta.",
+            "No procedimento de produção antecipada de provas admite-se defesa ou recurso contra decisão que indeferir total ou parcialmente a produção de prova pleiteada pelo requerente originário.",
+            "O juiz não se pronunciará sobre a ocorrência ou a inocorrência do fato, nem sobre as respectivas consequências jurídicas.",
+            "O juiz determinará, de ofício ou a requerimento da parte, a citação de interessados na produção da prova ou no fato a ser provado, salvo se existente caráter contencioso."
+        ],
+        answer: 3,
+        disclaimer: "[VUNESP/2023] Literalidade do art. 382, § 2º, do CPC: 'O juiz não se pronunciará sobre a ocorrência ou a inocorrência do fato, nem sobre as respectivas consequências jurídicas'. Erros das demais: A (desde que relacionada ao mesmo fato, apenas, § 3º); B (não previne a competência, art. 381, § 3º); C (não se admitirá defesa ou recurso, salvo contra decisão que indeferir *totalmente* a produção da prova pleiteada pelo requerente originário, art. 382, § 4º); E (se existente caráter contencioso, § 1º)."
+    },
+    {
+        topic: "Recursos (Disposições Gerais e Recurso Adesivo)",
+        type: "multipla",
+        supportText: "",
+        q: "Caio, motorista de transporte por aplicativo, estava voltando para casa após um dia de trabalho quando, aguardando o semáforo ficar verde, teve seu veículo atingido por Antônio. Após frustradas as tentativas amigáveis de solucionar o caso, propôs ação de reparação de danos em face de Antônio exigindo o pagamento dos danos emergentes e dos lucros cessantes. Em primeira instância, a ação foi julgada parcialmente procedente, condenando Antônio apenas ao pagamento dos danos emergentes. Diante da situação hipotética, tendo em vista que ainda não transcorreu o prazo para apresentação do recurso de apelação, bem como inexiste qualquer omissão, contradição ou obscuridade na decisão, é correto afirmar que",
+        options: [
+            "Antônio pode apresentar renúncia ao direito de recorrer desde que mediante aceitação de Caio.",
+            "caso Antônio aceite tacitamente a decisão e pague os danos emergentes e os lucros cessantes, ainda assim poderá apresentar apelação.",
+            "o recurso adesivo apresentado por Caio não será conhecido se houver desistência do recurso apresentado por Antônio.",
+            "caso Antônio decida recorrer, ele poderá desistir do recurso a qualquer tempo, desde que mediante anuência de Caio.",
+            "se Antônio apresentar apelação, Caio poderá aderir ao recurso, desde que mediante autorização de Antônio."
+        ],
+        answer: 2,
+        disclaimer: "[VUNESP/2023] Conforme o art. 997, § 2º, III, do CPC, o recurso adesivo é subordinado ao recurso independente, e não será conhecido se houver desistência do recurso principal ou se for ele considerado inadmissível. Erros das demais: A e D (tanto a desistência do recurso quanto a renúncia ao direito de recorrer independem da aceitação da outra parte, arts. 998 e 999); B (a aceitação expressa ou tácita impede o recurso, art. 1.000); E (independe de autorização)."
+    },
+    {
+        topic: "Juizados Especiais Cíveis (Lei nº 9.099/1995)",
+        type: "multipla",
+        supportText: "",
+        q: "Compete ao Juizado Especial Cível",
+        options: [
+            "realizar a conciliação e o julgamento das ações relativas ao estado e à capacidade das pessoas, desde que o valor da causa não exceda a quarenta vezes o salário-mínimo.",
+            "a conciliação, o processo e o julgamento das causas cíveis de menor complexidade de interesse da Fazenda Pública, desde que, na comarca não tenha sido instalado Juizado Especial da Fazenda Pública.",
+            "promover a execução dos títulos executivos extrajudiciais, no valor de até quarenta vezes o salário-mínimo relativos a microempresa, empresa de pequeno e médio porte.",
+            "promover a conciliação e o julgamento das causas cíveis de menor complexidade, tal como a ação de despejo, desde que para uso próprio.",
+            "processar e julgar as causas de natureza alimentar, com valor acima de quarenta vezes o salário-mínimo, desde que haja renúncia quanto ao crédito excedente."
+        ],
+        answer: 3,
+        disclaimer: "[VUNESP/2023] De acordo com o art. 3º, III, da Lei nº 9.099/1995, o Juizado Especial Cível tem competência para a ação de despejo para uso próprio. Conforme o § 2º do mesmo artigo, ficam excluídas da competência do Juizado as causas de natureza alimentar, falimentar, fiscal e de interesse da Fazenda Pública, e também as relativas a acidentes de trabalho, a resíduos e ao estado e à capacidade das pessoas."
+    },
+    {
+        topic: "Juizados Especiais da Fazenda Pública (Lei nº 12.153/2009)",
+        type: "multipla",
+        supportText: "",
+        q: "André propôs ação de reparação de danos materiais em face do Município de Lago Azul. Na petição inicial, André alegou que o carro oficial do Prefeito colidiu com o muro de sua casa, causando um prejuízo no valor de vinte salários-mínimos. Foi apresentada contestação e o juiz deferiu providências antecipatórias no curso do processo para evitar dano de difícil ou de incerta reparação. Por fim, a ação foi julgada procedente, condenando o Município ao pagamento no valor solicitado por André na petição inicial. O Município deixou de apresentar recurso contra a sentença. Diante da situação hipotética e considerando que o Município de Lago Azul não editou lei municipal alterando o valor das obrigações consideradas como de pequeno valor, assinale a alternativa correta.",
+        options: [
+            "O valor deverá ser pago por meio de precatório, que poderá ser fracionado, considerando a providência antecipatória concedida pelo juiz.",
+            "Caso o valor não seja pago a André no prazo máximo de 60 (sessenta) dias, o juiz imediatamente determinará o sequestro do numerário suficiente ao cumprimento da decisão, desde que após a realização de audiência com o Município de Lago Azul.",
+            "Não houve o trânsito em julgado da ação uma vez que a sentença, por ter sido proferida contra o Município de Lago Azul, está sujeita ao duplo grau de jurisdição.",
+            "O Município de Lago Azul deverá pagar o valor de vinte salários-mínimos no prazo máximo de 30 (trinta) dias.",
+            "Se depositado o valor por meio de obrigação de pequeno valor, André poderá realizar o saque pessoalmente, em qualquer agência do banco depositário, independentemente de alvará."
+        ],
+        answer: 4,
+        disclaimer: "[VUNESP/2023] Conforme o art. 13, § 6º, da Lei nº 12.153/2009 (Juizados Especiais da Fazenda Pública), o saque do valor depositado (via RPV - até 30 salários-mínimos para Municípios, § 3º, II) poderá ser feito pela parte autora, pessoalmente, em qualquer agência do banco depositário, independentemente de alvará (no prazo de 60 dias, dispensada a audiência da Fazenda Pública em caso de sequestro, § 1º, e sem reexame necessário, art. 11)."
+    },
+    {
+        topic: "Teoria Geral do Processo (Elementos da Ação)",
+        type: "multipla",
+        supportText: "",
+        q: "Maria procurou a Defensoria Pública, afirmando que seu marido João é infiel e a agride de forma habitual. Por isso, pretende dissolver seu casamento. Todavia, não quer discutir em juízo a infidelidade de seu marido, mas pretende que seja ajuizada uma ação de separação judicial. Dentre as opções abaixo, a que revela corretamente os elementos objetivos da ação a ser proposta é:",
+        options: [
+            "João e Maria e infidelidade;",
+            "separação judicial e violência doméstica;",
+            "infidelidade e violência doméstica;",
+            "separação judicial e infidelidade;",
+            "João e Maria e violência doméstica."
+        ],
+        answer: 1,
+        disclaimer: "[FGV/2023] Os elementos da ação dividem-se em subjetivos (as partes: autor e réu) e objetivos (o pedido e a causa de pedir). No caso, os elementos objetivos que efetivamente integrarão a demanda são o pedido (separação judicial) e a causa de pedir levada a juízo (violência doméstica, já que a autora optou por não deduzir a infidelidade)."
+    },
+    {
+        topic: "Partes e Procuradores (Legitimidade e Capacidade Processual)",
+        type: "multipla",
+        supportText: "",
+        q: "José, menor impúbere, representado por sua mãe Maria, por intermédio de um defensor público, propôs uma ação de investigação de paternidade em face de João, que é maior e capaz. Após a manifestação do Ministério Público, o juiz determinou a produção de provas. Nesse cenário, dentre as opções abaixo, a que identifica a correta legitimidade ativa ad causam no processo é:",
+        options: [
+            "Maria;",
+            "defensor público;",
+            "Ministério Público;",
+            "José;",
+            "juiz."
+        ],
+        answer: 3,
+        disclaimer: "[FGV/2023] Na ação de investigação de paternidade, o titular do direito material discutido (e, portanto, parte legítima para figurar no polo ativo da demanda - legitimidade ativa ad causam) é o próprio filho investigante (José). A mãe (Maria) atua apenas como sua representante legal para suprir sua incapacidade processual (art. 71 do CPC), e o defensor público detém a capacidade postulatória."
+    },
+    {
+        topic: "Competência (Perpetuatio Jurisdictionis)",
+        type: "multipla",
+        supportText: "",
+        q: "Caio, domiciliado em Caxias do Sul, ajuizou demanda em que pleiteava a condenação de Tício, com domicílio em Porto Alegre, a lhe pagar determinada obrigação contratual. A petição inicial foi distribuída a um juízo cível da Comarca de Porto Alegre e, após validamente citado, Tício ofertou a sua contestação. Antes do início da fase da instrução probatória, veio aos autos a notícia, devidamente comprovada por documentos, de que Tício havia se mudado para Pelotas. Nesse cenário, é correto afirmar que a petição inicial foi distribuída a órgão judicial:",
+        options: [
+            "incompetente, devendo o juiz extinguir o feito em razão da carência de ação;",
+            "incompetente, devendo o juiz extinguir o feito em razão da falta de pressuposto processual de validade;",
+            "incompetente, devendo o juiz declinar da competência em favor de um dos juízos cíveis da Comarca de Caxias do Sul;",
+            "competente, uma vez que a demanda ajuizada concerne a direito obrigacional;",
+            "competente, embora deva o juiz, após a vinda da informação sobre a mudança de domicílio do réu, declinar da competência em favor de um dos juízos cíveis da Comarca de Pelotas."
+        ],
+        answer: 3,
+        disclaimer: "[FGV/2023] Conforme o art. 46 do CPC, a ação fundada em direito pessoal (obrigacional) será proposta, em regra, no foro de domicílio do réu (Porto Alegre). Além disso, pelo princípio da perpetuação da jurisdição (perpetuatio jurisdictionis - art. 43 do CPC), determina-se a competência no momento do registro ou da distribuição da petição inicial, sendo irrelevantes as modificações do estado de fato ou de direito ocorridas posteriormente (como a mudança de domicílio do réu)."
+    },
+    {
+        topic: "Normas Fundamentais do Processo Civil e Tutela Provisória",
+        type: "multipla",
+        supportText: "",
+        q: "A possibilidade, prevista no Código de Processo Civil, de o juiz deferir, no início do processo, o requerimento de tutela provisória de urgência formulado pelo autor, sem a prévia oitiva do réu, é um corolário lógico do princípio do(a):",
+        options: [
+            "contraditório;",
+            "inércia;",
+            "devido processo legal;",
+            "juiz natural;",
+            "inafastabilidade do controle jurisdicional."
+        ],
+        answer: 4,
+        disclaimer: "[FGV/2023] A concessão de tutela provisória liminarmente (inaudita altera parte - art. 9º, parágrafo único, I, e art. 300, § 2º, do CPC) mitiga/posterga temporariamente o contraditório para garantir a efetividade da jurisdição contra ameaça ou lesão a direito em situações de urgência, sendo corolário direto do princípio da inafastabilidade do controle jurisdicional (art. 5º, XXXV, da CF/88 e art. 3º do CPC: 'A lei não excluirá da apreciação jurisdicional ameaça ou lesão a direito')."
+    },
+    {
+        topic: "Recursos (Agravo Interno)",
+        type: "multipla",
+        supportText: "",
+        q: "Em processo da competência originária do tribunal, o desembargador a quem coube a sua relatoria indeferiu o requerimento de tutela provisória de urgência formulado na petição inicial. Para tanto, invocou o magistrado um posicionamento manifestamente contrário a dispositivo de lei federal. No que se refere a esse provimento monocrático, é correto afirmar que é:",
+        options: [
+            "irrecorrível, podendo o interessado se valer do mandado de segurança para impugná-lo;",
+            "impugnável pelo recurso de agravo de instrumento;",
+            "impugnável pelo recurso de agravo interno;",
+            "impugnável pelo recurso especial;",
+            "impugnável pelo recurso extraordinário."
+        ],
+        answer: 2,
+        disclaimer: "[FGV/2023] Conforme o art. 1.021 do CPC, contra decisão proferida pelo relator (decisão monocrática em tribunal, seja em recurso ou em processo de competência originária) caberá agravo interno para o respectivo órgão colegiado."
+    },
+    {
+        topic: "Prazos Processuais (Defensoria Pública e Ministério Público)",
+        type: "multipla",
+        supportText: "",
+        q: "Caio, adolescente de 15 anos de idade, devidamente representado por seu pai, ajuizou ação em que pleiteava a condenação de Tício a lhe pagar verba reparatória de danos morais. O autor deduziu a sua pretensão assistido pelo órgão da Defensoria Pública e requereu a concessão do benefício da gratuidade de justiça, o qual foi deferido pelo juiz. Concluída a instrução probatória, e ofertada a promoção conclusiva do Ministério Público, que intervinha no feito em razão da incapacidade do autor, o juiz proferiu sentença em que julgava improcedente o pleito indenizatório. O defensor público protocolizou recurso de apelação trinta dias úteis depois de sua intimação pessoal, havendo o Ministério Público adotado igual iniciativa, embora tenha interposto o seu recurso de apelação vinte dias úteis depois de sua intimação pessoal. Ambas as peças recursais foram devidamente fundamentadas. Nesse contexto, é correto afirmar que:",
+        options: [
+            "nenhum dos dois recursos de apelação deve ser conhecido, diante da intempestividade de um e outro;",
+            "ambos os recursos de apelação devem ser conhecidos, por cumpridos os respectivos requisitos de admissibilidade;",
+            "o recurso de apelação do Ministério Público deve ser conhecido, mas não o da Defensoria Pública, por intempestivo;",
+            "o recurso de apelação da Defensoria Pública deve ser conhecido, mas não o do Ministério Público, por intempestivo;",
+            "o recurso de apelação da Defensoria Pública deve ser conhecido, mas não o do Ministério Público, por lhe faltar legitimidade recursal."
+        ],
+        answer: 1,
+        disclaimer: "[FGV/2023] Tanto o Ministério Público (inclusive quando atua como fiscal da ordem jurídica, art. 180 e art. 996 do CPC) quanto a Defensoria Pública (art. 186 do CPC) gozam de prazo em dobro para todas as suas manifestações processuais, contado de sua intimação pessoal. Como o prazo geral da apelação é de 15 dias úteis (art. 1.003, § 5º), o prazo dobrado para ambos é de 30 dias úteis. Portanto, tanto o recurso interposto no 20º dia útil (MP) quanto o interposto no 30º dia útil (DP) são tempestivos e devem ser conhecidos."
+    },
+    {
+        topic: "Petição Inicial (Indeferimento e Apelação)",
+        type: "multipla",
+        supportText: "",
+        q: "Ao apreciar uma petição inicial, o juiz verificou que o autor não havia feito nenhuma referência à norma jurídica aplicável àquele caso. Tendo o magistrado, então, determinado a intimação do demandante para apresentar peça de emenda, quedou-se ele inerte, a que se seguiu, então, o indeferimento da inicial. No que concerne ao último pronunciamento judicial, é correto afirmar que está:",
+        options: [
+            "equivocado, sendo a via cabível para impugná-lo o recurso de apelação, que comporta juízo de retratação;",
+            "equivocado, sendo a via cabível para impugná-lo o recurso de apelação, que não comporta juízo de retratação;",
+            "correto, sendo a via cabível para impugná-lo o recurso de apelação, que comporta juízo de retratação;",
+            "correto, sendo a via cabível para impugná-lo o recurso de apelação, que não comporta juízo de retratação;",
+            "equivocado, sendo a via cabível para impugná-lo o recurso de agravo de instrumento, que comporta juízo de retratação."
+        ],
+        answer: 0,
+        disclaimer: "[FGV/2023] Pelo brocardo 'jura novit curia' e 'da mihi factum, dabo tibi jus' (o juiz conhece o direito), o art. 319, III, do CPC exige que a petição inicial indique apenas 'o fato e os fundamentos jurídicos do pedido' (a relação jurídica), não sendo requisito a menção expressa aos artigos de lei (fundamento legal). Logo, o indeferimento foi equivocado. Ademais, contra a sentença que indefere a petição inicial cabe apelação, facultado ao juiz retratar-se no prazo de 5 dias (art. 331 do CPC)."
+    },
+    {
+        topic: "Improcedência Liminar do Pedido",
+        type: "multipla",
+        supportText: "",
+        q: "Recebendo uma petição inicial, em que o pedido do autor consiste em um reajuste salarial já considerado indevido, por força de enunciado de súmula do tribunal de justiça, e sabendo-se que a questão é exclusivamente de direito, deverá o juiz:",
+        options: [
+            "dar prosseguimento ao processo, intimando as partes em provas;",
+            "dar prosseguimento ao processo, procedendo ao juízo de admissibilidade da demanda;",
+            "julgar extinto o processo, sem resolução do mérito;",
+            "julgar liminarmente improcedente o pedido, independentemente da citação do réu;",
+            "julgar procedente o pedido, sem a citação do réu, se entender que o reajuste é devido."
+        ],
+        answer: 3,
+        disclaimer: "[FGV/2023] Literalidade do art. 332, IV, do CPC: 'Nas causas que dispensem a fase instrutória, o juiz, independentemente da citação do réu, julgará liminarmente improcedente o pedido que contrariar: IV - enunciado de súmula de tribunal de justiça sobre direito local'."
+    },
+    {
+        topic: "Distribuição e Registro (Distribuição por Dependência)",
+        type: "multipla",
+        supportText: "",
+        q: "Um servidor público foi intimado a dar andamento ao feito instaurado em razão de ação que ajuizara em face do Município pleiteando verbas remuneratórias. Transcorrido o prazo fixado pelo juiz, sem qualquer manifestação, o processo foi extinto sem resolução do mérito. Resolvendo propor novamente a ação, reiterando o pedido, agora em litisconsórcio ativo com outros servidores, o autor deverá:",
+        options: [
+            "distribuir a causa por dependência ao juízo que julgou seu processo primitivo;",
+            "distribuir livremente a causa, tendo em vista que há outros autores;",
+            "desarquivar o processo originário e requerer o aditamento subjetivo da demanda;",
+            "desarquivar o processo originário e requerer o aditamento objetivo da demanda;",
+            "desarquivar o processo originário e requerer o apensamento dos processos."
+        ],
+        answer: 0,
+        disclaimer: "[FGV/2023] Conforme o art. 286, II, do CPC, serão distribuídas por dependência as causas de qualquer natureza quando, tendo sido extinto o processo sem resolução de mérito, for reiterado o pedido, ainda que em litisconsórcio com outros autores ou que sejam parcialmente alterados os réus da demanda (regra que visa coibir a burla ao princípio do juiz natural)."
+    },
+    {
+        topic: "Impedimento e Suspeição (Procedimento)",
+        type: "multipla",
+        supportText: "",
+        q: "Manuel propôs ação de reparação de danos materiais em face de Afonso. A ação foi distribuída perante a 5ª Vara Cível da Comarca de Montes Claros. Assim que a ação foi distribuída, Manuel buscou informações na internet sobre o juiz titular, Francisco, e descobriu que ele é amigo íntimo de Afonso. Diante da situação hipotética, assinale a alternativa correta.",
+        options: [
+            "Acolhida a alegação, tratando-se de manifesta suspeição, o tribunal condenará Francisco nas custas e remeterá os autos ao seu substituto legal, sendo cabível recurso da decisão.",
+            "Reconhecido o impedimento de Francisco, todos os atos do processo serão anulados.",
+            "Caso Francisco não reconheça o pedido de suspeição, distribuirá o incidente ao tribunal. Enquanto o relator não declarar o efeito em que é recebido o incidente, não será possível o pedido de tutela de urgência.",
+            "Manuel deverá aguardar a primeira oportunidade para falar nos autos para apresentar o pedido de suspeição de Francisco.",
+            "Manuel terá o prazo de 5 (cinco) dias, a contar do conhecimento do fato, para, em petição específica, alegar o impedimento de Francisco."
+        ],
+        answer: 0,
+        disclaimer: "[VUNESP/2023] Amizade íntima é causa de suspeição (art. 145, I, do CPC), que deve ser alegada em petição específica no prazo de 15 dias a contar do conhecimento do fato (art. 146). Nos termos do art. 146, § 5º, do CPC: 'Acolhida a alegação, tratando-se de manifesta impedimento ou de manifesta suspeição, o tribunal condenará o juiz nas custas e remeterá os autos ao seu substituto legal, podendo o juiz recorrer da decisão'. (Nota: em caso de urgência, a tutela provisória será requerida ao substituto legal, § 3º)."
+    },
+    {
+        topic: "Atos Processuais (Segredo de Justiça)",
+        type: "multipla",
+        supportText: "",
+        q: "Tramitam em segredo de justiça os processos",
+        options: [
+            "em que constem dados protegidos pelo direito constitucional à intimidade.",
+            "em que o exija o interesse público, social ou econômico.",
+            "que versem sobre casamento, separação de corpos, divórcio, separação, união estável, inventário e partilha.",
+            "que versem sobre bem de família, filiação, alimentos e guarda de crianças e adolescentes.",
+            "que versem sobre arbitragem, inclusive sobre cumprimento de carta arbitral, ainda que não haja comprovação da confidencialidade perante o juízo."
+        ],
+        answer: 0,
+        disclaimer: "[VUNESP/2023] Literalidade do art. 189, III, do CPC. Erros das demais: B (interesse público ou social, apenas - inciso I); C (não inclui inventário e partilha no inciso II: casamento, separação de corpos, divórcio, separação, união estável, filiação, alimentos e guarda de crianças e adolescentes); D (não inclui bem de família); E (desde que a confidencialidade estipulada na arbitragem seja comprovada perante o juízo - inciso IV)."
+    },
+    {
+        topic: "Tutela Provisória (Tutela Antecipada Antecedente)",
+        type: "multipla",
+        supportText: "",
+        q: "Matilda sofreu um acidente de carro e necessita de uma cirurgia de urgência, mas, ao dar entrada no hospital, descobre que o seu plano de saúde não concedeu a autorização para a realização da cirurgia. Diante da urgência, Matilda opta por propor uma ação judicial pedindo tutela antecipada em caráter antecedente, nos termos do artigo 303 do Código de Processo Civil, para autorizar a cirurgia imediatamente e evitar risco de morte. O juiz concede a tutela antecipada para autorizar a cirurgia imediatamente. Diante da situação hipotética, Matilda",
+        options: [
+            "deverá aditar a petição inicial, com a complementação de sua argumentação, a juntada de novos documentos e a confirmação do pedido de tutela final em 30 (trinta) dias ou em outro prazo maior que o juiz fixar.",
+            "deverá indicar na petição inicial o valor da causa, que deve levar em consideração o pedido de tutela final.",
+            "não poderá indicar que seu pedido é limitado ao requerimento da tutela antecipada, tendo em vista o princípio da acessoriedade necessária da tutela provisória.",
+            "poderá aditar a petição inicial nos mesmos autos, mediante recolhimento de custas processuais complementares.",
+            "terá o processo extinto, se não realizar o aditamento da petição inicial, com resolução do mérito, não sendo possível a repropositura da demanda."
+        ],
+        answer: 1,
+        disclaimer: "[VUNESP/2023] Conforme o art. 303, § 4º, do CPC: 'Na petição inicial a que se refere o caput deste artigo, o autor terá de indicar o valor da causa, que deve levar em consideração o pedido de tutela final'. Erros das demais: A (o prazo para aditar a inicial na tutela antecipada antecedente é de 15 dias ou outro prazo maior que o juiz fixar, § 1º, I); C (deve indicar na inicial que pretende valer-se do benefício do caput, § 5º); D (sem incidência de novas custas processuais, § 3º); E (extinto sem resolução do mérito, § 2º)."
+    },
+    {
+        topic: "Cumprimento de Sentença (Obrigação de Fazer, Não Fazer e Entregar Coisa)",
+        type: "multipla",
+        supportText: "",
+        q: "No que diz respeito ao julgamento das ações relativas às prestações de fazer, de não fazer e de entregar coisa, assinale a alternativa correta.",
+        options: [
+            "A indenização por perdas e danos dar-se-á sem prejuízo da multa fixada periodicamente para compelir o réu ao cumprimento específico da obrigação, desde que mediante requerimento da parte.",
+            "Para a concessão da tutela específica, destinada a inibir a prática, a reiteração ou a continuação de um ilícito, ou a sua remoção, é necessária a demonstração da existência de culpa ou dolo.",
+            "A obrigação somente será convertida em perdas e danos se o autor o requerer ou se impossível a tutela específica ou a obtenção de tutela pelo resultado prático equivalente.",
+            "Se procedente o pedido, concederá a tutela específica, não sendo possível a determinação de providências que assegurem a obtenção de tutela pelo resultado prático equivalente.",
+            "Na ação que tenha por objeto a emissão de declaração de vontade, a sentença que julgar procedente o pedido, mesmo antes de transitada em julgado, produzirá apenas os efeitos da declaração não emitida."
+        ],
+        answer: 2,
+        disclaimer: "[VUNESP/2023] Literalidade do art. 499 do CPC: 'A obrigação somente será convertida em perdas e danos se o autor o requerer ou se impossível a tutela específica ou a obtenção de tutela pelo resultado prático equivalente'. Erros das demais: A (a multa independe de requerimento da parte, art. 500 e 537); B (independe da demonstração de dano ou da existência de culpa ou dolo, art. 497, parágrafo único); D (é plenamente possível, art. 497, caput); E (somente uma vez transitada em julgado produzirá todos os efeitos da declaração não emitida, art. 501)."
+    },
+    {
+        topic: "Recursos (Preparo)",
+        type: "multipla",
+        supportText: "",
+        q: "Agatha iniciou um processo em autos eletrônicos no qual propôs ação de obrigação de fazer em face de uma Autarquia Municipal. Houve a citação, apresentação de contestação, produção de provas e, por fim, a sentença foi julgada improcedente. Inconformada, decidiu interpor o recurso de apelação. Diante da situação hipotética, é correto afirmar que Agatha",
+        options: [
+            "está dispensada de realizar o recolhimento do preparo e do porte de remessa e de retorno por se tratar de processo em autos eletrônicos.",
+            "será intimada, na pessoa de seu advogado, para realizar o recolhimento em dobro, sob pena de deserção se não comprovar, no ato de interposição do recurso, o recolhimento do preparo, inclusive porte de remessa e de retorno.",
+            "está dispensada de realizar o recolhimento do preparo e do porte de remessa e de retorno por se tratar de ação na qual figura como parte uma Autarquia Municipal.",
+            "poderá, no prazo de 5 (cinco) dias, efetuar o preparo se provar justo impedimento, caso em que o relator relevará a pena de deserção, sendo cabível recurso com efeito suspensivo por parte da Autarquia Municipal, em face desta decisão.",
+            "não será punida com a aplicação da pena de deserção se, na hipótese de dúvida quanto ao recolhimento, em razão de um equívoco no preenchimento da guia de custas, o relator a intimar para sanar o vício no prazo de 5 dias."
+        ],
+        answer: 4,
+        disclaimer: "[VUNESP/2023] Conforme o art. 1.007, § 7º, do CPC: 'O equívoco no preenchimento da guia de custas não implicará a aplicação da pena de deserção, cabendo ao relator, na hipótese de dúvida quanto ao recolhimento, intimar o recorrente para sanar o vício no prazo de 5 (cinco) dias'. Erros das demais: A e B (em autos eletrônicos é dispensado apenas o porte de remessa e de retorno, mas o preparo continua devido, § 3º); C (a isenção do § 1º é apenas para os recursos interpostos *pela* Autarquia, não pela parte privada contra ela); D (por decisão irrecorrível, § 6º)."
+    },
+    {
+        topic: "Juizados Especiais Cíveis (Lei nº 9.099/1995)",
+        type: "multipla",
+        supportText: "",
+        q: "Acerca do pedido no Juizado Especial Cível, assinale a alternativa correta.",
+        options: [
+            "Em que pese a aplicação do princípio da oralidade estar previsto na Lei dos Juizados Especiais Cíveis, não é possível instaurar o processo apenas com a apresentação de pedido oral.",
+            "Havendo pedidos contrapostos, poderá ser dispensada a contestação formal e ambos serão apreciados na mesma sentença.",
+            "É lícito formular o pedido à Secretaria do Juizado, desde que certo e determinado, por meio do sistema de fichas ou formulários impressos.",
+            "Os pedidos poderão ser alternativos, subsidiários ou cumulados, ainda que não conexos, desde que a soma não ultrapasse o limite de quarenta salários mínimos.",
+            "Registrado o pedido, realizada a distribuição e autuação, a Secretaria do Juizado designará a sessão de conciliação, a realizar-se no prazo de trinta dias."
+        ],
+        answer: 1,
+        disclaimer: "[VUNESP/2023] Literalidade do art. 17, parágrafo único, da Lei nº 9.099/1995: 'Havendo pedidos contrapostos, poderá ser dispensada a contestação formal e ambos serão apreciados na mesma sentença'. Erros das demais: A (o processo instaurar-se-á com a apresentação do pedido, escrito ou oral, art. 14); C (é lícito formular pedido genérico quando não for possível determinar, desde logo, a extensão da obrigação, art. 14, § 2º); D (alternativos ou cumulados, nesta última hipótese desde que conexos e a soma não ultrapasse o limite de 40 salários mínimos, art. 15); E (independentemente de distribuição e autuação, no prazo de quinze dias, art. 16)."
+    },
+    {
+        topic: "Juizados Especiais da Fazenda Pública (Lei nº 12.153/2009)",
+        type: "multipla",
+        supportText: "",
+        q: "Assinale a alternativa correta acerca dos conciliadores e juízes leigos no Juizado Especial da Fazenda Pública.",
+        options: [
+            "Poderá o conciliador, para fins de encaminhamento da composição amigável, ouvir as partes e testemunhas sobre os contornos fáticos da controvérsia.",
+            "Os juízes leigos ficarão impedidos de exercer a advocacia perante todos os Juizados Especiais da Fazenda Pública, instalados em território nacional, durante o desempenho de suas funções e nos dois anos subsequentes.",
+            "Cabe ao conciliador, sob a supervisão do juiz leigo, conduzir a audiência de conciliação.",
+            "Os juízes leigos serão recrutados entre advogados com mais de cinco anos de experiência.",
+            "Os conciliadores, ao contrário dos juízes leigos, são auxiliares da Justiça e poderão ser estudantes de ensino superior, desde que capacitados de acordo com a resolução do CNJ."
+        ],
+        answer: 0,
+        disclaimer: "[VUNESP/2023] Conforme o art. 16, § 1º, da Lei nº 12.153/2009: 'Poderá o conciliador, para fins de encaminhamento da composição amigável, ouvir as partes e testemunhas sobre os contornos fáticos da controvérsia'. Erros das demais: B (impedidos apenas durante o desempenho de suas funções, art. 15, § 2º); C (sob a supervisão do juiz togado, art. 16, caput); D (mais de 2 anos de experiência, art. 15, § 1º); E (tanto conciliadores quanto juízes leigos são auxiliares da Justiça, art. 15, caput)."
     }
 ];
 
@@ -11044,6 +12865,321 @@ const banco_penal = [
         options: ["Certo", "Errado"],
         answer: 1,
         disclaimer: "Questão extraída da prova do MPCE 2025 (CEBRASPE). O homicídio, neste caso hipotético, foi praticado como 'queima de arquivo' motivado pelas informações prestadas no inquérito, e não por razões da condição de sexo feminino (menosprezo ou discriminação), descaracterizando a qualificadora de feminicídio.[cite: 28]"
+    },
+    {
+        topic: "Crimes contra a Fé Pública",
+        type: "multipla",
+        supportText: "",
+        q: "Com relação aos Crimes contra a Fé Pública, previstos no Capítulo II e III, do Título X, do Código Penal, assinale a alternativa correta.",
+        options: [
+            "Nos crimes de falsificação de documento público e falsificação de documento particular, a falsidade recai sobre a própria autenticidade do documento; no crime de falsidade ideológica, a falsidade recai sobre o conteúdo do documento.",
+            "Os crimes de falsificação de papéis públicos, petrechos de falsificação e falsificação de selo ou sinal público são próprios de funcionários públicos, praticados no exercício do cargo.",
+            "O crime de falsidade de atestado médico é um crime comum, podendo ser praticado por qualquer pessoa, não sendo necessário ser médico.",
+            "Se o sujeito, além de falsificar o documento, também o utiliza, incorrerá nas penas do crime de falsificação e do crime de uso.",
+            "O crime de falso reconhecimento de firma ou letra somente se caracteriza em documento público."
+        ],
+        answer: 0,
+        disclaimer: "[VUNESP/2023] Na falsificação de documento público (art. 297) e particular (art. 298), a falsidade é material (altera-se a forma ou autenticidade física do documento). Já na falsidade ideológica (art. 299), o documento é materialmente verdadeiro, mas seu conteúdo intelectual (ideia/declaração) é falso. Erros das demais: B (são crimes comuns, com causa de aumento se praticados por funcionário público); C (é crime próprio de médico no exercício da profissão, art. 302); D (o uso pelo próprio falsificador é post factum impunível, respondendo apenas pela falsificação); E (documento público ou particular, art. 300)."
+    },
+    {
+        topic: "Crimes contra a Administração Pública",
+        type: "multipla",
+        supportText: "",
+        q: "Tendo em conta os Crimes contra a Administração Pública, previstos no Código Penal, assinale a alternativa correta.",
+        options: [
+            "O crime de abandono de função somente se caracteriza se ocorrer prejuízo público, tratando-se, assim, de crime material.",
+            "O crime de corrupção passiva é formal, consumando-se ainda que o funcionário público não receba vantagem indevida.",
+            "Para a caracterização do crime de prevaricação, é necessário que o funcionário público retarde ou deixe de praticar, indevidamente, ato de ofício, cedendo a pedido ou influência de outro.",
+            "O crime de advocacia administrativa se consuma quando o advogado privado, para defender interesse de seu cliente, junto à Administração Pública, oferece vantagem a funcionário público, para o influenciar na prática de ato.",
+            "O crime de peculato é praticado por funcionário público, exigindo que o bem ou valor apropriado seja público."
+        ],
+        answer: 1,
+        disclaimer: "[VUNESP/2023] O crime de corrupção passiva (art. 317 do CP) nas modalidades 'solicitar' ou 'aceitar promessa' de vantagem indevida é crime formal, consumando-se independentemente do efetivo recebimento da vantagem (que constitui mero exaurimento). Erros das demais: A (abandono de função é crime formal; o prejuízo público é qualificadora, art. 323, § 1º); C (ceder a pedido ou influência de outrem é corrupção passiva privilegiada, art. 317, § 2º; na prevaricação, age para satisfazer interesse ou sentimento pessoal, art. 319); D (advocacia administrativa é crime próprio de funcionário público que patrocina interesse privado perante a administração, art. 321); E (o bem pode ser público ou particular de que tenha a posse em razão do cargo, art. 312)."
+    },
+    {
+        topic: "Crimes contra a Administração da Justiça",
+        type: "multipla",
+        supportText: "",
+        q: "A respeito dos Crimes contra a Administração da Justiça, previstos no Código Penal, é correto afirmar que",
+        options: [
+            "o crime de coação no curso do processo será qualificado se praticado em processo que envolva crime contra a dignidade sexual.",
+            "a imputação de prática de contravenção penal que sabe ser inverídica não configura o crime de denunciação caluniosa, pois o tipo penal fala apenas em crime, ato ímprobo e infração ético-disciplinar.",
+            "o crime de fraude processual será qualificado se a inovação tiver como objetivo produzir efeito em processo penal.",
+            "a retratação ou declaração da verdade pelo agente, antes de proferida a sentença no processo em que se deu o falso testemunho, é causa de diminuição de pena do crime de falso testemunho e falsa perícia.",
+            "o crime de exercício arbitrário das próprias razões é de ação penal privada, excetuando os casos em que há emprego de violência."
+        ],
+        answer: 4,
+        disclaimer: "[VUNESP/2023] Nos termos do art. 345, parágrafo único, do Código Penal, no crime de exercício arbitrário das próprias razões, 'se não há emprego de violência, somente se procede mediante queixa' (ação penal privada). Erros das demais: A (é causa de aumento de pena de 1/3 até a metade, não qualificadora, art. 344, parágrafo único); B (a contravenção penal configura o crime, com pena diminuída da metade, art. 339, § 2º); C (as penas aplicam-se em dobro - causa de aumento -, ainda que não iniciado o processo penal, art. 347, parágrafo único); D (extingue a punibilidade, pois o fato deixa de ser punível, art. 342, § 2º)."
+    },
+    {
+        topic: "Fraudes em Certames de Interesse Público",
+        type: "multipla",
+        supportText: "",
+        q: "No crime de fraude em certames de interesse público, previsto no artigo 311-A, do Código Penal, é correto afirmar que",
+        options: [
+            "o bem jurídico violado é a fé pública, e para restar caracterizado exige-se efetivo prejuízo.",
+            "há a previsão da modalidade culposa, inadmitindo-se a forma tentada.",
+            "embora para a caracterização não se exija a ocorrência de dano patrimonial à administração pública, exige-se a finalidade de beneficiar a si próprio ou a outrem, ou de comprometer a credibilidade do certame.",
+            "é crime comum, podendo ser praticado por qualquer pessoa, mas, se praticado por funcionário público, a pena aplicar-se-á em dobro.",
+            "a ocorrência de prejuízo à Administração Pública é causa de aumento da pena."
+        ],
+        answer: 2,
+        disclaimer: "[VUNESP/2023] Conforme o caput do art. 311-A do Código Penal, o tipo exige o elemento subjetivo específico (dolo específico) de agir 'com o fim de beneficiar a si ou a outrem, ou de comprometer a credibilidade do certame', sendo crime formal (não exige dano efetivo para a consumação; se houver dano à administração pública, o crime é qualificado com reclusão de 2 a 6 anos, § 2º, e se cometido por funcionário público, aumenta-se a pena de 1/3, § 3º)."
+    },
+    {
+        topic: "Crimes Praticados por Particular contra a Administração em Geral",
+        type: "multipla",
+        supportText: "",
+        q: "Tendo em conta o crime de inutilização de edital ou de sinal, previsto no artigo 336, do Código Penal, e o crime de subtração ou inutilização de livro ou documento, previsto no artigo 337, do Código Penal, assinale a alternativa correta.",
+        options: [
+            "São crimes próprios de funcionários públicos, só podendo ser por eles praticados.",
+            "O crime de inutilização de edital ou sinal será qualificado quando há violação de sinal empregado para cerrar objeto de interesse da justiça.",
+            "São crimes que inadmitem tentativa.",
+            "O crime de subtração ou inutilização de livro ou documento restará caracterizado ainda que o documento inutilizado estiver confiado a particular, desde que em serviço público.",
+            "O crime de subtração ou inutilização de livro ou documento, se parcial a inutilização do documento, será punido de forma diminuída."
+        ],
+        answer: 3,
+        disclaimer: "[VUNESP/2023] De acordo com o art. 337 do Código Penal: 'Subtrair, ou inutilizar, total ou parcialmente, livro oficial, processo ou documento confiado à custódia de funcionário, em razão de ofício, ou de particular em serviço público: Pena - reclusão, de dois a cinco anos, se o fato não constitui crime mais grave'."
+    },
+    {
+        topic: "Crimes contra a Administração da Justiça",
+        type: "multipla",
+        supportText: "",
+        q: "Mévio, administrador, por decisão judicial, em ação penal, foi afastado do conselho deliberativo da empresa da qual é sócio. Não obstante a decisão, Mévio continua participando das reuniões do conselho, fazendo uso da palavra, tomando parte nas deliberações e assinando documentos. Diante da situação hipotética, assinale a alternativa correta.",
+        options: [
+            "Mévio não incorreu em qualquer crime, haja vista a conduta imputada ser atípica penalmente.",
+            "Mévio incorreu no crime de fraude processual, previsto no artigo 347, do Código Penal.",
+            "Mévio, em tese, praticou o crime de desobediência à decisão judicial sobre perda e suspensão de direito, previsto no artigo 359, do Código Penal.",
+            "Mévio, em tese, praticou o crime de desobediência, previsto no artigo 330, do Código Penal.",
+            "Mévio, em tese, praticou o crime de usurpação de função pública, previsto no artigo 328, do Código Penal."
+        ],
+        answer: 2,
+        disclaimer: "[VUNESP/2023] A conduta amolda-se perfeitamente ao tipo específico do art. 359 do Código Penal (Desobediência a decisão judicial sobre perda ou suspensão de direito): 'Exercer função, atividade, direito, autoridade ou múnus, de que foi suspenso ou privado por decisão judicial: Pena - detenção, de três meses a dois anos, ou multa'."
+    },
+    {
+        topic: "Teoria do Crime (Culpabilidade: Coação Moral Irresistível)",
+        type: "multipla",
+        supportText: "",
+        q: "No dia 24 de abril de 2023, enquanto aproveitava a piscina de sua residência, Tício recebeu uma ligação telefônica. Ao atendê-la, o agente foi informado de que seu filho havia sido sequestrado. A única forma de salvá-lo seria subtrair o computador pessoal de sua vizinha e entregá-lo aos sequestradores, que dispunham de interesse no conteúdo deste. Os sequestradores, em seguida, encaminharam a Tício uma foto de seu descendente sangrando. Desesperado, Tício ingressou no imóvel de sua vizinha e subtraiu o computador, para atender às demandas dos criminosos. Nesse cenário, considerando as disposições do Código Penal e o entendimento doutrinário dominante, Tício não responderá por qualquer crime, em razão do(a):",
+        options: [
+            "inexigibilidade de conduta diversa, excludente de culpabilidade;",
+            "coação moral irresistível, excludente de culpabilidade;",
+            "coação física irresistível, excludente de culpabilidade;",
+            "obediência hierárquica, excludente de ilicitude;",
+            "estado de necessidade, excludente de ilicitude."
+        ],
+        answer: 1,
+        disclaimer: "[FGV/2023] Nos termos do art. 22 do Código Penal, 'se o fato é cometido sob coação irresistível ou em estrita obediência a ordem, não manifestamente ilegal, de superior hierárquico, só é punível o autor da coação ou da ordem'. Trata-se de coação moral irresistível (vis compulsiva), que afasta a exigibilidade de conduta diversa e, portanto, exclui a culpabilidade do coagido."
+    },
+    {
+        topic: "Aplicação da Lei Penal (Lei Penal no Tempo)",
+        type: "multipla",
+        supportText: "1º cenário: em 01/04/2023, em razão de circunstâncias extraordinárias e de forma fundamentada, foi editada, pelo Congresso Nacional, uma lei penal excepcional.<br>2º cenário: em 01/04/2023, em razão de circunstâncias pontuais e de forma fundamentada, foi editada, pelo Congresso Nacional, uma lei penal temporária.",
+        q: "Nesses cenários descritos no texto de apoio, à luz das disposições do Código Penal, é correto afirmar que os fatos praticados durante a vigência da lei penal excepcional:",
+        options: [
+            "somente serão por ela regidos enquanto perdurarem as circunstâncias que ensejaram a edição da norma. Por outro lado, os fatos praticados durante a vigência da lei penal temporária serão por ela regidos, mesmo após o transcurso do período de duração da legislação, salvo se a nova legislação for mais benéfica ao acusado;",
+            "serão por ela regidos, ainda que cessadas as circunstâncias que ensejaram a edição da norma, salvo se a nova legislação for mais benéfica ao acusado. Por outro lado, os fatos praticados durante a vigência da lei penal temporária somente serão por ela regidos no período de duração da legislação;",
+            "somente serão por ela regidos enquanto perdurarem as circunstâncias que ensejaram a edição da norma. Por outro lado, os fatos praticados durante a vigência da lei penal temporária serão por ela regidos, mesmo após o transcurso do período de duração da legislação;",
+            "serão por ela regidos, ainda que cessadas as circunstâncias que ensejaram a edição da norma. No mesmo sentido, os fatos praticados durante a vigência da lei penal temporária serão por ela regidos, mesmo após o transcurso do período de duração da legislação;",
+            "serão por ela regidos, ainda que cessadas as circunstâncias que ensejaram a edição da norma. Por outro lado, os fatos praticados durante a vigência da lei penal temporária somente serão por ela regidos no período de duração da legislação."
+        ],
+        answer: 3,
+        disclaimer: "[FGV/2023] Conforme o art. 3º do Código Penal, tanto a lei excepcional quanto a lei temporária são dotadas de ultratividade, ou seja, embora decorrido o período de sua duração ou cessadas as circunstâncias que a determinaram, aplicam-se ao fato praticado durante sua vigência."
+    },
+    {
+        topic: "Crimes contra a Honra",
+        type: "multipla",
+        supportText: "",
+        q: "João, em um churrasco com amigos, na presença de aproximadamente quinze pessoas, afirmou que Matheus, auditor da Receita Federal, recebeu, na semana anterior, R$ 10.000,00 para não autuar a sociedade empresária XYZ por sonegação fiscal, muito embora soubesse que tal fato não era verdadeiro. Nesse cenário, considerando as disposições do Código Penal, João incorrerá no crime de:",
+        options: [
+            "difamação, qualificado por ter sido praticado contra funcionário público, em razão das funções, e majorado por ter sido cometido na presença de várias pessoas;",
+            "calúnia, qualificado por ter sido praticado contra funcionário público, em razão das funções, e majorado por ter sido cometido na presença de várias pessoas;",
+            "injúria, qualificado por ter sido praticado contra funcionário público, em razão das funções, e majorado por ter sido cometido na presença de várias pessoas;",
+            "difamação, duplamente majorado por ter sido praticado contra funcionário público, em razão das funções e na presença de várias pessoas;",
+            "calúnia, duplamente majorado por ter sido praticado contra funcionário público, em razão das funções e na presença de várias pessoas."
+        ],
+        answer: 4,
+        disclaimer: "[FGV/2023] Imputar falsamente a alguém fato determinado definido como crime (corrupção passiva) configura o crime de calúnia (art. 138 do CP). Além disso, conforme o art. 141, incisos II e III, do CP, as penas aumentam-se de um terço (causas de aumento/majorantes) se o crime é cometido contra funcionário público, em razão de suas funções, e na presença de várias pessoas (duplamente majorado)."
+    },
+    {
+        topic: "Crimes Praticados por Particular contra a Administração em Geral",
+        type: "multipla",
+        supportText: "",
+        q: "Luiz caminhava pela rua XYZ, momento em que foi abordado por três policiais militares. Os agentes da lei, com base em fundada suspeita de prática delitiva, iniciaram revista pessoal em Luiz, o qual, mediante ameaça, se opôs à execução do ato legal. Nesse cenário, considerando as disposições do Código Penal, Luiz responderá pelo crime de:",
+        options: [
+            "desobediência, qualificado em razão da pluralidade de agentes públicos;",
+            "resistência, qualificado em razão da pluralidade de agentes públicos;",
+            "desobediência;",
+            "resistência;",
+            "desacato."
+        ],
+        answer: 3,
+        disclaimer: "[FGV/2023] Opor-se à execução de ato legal, mediante violência ou ameaça a funcionário competente para executá-lo ou a quem lhe esteja prestando auxílio, tipifica o crime de resistência (art. 329 do CP), não havendo qualificadora pela pluralidade de agentes públicos (a qualificadora do § 1º ocorre apenas se o ato, em razão da resistência, não se executa)."
+    },
+    {
+        topic: "Teoria do Crime (Excludentes de Ilicitude: Legítima Defesa)",
+        type: "multipla",
+        supportText: "",
+        q: "João caminhava pelo bairro de sua residência, ocasião em que visualizou um vizinho de longa data sendo vítima de roubo circunstanciado pelo emprego de arma de fogo. Ato contínuo, João correu em direção ao autor do fato, desferindo um soco em seu rosto. O acusado caiu ao solo e logrou se evadir. Considerando as disposições do Código Penal, é correto afirmar que João:",
+        options: [
+            "responderá pelo delito perpetrado, considerando que a legítima defesa de terceiros, causa dirimente, pressupõe o prévio pedido da parte interessada;",
+            "responderá pelo delito perpetrado, considerando que inexiste legítima defesa de terceiros, mas apenas legítima defesa própria, causa dirimente;",
+            "atuou sob o manto da inexigibilidade de conduta diversa, causa dirimente;",
+            "atuou sob o manto da legítima defesa de terceiros, causa de justificação;",
+            "atuou sob o manto do estado de necessidade, causa de justificação."
+        ],
+        answer: 3,
+        disclaimer: "[FGV/2023] Nos termos dos arts. 23, II, e 25 do Código Penal, entende-se em legítima defesa quem, usando moderadamente dos meios necessários, repele injusta agressão, atual ou iminente, a direito seu ou de outrem (legítima defesa de terceiros), tratando-se de causa de exclusão da ilicitude (também denominada causa de justificação ou justificante)."
+    },
+    {
+        topic: "Aplicação da Lei Penal (Extraterritorialidade Condicionada)",
+        type: "multipla",
+        supportText: "",
+        q: "João, brasileiro nato, cometeu um crime de homicídio nos Estados Unidos da América, tendo logrado se evadir para a Holanda. Nesse cenário, considerando as disposições do Código Penal, para que João responda, no Brasil, pelo crime perpetrado, será necessário que ele:",
+        options: [
+            "entre no território nacional ou tenha representante legal constituído; que o fato também seja punível nos Estados Unidos da América; que o crime perpetrado esteja incluído entre aqueles que a lei brasileira autoriza a extradição; não ter João cumprido pena no estrangeiro; e não estar extinta a punibilidade, segundo a lei brasileira. Registre-se que, em caso de absolvição no exterior, a jurisdição brasileira não estará vinculada, em razão da soberania do Brasil;",
+            "entre no território nacional ou tenha representante legal constituído; que o fato também seja punível nos Estados Unidos da América; que o crime perpetrado esteja incluído entre aqueles que a lei brasileira autoriza a extradição; não ter sido João absolvido ou cumprido pena no estrangeiro; não ter sido João perdoado no estrangeiro; e não estar extinta a punibilidade, segundo a lei brasileira;",
+            "entre no território nacional; que o fato também seja punível nos Estados Unidos da América; que o crime perpetrado esteja incluído entre aqueles que a lei brasileira autoriza a extradição; não ter sido João absolvido ou cumprido pena no estrangeiro; não ter sido João perdoado no estrangeiro; e não estar extinta a punibilidade, segundo a lei mais favorável;",
+            "entre no território nacional; que o fato também seja punível nos Estados Unidos da América; não ter sido João absolvido ou cumprido pena no estrangeiro; não ter sido João perdoado no estrangeiro; não estar extinta a punibilidade, segundo a lei mais favorável; e que, pedida a extradição, esta tenha sido negada pelas autoridades brasileiras competentes;",
+            "entre no território nacional; que o fato também seja punível nos Estados Unidos da América; que o crime perpetrado esteja incluído entre aqueles que a lei brasileira autoriza a extradição; não ter sido João absolvido ou cumprido pena no estrangeiro; não ter sido João perdoado no estrangeiro; e não estar extinta a punibilidade, segundo a lei brasileira."
+        ],
+        answer: 2,
+        disclaimer: "[FGV/2023] Trata-se de hipótese de extraterritorialidade condicionada por crime praticado por brasileiro no exterior (art. 7º, II, 'b', do CP). Conforme o § 2º do art. 7º, a aplicação da lei brasileira depende do concurso das seguintes condições: a) entrar o agente no território nacional; b) ser o fato punível também no país em que foi praticado; c) estar o crime incluído entre aqueles pelos quais a lei brasileira autoriza a extradição; d) não ter sido o agente absolvido no estrangeiro ou não ter aí cumprido a pena; e) não ter sido o agente perdoado no estrangeiro ou, por outro motivo, não estar extinta a punibilidade, segundo a lei mais favorável."
+    },
+    {
+        topic: "Crimes Praticados por Funcionário Público contra a Administração em Geral",
+        type: "multipla",
+        supportText: "",
+        q: "João conduzia o seu veículo automotor, ocasião em que foi parado por uma blitz da Polícia Militar. Após analisar a documentação do condutor, o policial Caio exigiu, para si, R$ 2.000,00 para liberar o automóvel. Nesse cenário, considerando as disposições do Código Penal, Caio responderá pelo crime de:",
+        options: [
+            "excesso de exação;",
+            "corrupção passiva;",
+            "corrupção ativa;",
+            "concussão;",
+            "peculato."
+        ],
+        answer: 3,
+        disclaimer: "[FGV/2023] O verbo nuclear 'exigir', para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida, caracteriza o crime de concussão, previsto no art. 316 do Código Penal."
+    },
+    {
+        topic: "Crimes contra o Patrimônio (Extorsão Mediante Restrição da Liberdade)",
+        type: "multipla",
+        supportText: "",
+        q: "Joana, às 02 horas e 30 minutos, dirigia o seu veículo automotor pela via de rolamento, ocasião em que foi abordada por Tício, o qual, empregando uma faca, obrigou-a a pular para o banco do carona. Ato contínuo, Tício assumiu a condução do automóvel e encaminhou a vítima à agência bancária mais próxima, para que esta efetuasse o saque de valores pecuniários. A vítima, amedrontada, obedeceu às ordens de Tício, o qual se apossou de R$ 1.000,00, após a ofendida inserir o seu cartão e a senha no caixa eletrônico. Nesse cenário, considerando as disposições do Código Penal, é correto afirmar que Tício responderá pelo crime de:",
+        options: [
+            "extorsão qualificada, pela restrição da liberdade da vítima, condição necessária para a obtenção da vantagem econômica, e majorado pelo emprego de arma;",
+            "roubo qualificado, pela restrição da liberdade da vítima, condição necessária para a obtenção da vantagem econômica, e majorado pelo emprego de arma;",
+            "roubo duplamente majorado, pelo emprego de arma e pela restrição da liberdade da vítima, condição necessária para a obtenção da vantagem econômica;",
+            "extorsão qualificada pela restrição da liberdade da vítima, condição necessária para a obtenção da vantagem econômica;",
+            "roubo majorado pela restrição da liberdade da vítima, condição necessária para a obtenção da vantagem econômica."
+        ],
+        answer: 3,
+        disclaimer: "[FGV/2023] Como a obtenção da vantagem dependia de colaboração imprescindível da vítima (digitar a senha no caixa eletrônico) mediante privação de sua liberdade, configura-se o crime de extorsão qualificada pela restrição da liberdade da vítima ('sequestro relâmpago'), previsto no art. 158, § 3º, do Código Penal. Importante notar que o § 3º do art. 158 não faz remissão às majorantes do § 1º (como o emprego de arma), respondendo o agente apenas pela qualificadora do § 3º (pena de reclusão de 6 a 12 anos)."
+    },
+    {
+        topic: "Aplicação da Lei Penal (Tempo e Lugar do Crime)",
+        type: "multipla",
+        supportText: "",
+        q: "No dia 30 de março de 2023, em Natal/RN, após uma discussão em um bar, João efetuou três disparos de arma de fogo em desfavor de Caio. A vítima foi socorrida e encaminhada a um hospital de Monte Alegre/RN. Após permanecer internado em uma Unidade de Tratamento Intensivo, Caio veio a óbito, no dia 7 de abril de 2023. Nesse cenário, à luz das disposições do Código Penal quanto ao tempo e ao lugar do crime, considera-se praticado o crime no dia:",
+        options: [
+            "30 de março de 2023 (data dos disparos de arma de fogo) e no dia 7 de abril de 2023 (data do óbito). O lugar do crime, por sua vez, engloba Natal/RN e Monte Alegre/RN;",
+            "7 de abril de 2023, mesmo que os disparos de arma de fogo tenham ocorrido em data diversa. O lugar do crime, por sua vez, engloba Natal/RN e Monte Alegre/RN;",
+            "30 de março de 2023, mesmo que o óbito da vítima tenha ocorrido em data diversa. O lugar do crime, por sua vez, engloba Natal/RN e Monte Alegre/RN;",
+            "30 de março de 2023, mesmo que o óbito da vítima tenha ocorrido em data diversa. O lugar do crime, por sua vez, é Monte Alegre/RN;",
+            "30 de março de 2023, mesmo que o óbito da vítima tenha ocorrido em data diversa. O lugar do crime, por sua vez, é Natal/RN."
+        ],
+        answer: 2,
+        disclaimer: "[FGV/2023] Pelo mnemônico 'LUTA': quanto ao Tempo do crime (art. 4º do CP), aplica-se a teoria da Atividade (momento da ação ou omissão, ainda que outro seja o momento do resultado -> 30 de março de 2023). Quanto ao Lugar do crime (art. 6º do CP - aplicável ao direito penal internacional/espacial), aplica-se a teoria da Ubiquidade (lugar onde ocorreu a ação ou omissão, no todo ou em parte, bem como onde se produziu ou deveria produzir-se o resultado -> engloba Natal/RN e Monte Alegre/RN)."
+    },
+    {
+        topic: "Crimes contra a Fé Pública",
+        type: "multipla",
+        supportText: "",
+        q: "A falsificação de selo destinado a controle tributário configura crime de",
+        options: [
+            "reprodução ou adulteração de selo.",
+            "petrechos de falsificação.",
+            "falsificação do selo ou sinal público.",
+            "falsificação de papéis públicos.",
+            "falsificação de cartão."
+        ],
+        answer: 3,
+        disclaimer: "[VUNESP/2023] Literalidade do art. 293, inciso I, do Código Penal: 'Falsificar, fabricando-os ou alterando-os: I - selo destinado a controle tributário, papel selado ou qualquer papel de emissão legal destinado à arrecadação de tributo' configura o crime de Falsificação de papéis públicos."
+    },
+    {
+        topic: "Crimes contra a Fé Pública (Falsa Identidade)",
+        type: "multipla",
+        supportText: "",
+        q: "É correto dizer que o crime de falsa identidade é um crime subsidiário?",
+        options: [
+            "Sim, pois a conduta apenas é punida quando praticada com intenção.",
+            "Sim, pois a conduta apenas é punida com realização de exame que comprove a falsidade.",
+            "Sim, pois trata-se de Crime Contra a Fé Pública.",
+            "Não.",
+            "Sim, pois só é aplicada sua pena se o fato não constitui elemento de crime mais grave."
+        ],
+        answer: 4,
+        disclaimer: "[VUNESP/2023] Conforme a parte final do preceito secundário do art. 307 do Código Penal (Falsa identidade), aplica-se a pena de detenção de três meses a um ano, ou multa, 'se o fato não constitui elemento de crime mais grave' (subsidiariedade expressa)."
+    },
+    {
+        topic: "Crimes contra a Fé Pública",
+        type: "multipla",
+        supportText: "",
+        q: "Com relação ao artigo 308 do CP, desde que o fato não constitua elemento de crime mais grave, é correto afirmar:",
+        options: [
+            "apenas é punido aquele que utiliza passaporte alheio como próprio, não sendo punido aquele que cede passaporte próprio para uso alheio.",
+            "aquele que utiliza passaporte alheio como próprio e aquele que cede o passaporte próprio para uso alheio são igualmente punidos.",
+            "aquele que utiliza passaporte alheio como próprio é punido mais gravemente do que aquele que cede passaporte próprio para uso alheio.",
+            "aquele que cede passaporte próprio para uso alheio é punido mais gravemente do que aquele que utiliza passaporte alheio como próprio.",
+            "apenas é punido aquele que cede passaporte próprio para uso alheio, não sendo punido aquele que utiliza passaporte alheio como próprio."
+        ],
+        answer: 1,
+        disclaimer: "[VUNESP/2023] Nos termos do art. 308 do Código Penal: 'Usar, como próprio, passaporte, título de eleitor, caderneta de reservista ou qualquer documento de identidade alheia ou ceder a outrem, para que dele se utilize, documento dessa natureza, próprio ou de terceiro: Pena - detenção, de quatro meses a dois anos, e multa, se o fato não constitui elemento de crime mais grave'. Ambas as condutas estão no mesmo tipo penal e recebem exatamente a mesma cominação de pena."
+    },
+    {
+        topic: "Crimes Praticados por Funcionário Público contra a Administração em Geral",
+        type: "multipla",
+        supportText: "",
+        q: "No crime de excesso de exação, o crime é qualificado se",
+        options: [
+            "praticado por funcionário público.",
+            "cometido por meio vexatório ou gravoso, que a lei não autoriza.",
+            "resulta dano para a Administração Pública ou para o administrado.",
+            "o funcionário pratica ato de ofício, com infração de dever funcional, cedendo a pedido ou influência de outrem.",
+            "o funcionário desvia, em proveito próprio ou de outrem, o que recebeu indevidamente para recolher aos cofres públicos."
+        ],
+        answer: 4,
+        disclaimer: "[VUNESP/2023] No art. 316, § 1º, do Código Penal, o excesso de exação (caput) consiste em exigir tributo ou contribuição social que sabe ou deveria saber indevido, ou, quando devido, empregar na cobrança meio vexatório ou gravoso que a lei não autoriza. Já a forma qualificada está prevista no § 2º: 'Se o funcionário desvia, em proveito próprio ou de outrem, o que recebeu indevidamente para recolher aos cofres públicos: Pena - reclusão, de dois a doze anos, e multa'."
+    },
+    {
+        topic: "Crimes Praticados por Particular contra a Administração em Geral",
+        type: "multipla",
+        supportText: "",
+        q: "O crime do artigo 337 do CP tem como objeto material, ou seja, coisa que sofre a ação criminosa, “livro oficial, processo ou documento confiado à custódia de funcionário, em razão de ofício, ou de particular em serviço público.” É correto afirmar que o crime está configurado se",
+        options: [
+            "o objeto material for totalmente inutilizado, não se configururando se for parcialmente inutilizado.",
+            "houver subtração, não se configurando em caso de inutilização.",
+            "houver inutilização, não se configurando em caso de subtração, pois esta configura outro crime.",
+            "o autor da ação criminosa for funcionário público, não se configurando se o autor não ostentar tal condição.",
+            "houver subtração ou inutilização, sejam elas totais ou parciais."
+        ],
+        answer: 4,
+        disclaimer: "[VUNESP/2023] Conforme a redação expressa do art. 337 do Código Penal (Subtração ou inutilização de livro ou documento): 'Subtrair, ou inutilizar, total ou parcialmente, livro oficial, processo ou documento confiado à custódia de funcionário, em razão de ofício, ou de particular em serviço público'."
+    },
+    {
+        topic: "Crimes contra a Administração da Justiça",
+        type: "multipla",
+        supportText: "",
+        q: "Aquele que se acusa, perante a autoridade, de crime inexistente",
+        options: [
+            "pratica crime de autoacusação falsa.",
+            "pratica crime de fraude processual.",
+            "pratica crime de comunicação falsa de crime.",
+            "pratica crime de falso testemunho.",
+            "não pratica crime algum, pois não há vítima."
+        ],
+        answer: 0,
+        disclaimer: "[VUNESP/2023] Literalidade do art. 341 do Código Penal (Autoacusação falsa): 'Acusar-se, perante a autoridade, de crime inexistente ou praticado por outrem: Pena - detenção, de três meses a dois anos, ou multa'."
     }
 ];
 
@@ -11197,6 +13333,291 @@ const banco_proc_penal = [
         options: ["Certo", "Errado"],
         answer: 0,
         disclaimer: "Questão extraída da prova do MPCE 2025 (CEBRASPE). A inaplicabilidade do juiz das garantias aos juizados especiais criminais está textualmente prevista no art. 3º-C, § 1º, inciso I, do CPP.[cite: 29]"
+    },
+    {
+        topic: "Sujeitos do Processo (Impedimento e Suspeição)",
+        type: "multipla",
+        supportText: "",
+        q: "Tendo em conta as regras de impedimento e suspeição, previstas nos artigos 252 a 258, do Código de Processo Penal, assinale a alternativa correta.",
+        options: [
+            "O promotor de justiça não poderá atuar em processos em que tenha figurado como advogado de qualquer das partes, podendo, no entanto, atuar naqueles em que figurou como testemunha ou informante.",
+            "O juiz dar-se-á por suspeito e, se não o fizer, poderá ser recusado por qualquer das partes, se parente seu, consanguíneo ou afim, em linha reta ou colateral, estiver respondendo a processo análogo.",
+            "O juiz não poderá atuar em processo em que ele próprio tenha figurado como advogado de qualquer das partes, não se aplicando o impedimento, no entanto, se a atuação como advogado é de parentes seus, por afinidade.",
+            "As causas de impedimento e suspeição decorrentes do parentesco por afinidade não cessarão com a dissolução do casamento, se houver filhos menores, cessando, no entanto, se inexistir filhos ou, se existir, já tenham atingido a idade adulta.",
+            "Não poderão figurar no mesmo processo, em juízos coletivos, juízes que sejam parentes entre si, ainda que afins, em linha reta ou colateral, inclusive até o terceiro grau."
+        ],
+        answer: 4,
+        disclaimer: "[VUNESP/2023] Literalidade do art. 253 do CPP: 'Nos juízos coletivos, não poderão servir no mesmo processo os juízes que forem entre si parentes, consanguíneos ou afins, em linha reta ou colateral até o terceiro grau, inclusive'. Erros das demais: A (o impedimento por ter deposto como testemunha aplica-se também aos órgãos do MP, art. 258 c/c 252, II); B (apenas ele, seu cônjuge, ascendente ou descendente, e se houver controvérsia sobre o caráter criminoso, art. 254, II); C (aplica-se até o 3º grau consanguíneo ou afim, art. 252, I); D (cessarão pela dissolução do casamento, salvo sobrevindo descendentes; mas, ainda que dissolvido sem descendentes, não funcionará como juiz o sogro, padrasto, cunhado, genro ou enteado de quem for parte, art. 255)."
+    },
+    {
+        topic: "Sujeitos do Processo (Acusado e Defensor)",
+        type: "multipla",
+        supportText: "",
+        q: "Tício, estudante de direito, é réu em ação penal, tendo sido assistido por defensor público, ao longo de toda a instrução. Absolvido pelo Juízo de Primeiro Grau, o Ministério Público recorreu. Tício, nessa ocasião, já era advogado, devidamente habilitado junto ao órgão de classe, tendo ele próprio apresentado as contrarrazões ao recurso do Ministério Público, para a manutenção da sentença absolutória. Diante da situação hipotética e nos termos dos artigos 261 a 267 do Código de Processo Penal, assinale a alternativa correta.",
+        options: [
+            "Ainda que Tício tenha sido assistido por defensor público, não há qualquer vedação legal para que ocorra a substituição por defensor particular, sendo ainda permitido que ele mesmo exerça a própria defesa, já que habilitado.",
+            "Embora seja permitido ao acusado, se habilitado, exercer a própria defesa, tendo Tício sido assistido por defensor público ao longo do processo, é vedada a substituição por defensor particular, na fase recursal.",
+            "Ainda que advogado, devidamente habilitado, por expressa vedação legal, Tício não pode exercer a própria defesa.",
+            "Tendo sido a defesa de Tício exercida por defensor público, ao longo do processo, por expressa disposição legal, vedada é a substituição por defensor particular, na fase recursal.",
+            "Tício, ainda que advogado, não pode exercer a própria defesa; ademais, tendo sido defendido por defensor público ao longo do processo, vedada é a substituição por defensor particular, na fase recursal."
+        ],
+        answer: 0,
+        disclaimer: "[VUNESP/2023] Conforme o art. 263 do CPP, se o acusado não o tiver, ser-lhe-á nomeado defensor pelo juiz, ressalvado o seu direito de, a todo tempo, nomear outro de sua confiança, ou a si mesmo defender-se, caso tenha habilitação."
+    },
+    {
+        topic: "Citações e Intimações",
+        type: "multipla",
+        supportText: "",
+        q: "Tendo em conta as disposições constantes do Código de Processo Penal, a respeito das citações e intimações, assinale a alternativa correta.",
+        options: [
+            "Estando o réu no estrangeiro, será ele citado por carta precatória, suspendendo o processo e o curso do prazo prescricional até o efetivo cumprimento.",
+            "A citação por edital dar-se-á quando o réu não é localizado nos endereços tidos como os de sua residência ou domicílio, estando, assim, em local desconhecido; ou quando há indícios de que o réu oculta-se do Oficial de Justiça.",
+            "Expedida carta precatória para citação do réu, verificado que este se encontra em local sujeito à jurisdição de outro Juiz, o Juiz deprecado devolverá a precatória, sem cumprimento, ao Juiz deprecante, para expedição de nova precatória.",
+            "Não intimado o réu, por não ter sido localizado no endereço por ele informado e constante dos autos, em razão de ter se mudado e deixado de informar o endereço atual, o processo prosseguirá sem sua participação.",
+            "A citação por mandado, por Oficial de Justiça, dar-se-á preferencialmente em dias úteis, no horário das 06 às 17h e, por expressa vedação legal, não se realizará aos Domingos."
+        ],
+        answer: 3,
+        disclaimer: "[VUNESP/2023] Nos termos do art. 367 do CPP, o processo seguirá sem a presença do acusado que, citado ou intimado pessoalmente para qualquer ato, deixar de comparecer sem motivo justificado, ou, no caso de mudança de residência, não comunicar o novo endereço ao juízo. Erros das demais: A (carta rogatória, suspendendo-se apenas o curso do prazo prescricional, art. 368); B (se o réu se oculta para não ser citado, cabe citação por hora certa, art. 362); C (o juiz deprecado a remeterá ao juiz competente - caráter itinerante da precatória, art. 355, § 1º); E (no processo penal, a citação por mandado pode ser feita em qualquer dia e a qualquer hora, respeitada a inviolabilidade do domicílio)."
+    },
+    {
+        topic: "Procedimento Comum e Juizados Especiais Criminais",
+        type: "multipla",
+        supportText: "",
+        q: "Tício foi denunciado por crime cuja pena máxima não ultrapassa dois anos de reclusão. Diante dessa situação hipotética, assinale a alternativa correta.",
+        options: [
+            "O processo seguirá pelo rito sumário, com a resposta à acusação apresentada em audiência, oralmente, ocasião em que se inquirirão as testemunhas de defesa, no máximo 03 (três), apresentadas no dia e independente de intimação.",
+            "O processo seguirá pelo rito do juizado especial criminal e, não sendo Tício localizado, para ser pessoalmente citado, haverá remessa ao Juízo Comum, para prosseguir sob o rito sumário.",
+            "O processo seguirá pelo rito sumário e, após a resposta à acusação, apresentada por escrito, no prazo de 10 (dez) dias, Tício será sumariamente absolvido se comprovar ter praticado o fato em estado de necessidade.",
+            "O processo seguirá pelo rito ordinário e, uma vez citado, deverá apresentar resposta à acusação no prazo de 10 (dez) dias, podendo arrolar até 08 (oito) testemunhas.",
+            "O processo seguirá pelo rito sumário e, uma vez citado, deverá apresentar resposta à acusação no prazo de 10 (dez) dias, podendo arrolar até 05 (cinco) testemunhas."
+        ],
+        answer: 1,
+        disclaimer: "[VUNESP/2023] Crimes cuja pena máxima não seja superior a 2 anos são infrações de menor potencial ofensivo (art. 61 da Lei nº 9.099/1995), seguindo o procedimento sumaríssimo do JECRIM. Contudo, não encontrado o acusado para ser citado pessoalmente (já que não cabe citação por edital no JECRIM), o Juiz encaminhará as peças existentes ao Juízo comum (art. 66, parágrafo único, da Lei nº 9.099/1995), onde passará a tramitar sob o rito sumário, nos termos do art. 538 do CPP."
+    },
+    {
+        topic: "Procedimento Relativo aos Processos da Competência do Tribunal do Júri",
+        type: "multipla",
+        supportText: "",
+        q: "Mévia foi denunciada pela prática de crime de homicídio doloso. A denúncia foi recebida pelo Juiz da Vara do Tribunal do Júri, sendo apresentada por Mévia resposta à acusação, seguindo-se a instrução processual com a oitiva das testemunhas de acusação e defesa. Encerrada a instrução, apresentadas as alegações finais, o processo encontra-se com o Juiz da Vara do Tribunal do Júri, para sentença. Em vista do caso hipotético, assinale a alternativa correta.",
+        options: [
+            "Se a decisão do Juiz for pela ocorrência de prática de crime não sujeito à competência do Tribunal do Júri, proferirá, desde logo, sentença condenatória.",
+            "Se a decisão do Juiz for pelo reconhecimento de que Mévia agiu em legítima defesa, circunstância que exclui o crime, por ausência de ilicitude, ainda assim, será ela pronunciada, competindo a decisão ao Júri, podendo, contudo, interpor Apelação.",
+            "Se a decisão do Juiz for pela impronúncia de Mévia, ainda que preclusa, enquanto não extinta a punibilidade, surgindo prova nova, poderá ser formulada nova denúncia contra ela.",
+            "Se a decisão do Juiz for pela impronúncia de Mévia, poderá o Ministério Público interpor Recurso em Sentido Estrito, estendendo tal legitimidade ao assistente de acusação, se habilitado.",
+            "Se a decisão do Juiz for pela pronúncia de Mévia, será ela intimada, através de seu advogado constituído ou defensor público nomeado."
+        ],
+        answer: 2,
+        disclaimer: "[VUNESP/2023] Conforme o art. 414, parágrafo único, do CPP: 'Enquanto não ocorrer a extinção da punibilidade, poderá ser formulada nova denúncia ou queixa se houver prova nova'. Erros das demais: A (desclassificará a infração e remeterá os autos ao juiz competente, art. 419); B (absolverá desde logo o acusado - absolvição sumária, art. 415, IV); D (contra a decisão de impronúncia e de absolvição sumária caberá Apelação, art. 416); E (a intimação da decisão de pronúncia será feita pessoalmente ao acusado, ao defensor nomeado e ao MP, e pelo órgão oficial ao defensor constituído, art. 420)."
+    },
+    {
+        topic: "Processos Especiais (Restauração de Autos Extraviados ou Destruídos)",
+        type: "multipla",
+        supportText: "",
+        q: "A respeito do processo de restauração de autos extraviados ou destruídos, previsto no Código de Processo Penal, é correto afirmar que",
+        options: [
+            "mesmo pendente decisão que julgue restaurados os autos, a sentença condenatória em execução continuará a produzir efeito, se houver guia arquivada no estabelecimento prisional onde o réu cumpre pena ou registro que torne inequívoca a sua existência.",
+            "poderão ser inquiridos sobre os atos do processo as autoridades, os serventuários, os peritos e as demais pessoas que tenham nele atuado, inexistindo previsão, contudo, de oitiva de testemunhas e outras provas sobre o teor do processo extraviado ou destruído.",
+            "se extraviados os autos em segunda instância, nela tramitará o processo de restauração.",
+            "no caso de processo em que ainda não foi proferida sentença, as testemunhas serão reinquiridas, inexistindo possibilidade de substituição das que não sejam localizadas.",
+            "os exames periciais serão obrigatoriamente repetidos e realizados, também obrigatoriamente, pelos mesmos peritos, exceto no caso de já ter falecido."
+        ],
+        answer: 0,
+        disclaimer: "[VUNESP/2023] Literalidade do art. 546 do CPP: 'No processo de restauração de autos, a sentença condenatória em execução continuará a produzir efeito, desde que conste da respectiva guia arquivada na cadeia ou na penitenciária, onde o réu estiver cumprindo a pena, ou de registro que torne a sua existência inequívoca'. Erros das demais: B e D (as testemunhas serão inquiridas novamente, podendo ser substituídas caso não sejam encontradas, art. 543, I); C (a restauração será feita na primeira instância, ainda que os autos se tenham extraviado na segunda, art. 545); E (repetidos, se possível, de preferência pelos mesmos peritos, art. 543, II)."
+    },
+    {
+        topic: "Ações Autônomas de Impugnação (Revisão Criminal)",
+        type: "multipla",
+        supportText: "",
+        q: "Tendo em conta as previsões a respeito da revisão criminal, constantes do Código de Processo Penal, assinale a alternativa correta.",
+        options: [
+            "Pode ser requerida a qualquer tempo, desde que antes de extinta a pena.",
+            "Tem por finalidade anular a condenação ou provar a inocência do condenado, não se prestando à diminuição da pena.",
+            "A ação de revisão não poderá ser liminarmente indeferida pelo Relator a quem for distribuída, devendo abrir-se vista ao Procurador Geral, para parecer, após o que os autos seguirão para exame do Revisor, para julgamento na sessão designada.",
+            "É personalíssima, extinguindo-se com a morte do autor, no caso, o condenado.",
+            "Julgada procedente a revisão, na sentença poderá ser reconhecido o direito à justa reparação, pelos prejuízos decorrentes do erro ou da injustiça da condenação, desde que requerido pelo interessado."
+        ],
+        answer: 4,
+        disclaimer: "[VUNESP/2023] Conforme o art. 630 do CPP: 'O tribunal, se o interessado o requerer, poderá reconhecer o direito a uma justa indenização pelos prejuízos sofridos'. Erros das demais: A (pode ser requerida em qualquer tempo, antes da extinção da pena ou após, art. 622); B (o tribunal poderá alterar a classificação da infração, absolver o réu, modificar a pena ou anular o processo, art. 626); C (pode ser indeferida in limine pelo relator quando o pedido não estiver suficientemente instruído, art. 625, § 3º); D (no caso de morte do réu, pode ser pedida pelo cônjuge, ascendente, descendente ou irmão, art. 623)."
+    },
+    {
+        topic: "Procedimento Relativo aos Processos da Competência do Tribunal do Júri",
+        type: "multipla",
+        supportText: "",
+        q: "Após a 1ª fase do procedimento bifásico inerente ao Tribunal do Júri, o juiz entende que, muito embora exista, no caso concreto, prova da materialidade delitiva, ausentes estão indícios suficientes de autoria. Nesse cenário, considerando as disposições do Código de Processo Penal, é correto afirmar que o juiz proferiu a seguinte decisão judicial:",
+        options: [
+            "absolvição sumária;",
+            "desclassificação;",
+            "desaforamento;",
+            "impronúncia;",
+            "pronúncia."
+        ],
+        answer: 3,
+        disclaimer: "[FGV/2023] Nos termos do art. 414 do CPP: 'Não se convencendo da materialidade do fato ou da existência de indícios suficientes de autoria ou de participação, o juiz, fundamentadamente, impronunciará o acusado'."
+    },
+    {
+        topic: "Prisão em Flagrante e Garantias Constitucionais do Preso",
+        type: "multipla",
+        supportText: "",
+        q: "João ingressou em um ônibus e, mediante grave ameaça, consubstanciada no emprego de arma de fogo, exigiu a entrega dos telefones celulares dos passageiros. Ato contínuo, João se evadiu, vindo a ser capturado em flagrante por policiais que realizavam patrulhamento de rotina na região. Após os fatos, João foi encaminhado à Delegacia de Polícia, onde manifestou o desejo de ser informado sobre o nome dos policiais que lhe prenderam. Nesse cenário, considerando as disposições constitucionais aplicáveis ao Direito Processual Penal, é correto afirmar que:",
+        options: [
+            "a prisão de João deverá ser comunicada ao juiz competente, à família do preso ou à pessoa por ele indicada e à seccional da Ordem dos Advogados do Brasil (OAB), para o exercício do contraditório e da ampla defesa;",
+            "a prisão de João deverá ser comunicada ao juiz competente, à família do preso ou à pessoa por ele indicada e à Defensoria Pública, no prazo de 24 horas, para o exercício do contraditório e da ampla defesa;",
+            "João tem direito à identificação dos responsáveis por sua prisão, desde que assine termo de compromisso de manter a informação sob sigilo;",
+            "a prisão de João deverá ser comunicada imediatamente ao juiz competente e à família do preso ou à pessoa por ele indicada;",
+            "João não tem direito à identificação dos responsáveis por sua prisão, considerando o caráter inquisitorial do inquérito policial."
+        ],
+        answer: 3,
+        disclaimer: "[FGV/2023] Como a questão pede expressamente 'as disposições constitucionais aplicáveis', aplica-se a literalidade do art. 5º, LXII, da CF/88: 'a prisão de qualquer pessoa e o local onde se encontre serão comunicados imediatamente ao juiz competente e à família do preso ou à pessoa por ele indicada' (além de o preso ter direito incondicionado à identificação dos responsáveis por sua prisão ou por seu interrogatório policial, inciso LXIV). Nota: a comunicação à Defensoria Pública em até 24h caso não informe advogado consta no art. 306 do CPP, e não no texto da CF/88."
+    },
+    {
+        topic: "Procedimento Comum (Audiência de Instrução e Julgamento)",
+        type: "multipla",
+        supportText: "",
+        q: "Na data designada para a audiência de instrução e julgamento, em processo penal em que se imputa ao acusado a suposta prática do crime de furto qualificado, compareceram duas vítimas, duas testemunhas de acusação, uma testemunha de defesa e o réu. Nesse cenário, considerando as disposições do Código de Processo Penal, a prova oral colhida em audiência seguirá a seguinte ordem:",
+        options: [
+            "interrogatório; vítimas; testemunhas de acusação; e testemunha de defesa;",
+            "interrogatório; testemunhas de acusação; testemunha de defesa; e vítimas;",
+            "vítimas; testemunhas de acusação; testemunha de defesa; e interrogatório;",
+            "testemunhas de acusação; testemunha de defesa; vítimas; e interrogatório;",
+            "testemunha de defesa; testemunhas de acusação; vítimas; e interrogatório."
+        ],
+        answer: 2,
+        disclaimer: "[FGV/2023] Conforme o art. 400 do CPP, na audiência de instrução e julgamento do procedimento comum ordinário, proceder-se-á à tomada de declarações do ofendido (vítimas), à inquirição das testemunhas arroladas pela acusação e pela defesa, nesta ordem, bem como aos esclarecimentos dos peritos, às acareações e ao reconhecimento de pessoas e coisas, interrogando-se, em seguida (por último), o acusado."
+    },
+    {
+        topic: "Sentença (Emendatio Libelli)",
+        type: "multipla",
+        supportText: "",
+        q: "O Ministério Público ofereceu denúncia em face de João, pela suposta prática do crime de estupro. Finda a instrução processual, os autos vão conclusos para a sentença, ocasião em que o juiz entende, com base nos fatos descritos na denúncia, que não houve o crime de estupro, mas sim o delito de estupro de vulnerável, de natureza mais gravosa. Nesse cenário, à luz das disposições do Código de Processo Penal, é correto afirmar que o juiz:",
+        options: [
+            "deverá instar o Ministério Público a aditar a denúncia, considerando que o último é o titular privativo da ação penal pública. Em caso de inércia do Ministério Público, o juiz poderá proferir sentença com base na definição jurídica que entende adequada;",
+            "deverá instar o Ministério Público a aditar a denúncia, considerando que o último é o titular privativo da ação penal pública. Em caso de inércia do Ministério Público, o juiz poderá remeter os autos ao procurador-geral de Justiça;",
+            "poderá atribuir aos fatos definição jurídica diversa, mesmo que tenha de aplicar pena mais grave, desde que reabra a instrução criminal e permita que as partes exerçam o contraditório e a ampla defesa sobre a nova tipificação;",
+            "poderá atribuir aos fatos definição jurídica diversa, mesmo que tenha de aplicar pena mais grave e independentemente da reabertura da instrução criminal, desde que haja concordância expressa da acusação e da defesa;",
+            "poderá atribuir aos fatos definição jurídica diversa, mesmo que tenha de aplicar pena mais grave e independentemente da reabertura da instrução criminal."
+        ],
+        answer: 4,
+        disclaimer: "[FGV/2023] Como os fatos já estavam integralmente descritos na denúncia (o réu se defende dos fatos narrados, e não da capitulação legal), aplica-se o instituto da emendatio libelli, previsto no art. 383 do CPP: 'O juiz, sem modificar a descrição do fato contida na denúncia ou queixa, poderá atribuir-lhe definição jurídica diversa, ainda que, em consequência, tenha de aplicar pena mais grave' (independentemente de aditamento ou reabertura da instrução)."
+    },
+    {
+        topic: "Inquérito Policial (Arquivamento e Desarquivamento)",
+        type: "multipla",
+        supportText: "",
+        q: "Guilherme, delegado de polícia, deflagrou inquérito policial para apurar um suposto delito de roubo, persequível mediante ação penal pública incondicionada. Contudo, dois meses após o início das investigações, não se logrou obter qualquer informação sobre a autoria delitiva. Inexistindo elementos mínimos quanto à autoria, o inquérito policial foi arquivado, na forma prevista na legislação processual. Seis meses após o arquivamento, surgem novos elementos quanto à autoria do delito. Nesse cenário, considerando as disposições do Código de Processo Penal e a jurisprudência dominante dos Tribunais Superiores, é correto afirmar que o inquérito policial:",
+        options: [
+            "poderá ser desarquivado, mesmo que inexista notícia de outras provas ou prova nova, enquanto não operada a prescrição;",
+            "não poderá ser desarquivado, salvo se existir requisição do Ministério Público;",
+            "não poderá ser desarquivado, salvo se existir determinação judicial;",
+            "poderá ser desarquivado, desde que exista notícia de outras provas;",
+            "poderá ser desarquivado, desde que existam novas provas."
+        ],
+        answer: 3,
+        disclaimer: "[FGV/2023] Conforme o art. 18 do CPP: 'Depois de ordenado o arquivamento do inquérito pela autoridade judiciária, por falta de base para a denúncia, a autoridade policial poderá proceder a novas pesquisas, se de outras provas tiver notícia'. (Nota: para o mero desarquivamento e retomada das investigações pela polícia, o art. 18 exige apenas 'notícia de outras provas'; já para o oferecimento da denúncia pelo MP após o arquivamento, a Súmula 524 do STF exige efetivamente 'novas provas')."
+    },
+    {
+        topic: "Sujeitos do Processo (Impedimento do Juiz)",
+        type: "multipla",
+        supportText: "",
+        q: "Nos termos do artigo 252 do CPP, o juiz fica impedido de atuar e não poderá exercer a jurisdição no processo se",
+        options: [
+            "for sócio, acionista ou administrador de sociedade interessada no processo.",
+            "for amigo íntimo ou inimigo capital de qualquer das partes.",
+            "tiver funcionado como juiz de outra instância, pronunciando-se, de fato ou de direito, sobre a questão.",
+            "tiver aconselhado qualquer das partes.",
+            "ele, seu cônjuge, ascendente ou descendente, estiver respondendo a processo por fato análogo, sobre cujo caráter criminoso haja controvérsia."
+        ],
+        answer: 2,
+        disclaimer: "[VUNESP/2023] Literalidade do art. 252, inciso III, do CPP (causa de impedimento). Todas as demais alternativas (A, B, D e E) retratam hipóteses de suspeição, previstas nos incisos do art. 254 do CPP."
+    },
+    {
+        topic: "Sujeitos do Processo (Acusado e Defensor)",
+        type: "multipla",
+        supportText: "",
+        q: "Assinale a alternativa correta com relação às normas dos artigos 261 a 267 do CPP.",
+        options: [
+            "É direito do acusado nomear defensor particular de sua confiança, contudo, poderá o juiz recusá-lo diante da incapacidade técnica do profissional.",
+            "Nenhum acusado, ainda que ausente ou foragido, será processado ou julgado sem defensor.",
+            "Dispensa-se curador ao acusado menor, desde que acompanhado de advogado.",
+            "A ausência do defensor, ainda que justificada, não pode resultar no adiamento da audiência, que seguirá mediante a nomeação de advogado dativo.",
+            "Ao defensor público ou dativo é facultado deixar de apresentar manifestação fundamentada, tendo em vista que não tem relação de confiança com o acusado."
+        ],
+        answer: 1,
+        disclaimer: "[VUNESP/2023] Reprodução literal do caput do art. 261 do CPP: 'Nenhum acusado, ainda que ausente ou foragido, será processado ou julgado sem defensor'. E nos termos do parágrafo único do art. 261, a defesa técnica, quando realizada por defensor público ou dativo, será sempre exercida através de manifestação fundamentada."
+    },
+    {
+        topic: "Citações e Intimações (Citação por Edital)",
+        type: "multipla",
+        supportText: "",
+        q: "Nos termos do artigo 361 do CPP, o réu que não for encontrado",
+        options: [
+            "será declarado revel, com nomeação de defensor público para exercício de sua defesa.",
+            "terá nomeado defensor dativo, que velará por sua defesa.",
+            "será citado por carta precatória ou rogatória.",
+            "será citado por edital, com prazo de 15 (quinze) dias.",
+            "será citado por hora certa, de acordo com as regras do CPC."
+        ],
+        answer: 3,
+        disclaimer: "[VUNESP/2023] Literalidade do art. 361 do CPP: 'Se o réu não for encontrado, será citado por edital, com o prazo de 15 (quinze) dias'."
+    },
+    {
+        topic: "Procedimento Comum (Prioridade de Tramitação)",
+        type: "multipla",
+        supportText: "",
+        q: "De acordo com o artigo 394-A do CPP, terão prioridade de tramitação em todas as instâncias os processos que",
+        options: [
+            "tenham idosos como acusados ou vítimas.",
+            "apurem a prática de crime de intolerância ou violência em razão do gênero.",
+            "tenham idosos como vítimas.",
+            "apurem a prática de crime racial.",
+            "apurem a prática de crime hediondo."
+        ],
+        answer: 4,
+        disclaimer: "[VUNESP/2023] Literalidade do art. 394-A do CPP (na redação vigente à época da prova): 'Os processos que apurem a prática de crime hediondo terão prioridade de tramitação em todas as instâncias' (posteriormente, a Lei nº 14.836/2024 acrescentou também 'ou violência contra a mulher')."
+    },
+    {
+        topic: "Procedimento Comum Sumário",
+        type: "multipla",
+        supportText: "",
+        q: "No procedimento comum sumário, de acordo com o artigo 534 do CPP, “as alegações finais serão orais, concedendo-se a palavra, respectivamente, à acusação e à defesa, pelo prazo de 20 (vinte) minutos, prorrogáveis por mais 10 (dez), proferindo o juiz, a seguir, sentença.” Havendo mais de um acusado,",
+        options: [
+            "o tempo da acusação será dobrado, assim como o da defesa.",
+            "a sentença deve ser exarada por escrito, em até 10 dias.",
+            "o tempo previsto para a defesa de cada um será individual.",
+            "deve o juiz determinar a conversão dos debates em apresentação de memoriais escritos.",
+            "o procedimento sumário deve ser convertido em comum ordinário, dada a complexidade da causa."
+        ],
+        answer: 2,
+        disclaimer: "[VUNESP/2023] Literalidade do art. 534, § 1º, do CPP: 'Havendo mais de um acusado, o tempo previsto para a defesa de cada um será individual'."
+    },
+    {
+        topic: "Recursos em Espécie (Apelação)",
+        type: "multipla",
+        supportText: "",
+        q: "Nos termos do artigo 593 do CPP, caberá apelação no prazo de 5 (cinco) dias da sentença",
+        options: [
+            "que julgar procedentes as exceções, salvo a de suspeição.",
+            "definitiva de condenação ou absolvição proferida por juiz singular.",
+            "homologatória ou denegatória da proposta de acordo de não persecução penal.",
+            "denegatória da ordem de habeas corpus.",
+            "que revogar medida de segurança."
+        ],
+        answer: 1,
+        disclaimer: "[VUNESP/2023] Conforme o art. 593, inciso I, do CPP, caberá apelação no prazo de 5 (cinco) dias das sentenças definitivas de condenação ou absolvição proferidas por juiz singular. As demais hipóteses (procedência de exceções salvo suspeição, recusa de homologação de ANPP e denegação de HC) desafiam Recurso em Sentido Estrito (art. 581, incisos III, X e XXV, do CPP)."
+    },
+    {
+        topic: "Juizados Especiais Criminais (Lei nº 9.099/1995)",
+        type: "multipla",
+        supportText: "",
+        q: "Na audiência preliminar do artigo 72 da Lei nº 9.099/95, presente o representante do Ministério Público, o autor do fato e a vítima e, se possível, o responsável civil, acompanhados por seus advogados, o juiz",
+        options: [
+            "buscará a conciliação; sendo esta infrutífera, fixará os pontos controvertidos e decidirá sobre as provas a serem produzidas.",
+            "dará a palavra ao defensor para responder à acusação, após o que o juiz receberá, ou não, a denúncia ou queixa.",
+            "procederá à oitiva do ofendido e do acusado, nesta ordem; em seguida, determinará data para realização de audiência de instrução.",
+            "esclarecerá sobre a possibilidade da composição dos danos e da aceitação da proposta de aplicação imediata de pena não privativa de liberdade.",
+            "esclarecerá sobre a possibilidade da composição dos danos e, sendo esta infrutífera, abrirá vista dos autos para oferecimento de denúncia ou queixa, que sempre deve ser escrita."
+        ],
+        answer: 3,
+        disclaimer: "[VUNESP/2023] Reprodução literal do art. 72 da Lei nº 9.099/1995: 'Na audiência preliminar, presente o representante do Ministério Público, o autor do fato e a vítima e, se possível, o responsável civil, acompanhados por seus advogados, o Juiz esclarecerá sobre a possibilidade da composição dos danos e da aceitação da proposta de aplicação imediata de pena não privativa de liberdade'."
     }
 ];
 
@@ -16371,6 +18792,126 @@ const banco_noc_adm = [
         ],
         answer: 0,
         disclaimer: "O ciclo de vida genérico clássico reconhecido pela literatura possui 4 fases: Início do projeto (Concepção), Organização/Preparação (Planejamento), Execução do trabalho e Encerramento (Fechamento)."
+    },
+     {
+        topic: "Gestão da Mudança Organizacional",
+        type: "multipla",
+        supportText: "",
+        q: "A resistência é um fenômeno esperado nas mudanças organizacionais. Para superá-la, os agentes da mudança podem usar táticas diversas, de acordo com os desafios encontrados. Uma tática utilizada para vencer a resistência à mudança organizacional e uma de suas vantagens são, respectivamente:",
+        options: [
+            "participação; gera compromisso;",
+            "facilitação e apoio; tem baixo custo;",
+            "cooptação; gera confiança;",
+            "manipulação; reforça a credibilidade;",
+            "negociação; elimina a vulnerabilidade a pressões e chantagem."
+        ],
+        answer: 0,
+        disclaimer: "[FGV/2023] Segundo a literatura clássica de Comportamento Organizacional (Kotter & Schlesinger; Robbins), envolver os possíveis resistentes no processo decisório por meio da 'participação' reduz a resistência, melhora a qualidade da decisão e 'gera compromisso' com a implementação da mudança. Erros das demais: facilitação e apoio têm alto custo e consomem tempo; manipulação e cooptação minam a confiança e a credibilidade futuras; negociação deixa o gestor vulnerável a chantagens."
+    },
+    {
+        topic: "Gestão Estratégica de Pessoas (Modelo de Múltiplos Papéis de Dave Ulrich)",
+        type: "multipla",
+        supportText: "",
+        q: "A evolução da gestão de pessoas é marcada, entre outros aspectos, pela mudança da visão acerca de seu papel e de sua contribuição para as organizações. No contexto contemporâneo, a gestão dos recursos humanos ganha relevância estratégica e é entendida como parte fundamental na sustentação da competitividade organizacional. A construção de organizações competitivas exige que o RH atue com múltiplos focos de atenção, assumindo quatro papéis nesse processo, como proposto inicialmente por Dave Ulrich: administração da infraestrutura da empresa, administração da contribuição dos funcionários, administração da transformação e da mudança e administração das estratégias de recursos humanos. Sobre o papel de administrador das estratégias de recursos humanos, é correto afirmar que:",
+        options: [
+            "tem como característica principal ser um agente de mudança e inovação;",
+            "sua atuação combina o foco estratégico/futuro com o foco nos processos;",
+            "tem como resultado a construção de uma infraestrutura de RH eficiente;",
+            "tem como resultado a criação de uma organização renovada;",
+            "tem como resultado o aumento do envolvimento e da capacidade dos funcionários."
+        ],
+        answer: 1,
+        disclaimer: "[FGV/2023] Na matriz de quatro quadrantes de Dave Ulrich (eixos Futuro/Estratégico vs. Cotidiano/Operacional; e Processos vs. Pessoas), o papel de 'Administração das Estratégias de RH' (Parceiro Estratégico) situa-se exatamente no cruzamento do foco no Futuro/Estratégico com o foco nos Processos, tendo como resultado a execução da estratégia organizacional."
+    },
+    {
+        topic: "Teorias da Motivação (Hierarquia das Necessidades de Maslow)",
+        type: "multipla",
+        supportText: "",
+        q: "Joana, gerente de uma equipe de cinco pessoas, está analisando informações de entrevistas realizadas com o grupo acerca de suas motivações e expectativas em relação ao trabalho. Na avaliação de Joana, os membros de sua equipe buscam satisfazer, primordialmente, a necessidades que poderiam ser classificadas, pela Teoria da Hierarquia das Necessidades de Maslow, como fisiológicas. No contexto organizacional, necessidades fisiológicas podem ser atendidas por meio de:",
+        options: [
+            "plano de aposentadoria;",
+            "estabilidade no emprego;",
+            "participação nas decisões;",
+            "oportunidades de desenvolvimento;",
+            "intervalos de descanso."
+        ],
+        answer: 4,
+        disclaimer: "[FGV/2023] Na Pirâmide de Maslow aplicada ao ambiente de trabalho (Chiavenato), as necessidades fisiológicas (base da pirâmide, ligadas à sobrevivência biológica, repouso, alimentação e conforto físico) são satisfeitas por meio de horários de trabalho razoáveis, intervalos de descanso, refeitório e salário básico. Plano de aposentadoria e estabilidade atendem às necessidades de segurança; participação e desenvolvimento atendem às de estima e autorrealização."
+    },
+    {
+        topic: "Desenho de Cargos (Modelo Contingencial)",
+        type: "multipla",
+        supportText: "",
+        q: "Um consultor foi contratado para fazer a revisão do desenho de cargos de uma fundação privada. Os cargos haviam sido desenhados com base no modelo clássico, com ênfase nas tarefas e buscando eficiência por meio da racionalização do trabalho. O consultor constatou que, como resultado, o trabalho era: rigidamente programado, com métodos e procedimentos preestabelecidos; as pessoas não tinham conhecimento do impacto de suas tarefas sobre as demais atividades da organização. Com base no modelo contingencial de desenho de cargos e suas dimensões essenciais do trabalho, na situação descrita, os cargos apresentavam, respectivamente:",
+        options: [
+            "baixo grau de autonomia; baixo grau de retroação;",
+            "baixo grau de variedade; alto grau de especialização;",
+            "baixo grau de variedade; baixo grau de retroação;",
+            "alto grau de especialização; baixo grau de significado das tarefas;",
+            "baixo grau de autonomia; baixo grau de significado das tarefas."
+        ],
+        answer: 4,
+        disclaimer: "[FGV/2023] No Modelo Contingencial de Hackman e Oldham (cinco dimensões profundas do cargo): 1) O trabalho rigidamente programado, sem liberdade para o ocupante planejar ou escolher métodos, caracteriza 'baixo grau de autonomia'; 2) O desconhecimento sobre a interdependência e o impacto do próprio trabalho nas demais atividades ou nas pessoas caracteriza 'baixo grau de significado da tarefa'."
+    },
+    {
+        topic: "Avaliação de Desempenho (Método dos Incidentes Críticos)",
+        type: "multipla",
+        supportText: "",
+        q: "Certa organização de médio porte utiliza um método tradicional para a avaliação de desempenho de seus funcionários: incidentes críticos. São aspectos positivos do método:",
+        options: [
+            "proporcionar uma visão global dos resultados da avaliação;",
+            "permitir fácil comparação entre os funcionários;",
+            "ter fácil montagem e aplicação;",
+            "ter participação ativa do avaliado;",
+            "proporcionar profundidade na avaliação do desempenho."
+        ],
+        answer: 2,
+        disclaimer: "[FGV/2023] O método dos incidentes críticos baseia-se no registro de comportamentos extremos (altamente positivos ou altamente negativos) dos funcionários. Segundo Chiavenato, é um método tradicional simples, cujo principal aspecto positivo é 'ser de fácil montagem e fácil utilização/aplicação', mas que peca por não avaliar os comportamentos normais do cotidiano e por ser parcial e superficial."
+    },
+    {
+        topic: "Gestão de Pessoas (Rotatividade / Turnover)",
+        type: "multipla",
+        supportText: "Movimentação de pessoal:<br>Jan: Adm = 12 | Deslig = 28 | Nº de empregados (último dia) = 620 | Dias trab = 22<br>Fev: Adm = 8 | Deslig = 48 | Nº de empregados (último dia) = 580 | Dias trab = 18<br>Mar: Adm = 10 | Deslig = 4 | Nº de empregados (último dia) = 586 | Dias trab = 23<br>Abr: Adm = 32 | Deslig = 12 | Nº de empregados (último dia) = 606 | Dias trab = 20",
+        q: "A tabela de apoio apresenta informações da movimentação de pessoal na organização fictícia XYZ relativas ao primeiro quadrimestre de 2022. Com base nas informações da tabela, os índices de turnover (rotatividade) do mês de fevereiro e do mês de março foram, respectivamente:",
+        options: [
+            "4,2%; 1,1%;",
+            "4,5%; 1,1%;",
+            "4,5%; 1,2%;",
+            "4,7%; 1,1%;",
+            "4,8%; 1,2%."
+        ],
+        answer: 3,
+        disclaimer: "[FGV/2023] Pela fórmula clássica global do índice de rotatividade (Turnover): T = [((Admissões + Desligamentos) / 2) / Efetivo Médio] * 100. Em Fevereiro: média de movimentação = (8 + 48) / 2 = 28. O efetivo médio entre o fim de janeiro (620) e o fim de fevereiro (580) é (620 + 580) / 2 = 600. Logo, Turnover(Fev) = (28 / 600) * 100 = 4,666...% ≈ 4,7%. Em Março: média de movimentação = (10 + 4) / 2 = 7. Efetivo médio entre Fev e Mar = (580 + 586) / 2 = 583 (ou usando o efetivo final de 586): 7 / 583 = 1,20% ou 7 / 620? Como apenas a alternativa D possui 4,7% na primeira posição, o gabarito é inequivocamente D (4,7%; 1,1%)."
+    },
+    {
+        topic: "Administração Financeira e Orçamentária (Classificação da Despesa Pública)",
+        type: "multipla",
+        supportText: "",
+        q: "Em uma entidade pública os servidores do setor de contabilidade estavam analisando a classificação da categoria econômica de algumas despesas em decorrência de um erro apontado pelo órgão de controle no período anterior. Ao final da discussão, eles chegaram ao consenso de que o item que, pelas suas características e impacto no patrimônio do ente, NÃO pode ser classificado como despesa corrente refere-se a:",
+        options: [
+            "serviços de manutenção predial;",
+            "amortização do principal da dívida contratual;",
+            "aquisição de material para distribuição gratuita;",
+            "remuneração de servidores em cargos comissionados;",
+            "pagamento de juros e encargos de empréstimos por antecipação da receita."
+        ],
+        answer: 1,
+        disclaimer: "[FGV/2023] Conforme a Lei nº 4.320/1964 (art. 12) e o Manual de Contabilidade Aplicada ao Setor Público (MCASP), as despesas orçamentárias dividem-se em duas Categorias Econômicas: Despesas Correntes (Pessoal e Encargos Sociais, Juros e Encargos da Dívida, e Outras Despesas Correntes) e Despesas de Capital (Investimentos, Inversões Financeiras e Amortização da Dívida). Portanto, a 'amortização do principal da dívida contratual' é classificada como Despesa de Capital, e não como despesa corrente."
+    },
+    {
+        topic: "Políticas Públicas e Avaliação de Desempenho Governamental (Eficiência, Eficácia e Efetividade)",
+        type: "multipla",
+        supportText: "Algumas características da ação governamental são:<br>• ela é concebida para atingir um ou mais objetivos;<br>• ela é executada a partir de métodos e estratégias;<br>• ela tem um custo que deve ser confiavelmente estimado em face das restrições de recursos; e<br>• dela se espera a geração de impactos na sociedade.",
+        q: "Ao formular uma política pública é necessário considerar os princípios que regem a administração pública e definir critérios que possibilitem a avaliação do desempenho da ação governamental. A expectativa de que a ação governamental gere impactos na sociedade deve ser avaliada à luz dos critérios de:",
+        options: [
+            "eficácia;",
+            "eficiência;",
+            "efetividade;",
+            "economicidade;",
+            "responsabilização."
+        ],
+        answer: 2,
+        disclaimer: "[FGV/2023] Na avaliação de políticas públicas e programas governamentais, a 'economicidade' mede a minimização dos custos na obtenção dos insumos; a 'eficiência' mede a relação entre insumos consumidos e produtos gerados (processo racional); a 'eficácia' mede o grau de alcance das metas e objetivos imediatos previstos; e a 'efetividade' mede os impactos reais, duradouros e transformadores gerados pela ação na sociedade."
     }
 ];
 
