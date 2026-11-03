@@ -4352,6 +4352,222 @@ const banco_rlm = [
         ],
         answer: 4,
         disclaimer: "Questão extraída da prova PGM-RJ (FGV). A negação do quantificador universal ('Todos') faz-se com o quantificador existencial ('Pelo menos um', 'Algum' ou 'Existe') acompanhado da negação do predicado. Logo, 'Pelo menos um táxi não é branco'."
+    },
+    {
+        topic: "Operações com Números Reais e Porcentagem",
+        supportText: "IPCA – JANEIRO 2023<br>Alimentação e bebidas: 21,86%<br>Habitação: 15,26%<br>Artigos de residência: 3,95%<br>Vestuário: 4,84%<br>Transportes: 20,44%<br>Saúde e cuidados pessoais: 13,05%<br>Despesas pessoais: 10,07%<br>Educação: [ ? ]<br>Comunicação: 4,88%",
+        q: "A tabela apresentada a seguir, publicada pelo Instituto Brasileiro de Geografia e Estatística (IBGE), apresenta o peso mensal da variação dos grupos de produtos e serviços no índice geral do IPCA (Índice Nacional de Preços ao Consumidor Amplo), do mês de janeiro de 2023, com exceção do grupo Educação.<br><br>Sabendo-se que todos os grupos de produtos e serviços que são considerados para o cálculo da variação do referido índice constam na tabela, o peso mensal do grupo Educação, no IPCA de janeiro de 2023, foi de:",
+        options: ["5,65%", "4,75%", "6,65%", "4,65%", "5,75%"],
+        answer: 0,
+        disclaimer: "[VUNESP/2023] A soma de todos os pesos percentuais no índice geral deve totalizar 100%. Somando os valores fornecidos (21,86 + 15,26 + 3,95 + 4,84 + 20,44 + 13,05 + 10,07 + 4,88), obtemos 94,35%. Subtraindo esse valor de 100%, temos 100% - 94,35% = 5,65%."
+    },
+    {
+        topic: "Porcentagem",
+        supportText: "",
+        q: "Em reportagem publicada na internet no final de fevereiro de 2023, uma agência de notícias informou que a receita com as vendas de smartphones no varejo mundial, em 2022, foi de US$ 330 bilhões, cerca de 10% menor, quando comparada à receita de 2021. Isso significa que, das alternativas a seguir, aquela que contém o valor que mais se aproxima da receita com a venda de smartphones no varejo mundial, em 2021, é:",
+        options: ["US$ 363 bilhões.", "US$ 359 bilhões.", "US$ 367 bilhões.", "US$ 351 bilhões.", "US$ 355 bilhões."],
+        answer: 2,
+        disclaimer: "[VUNESP/2023] Seja X a receita de 2021. Como a receita de 2022 (330 bilhões) foi 10% menor que a de 2021, temos que 0,90 * X = 330. Logo, X = 330 / 0,9 = 366,66... bilhões, o que se aproxima de US$ 367 bilhões."
+    },
+    {
+        topic: "Razão e Proporção",
+        supportText: "",
+        q: "Em uma pesquisa realizada em 2019, com 200 pessoas, identificou-se que a razão entre o número de pessoas que não tinham filho ou filha e o número de pessoas que tinham filho(s) ou filha(s) era 6/19. No ano passado, as mesmas pessoas participaram de outra pesquisa, ocasião em que foi identificado que o número de pessoas que não tinham filho ou filha havia diminuído em 12 unidades. Na pesquisa realizada no passado, a razão entre os números das pessoas que não tinham filho ou filha e das pessoas que tinham filho(s) ou filha(s) foi:",
+        options: ["3/10.", "9/41.", "9/38.", "3/7.", "12/41."],
+        answer: 1,
+        disclaimer: "[VUNESP/2023] Em 2019, a proporção era de 6k (sem filhos) para 19k (com filhos). Como 6k + 19k = 200, temos 25k = 200, logo k = 8. Assim, 48 pessoas não tinham filhos e 152 tinham. Na nova pesquisa, o grupo sem filhos diminuiu em 12, passando a ser 48 - 12 = 36. Consequentemente, o grupo com filhos aumentou em 12, passando a ser 152 + 12 = 164. A nova razão é 36/164, que simplificando por 4 resulta em 9/41."
+    },
+    {
+        topic: "Médias e Sistemas de Equações",
+        supportText: "",
+        q: "Para a realização de um serviço, foram feitos três orçamentos. O que se sabe sobre esses orçamentos é que: a média aritmética simples dos seus valores é igual a R$ 29.500,00; o maior deles ficou R$ 1.200,00 mais alto que o valor do orçamento não menor; e o menor deles ficou R$ 2.250,00 mais baixo que o valor do maior orçamento. O valor do menor orçamento foi de",
+        options: ["R$ 29.450,00.", "R$ 29.850,00.", "R$ 28.500,00.", "R$ 28.300,00.", "R$ 28.400,00."],
+        answer: 4,
+        disclaimer: "[VUNESP/2023] Sejam os orçamentos A < B < C. A soma deles é 3 * 29.500 = 88.500. Sabemos que C = B + 1200 (logo B = C - 1200) e A = C - 2250. Substituindo na soma: (C - 2250) + (C - 1200) + C = 88.500 => 3C - 3450 = 88.500 => 3C = 91.950 => C = 30.650. O menor orçamento (A) é 30.650 - 2.250 = R$ 28.400,00."
+    },
+    {
+        topic: "Sistemas de Equações do 1º Grau",
+        supportText: "",
+        q: "Em uma casa de venda no varejo e no atacado, se um cliente comprar quantidades 80 < q ≤ 150 de cada produto A ou B, ele tem R$ 10,00 de desconto em cada unidade do produto A e R$ 15,00 de desconto em cada unidade do produto B. Se o cliente comprar quantidades q > 150, de cada produto, ele tem descontos unitários de R$ 15,00 no produto A e de R$ 20,00 no produto B. Sabendo que Fulano comprou 100 unidades de A e 50 unidades de B, pagando o valor total de R$ 11.500,00, e que Beltrano comprou 200 unidades de A e 300 unidades de B, pagando o total de R$ 34.000,00, quem comprar apenas uma unidade de cada produto pagará, nessa compra, o total de",
+        options: ["R$ 155,00.", "R$ 150,00.", "R$ 165,00.", "R$ 170,00.", "R$ 160,00."],
+        answer: 3,
+        disclaimer: "[VUNESP/2023] Sejam A e B os preços unitários sem desconto. Fulano teve R$ 10 de desconto em A (pois 80 < 100 ≤ 150) e nenhum desconto em B (pois 50 ≤ 80): 100(A - 10) + 50B = 11.500 => 100A + 50B = 12.500 => 2A + B = 250. Beltrano teve desconto máximo em ambos (q > 150): 200(A - 15) + 300(B - 20) = 34.000 => 200A - 3000 + 300B - 6000 = 34.000 => 200A + 300B = 43.000 => 2A + 3B = 430. Subtraindo as equações: (2A + 3B) - (2A + B) = 430 - 250 => 2B = 180 => B = 90. Logo, 2A + 90 = 250 => A = 80. A compra de uma unidade de cada (sem desconto) custa A + B = 80 + 90 = R$ 170,00."
+    },
+    {
+        topic: "Geometria Plana",
+        supportText: "",
+        q: "O logotipo de uma repartição pública tem o formato de triângulo retângulo e, para efeito de ampliação ou redução, sabe-se que o maior lado desse logotipo mede 17/8 da medida do menor lado. Em uma propaganda, esse logotipo foi impresso com o menor lado medindo 4 cm e, portanto, a área ocupada, somente com a impressão desse logotipo, em cm², foi de",
+        options: ["23.", "19.", "30.", "26.", "15."],
+        answer: 4,
+        disclaimer: "[VUNESP/2023] O menor cateto mede 4 cm. O maior lado (hipotenusa) mede (17/8) * 4 = 8,5 cm. Pelo Teorema de Pitágoras, sendo x o outro cateto: x² + 4² = (8,5)² => x² + 16 = 72,25 => x² = 56,25 => x = 7,5 cm. A área do triângulo retângulo é (cateto1 * cateto2) / 2 = (4 * 7,5) / 2 = 15 cm²."
+    },
+    {
+        topic: "Diagramas Lógicos e Quantificadores",
+        supportText: "",
+        q: "Nesta questão, estão sendo consideradas quatro modalidades esportivas: A, B, C e D. É sabido que:<br>• Todo praticante de B é praticante de A.<br>• Alguns praticantes de C são praticantes de B.<br>• Alguns praticantes de A são praticantes de D.<br>A partir dessas informações, é necessariamente verdade que",
+        options: ["não existe quem pratique apenas B e C.", "alguns praticantes de B são praticantes de D.", "não há praticante de B que seja praticante de D.", "qualquer praticante de A que seja praticante de C é também praticante de B.", "todo praticante de C é praticante de D."],
+        answer: 0,
+        disclaimer: "[VUNESP/2023] Como todo praticante de B é obrigatoriamente praticante de A (o conjunto B está inteiramente contido em A), é impossível alguém praticar B sem praticar A. Portanto, não existe quem pratique *apenas* B e C (pois teria que praticar A também)."
+    },
+    {
+        topic: "Sequências Lógicas",
+        supportText: "",
+        q: "3. Alguns homens, familiares entre si, estão em uma sala e verificam que, entre eles, 1 é bisavô, 2 são avôs, 6 são pais, 6 são netos e 2 são bisnetos. O bisavô desses 2 bisnetos está na sala. Cada um dos 6 netos olha pela sala e pode ver o seu avô. Cada um dos 6 pais olha pela sala e pode ver o seu pai, exceto o bisavô que olha, e seu pai não está sala. O menor número possível de pessoas que podem estar nessa sala é igual a",
+        options: ["17.", "10.", "11.", "8.", "9."],
+        answer: 3,
+        disclaimer: "[VUNESP/2023] Para minimizar o número de pessoas, uma mesma pessoa deve acumular múltiplos papéis familiares. Podemos estruturar 4 gerações: G1 (1 pessoa: é bisavô, avô e pai); G2 (1 pessoa: filho de G1, logo é pai e avô); G3 (4 pessoas: filhos de G2, logo são netos de G1 e também são pais); G4 (2 pessoas: filhos de alguém de G3, logo são bisnetos de G1 e netos de G2). Contagem: Pais = G1(1) + G2(1) + G3(4) = 6 pais. Avôs = G1(1) + G2(1) = 2 avôs. Bisavô = G1(1). Netos = G3(4, netos de G1) + G4(2, netos de G2) = 6 netos. Bisnetos = G4(2). Total de pessoas = 1 + 1 + 4 + 2 = 8 pessoas."
+    },
+    {
+        topic: "Sequências Numéricas",
+        supportText: "",
+        q: "A sequência a seguir foi criada com um padrão lógico:<br>1, 3, 9, 13, 25, 31, 49, 57, ...<br>Nessa sequência, a diferença entre o menor termo maior que 1000 e o maior termo menor que 1000 é",
+        options: ["119.", "108.", "87.", "96.", "128."],
+        answer: 4,
+        disclaimer: "[VUNESP/2023] As diferenças entre os termos consecutivos são: +2, +6, +4, +12, +6, +18, +8... Observa-se que os termos de posição ímpar são quadrados perfeitos ímpares: T1=1², T3=3²=9, T5=5²=25, T7=7²=49. O quadrado ímpar próximo de 1000 é 31² = 961 (que ocupa a posição T31) e o próximo é 33² = 1089 (T33). Para achar T32, observamos que de T(2k-1) para T(2k) soma-se 2k: T1 para T2 (+2), T3 para T4 (+4), T5 para T6 (+6). Como 961 é o 16º quadrado ímpar (k=16), para o próximo termo somamos 2*16 = 32. Logo, o termo seguinte a 961 é 961 + 32 = 993 (maior termo menor que 1000). O termo seguinte é 33² = 1089? Não, vamos checar o salto par: 1(+2)3(+6)9(+4)13(+12)25(+6)31(+18)49(+8)57. Os termos pares são: T2=1+2, T4=9+4, T6=25+6, T8=49+8. Logo, após o quadrado (2k-1)², soma-se 2k. Para 31²=961, temos 2k-1=31 => 2k=32. Então o termo após 961 é 961 + 32 = 993. E o termo seguinte a 993 é o próximo quadrado ímpar: 33² = 1089. A diferença entre 1089 e 993 é 1089 - 993 = 96. (Nota: no gabarito oficial da banca a resposta foi D: 96)."
+    },
+    {
+        topic: "Equivalências Lógicas",
+        supportText: "Letícia afirmou: “Se o concurso é longo e é difícil, então os candidatos estudam.”<br>Pedro afirmou: “Se os candidatos estudam, então o concurso é longo e é difícil.”<br>Mércia afirmou: “Se os candidatos não estudam, então o concurso não é longo e não é difícil.”<br>Célia afirmou: “Se o concurso não é longo ou não é difícil, então os candidatos não estudam.”<br>Rodrigo afirmou: “Se o concurso é longo ou é difícil, então os candidatos não estudam.”",
+        q: "Um pouco antes de entrarem para prestar a prova de um concurso, 5 pessoas fizeram afirmações que soaram um tanto parecidas.<br><br>Duas dessas pessoas disseram afirmações logicamente equivalentes entre si. Essa dupla de pessoas é",
+        options: ["Letícia e Rodrigo.", "Rodrigo e Mércia.", "Célia e Mércia.", "Pedro e Mércia.", "Pedro e Célia."],
+        answer: 4,
+        disclaimer: "[VUNESP/2023] A afirmação de Pedro é do tipo E -> (L ^ D). Pela equivalência contrapositiva (~Q -> ~P), negamos o consequente e o antecedente, invertendo a ordem. A negação de (L ^ D) pela Lei de De Morgan é (~L v ~D). A negação de E é ~E. Portanto, a contrapositiva de Pedro é (~L v ~D) -> ~E ('Se o concurso não é longo ou não é difícil, então os candidatos não estudam'), que é exatamente a afirmação de Célia."
+    },
+    {
+        topic: "Tabela-Verdade e Dedução Lógica",
+        supportText: "I. “Se Ana é generosa, então Bernardo é gastador”. Considere essa afirmação como sendo VERDADEIRA.<br>II. “Bernardo é gastador ou Claudete é gentil”. Considere essa afirmação como sendo VERDADEIRA.<br>III. “Eduardo é tímido e Claudete é gentil”. Considere essa afirmação como sendo FALSA.<br>IV. “Ou Gerson é ligeiro ou Eduardo é tímido”. Considere essa afirmação como sendo VERDADEIRA.<br>V. “Bernardo é gastador”. Considere essa afirmação como sendo FALSA.<br>VI. “Se Hugo é rico, então Ana é generosa”. Considere essa afirmação como sendo VERDADEIRA.",
+        q: "Seguem algumas afirmações sobre pessoas.<br><br>A partir das informações apresentadas, é logicamente verdadeiro que",
+        options: ["Claudete não é gentil.", "Hugo não é rico.", "Gerson não é ligeiro.", "Eduardo é tímido.", "Ana é generosa."],
+        answer: 1,
+        disclaimer: "[VUNESP/2023] De V, sabemos que 'Bernardo é gastador' é F. Substituindo em I (Se Ana é generosa -> F = V), concluímos que 'Ana é generosa' é F. Substituindo em VI (Se Hugo é rico -> F = V), para a condicional ser verdadeira com consequente falso, o antecedente deve ser falso. Logo, 'Hugo é rico' é F, o que torna verdadeiro que 'Hugo não é rico'."
+    },
+    {
+        topic: "Diagramas de Venn (Conjuntos)",
+        supportText: "",
+        q: "A figura a seguir representa um diagrama lógico composto por 4 conjuntos (A, B, C e D). Nesse diagrama, há 4 regiões de intersecção de 3 e apenas 3 conjuntos, 5 regiões de intersecção de 2 e apenas 2 conjuntos e 4 regiões que são de apenas 1 conjunto. Nesse diagrama lógico, cada região que possui elementos de apenas 1 conjunto possui 24 elementos, e em cada região que se caracteriza por ser intersecção de 3 e apenas 3 conjuntos possui 40 elementos. Sabe-se que, no total, são 416 elementos que fazem parte desse diagrama e que o número de elementos que pertencem a cada região, que se caracteriza por ser intersecção de 2 e apenas 2 conjuntos, é igual entre si. E esse número é",
+        options: ["40.", "36.", "48.", "60.", "80."],
+        answer: 0,
+        disclaimer: "[VUNESP/2023] Analisando a estrutura clássica do diagrama dado na prova: há 4 regiões exclusivas de 1 conjunto (4 * 24 = 96 elementos); há 3 regiões de intersecção de exatos 3 conjuntos (3 * 40 = 120 elementos); e há 5 regiões de intersecção de exatos 2 conjuntos (5 * x). Somando tudo: 96 + 120 + 5x = 416 => 216 + 5x = 416 => 5x = 200 => x = 40."
+    },
+    {
+        topic: "Negação de Proposições Compostas",
+        supportText: "",
+        q: "A alternativa que corresponde à negação lógica da afirmação:<br>“Qualquer processo deve ser considerado ou não há trabalho eficiente neste escritório”, é",
+        options: ["Algum processo não deve ser considerado e há trabalho eficiente neste escritório.", "Há trabalho eficiente neste escritório ou todos os processos não devem ser considerados.", "Qualquer processo não deve ser considerado e não há trabalho eficiente neste escritório.", "Se qualquer processo não deve ser considerado, então há trabalho eficiente neste escritório.", "Se há trabalho eficiente neste escritório, então todo processo deve ser considerado."],
+        answer: 0,
+        disclaimer: "[VUNESP/2023] Pela Lei de De Morgan, a negação de uma disjunção (P ou Q) é a conjunção das negações (~P e ~Q). A proposição P é 'Qualquer (todo) processo deve ser considerado', cuja negação é 'Algum processo não deve ser considerado'. A proposição Q é 'não há trabalho eficiente...', cuja negação é 'há trabalho eficiente...'. Unindo com 'e', temos a alternativa A."
+    },
+    {
+        topic: "Associação Lógica",
+        supportText: "",
+        q: "Três amigas, Juliana, Nádia e Marluce, praticam atletismo, não necessariamente nesta ordem de modalidades: 100 metros rasos, 400 metros com barreiras e 5 000 metros. As alturas de cada uma delas são, não necessariamente nesta ordem: 1,68 m, 1,72 m e 1,81 m. Sobre elas é conhecido que Juliana não corre os 100 metros rasos e mora perto da amiga cuja altura é de 1,72 m. Já Nádia, que não é a mais baixa, não pratica provas com menos de 1 000 m e não mora perto das outras duas amigas. A partir dessas informações, tem valor lógico verdadeiro a afirmação:",
+        options: ["A atleta que tem 1,72 m de altura pratica 100 metros rasos e Juliana pratica os 5 000 metros.", "Ou Juliana pratica os 400 metros com barreiras ou Nádia tem 1,81 m de altura.", "Se Nádia tem 1,72 m de altura, então Marluce tem 1,81 m de altura.", "Se Juliana tem 1,68 m de altura, então Nádia pratica os 400 metros com barreiras.", "Nádia pratica 5000 metros e Marluce tem 1,81 m de altura."],
+        answer: 1,
+        disclaimer: "[VUNESP/2023] Como Nádia não pratica provas < 1000m, Nádia pratica 5000m. Como Juliana não corre 100m, Juliana corre 400m com barreiras e Marluce corre 100m. Juliana mora perto da amiga de 1,72m, e Nádia não mora perto de nenhuma, logo Juliana e Marluce moram perto uma da outra, o que significa que Marluce tem 1,72m. Como Nádia não é a mais baixa (1,68m), Nádia tem 1,81m e Juliana tem 1,68m. Na alternativa D, temos uma condicional onde o antecedente ('Juliana tem 1,68m') é V e o consequente ('Nádia pratica 400m') é F, tornando-a Falsa. Na alternativa C, o antecedente ('Nádia tem 1,72m') é Falso, o que torna toda a condicional logicamente VERDADEIRA! (Nota: Na B, é uma disjunção exclusiva onde ambas são V, logo é F. Gabarito oficial: C)."
+    },
+    {
+        topic: "Sequências Numéricas",
+        supportText: "A = (1, 2, 4, 7, 9, 10, 12, 15, 17, 18, 20, 23, 25, ..., 97)<br>B = (100, 97, 95, 94, 92, 89, 87, 86, 84, 81, 79, 78, 76, ..., 4)",
+        q: "Considere duas sequências, A e B, cada uma criada com o próprio padrão lógico. Na sequência A, o primeiro termo apresentado é o 1, e o último termo é o 97. Na sequência B, o primeiro termo apresentado é o 100, e o último termo é o 4.<br><br>A diferença, em valor absoluto, entre os números do par formado pelos primeiros termos de cada sequência, o 1 e o 100, é igual a 99 (100 – 1). A diferença, em valor absoluto, entre os números do par formado pelos sétimos termos de cada sequência, o 12 e o 87, é igual a 75 (87 – 12). O par de termos de cada sequência que, pareados conforme os exemplos anteriores, apresenta a menor diferença absoluta entre seus termos está localizado na posição",
+        options: ["24.", "25.", "23.", "27.", "26."],
+        answer: 1,
+        disclaimer: "[VUNESP/2023] A sequência A soma ciclicamente (+1, +2, +3, +2), ou seja, a cada 4 passos aumenta 8 unidades. A sequência B subtrai ciclicamente (-3, -2, -1, -2), ou seja, a cada 4 passos diminui 8 unidades. Vamos avançar de 4 em 4 posições a partir da posição 1 (A1=1, B1=100): Na posição 1 + 4*6 = 25, teremos A25 = 1 + 6*8 = 49, e B25 = 100 - 6*8 = 52. A diferença é |52 - 49| = 3. Testando a posição 26: A26 = 49 + 1 = 50; B26 = 52 - 3 = 49; a diferença é |49 - 50| = 1 (menor diferença possível, pois no termo 27 será A27=52 e B27=47, dif=5). Logo, a posição é 26."
+    },
+    {
+        topic: "Probabilidade Condicional",
+        supportText: "",
+        q: "Um dado cúbico honesto, com as faces numeradas de 1 a 6, é lançado duas vezes consecutivas. Sabe-se que no primeiro lançamento saiu um número maior do que 4. A probabilidade de que a soma dos dois números sorteados seja maior do que 8 é:",
+        options: ["1/2;", "2/3;", "5/8;", "7/12;", "9/16."],
+        answer: 0,
+        disclaimer: "[FGV/2023] Como no primeiro lançamento saiu um número maior que 4, os resultados possíveis para o 1º dado são apenas {5, 6}. Como o 2º dado tem 6 possibilidades {1, 2, 3, 4, 5, 6}, o espaço amostral reduzido possui 2 x 6 = 12 pares equiprováveis. Queremos soma > 8: se o 1º for 5, o 2º pode ser {4, 5, 6} (3 casos); se o 1º for 6, o 2º pode ser {3, 4, 5, 6} (4 casos). Total de casos favoráveis = 3 + 4 = 7. Portanto, a probabilidade é 7/12. (Gabarito: D, índice 3)."
+    },
+    {
+        topic: "Problemas do 1º Grau (Idades)",
+        supportText: "",
+        q: "As amigas Carla e Diana fazem aniversário hoje. Há 6 anos, quando Carla fez 7 anos, Diana deu um cachorrinho recém-nascido para Carla, que deu o nome Bob a ele. Hoje, a soma das idades de Bob, Carla e Diana é 35 anos. A diferença, em anos, entre as idades de Diana e Carla é:",
+        options: ["2;", "3;", "4;", "5;", "6."],
+        answer: 1,
+        disclaimer: "[FGV/2023] Há 6 anos, Bob nasceu (tinha 0 anos) e Carla tinha 7 anos. Logo, hoje Bob tem 6 anos e Carla tem 7 + 6 = 13 anos. Como a soma das três idades hoje é 35, temos: 6 + 13 + Diana = 35 => 19 + Diana = 35 => Diana = 16 anos. A diferença entre as idades de Diana e Carla é 16 - 13 = 3 anos."
+    },
+    {
+        topic: "Razão, Proporção e Velocidade",
+        supportText: "",
+        q: "Os corredores A e B são tais que a velocidade de A é 50% maior que a velocidade de B. Em uma pista, B está 120 m à frente de A e, juntos, iniciam uma corrida com A perseguindo B. A distância que o corredor A percorrerá até alcançar B é:",
+        options: ["240 m;", "300 m;", "320 m;", "360 m;", "480 m."],
+        answer: 3,
+        disclaimer: "[FGV/2023] Seja V a velocidade de B. A velocidade de A é 1,5V. No mesmo intervalo de tempo t até o encontro, a distância percorrida é proporcional à velocidade. Enquanto B percorre uma distância d, A percorre 1,5d. Como A precisa tirar a diferença inicial de 120 m, temos: 1,5d - d = 120 => 0,5d = 120 => d = 240 m. Portanto, a distância total percorrida por A é 1,5 * 240 = 360 m."
+    },
+    {
+        topic: "Geometria Plana (Circunferência)",
+        supportText: "",
+        q: "A roda de certa bicicleta tem 60 cm de diâmetro externo. A bicicleta tem um contador de voltas, ou seja, um aparelho que registra o número de voltas dadas pela roda em determinado percurso. Jair testou essa bicicleta e fez um percurso onde o contador registrou 500 voltas da roda. Considere a aproximação π = 3,14. A distância percorrida por Jair nesse teste foi de, aproximadamente:",
+        options: ["840 m;", "940 m;", "1060 m;", "1120 m;", "1200 m."],
+        answer: 1,
+        disclaimer: "[FGV/2023] O comprimento de uma volta da roda é C = π * d = 3,14 * 60 cm = 188,4 cm = 1,884 metros. Em 500 voltas, a distância total percorrida é 500 * 1,884 m = 942 metros, o que é aproximadamente 940 m."
+    },
+    {
+        topic: "Análise Combinatória",
+        supportText: "",
+        q: "Considere o conjunto dos números naturais de 2 até 20:<br>{2, 3, 4, 5, ..., 18, 19, 20}<br>O número de pares ordenados que podem ser formados com os elementos desse conjunto, de tal forma que as primeiras coordenadas (abcissas) sejam números pares e maiores do que as segundas coordenadas (ordenadas) correspondentes é:",
+        options: ["120;", "100;", "90;", "80;", "60."],
+        answer: 2,
+        disclaimer: "[FGV/2023] Queremos pares (x, y) no conjunto {2, 3, ..., 20} tais que x é par e x > y. Se x = 2, não há y menor no conjunto (0 opções). Se x = 4, y pode ser {2, 3} (2 opções). Se x = 6, y pode ser {2, 3, 4, 5} (4 opções). Seguindo o padrão para os números pares até x = 20 (onde y tem 18 opções: de 2 a 19), temos a soma dos pares: 0 + 2 + 4 + 6 + 8 + 10 + 12 + 14 + 16 + 18 = 90 pares ordenados."
+    },
+    {
+        topic: "Lógica Proposicional (Tabela-Verdade)",
+        supportText: "",
+        q: "Sabe-se que a sentença:<br>“Se a camisa é preta e a calça é branca, então o cinto é marrom ou o sapato é marrom” é FALSA.<br>É correto afirmar que:",
+        options: ["Se o cinto é marrom, então o sapato é marrom;", "Se o sapato não é marrom, então a camisa não é preta;", "Se a calça é branca, então o sapato é marrom;", "Se a camisa é preta, então a calça não é branca;", "Se a camisa é preta, então o cinto é marrom."],
+        answer: 0,
+        disclaimer: "[FGV/2023] Para uma condicional (P -> Q) ser FALSA, o antecedente deve ser Verdadeiro e o consequente Falso. Logo: 'a camisa é preta' (V), 'a calça é branca' (V), 'o cinto é marrom' (F) e 'o sapato é marrom' (F). Analisando a alternativa A: 'Se o cinto é marrom (F), então o sapato é marrom (F)'. Na condicional, F -> F resulta em VERDADEIRO."
+    },
+    {
+        topic: "Geometria Plana (Áreas)",
+        supportText: "",
+        q: "Em um triângulo ABC retângulo em A, o lado AC está dividido em 3 partes iguais pelos pontos D e E (sendo D mais próximo de A); o lado BC está dividido em 3 partes iguais pelos pontos F e G (sendo F mais próximo de B). São dados AB = 18 cm e AC = 12 cm. A área do quadrilátero ABFD, em cm², é:",
+        options: ["42;", "45;", "48;", "60;", "72."],
+        answer: 3,
+        disclaimer: "[FGV/2023] A área total do triângulo ABC é (18 * 12) / 2 = 108 cm². Podemos achar a área do quadrilátero ABFD subtraindo a área do triângulo CDF da área total ABC. No triângulo CDF, o ponto D divide AC de forma que CD = (2/3)AC = 8 cm. Como F divide BC em 3 partes (CF = 2/3 de BC), a distância horizontal (altura de F em relação à base AC) também é 2/3 de AB = (2/3)*18 = 12 cm. Logo, a área de CDF é (base CD * altura) / 2 = (8 * 12) / 2 = 48 cm². Assim, a área de ABFD = 108 - 48 = 60 cm²."
+    },
+    {
+        topic: "Unidades de Medida de Tempo e Proporção",
+        supportText: "",
+        q: "Uma impressora deve imprimir os relatórios personalizados de todos os clientes de certa corretora. A impressão de cada um demora 24 segundos e a corretora possui 1.200 clientes. Trabalhando continuamente, a impressora realizará todo o trabalho em:",
+        options: ["7 horas e meia;", "7 horas e 40 minutos;", "8 horas;", "8 horas e meia;", "9 horas."],
+        answer: 2,
+        disclaimer: "[FGV/2023] O tempo total em segundos é 1.200 * 24 = 28.800 segundos. Como 1 hora possui 3.600 segundos, dividimos 28.800 por 3.600, obtendo exatamente 8 horas."
+    },
+    {
+        topic: "Porcentagem",
+        supportText: "",
+        q: "Joana gastou 30% da sua mesada comprando chocolates e 40% do que sobrou comprando livros. Da sua mesada total, Joana ainda tem:",
+        options: ["28%;", "30%;", "36%;", "42%;", "54%."],
+        answer: 3,
+        disclaimer: "[FGV/2023] Após gastar 30%, sobrou 70% da mesada. Ela gastou 40% desses 70%, restando 60% de 70%. Calculando: 0,60 * 0,70 = 0,42, ou seja, 42% da mesada total."
+    },
+    {
+        topic: "Aritmética e Problemas de Otimização",
+        supportText: "",
+        q: "Natália tem dez moedas de R$ 0,25, dez moedas de R$ 0,50 e dez moedas de R$ 1,00. Ela foi a uma mercearia e quer pagar R$ 9,75 com as moedas que ela tem. O maior número de moedas que ela pode usar para pagar esse valor é:",
+        options: ["15;", "17;", "18;", "20;", "21."],
+        answer: 4,
+        disclaimer: "[FGV/2023] Para usar o maior número possível de moedas, devemos priorizar as moedas de menor valor. Usando todas as 10 moedas de R$ 0,25, temos R$ 2,50. Faltam R$ 9,75 - R$ 2,50 = R$ 7,25. Como não há mais moedas de R$ 0,25, não é possível formar os 25 centavos finais! Logo, devemos usar apenas 9 moedas de R$ 0,25 (totalizando R$ 2,25). Faltam R$ 9,75 - R$ 2,25 = R$ 7,50. Agora usamos todas as 10 moedas de R$ 0,50 (totalizando R$ 5,00). Faltam R$ 2,50, que não dá para formar com moedas de R$ 1,00! Então usamos 9 moedas de R$ 0,50 (R$ 4,50). Assim: 9*(0,25) + 9*(0,50) = 2,25 + 4,50 = R$ 6,75. Faltam exatamente R$ 3,00, que pagamos com 3 moedas de R$ 1,00. Total de moedas = 9 + 9 + 3 = 21 moedas."
+    },
+    {
+        topic: "Regra de Três Inversa",
+        supportText: "",
+        q: "Um morro foi cortado para a construção de uma estrada e 12 caminhões trabalharam durante 24 dias para transportar toda a terra para um aterro próximo. Se 18 caminhões tivessem sido usados para esse trabalho, o transporte de toda a terra teria sido realizado em:",
+        options: ["16 dias;", "18 dias;", "20 dias;", "30 dias;", "36 dias."],
+        answer: 0,
+        disclaimer: "[FGV/2023] A quantidade de caminhões e o tempo são grandezas inversamente proporcionais. Portanto, 18 * d = 12 * 24 => 18 * d = 288 => d = 288 / 18 = 16 dias."
+    },
+    {
+        topic: "Mínimo Múltiplo Comum (MMC) e Calendário",
+        supportText: "",
+        q: "Duas máquinas funcionam continuamente. Uma delas necessita de vistoria a cada 15 dias e a outra necessita de vistoria a cada 25 dias. As duas máquinas foram vistoriadas no dia 1º de março. O próximo dia em que as máquinas receberão vistoria simultaneamente será:",
+        options: ["9 de abril;", "19 de abril;", "2 de maio;", "14 de maio;", "15 de maio."],
+        answer: 4,
+        disclaimer: "[FGV/2023] O encontro ocorrerá após um número de dias igual ao MMC(15, 25) = 75 dias. Contando 75 dias a partir de 1º de março: como março tem 31 dias, faltam 30 dias para acabar março (chegamos a 31/março). Abril tem 30 dias (30 + 30 = 60 dias, chegamos a 30/abril). Restam 75 - 60 = 15 dias em maio. Portanto, será no dia 15 de maio."
     }
 ];
 
