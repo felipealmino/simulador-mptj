@@ -6,7 +6,11 @@
     <title>MP/TJ | Estudo Reverso</title>
     
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- CHAMADA DOS BANCOS DE DADOS -->
     <script src="questoes.js"></script>
+    <script src="questoes_rlm.js"></script>
+    <!-- Adicione novas tags script aqui conforme for criando arquivos para outras matérias -->
 
     <style>
         /* TEMA PADRÃO (CLARO) */
@@ -341,6 +345,18 @@
     </footer>
 
     <script>
+        // FUNÇÃO DE EMBARALHAMENTO SEGURO (FISHER-YATES)
+        function embaralharArray(array) {
+            let arrayCopia = [...array];
+            let indiceAtual = arrayCopia.length, indiceAleatorio;
+            while (indiceAtual !== 0) {
+                indiceAleatorio = Math.floor(Math.random() * indiceAtual);
+                indiceAtual--;
+                [arrayCopia[indiceAtual], arrayCopia[indiceAleatorio]] = [arrayCopia[indiceAleatorio], arrayCopia[indiceAtual]];
+            }
+            return arrayCopia;
+        }
+
         // GERENCIAMENTO DE TEMA (DARK/LIGHT MODE)
         const themeBtn = document.getElementById('themeToggleBtn');
         function applyTheme(theme) {
@@ -361,9 +377,11 @@
             try { return eval(nomeVariavel); } catch (e) { return []; }
         }
 
+        // Adicione aqui também os novos arquivos que você for modularizando (ex: banco_rlm_novos)
         const todasAsDisciplinas = [
             { id: 'banco_pt', nome: 'Língua Portuguesa', cargos: ['juridica', 'administrativa', 'ti'] },
             { id: 'banco_rlm', nome: 'Raciocínio Lógico (RLM)', cargos: ['juridica', 'administrativa', 'ti'] },
+            { id: 'banco_rlm_novos', nome: 'Raciocínio Lógico (Novas)', cargos: ['juridica', 'administrativa', 'ti'] },
             { id: 'banco_noc_adm', nome: 'Noções de Administração', cargos: ['administrativa'] },
             { id: 'banco_adm', nome: 'Direito Administrativo', cargos: ['juridica', 'administrativa', 'ti'] }, 
             { id: 'banco_const', nome: 'Direito Constitucional', cargos: ['juridica', 'administrativa', 'ti'] }, 
@@ -445,7 +463,8 @@
                 if(qtdSelecionada > fonte.data.length) qtdSelecionada = fonte.data.length;
                 if(qtdSelecionada < 1) qtdSelecionada = 1;
 
-                let bancoEmbaralhado = [...fonte.data].sort(() => Math.random() - 0.5);
+                // Uso do algoritmo Fisher-Yates para sorteio real
+                let bancoEmbaralhado = embaralharArray(fonte.data);
                 let questoesSorteadas = bancoEmbaralhado.slice(0, qtdSelecionada).map(q => ({...q, disciplina: fonte.nome, selecionada: null}));
                 
                 questoesSimulado = questoesSimulado.concat(questoesSorteadas);
@@ -453,7 +472,9 @@
 
             if(questoesSimulado.length === 0) { alert("Selecione pelo menos uma disciplina e defina a quantidade!"); return; }
 
-            questoesSimulado.sort(() => Math.random() - 0.5);
+            // Embaralhamento final seguro de todas as matérias unidas
+            questoesSimulado = embaralharArray(questoesSimulado);
+            
             questoesVisiveis = questoesSimulado;
             indiceAtual = 0;
             modoRevisao = false;
